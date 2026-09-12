@@ -1,0 +1,253 @@
+diff --git a/src/crypto.py b/src/crypto.py
+index 48d1e9a..a845a08 100644
+--- a/src/crypto.py
++++ b/src/crypto.py
+@@ -12,9 +12,10 @@ Supports two encryption formats:
+ With major help from enler (original reverse engineering).
+ """
+ 
++import ntpath
+ import struct
+ import zlib
+-from typing import Tuple
++from typing import Optional, Tuple
+ 
+ 
+ class CryptoError(ValueError):
+@@ -134,7 +135,7 @@ def decode_ecd(data: bytes) -> bytes:
+     ECD Header Structure (16 bytes):
+     - Bytes 0-3: Magic number (0x1A646365 "ecd\\x1A")
+     - Bytes 4-5: Key index for LCG parameter selection
+-    - Bytes 6-7: (unused/padding)
++    - Bytes 6-7: Filename/payload checksum (validated for key indices 4 and 5)
+     - Bytes 8-11: Payload size (encrypted data length)
+     - Bytes 12-15: CRC32 of decrypted payload
+ 
+@@ -190,7 +191,31 @@ def decode_ecd(data: bytes) -> bytes:
+     return bytes(output)
+ 
+ 
+-def encode_ecd(data: bytes, key_index: int = DEFAULT_KEY_INDEX) -> bytes:
++def ecd_filename_checksum(payload_crc32: int, filename: str) -> int:
++    """Compute ECD header bytes 6-7 for an ASCII client filename.
++
++    The client uses uppercase basename including extension, seeds its raw CRC
++    state from the payload CRC, then takes bits 7-22. Authority: the installed
++    mhfo.dll validator at preferred VA 0x115686c0, compare at 0x1156879d.
++    Both Windows and POSIX paths are accepted; directory names are excluded.
++    """
++    if not isinstance(filename, str) or '\x00' in filename:
++        raise CryptoError('ECD filename must be text without NUL bytes')
++    name = ntpath.basename(filename)
++    if name in {'', '.', '..'}:
++        raise CryptoError('ECD filename must include a basename')
++    try:
++        normalized = name.encode('ascii').upper()
++    except UnicodeEncodeError as exc:
++        raise CryptoError('ECD filename must be ASCII') from exc
++    if not 0 <= payload_crc32 <= 0xffffffff:
++        raise CryptoError('ECD payload CRC must be an unsigned 32-bit value')
++    state = zlib.crc32(normalized, payload_crc32 ^ 0xffffffff) ^ 0xffffffff
++    return (state >> 7) & 0xffff
++
++
++def encode_ecd(data: bytes, key_index: int = DEFAULT_KEY_INDEX,
++               spare: bytes = b"\x00\x00", *, filename: Optional[str] = None) -> bytes:
+     """
+     Encrypt data as ECD format.
+ 
+@@ -198,11 +223,16 @@ def encode_ecd(data: bytes, key_index: int = DEFAULT_KEY_INDEX) -> bytes:
+ 
+     :param data: Plaintext data to encrypt.
+     :param key_index: Key index to use (0-5). Defaults to 4 (used by all MHF files).
++    :param spare: Legacy raw header bytes 6-7; used when filename is omitted or key < 4.
++    :param filename: Actual client filename. Recomputes the filename/payload checksum
++                     for keys 4 and 5; required when rebuilding stage files.
+     :return: Complete ECD file (header + encrypted payload).
+     :raises CryptoError: If key_index is invalid.
+     """
+     if key_index < 0 or key_index > 5:
+         raise CryptoError(f"Invalid key index: {key_index} (must be 0-5)")
++    if len(spare) != 2:
++        raise CryptoError(f"ECD spare field must be 2 bytes, got {len(spare)}")
+ 
+     payload_size = len(data)
+     crc32 = zlib.crc32(data) & 0xFFFFFFFF
+@@ -211,7 +241,12 @@ def encode_ecd(data: bytes, key_index: int = DEFAULT_KEY_INDEX) -> bytes:
+     header = bytearray(HEADER_SIZE)
+     struct.pack_into("<I", header, 0, ECD_MAGIC)
+     struct.pack_into("<H", header, 4, key_index)
+-    # Bytes 6-7 are padding (zero)
++    # Preserve the legacy no-filename behavior for existing callers. A supplied
++    # name binds this check to the NEW payload CRC; copying an original stage's
++    # value after modifying its payload fails the native validator.
++    header[6:8] = spare
++    if filename is not None and key_index >= 4:
++        struct.pack_into('<H', header, 6, ecd_filename_checksum(crc32, filename))
+     struct.pack_into("<I", header, 8, payload_size)
+     struct.pack_into("<I", header, 12, crc32)
+ 
+@@ -252,7 +287,7 @@ def encode_ecd(data: bytes, key_index: int = DEFAULT_KEY_INDEX) -> bytes:
+     return bytes(output)
+ 
+ 
+-def encode_ecd_with_meta(data: bytes, meta: bytes) -> bytes:
++def encode_ecd_with_meta(data: bytes, meta: bytes, *, filename: Optional[str] = None) -> bytes:
+     """
+     Encrypt data as ECD format using an existing header/meta.
+ 
+@@ -261,6 +296,8 @@ def encode_ecd_with_meta(data: bytes, meta: bytes) -> bytes:
+ 
+     :param data: Plaintext data to encrypt.
+     :param meta: Original ECD header (at least 6 bytes with magic and key index).
++    :param filename: Actual client filename for recomputing the checksum on keys 4/5.
++                     Without it, header bytes 6-7 are preserved for compatibility.
+     :return: Complete ECD file (header + encrypted payload).
+     :raises CryptoError: If meta is invalid or too short.
+     """
+@@ -271,7 +308,10 @@ def encode_ecd_with_meta(data: bytes, meta: bytes) -> bytes:
+         raise CryptoError("Invalid ECD magic in meta")
+ 
+     key_index = struct.unpack("<H", meta[4:6])[0]
+-    return encode_ecd(data, key_index=key_index)
++    # The original checksum is only reusable when its payload and name match.
++    # Pass filename when editing files loaded through the native validator.
++    spare = bytes(meta[6:8]) if len(meta) >= 8 else b"\x00\x00"
++    return encode_ecd(data, key_index=key_index, spare=spare, filename=filename)
+ 
+ 
+ # ============================================================================
+@@ -433,7 +473,8 @@ def decrypt(data: bytes) -> Tuple[bytes, bytes]:
+         raise CryptoError("Data is not an ECD or EXF encrypted file")
+ 
+ 
+-def encrypt(data: bytes, key_index: int = DEFAULT_KEY_INDEX, meta: bytes = None) -> bytes:
++def encrypt(data: bytes, key_index: int = DEFAULT_KEY_INDEX, meta: bytes = None,
++            *, filename: Optional[str] = None) -> bytes:
+     """
+     Encrypt data as ECD format (or EXF if meta is an EXF header).
+ 
+@@ -441,6 +482,8 @@ def encrypt(data: bytes, key_index: int = DEFAULT_KEY_INDEX, meta: bytes = None)
+     :param key_index: Key index for ECD encryption (0-5). Ignored if meta is provided.
+     :param meta: Optional header from original file. If provided and is EXF,
+                  will use EXF encryption. Otherwise uses ECD.
++    :param filename: Actual client filename for the ECD filename/payload checksum.
++                     Required for rebuilt stages; ignored for EXF and ECD keys < 4.
+     :return: Complete encrypted file (header + payload).
+     :raises CryptoError: If encryption fails.
+     """
+@@ -448,7 +491,7 @@ def encrypt(data: bytes, key_index: int = DEFAULT_KEY_INDEX, meta: bytes = None)
+         if is_exf_file(meta):
+             return encode_exf(data, meta)
+         elif is_ecd_file(meta):
+-            return encode_ecd_with_meta(data, meta)
++            return encode_ecd_with_meta(data, meta, filename=filename)
+         else:
+             # Meta provided but not recognized - use it to extract key index if possible
+             if len(meta) >= 6:
+@@ -456,4 +499,4 @@ def encrypt(data: bytes, key_index: int = DEFAULT_KEY_INDEX, meta: bytes = None)
+                 if key_index > 5:
+                     key_index = DEFAULT_KEY_INDEX
+ 
+-    return encode_ecd(data, key_index=key_index)
++    return encode_ecd(data, key_index=key_index, filename=filename)
+diff --git a/src/jkr_compress.py b/src/jkr_compress.py
+index 83310ae..76511fc 100644
+--- a/src/jkr_compress.py
++++ b/src/jkr_compress.py
+@@ -191,13 +191,14 @@ class LZEncoder:
+     MIN_MATCH = 3
+     MAX_MATCH_SHORT = 9  # Case 1 max
+     MAX_MATCH_MED = 25  # Case 2 max
+-    MAX_MATCH_LONG = 255 + 0x1A  # Case 3 max
++    # 0xFF is the literal-run marker, so the largest length byte is 0xFE.
++    MAX_MATCH_LONG = LZ_BASE_LENGTH_LONG + LZ_LITERAL_RUN_MARKER - 1
+ 
+     # Hash-chain parameters
+     HASH_BITS = 15
+     HASH_SIZE = 1 << HASH_BITS
+     HASH_MASK = HASH_SIZE - 1
+-    MAX_CHAIN_LENGTH = 64  # Cap chain walks for worst-case performance
++    MAX_CHAIN_LENGTH = 128  # Bound search while retaining older long matches
+ 
+     def __init__(self):
+         self._writer = None
+@@ -221,6 +222,37 @@ class LZEncoder:
+         self._prev[pos] = self._head[h]
+         self._head[h] = pos
+ 
++    # Emitted bit cost before padding the final flag byte.
++    # A literal is 1 flag bit + 1 data byte.
++    LITERAL_BITS = 9
++
++    @staticmethod
++    def _backref_bits(offset_enc: int, length: int) -> int:
++        """Bits needed to emit this back-reference, or a large number if it
++        cannot be encoded at all."""
++        if not 0 <= offset_enc <= 8191 or not 3 <= length <= 280:
++            return 1 << 30
++        if length <= 6 and offset_enc <= 255:
++            return 12          # 2 flag bits + 2 length bits + 1 byte
++        if length <= 9:
++            return 18          # 2 flag bits + 2 bytes
++        if length <= 25:
++            return 23          # 2 flag bits + 2 bytes + 1 bit + 4 bits
++        return 27              # 2 flag bits + 2 bytes + 1 bit + 1 byte
++
++    def _best_match(self, data: bytes, pos: int) -> Tuple[int, int, int]:
++        """Return the longest match and its savings over literal bytes.
++
++        The savings allow lazy parsing to compare matches at adjacent input
++        positions, including their different length and offset encoding costs.
++        """
++        offset, length = self._find_match(data, pos)
++        if length < self.MIN_MATCH:
++            return 0, 0, 0
++
++        gain = length * self.LITERAL_BITS - self._backref_bits(offset - 1, length)
++        return offset, length, gain
++
+     def _find_match(
+         self,
+         data: bytes,
+@@ -400,25 +432,25 @@ class LZEncoder:
+         pos = 0
+ 
+         while pos < len(data):
+-            offset, length = self._find_match(data, pos)
++            offset, length, gain = self._best_match(data, pos)
++            # The lookahead may refer to this byte. Insert it exactly once,
++            # whether it is emitted as a literal or as part of the match.
++            self._update_hash(data, pos)
++
++            if length >= self.MIN_MATCH and pos + 3 < len(data):
++                _, _, next_gain = self._best_match(data, pos + 1)
++                # Compare savings over a common span filled with literals
++                # outside each match; only defer for strictly higher gain.
++                if next_gain > gain:
++                    length = 0
+ 
+             if length >= self.MIN_MATCH:
+-                # Encode in chunks if match is very long (max 280 per chunk)
+-                while length >= self.MIN_MATCH:
+-                    chunk = min(length, 280)
+-                    self._encode_backref(offset, chunk)
+-                    # Update hash for all bytes consumed by this chunk
+-                    for i in range(pos, pos + chunk):
+-                        self._update_hash(data, i)
+-                    pos += chunk
+-                    length -= chunk
+-                    # For subsequent chunks, offset stays same (relative to NEW position)
+-                    # Actually we need to re-find match for correct offset
+-                    if length >= self.MIN_MATCH:
+-                        offset, length = self._find_match(data, pos)
++                self._encode_backref(offset, length)
++                for i in range(pos + 1, pos + length):
++                    self._update_hash(data, i)
++                pos += length
+             else:
+                 self._encode_literal(data[pos])
+-                self._update_hash(data, pos)
+                 pos += 1
+ 
+         return self._writer.finish()
