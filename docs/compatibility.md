@@ -31,8 +31,8 @@ The prepared translation tree contains 54,954 quests and 145,376 scenarios.
 Every one matched its counterpart on the running server during a checksum-only
 comparison on 2026-09-12. Files whose translated quest listing exceeds the
 inspected Erupe ZZ event-entry limit of 896 bytes are withheld from this release.
-They retain their original dialogue when patching an original dataset. See the
-release catalog for exact changed-file counts and the exclusions list.
+They retain their original dialogue when patching an original dataset. The release includes 53,982 changed quest files and 145,376 changed scenario
+files. See the release catalog and exclusions list for exact coverage.
 
 These are translated data files, not an Erupe executable or server setup. Keep
 your existing Erupe version, database, configuration and service definition.

@@ -10,7 +10,9 @@ dialogue have been checked in-game. Translation of the other areas is ongoing.
 
 Download the patcher source and bundles from the
 [2026.09.12 release](https://github.com/Blizz127/Monster-Hunter-Frontier-PC-English-Translation/releases/tag/v2026.09.12).
-Use the client bundle for your game, and the server bundle if you operate Erupe.
+Download `mhf-translation-patcher-2026.09.12.zip` and the client bundle for your
+game. Download the server bundle as well if you operate Erupe. Extract the
+patcher, then place the bundle ZIP files in its folder without extracting them.
 See [compatibility and coverage](docs/compatibility.md) and the
 [release catalog](releases/2026.09.12.json) for exact counts, hashes and limits.
 
