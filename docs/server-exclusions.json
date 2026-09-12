@@ -1,0 +1,3895 @@
+{
+  "reason": "Translated ZZ event listing exceeds 896 bytes; original file retained",
+  "entry_size_formula": "24-byte framing + 320-byte body + 32-byte pointer table + eight NUL-terminated strings",
+  "count": 972,
+  "files": [
+    {
+      "path": "quests/00019d0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00019d1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00019d2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00019n0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00019n1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00019n2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00021d0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00021d1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00021d2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00021n0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00021n1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/00021n2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/20005d0.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20005d1.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20005d2.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20005n0.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20005n1.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20005n2.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20012d0.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20012d1.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20012d2.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20012n0.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20012n1.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/20012n2.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/21141d0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/21141d1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/21141d2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/21141n0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/21141n1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/21141n2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/21145d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21145d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21145d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21145n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21145n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21145n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21255d0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/21255d1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/21255d2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/21255n0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/21255n1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/21255n2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/21256d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/21256d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/21256d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/21256n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/21256n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/21256n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/21335d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21335d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21335d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21335n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21335n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21335n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21407d0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/21407d1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/21407d2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/21407n0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/21407n1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/21407n2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/21408d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21408d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21408d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21408n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21408n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/21408n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/22162d0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/22162d1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/22162d2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/22162n0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/22162n1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/22162n2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/23261d0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/23261d1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/23261d2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/23261n0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/23261n1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/23261n2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/23368d0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/23368d1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/23368d2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/23368n0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/23368n1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/23368n2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/23391d0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/23391d1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/23391d2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/23391n0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/23391n1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/23391n2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/23406d0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/23406d1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/23406d2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/23406n0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/23406n1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/23406n2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/26391d0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/26391d1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/26391d2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/26391n0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/26391n1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/26391n2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/26392d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26392d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26392d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26392n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26392n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26392n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26393d0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/26393d1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/26393d2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/26393n0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/26393n1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/26393n2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/26394d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26394d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26394d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26394n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26394n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26394n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26395d0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/26395d1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/26395d2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/26395n0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/26395n1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/26395n2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/26396d0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/26396d1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/26396d2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/26396n0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/26396n1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/26396n2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/26398d0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/26398d1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/26398d2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/26398n0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/26398n1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/26398n2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/26399d0.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26399d1.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26399d2.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26399n0.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26399n1.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26399n2.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26401d0.bin",
+      "translated_entry_bytes": 976
+    },
+    {
+      "path": "quests/26401d1.bin",
+      "translated_entry_bytes": 976
+    },
+    {
+      "path": "quests/26401d2.bin",
+      "translated_entry_bytes": 976
+    },
+    {
+      "path": "quests/26401n0.bin",
+      "translated_entry_bytes": 976
+    },
+    {
+      "path": "quests/26401n1.bin",
+      "translated_entry_bytes": 976
+    },
+    {
+      "path": "quests/26401n2.bin",
+      "translated_entry_bytes": 976
+    },
+    {
+      "path": "quests/26427d0.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26427d1.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26427d2.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26427n0.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26427n1.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26427n2.bin",
+      "translated_entry_bytes": 965
+    },
+    {
+      "path": "quests/26493d0.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/26493d1.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/26493d2.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/26493n0.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/26493n1.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/26493n2.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/26494d0.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/26494d1.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/26494d2.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/26494n0.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/26494n1.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/26494n2.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/26495d0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/26495d1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/26495d2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/26495n0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/26495n1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/26495n2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/26496d0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/26496d1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/26496d2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/26496n0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/26496n1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/26496n2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/26497d0.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/26497d1.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/26497d2.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/26497n0.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/26497n1.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/26497n2.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/26498d0.bin",
+      "translated_entry_bytes": 940
+    },
+    {
+      "path": "quests/26498d1.bin",
+      "translated_entry_bytes": 940
+    },
+    {
+      "path": "quests/26498d2.bin",
+      "translated_entry_bytes": 940
+    },
+    {
+      "path": "quests/26498n0.bin",
+      "translated_entry_bytes": 940
+    },
+    {
+      "path": "quests/26498n1.bin",
+      "translated_entry_bytes": 940
+    },
+    {
+      "path": "quests/26498n2.bin",
+      "translated_entry_bytes": 940
+    },
+    {
+      "path": "quests/26548d0.bin",
+      "translated_entry_bytes": 948
+    },
+    {
+      "path": "quests/26548d1.bin",
+      "translated_entry_bytes": 948
+    },
+    {
+      "path": "quests/26548d2.bin",
+      "translated_entry_bytes": 948
+    },
+    {
+      "path": "quests/26548n0.bin",
+      "translated_entry_bytes": 948
+    },
+    {
+      "path": "quests/26548n1.bin",
+      "translated_entry_bytes": 948
+    },
+    {
+      "path": "quests/26548n2.bin",
+      "translated_entry_bytes": 948
+    },
+    {
+      "path": "quests/26549d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26549d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26549d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26549n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26549n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26549n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/26595d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/26595d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/26595d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/26595n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/26595n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/26595n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/28031d0.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/28031d1.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/28031d2.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/28031n0.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/28031n1.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/28031n2.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/28033d0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/28033d1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/28033d2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/28033n0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/28033n1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/28033n2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/28034d0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/28034d1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/28034d2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/28034n0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/28034n1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/28034n2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/28035d0.bin",
+      "translated_entry_bytes": 944
+    },
+    {
+      "path": "quests/28035d1.bin",
+      "translated_entry_bytes": 944
+    },
+    {
+      "path": "quests/28035d2.bin",
+      "translated_entry_bytes": 944
+    },
+    {
+      "path": "quests/28035n0.bin",
+      "translated_entry_bytes": 944
+    },
+    {
+      "path": "quests/28035n1.bin",
+      "translated_entry_bytes": 944
+    },
+    {
+      "path": "quests/28035n2.bin",
+      "translated_entry_bytes": 944
+    },
+    {
+      "path": "quests/28036d0.bin",
+      "translated_entry_bytes": 955
+    },
+    {
+      "path": "quests/28036d1.bin",
+      "translated_entry_bytes": 955
+    },
+    {
+      "path": "quests/28036d2.bin",
+      "translated_entry_bytes": 955
+    },
+    {
+      "path": "quests/28036n0.bin",
+      "translated_entry_bytes": 955
+    },
+    {
+      "path": "quests/28036n1.bin",
+      "translated_entry_bytes": 955
+    },
+    {
+      "path": "quests/28036n2.bin",
+      "translated_entry_bytes": 955
+    },
+    {
+      "path": "quests/28037d0.bin",
+      "translated_entry_bytes": 953
+    },
+    {
+      "path": "quests/28037d1.bin",
+      "translated_entry_bytes": 953
+    },
+    {
+      "path": "quests/28037d2.bin",
+      "translated_entry_bytes": 953
+    },
+    {
+      "path": "quests/28037n0.bin",
+      "translated_entry_bytes": 953
+    },
+    {
+      "path": "quests/28037n1.bin",
+      "translated_entry_bytes": 953
+    },
+    {
+      "path": "quests/28037n2.bin",
+      "translated_entry_bytes": 953
+    },
+    {
+      "path": "quests/28055d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/28055d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/28055d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/28055n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/28055n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/28055n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50011d0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50011d1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50011d2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50011n0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50011n1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50011n2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50020d0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50020d1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50020d2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50020n0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50020n1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50020n2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50021d0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/50021d1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/50021d2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/50021n0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/50021n1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/50021n2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/50022d0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50022d1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50022d2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50022n0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50022n1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50022n2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50023d0.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/50023d1.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/50023d2.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/50023n0.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/50023n1.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/50023n2.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/50045d0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50045d1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50045d2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50045n0.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50045n1.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50045n2.bin",
+      "translated_entry_bytes": 902
+    },
+    {
+      "path": "quests/50124d0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50124d1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50124d2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50124n0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50124n1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50124n2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/50274d0.bin",
+      "translated_entry_bytes": 920
+    },
+    {
+      "path": "quests/50274d1.bin",
+      "translated_entry_bytes": 920
+    },
+    {
+      "path": "quests/50274d2.bin",
+      "translated_entry_bytes": 920
+    },
+    {
+      "path": "quests/50274n0.bin",
+      "translated_entry_bytes": 920
+    },
+    {
+      "path": "quests/50274n1.bin",
+      "translated_entry_bytes": 920
+    },
+    {
+      "path": "quests/50274n2.bin",
+      "translated_entry_bytes": 920
+    },
+    {
+      "path": "quests/50560d0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/50560d1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/50560d2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/50560n0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/50560n1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/50560n2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/50593d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/50593d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/50593d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/50593n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/50593n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/50593n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/50763d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50763d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50763d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50763n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50763n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50763n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/50839d0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/50839d1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/50839d2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/50839n0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/50839n1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/50839n2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/50867d0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50867d1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50867d2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50867n0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50867n1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50867n2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50903d0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50903d1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50903d2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50903n0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50903n1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50903n2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/50966d0.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/50966d1.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/50966d2.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/50966n0.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/50966n1.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/50966n2.bin",
+      "translated_entry_bytes": 947
+    },
+    {
+      "path": "quests/50988d0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50988d1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50988d2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50988n0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50988n1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/50988n2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/51017d0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/51017d1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/51017d2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/51017n0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/51017n1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/51017n2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/51077d0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/51077d1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/51077d2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/51077n0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/51077n1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/51077n2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/51120d0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/51120d1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/51120d2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/51120n0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/51120n1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/51120n2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/53065d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53065d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53065d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53065n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53065n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53065n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53066d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53066d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53066d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53066n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53066n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53066n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/53090d0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/53090d1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/53090d2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/53090n0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/53090n1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/53090n2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/53114d0.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/53114d1.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/53114d2.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/53114n0.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/53114n1.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/53114n2.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/53276d0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/53276d1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/53276d2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/53276n0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/53276n1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/53276n2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/54416d0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/54416d1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/54416d2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/54416n0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/54416n1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/54416n2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/54645d0.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/54645d1.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/54645d2.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/54645n0.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/54645n1.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/54645n2.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/54817d0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/54817d1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/54817d2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/54817n0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/54817n1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/54817n2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/55295d0.bin",
+      "translated_entry_bytes": 931
+    },
+    {
+      "path": "quests/55295d1.bin",
+      "translated_entry_bytes": 931
+    },
+    {
+      "path": "quests/55295d2.bin",
+      "translated_entry_bytes": 931
+    },
+    {
+      "path": "quests/55295n0.bin",
+      "translated_entry_bytes": 931
+    },
+    {
+      "path": "quests/55295n1.bin",
+      "translated_entry_bytes": 931
+    },
+    {
+      "path": "quests/55295n2.bin",
+      "translated_entry_bytes": 931
+    },
+    {
+      "path": "quests/55325d0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55325d1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55325d2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55325n0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55325n1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55325n2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55329d0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/55329d1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/55329d2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/55329n0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/55329n1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/55329n2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/55330d0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55330d1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55330d2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55330n0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55330n1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55330n2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55442d0.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/55442d1.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/55442d2.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/55442n0.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/55442n1.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/55442n2.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/55463d0.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55463d1.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55463d2.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55463n0.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55463n1.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55463n2.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55485d0.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/55485d1.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/55485d2.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/55485n0.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/55485n1.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/55485n2.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/55501d0.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/55501d1.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/55501d2.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/55501n0.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/55501n1.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/55501n2.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/55502d0.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55502d1.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55502d2.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55502n0.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55502n1.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55502n2.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/55503d0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/55503d1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/55503d2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/55503n0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/55503n1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/55503n2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/55526d0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55526d1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55526d2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55526n0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55526n1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55526n2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/55611d0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55611d1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55611d2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55611n0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55611n1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55611n2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55717d0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/55717d1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/55717d2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/55717n0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/55717n1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/55717n2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/55735d0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55735d1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55735d2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55735n0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55735n1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55735n2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/55815d0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/55815d1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/55815d2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/55815n0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/55815n1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/55815n2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/55845d0.bin",
+      "translated_entry_bytes": 938
+    },
+    {
+      "path": "quests/55845d1.bin",
+      "translated_entry_bytes": 938
+    },
+    {
+      "path": "quests/55845d2.bin",
+      "translated_entry_bytes": 938
+    },
+    {
+      "path": "quests/55845n0.bin",
+      "translated_entry_bytes": 938
+    },
+    {
+      "path": "quests/55845n1.bin",
+      "translated_entry_bytes": 938
+    },
+    {
+      "path": "quests/55845n2.bin",
+      "translated_entry_bytes": 938
+    },
+    {
+      "path": "quests/55846d0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/55846d1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/55846d2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/55846n0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/55846n1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/55846n2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/55851d0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55851d1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55851d2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55851n0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55851n1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55851n2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/55852d0.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/55852d1.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/55852d2.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/55852n0.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/55852n1.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/55852n2.bin",
+      "translated_entry_bytes": 922
+    },
+    {
+      "path": "quests/55853d0.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/55853d1.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/55853d2.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/55853n0.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/55853n1.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/55853n2.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/55864d0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/55864d1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/55864d2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/55864n0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/55864n1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/55864n2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/56103d0.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/56103d1.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/56103d2.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/56103n0.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/56103n1.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/56103n2.bin",
+      "translated_entry_bytes": 928
+    },
+    {
+      "path": "quests/56104d0.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/56104d1.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/56104d2.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/56104n0.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/56104n1.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/56104n2.bin",
+      "translated_entry_bytes": 927
+    },
+    {
+      "path": "quests/56126d0.bin",
+      "translated_entry_bytes": 946
+    },
+    {
+      "path": "quests/56126d1.bin",
+      "translated_entry_bytes": 946
+    },
+    {
+      "path": "quests/56126d2.bin",
+      "translated_entry_bytes": 946
+    },
+    {
+      "path": "quests/56126n0.bin",
+      "translated_entry_bytes": 946
+    },
+    {
+      "path": "quests/56126n1.bin",
+      "translated_entry_bytes": 946
+    },
+    {
+      "path": "quests/56126n2.bin",
+      "translated_entry_bytes": 946
+    },
+    {
+      "path": "quests/56127d0.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56127d1.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56127d2.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56127n0.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56127n1.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56127n2.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56128d0.bin",
+      "translated_entry_bytes": 950
+    },
+    {
+      "path": "quests/56128d1.bin",
+      "translated_entry_bytes": 950
+    },
+    {
+      "path": "quests/56128d2.bin",
+      "translated_entry_bytes": 950
+    },
+    {
+      "path": "quests/56128n0.bin",
+      "translated_entry_bytes": 950
+    },
+    {
+      "path": "quests/56128n1.bin",
+      "translated_entry_bytes": 950
+    },
+    {
+      "path": "quests/56128n2.bin",
+      "translated_entry_bytes": 950
+    },
+    {
+      "path": "quests/56130d0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/56130d1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/56130d2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/56130n0.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/56130n1.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/56130n2.bin",
+      "translated_entry_bytes": 934
+    },
+    {
+      "path": "quests/56131d0.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/56131d1.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/56131d2.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/56131n0.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/56131n1.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/56131n2.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/56133d0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/56133d1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/56133d2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/56133n0.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/56133n1.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/56133n2.bin",
+      "translated_entry_bytes": 909
+    },
+    {
+      "path": "quests/56152d0.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/56152d1.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/56152d2.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/56152n0.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/56152n1.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/56152n2.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/56153d0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/56153d1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/56153d2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/56153n0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/56153n1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/56153n2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/56158d0.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56158d1.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56158d2.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56158n0.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56158n1.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/56158n2.bin",
+      "translated_entry_bytes": 941
+    },
+    {
+      "path": "quests/60542d0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/60542d1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/60542d2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/60542n0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/60542n1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/60542n2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/60557d0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/60557d1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/60557d2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/60557n0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/60557n1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/60557n2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/60579d0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/60579d1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/60579d2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/60579n0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/60579n1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/60579n2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/60663d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/60663d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/60663d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/60663n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/60663n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/60663n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/60688d0.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60688d1.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60688d2.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60688n0.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60688n1.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60688n2.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60947d0.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60947d1.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60947d2.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60947n0.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60947n1.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60947n2.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/60948d0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/60948d1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/60948d2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/60948n0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/60948n1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/60948n2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/60949d0.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/60949d1.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/60949d2.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/60949n0.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/60949n1.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/60949n2.bin",
+      "translated_entry_bytes": 914
+    },
+    {
+      "path": "quests/60950d0.bin",
+      "translated_entry_bytes": 933
+    },
+    {
+      "path": "quests/60950d1.bin",
+      "translated_entry_bytes": 933
+    },
+    {
+      "path": "quests/60950d2.bin",
+      "translated_entry_bytes": 933
+    },
+    {
+      "path": "quests/60950n0.bin",
+      "translated_entry_bytes": 933
+    },
+    {
+      "path": "quests/60950n1.bin",
+      "translated_entry_bytes": 933
+    },
+    {
+      "path": "quests/60950n2.bin",
+      "translated_entry_bytes": 933
+    },
+    {
+      "path": "quests/61103d0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61103d1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61103d2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61103n0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61103n1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61103n2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61110d0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61110d1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61110d2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61110n0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61110n1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61110n2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/61111d0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/61111d1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/61111d2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/61111n0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/61111n1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/61111n2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/61112d0.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/61112d1.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/61112d2.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/61112n0.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/61112n1.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/61112n2.bin",
+      "translated_entry_bytes": 915
+    },
+    {
+      "path": "quests/61113d0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61113d1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61113d2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61113n0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61113n1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61113n2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61162d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61162d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61162d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61162n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61162n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61162n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61191d0.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/61191d1.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/61191d2.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/61191n0.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/61191n1.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/61191n2.bin",
+      "translated_entry_bytes": 912
+    },
+    {
+      "path": "quests/61204d0.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61204d1.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61204d2.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61204n0.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61204n1.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61204n2.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61205d0.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61205d1.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61205d2.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61205n0.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61205n1.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61205n2.bin",
+      "translated_entry_bytes": 960
+    },
+    {
+      "path": "quests/61206d0.bin",
+      "translated_entry_bytes": 964
+    },
+    {
+      "path": "quests/61206d1.bin",
+      "translated_entry_bytes": 964
+    },
+    {
+      "path": "quests/61206d2.bin",
+      "translated_entry_bytes": 964
+    },
+    {
+      "path": "quests/61206n0.bin",
+      "translated_entry_bytes": 964
+    },
+    {
+      "path": "quests/61206n1.bin",
+      "translated_entry_bytes": 964
+    },
+    {
+      "path": "quests/61206n2.bin",
+      "translated_entry_bytes": 964
+    },
+    {
+      "path": "quests/61207d0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61207d1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61207d2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61207n0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61207n1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61207n2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61208d0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61208d1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61208d2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61208n0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61208n1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61208n2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61220d0.bin",
+      "translated_entry_bytes": 939
+    },
+    {
+      "path": "quests/61220d1.bin",
+      "translated_entry_bytes": 939
+    },
+    {
+      "path": "quests/61220d2.bin",
+      "translated_entry_bytes": 939
+    },
+    {
+      "path": "quests/61220n0.bin",
+      "translated_entry_bytes": 939
+    },
+    {
+      "path": "quests/61220n1.bin",
+      "translated_entry_bytes": 939
+    },
+    {
+      "path": "quests/61220n2.bin",
+      "translated_entry_bytes": 939
+    },
+    {
+      "path": "quests/61221d0.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/61221d1.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/61221d2.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/61221n0.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/61221n1.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/61221n2.bin",
+      "translated_entry_bytes": 936
+    },
+    {
+      "path": "quests/61222d0.bin",
+      "translated_entry_bytes": 932
+    },
+    {
+      "path": "quests/61222d1.bin",
+      "translated_entry_bytes": 932
+    },
+    {
+      "path": "quests/61222d2.bin",
+      "translated_entry_bytes": 932
+    },
+    {
+      "path": "quests/61222n0.bin",
+      "translated_entry_bytes": 932
+    },
+    {
+      "path": "quests/61222n1.bin",
+      "translated_entry_bytes": 932
+    },
+    {
+      "path": "quests/61222n2.bin",
+      "translated_entry_bytes": 932
+    },
+    {
+      "path": "quests/61223d0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/61223d1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/61223d2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/61223n0.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/61223n1.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/61223n2.bin",
+      "translated_entry_bytes": 935
+    },
+    {
+      "path": "quests/61302d0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61302d1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61302d2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61302n0.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61302n1.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61302n2.bin",
+      "translated_entry_bytes": 905
+    },
+    {
+      "path": "quests/61409d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61409d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61409d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61409n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61409n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61409n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61425d0.bin",
+      "translated_entry_bytes": 925
+    },
+    {
+      "path": "quests/61425d1.bin",
+      "translated_entry_bytes": 925
+    },
+    {
+      "path": "quests/61425d2.bin",
+      "translated_entry_bytes": 925
+    },
+    {
+      "path": "quests/61425n0.bin",
+      "translated_entry_bytes": 925
+    },
+    {
+      "path": "quests/61425n1.bin",
+      "translated_entry_bytes": 925
+    },
+    {
+      "path": "quests/61425n2.bin",
+      "translated_entry_bytes": 925
+    },
+    {
+      "path": "quests/61433d0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61433d1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61433d2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61433n0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61433n1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61433n2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61519d0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61519d1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61519d2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61519n0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61519n1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61519n2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61532d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/61532d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/61532d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/61532n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/61532n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/61532n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/61534d0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61534d1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61534d2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61534n0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61534n1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61534n2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61535d0.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/61535d1.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/61535d2.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/61535n0.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/61535n1.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/61535n2.bin",
+      "translated_entry_bytes": 942
+    },
+    {
+      "path": "quests/61606d0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61606d1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61606d2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61606n0.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61606n1.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61606n2.bin",
+      "translated_entry_bytes": 900
+    },
+    {
+      "path": "quests/61654d0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61654d1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61654d2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61654n0.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61654n1.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61654n2.bin",
+      "translated_entry_bytes": 943
+    },
+    {
+      "path": "quests/61707d0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61707d1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61707d2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61707n0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61707n1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61707n2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/61769d0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/61769d1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/61769d2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/61769n0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/61769n1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/61769n2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/61822d0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/61822d1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/61822d2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/61822n0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/61822n1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/61822n2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/61823d0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61823d1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61823d2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61823n0.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61823n1.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61823n2.bin",
+      "translated_entry_bytes": 911
+    },
+    {
+      "path": "quests/61892d0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/61892d1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/61892d2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/61892n0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/61892n1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/61892n2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/61903d0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61903d1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61903d2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61903n0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61903n1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61903n2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/61905d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61905d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61905d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61905n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61905n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61905n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/61917d0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/61917d1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/61917d2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/61917n0.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/61917n1.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/61917n2.bin",
+      "translated_entry_bytes": 919
+    },
+    {
+      "path": "quests/62028d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62028d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62028d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62028n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62028n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62028n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62065d0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/62065d1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/62065d2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/62065n0.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/62065n1.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/62065n2.bin",
+      "translated_entry_bytes": 916
+    },
+    {
+      "path": "quests/62109d0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/62109d1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/62109d2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/62109n0.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/62109n1.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/62109n2.bin",
+      "translated_entry_bytes": 910
+    },
+    {
+      "path": "quests/62149d0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/62149d1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/62149d2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/62149n0.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/62149n1.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/62149n2.bin",
+      "translated_entry_bytes": 899
+    },
+    {
+      "path": "quests/62189d0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62189d1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62189d2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62189n0.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62189n1.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62189n2.bin",
+      "translated_entry_bytes": 908
+    },
+    {
+      "path": "quests/62223d0.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/62223d1.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/62223d2.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/62223n0.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/62223n1.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/62223n2.bin",
+      "translated_entry_bytes": 913
+    },
+    {
+      "path": "quests/62296d0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/62296d1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/62296d2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/62296n0.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/62296n1.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/62296n2.bin",
+      "translated_entry_bytes": 904
+    },
+    {
+      "path": "quests/62616d0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/62616d1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/62616d2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/62616n0.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/62616n1.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/62616n2.bin",
+      "translated_entry_bytes": 917
+    },
+    {
+      "path": "quests/62629d0.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/62629d1.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/62629d2.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/62629n0.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/62629n1.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/62629n2.bin",
+      "translated_entry_bytes": 937
+    },
+    {
+      "path": "quests/62677d0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/62677d1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/62677d2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/62677n0.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/62677n1.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/62677n2.bin",
+      "translated_entry_bytes": 903
+    },
+    {
+      "path": "quests/62822d0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/62822d1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/62822d2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/62822n0.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/62822n1.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/62822n2.bin",
+      "translated_entry_bytes": 906
+    },
+    {
+      "path": "quests/62859d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/62859d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/62859d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/62859n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/62859n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/62859n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63079d0.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/63079d1.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/63079d2.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/63079n0.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/63079n1.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/63079n2.bin",
+      "translated_entry_bytes": 918
+    },
+    {
+      "path": "quests/63105d0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63105d1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63105d2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63105n0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63105n1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63105n2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63148d0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/63148d1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/63148d2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/63148n0.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/63148n1.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/63148n2.bin",
+      "translated_entry_bytes": 897
+    },
+    {
+      "path": "quests/63261d0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63261d1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63261d2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63261n0.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63261n1.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63261n2.bin",
+      "translated_entry_bytes": 898
+    },
+    {
+      "path": "quests/63280d0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/63280d1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/63280d2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/63280n0.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/63280n1.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/63280n2.bin",
+      "translated_entry_bytes": 901
+    },
+    {
+      "path": "quests/63356d0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63356d1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63356d2.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63356n0.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63356n1.bin",
+      "translated_entry_bytes": 907
+    },
+    {
+      "path": "quests/63356n2.bin",
+      "translated_entry_bytes": 907
+    }
+  ]
+}

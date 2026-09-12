@@ -1,0 +1,49 @@
+{
+  "version": "2026.09.12",
+  "status": "VERIFIED",
+  "unit_tests": 73,
+  "platform_ci": [
+    "Windows",
+    "Linux"
+  ],
+  "runtime_acceptance": {
+    "Mezeporta": "PASS_USER_REPORTED",
+    "general_store_clerk": "PASS_USER_REPORTED",
+    "Felyne": "PASS_USER_REPORTED",
+    "all_quests_and_dialogue": "NOT_EXHAUSTIVELY_TESTED"
+  },
+  "client": {
+    "files": 102,
+    "unique_deltas": 102,
+    "bytes": 13222003,
+    "sha256": "2577b1eb17badb3f439b75d1bd3152abf4cd68dcde25e89608e4f587a979a088",
+    "asset": "client-english-2026.09.12.zip",
+    "verification": {
+      "kind": "client",
+      "files": 102,
+      "apply": "PASS_EXACT_TARGET_SHA256",
+      "restore": "PASS_EXACT_ORIGINAL_SHA256",
+      "idempotent_check": "PASS",
+      "isolated_copy": true
+    }
+  },
+  "server": {
+    "files": 199358,
+    "unique_deltas": 48367,
+    "bytes": 246051503,
+    "sha256": "0a9a6ce2f65c09a8c79551288c1ad64f7a463a630d9b7e0f3d79aa9e38216eca",
+    "asset": "server-english-2026.09.12.zip",
+    "verification": {
+      "kind": "server",
+      "files": 199358,
+      "apply": "PASS_EXACT_TARGET_SHA256",
+      "restore": "PASS_EXACT_ORIGINAL_SHA256",
+      "idempotent_check": "PASS",
+      "isolated_copy": true,
+      "withheld_files_unchanged": 972
+    },
+    "quests": 53982,
+    "scenarios": 145376,
+    "withheld_oversized_quests": 972
+  }
+}
