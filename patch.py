@@ -35,7 +35,9 @@ def main():
         if args.command == 'check':
             result = check_bundle(args.bundle, args.target)
         elif args.command == 'apply':
-            result = apply_bundle(args.bundle, args.target, progress)
+            print('Verifying files and preparing backups. Large bundles can take several minutes.', flush=True)
+            result = apply_bundle(args.bundle, args.target, progress,
+                                  backup_ready=lambda path: print(f'Rollback backup: {path}', flush=True))
         elif args.command == 'restore':
             result = restore_backup(args.backup, args.target, progress)
         else:

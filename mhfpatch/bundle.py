@@ -240,7 +240,7 @@ def write_journal(path, journal):
         Path(temporary).unlink(missing_ok=True)
 
 
-def apply_bundle(bundle, root, progress=None):
+def apply_bundle(bundle, root, progress=None, backup_ready=None):
     root = Path(root).resolve()
     with zipfile.ZipFile(bundle) as archive:
         manifest, ready, already = preflight(archive, root)
@@ -282,6 +282,8 @@ def apply_bundle(bundle, root, progress=None):
             raise
         journal = dict(schema=1, kind=manifest['kind'], root=str(root), state='prepared', files=ready)
         write_journal(backup / 'backup.json', journal)
+        if backup_ready:
+            backup_ready(backup)
         try:
             for index, row in enumerate(ready):
                 if manifest['kind'] == 'client':

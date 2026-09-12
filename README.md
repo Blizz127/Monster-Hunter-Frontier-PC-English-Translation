@@ -27,13 +27,27 @@ The bundles contain binary differences and require matching original data.
 
 ## Install the patcher
 
-Download this repository, extract it, and open a terminal in its folder:
+Download this repository, extract it, and open a terminal in its folder.
+Create a private Python environment so system packages remain separate.
+
+Windows (Command Prompt):
 
 ```console
+py -3.12 -m venv .venv
+.venv\Scripts\activate.bat
 python -m pip install -r requirements.txt
 ```
 
-Use `python3` on Linux if your system requires it.
+Linux:
+
+```console
+python3.12 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+Keep that environment active for the commands below. Reopen it with the
+activation command if you start a new terminal.
 
 ## Client patch
 

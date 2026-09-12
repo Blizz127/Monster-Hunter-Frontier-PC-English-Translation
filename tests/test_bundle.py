@@ -125,6 +125,16 @@ class BundleTests(unittest.TestCase):
         for name, data in self.before.items():
             self.assertEqual((self.game / name).read_bytes(), data)
 
+    def test_backup_is_reported_before_first_installed_file_changes(self):
+        reported = []
+        def record(path):
+            self.assertEqual(json.loads((path / 'backup.json').read_text())['state'], 'prepared')
+            for name, data in self.before.items():
+                self.assertEqual((self.game / name).read_bytes(), data)
+            reported.append(str(path))
+        result = apply_bundle(self.bundle, self.game, backup_ready=record)
+        self.assertEqual(reported, [result['backup']])
+
     def test_backup_symlink_is_rejected(self):
         try:
             (self.game / '.mhf-translation-backups').symlink_to(self.original, target_is_directory=True)
