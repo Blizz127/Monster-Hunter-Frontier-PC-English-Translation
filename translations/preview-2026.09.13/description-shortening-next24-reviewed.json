@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15851,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用胴防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Pellet{j}attack.",
+      "target": "Body armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15852,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用胴防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Pellet{j}attack.",
+      "target": "Body armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16251,
+      "source": "極龍の力を具現する胴鎧。{j}あらゆる凶事が迫ろうと{j}この鎧の前には無力。",
+      "previous": "Body Armor that embodies the power of the Extreme Dragon.{j}No matter what calamity approaches,{j}it is powerless before this armor.",
+      "target": "Body armor embodying Extreme Dragon power.{j}All approaching calamities are powerless{j}before it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16691,
+      "source": "極龍の力を具現する胴鎧。{j}あらゆる凶事が迫ろうと{j}この鎧の前には無力。",
+      "previous": "Body Armor that embodies the power of the Extreme Dragon.{j}No matter what calamity approaches,{j}it is powerless before this armor.",
+      "target": "Body armor embodying Extreme Dragon power.{j}All approaching calamities are powerless{j}before it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16699,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の胴防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Body armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon body armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16702,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の胴防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Body armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon body armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20234,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した胴防具。",
+      "previous": "The craftswoman who made this body armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "target": "Armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20241,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した胴防具。",
+      "previous": "The craftswoman who made this body armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "target": "Armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20235,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した胴防具。",
+      "previous": "Body armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Body armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20242,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した胴防具。",
+      "previous": "Body armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Body armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20239,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた胴防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Body armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This body{j}armor was found in his room beside a{j}certain document.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20246,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた胴防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Body armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This body{j}armor was found in his room beside a{j}certain document.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23833,
+      "source": "大巌竜の素材を用いた胴用{j}防具。更なる進化を求めた{j}狩人達の身を守る鉄壁。",
+      "previous": "Body{j}Armor made from the Great Rock Wyvern's materials. An iron wall that protects the{j}Hunters who sought further evolution.",
+      "target": "Body armor made from Great Rock Wyvern{j}materials. An iron wall protecting Hunters{j}who sought further evolution.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23834,
+      "source": "大巌竜の素材を用いた胴用{j}防具。更なる進化を求めた{j}狩人達の身を守る鉄壁。",
+      "previous": "Body{j}Armor made from the Great Rock Wyvern's materials. An iron wall that protects the{j}Hunters who sought further evolution.",
+      "target": "Body armor made from Great Rock Wyvern{j}materials. An iron wall protecting Hunters{j}who sought further evolution.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25399,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ胴防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Body armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon armor from the East.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25400,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ胴防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Body armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon armor from the East.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28143,
+      "source": "紫の鱗が美しい腕用装備。{j}良質なイーオス素材と鉱石を{j}特殊な加工で合成した逸品。",
+      "previous": "Arm armor with beautiful purple scales.{j}A fine piece synthesized from quality Ioprey material and ore{j}through special processing.",
+      "target": "Arm armor with beautiful purple scales.{j}Quality Ioprey material and ore combined{j}through special processing.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28697,
+      "source": "紫の鱗が美しい腕用装備。{j}良質なイーオス素材と鉱石を{j}特殊な加工で合成した逸品。",
+      "previous": "Arm armor with beautiful purple scales.{j}A fine piece synthesized from quality Ioprey material and ore{j}through special processing.",
+      "target": "Arm armor with beautiful purple scales.{j}Quality Ioprey material and ore combined{j}through special processing.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28169,
+      "source": "ギルドの看板娘達が身につけ{j}る制服の腕装備の正式版。ギ{j}ルドに一人前と認められた証。",
+      "previous": "The official version of the arm gear for the uniform worn{j}by the Guild's poster girls. Proof of being recognized by the{j}Guild as a full-fledged member.",
+      "target": "Official arm gear for Guild poster girls.{j}Proof that the Guild recognizes its wearer{j}as a full-fledged member.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28873,
+      "source": "ギルドの看板娘達が身につけ{j}る制服の腕装備の正式版。ギ{j}ルドに一人前と認められた証。",
+      "previous": "The official version of the arm gear for the uniform worn{j}by the Guild's poster girls. Proof of being recognized by the{j}Guild as a full-fledged member.",
+      "target": "Official arm gear for Guild poster girls.{j}Proof that the Guild recognizes its wearer{j}as a full-fledged member.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source body- and arm-armor description patterns."
+}
