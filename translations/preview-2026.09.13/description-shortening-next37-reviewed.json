@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41571,
+      "source": "艶【腰当て】の色違い。{j}匠の技により究極の紅い艶を{j}放つ。まさに覇王の輝き。",
+      "previous": "Color variation of Luster[Waist].{j}Through master craftsmanship, it emits{j}the ultimate crimson luster. Truly the brilliance of a conqueror.",
+      "target": "Luster[Waist] color variation.{j}Masterwork gives it crimson luster.{j}A conqueror's brilliance.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41717,
+      "source": "伝説の職人のみが到達しうる{j}究極の技術をつぎ込んだ腰用{j}装備。青き炎が畏怖を与える。",
+      "previous": "Waist{j}armor forged with the{j}ultimate techniques only a legendary artisan could attain. Its blue flame strikes fear into all.",
+      "target": "Waist{j}armor forged with legendary techniques.{j}Its blue flame strikes fear into all.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41719,
+      "source": "独特の形状をもつ砦蟹素材の{j}腰用装備。重厚な作りだが、{j}意外にも脚の動きを妨げない。",
+      "previous": "Waist equipment{j}made from Fortress Crab materials with a unique shape. Though heavy in build,{j}it surprisingly does not hinder leg movement.",
+      "target": "Unique-shaped Fortress Crab waist gear.{j}Heavy yet surprisingly does not hinder{j}leg movement.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41721,
+      "source": "工房が持ちうる最新の技術を{j}つぎ込んだ腰用装備。赤き炎{j}が見る者に戦慄を与える。",
+      "previous": "Waist armor{j}built with the very latest technology the Workshop can offer. Its crimson flame{j}strikes terror into all who behold it.",
+      "target": "Waist armor{j}built with the Workshop's latest tech.{j}Its crimson flame strikes terror.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41741,
+      "source": "水耐性の高いキングロブスタ{j}の殻を使用した腰用装備。{j}一度身につけたらクセになる。",
+      "previous": "Waist equipment made from the shell of a King Lobster{j}with high Water resistance.{j}Once worn, you will never want to take it off.",
+      "target": "Waist gear made from high-Water-resistant{j}King Lobster shell. Once worn, you will{j}never want to remove it.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41788,
+      "source": "覇竜の素材を使った腰用装備。{j}黒や赤とも見える輝きを見せ{j}噴火の激震にも耐えうる装具。",
+      "previous": "Waist armor made from Akantor materials.{j}It shows a brilliance that appears black or red{j}and withstands the violent tremors of eruptions.",
+      "target": "Waist armor made from Akantor materials.{j}Its black-red brilliance withstands{j}violent eruption tremors.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42196,
+      "source": "安らぎに満ちた冥暗の腰防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Waist Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "target": "Waist armor of tranquil gloom.{j}Said to grant repose to its bearer and{j}cause them to evolve.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42239,
+      "source": "ヒプノック希少種を模した腰{j}防具の完全体。蒼白の羽に彩{j}られた顔はなぜか誇らしげ。",
+      "previous": "The complete form of Waist{j}armor modeled after a Hypnocatrice rare species. The face, adorned{j}with pale blue feathers, is somehow proud.",
+      "target": "Complete waist armor modeled after a{j}Hypnocatrice rare species. Its pale blue{j}feathered face looks strangely proud.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42340,
+      "source": "遠方の工房より伝来した腰用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Waist passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "target": "{j}Waist gear from a distant workshop.{j}Insulating material makes it versatile.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42351,
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし腰防具。",
+      "previous": "Waist Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "target": "Waist armor reborn through human skill,{j}holding souls of male Fire Wyvern of{j}heaven and female of earth.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist-armor description patterns."
+}
