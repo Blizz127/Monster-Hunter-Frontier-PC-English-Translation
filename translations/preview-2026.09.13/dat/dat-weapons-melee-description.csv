@@ -33,7 +33,7 @@ index,source,target
 31,骨刀強化版。{j}薬品加工を施された骨刀。{j}鋭い虫の羽が、刃となる。,Upgraded Bone Blade.{j}A bone blade treated with chemicals.{j}Sharp insect wings serve as its edge.
 32,モンスターの爪や牙を利用{j}して攻撃力を強化した大剣。{j}後の強化で３系統に派生する。,A Great Sword that boosts attack{j}using monster claws and fangs.{j}Later upgrades branch into 3 paths.
 33,骨剣に頑強な盾蟹の殻を{j}組み合わせた殻大剣。{j}安定した斬れ味を得た。,A shell Great Sword that pairs a bone blade with{j}the sturdy shell of a Shield Crab. It has gained{j}stable sharpness.
-34,大型の骨から強化される大剣。{j}重量で破壊力を得る骨大剣で、{j}これを扱えるなら一人前。,"A Great Sword upgraded from a large bone.{j}A bone Great Sword whose weight gives it destructive power;{j}if you can wield it, you are a full-fledged Hunter."
+34,大型の骨から強化される大剣。{j}重量で破壊力を得る骨大剣で、{j}これを扱えるなら一人前。,Great Sword upgraded from large bone.{j}Its weight grants destructive power.{j}Wield it to become a full-fledged Hunter.
 35,ゴーレムブレイド強化版。{j}モンスターの体液で、骨材と{j}甲殻とをつなぎ合わせた逸品。,Enhanced Golem Blade.{j}A masterpiece that binds bone material and{j}carapace together with monster bodily fluids.
 36,ゴーレムブレイド最終強化版。{j}薬品加工でより斬れ味が上昇。{j}雌雄関係にある剣が存在する。,Final upgraded Golem Blade.{j}Chemical processing further increases sharpness.{j}There is a sword that forms a pair with it.
 37,伝説の龍殺しの大剣。{j}〜雄志を以て我を振るう者{j}　　龍鱗を薄衣と為さん　〜,A legendary dragon-slaying Great Sword.{j}~He who wields me with noble ambition{j}Let dragon scales be as a thin robe~
@@ -287,7 +287,7 @@ index,source,target
 285,ふらりと現れた東方風の男が{j}鍛えた見事な刀。その後男は{j}製造法だけを残し姿を消した。,"A splendid sword forged by an oriental man who{j}appeared out of nowhere. Afterwards, the man left{j}only the manufacturing method and vanished."
 286,カミソリの名の通り、斬れ味{j}と威力が格段に強化された。{j}刃には猛毒がしこまれている。,"As its name suggests, the Razor's sharpness{j}and power have been greatly enhanced.{j}The blade is laced with deadly poison."
 287,絶一門との対決に敗れた滅の{j}継承者が鍛えた大剣。再興へ{j}の想いが奇跡的な力を生んだ。,"A Great Sword forged by the heir of Ruin, who lost{j}a duel against the Peerless School. The wish for{j}revival gave birth to miraculous power."
-288,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}教官は元気にしてるだろうか。,The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}I wonder if the Instructor is doing well.
+288,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}教官は元気にしてるだろうか。,Training School sweat and blood.{j}Those passionate days come flooding back.{j}I wonder if the Instructor is well.
 289,訓練所で優秀な結果を残した{j}者に贈られる大剣。なぜか{j}≪よくやった≫と彫ってある。,A Great Sword awarded to{j}those who earned excellent results at the training grounds. For some reason it is engraved with{j}≪Well Done≫.
 290,大剣としての機能は果たして{j}いない風化した武器。{j}復元加工していくと…。,A weathered weapon that does not{j}fulfill its function as a Great Sword.{j}As you restore it...
 291,大剣としての機能は果たして{j}いない風化した武器。{j}復元加工していくと…。,A weathered weapon that does not{j}fulfill its function as a Great Sword.{j}As you restore it...
@@ -307,7 +307,7 @@ index,source,target
 305,工房が新発表した、大人気の{j}クックハンマー新バージョン。{j}予約限定生産で入手困難必至。,"A new version of the hugely popular Cook Hammer,{j}newly announced by the Workshop. Limited to{j}pre-orders, so it will be extremely hard to obtain."
 306,超硬度の結晶を集めて作られ{j}た武器。本来は天文学的価格{j}だが、ギルドの厚意で提供。,"A weapon crafted from gathered ultra-hard crystals.{j}It would normally carry an astronomical price, but{j}the Guild provides it out of goodwill."
 307,幻想的な音色を奏でる狩猟笛。{j}西方の大砂漠を治める国には{j}似た形の秘宝があるという。,A Hunting Horn that plays fantastical tones. It is{j}said that a country ruling the great western desert{j}has a secret treasure of similar shape.
-308,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}たまには顔を出してあげよう。,The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}I should drop by and show my face sometime.
+308,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}たまには顔を出してあげよう。,Training School sweat and blood.{j}Those passionate days come flooding back.{j}I should visit and show my face sometime.
 309,訓練所で優秀な成績を残した{j}者に贈られる大鎚。なぜか{j}≪グッジョブ≫と彫ってある。,A Hammer awarded to{j}those who earned excellent results at the training grounds. For some reason it is engraved with{j}≪Good Job≫.
 310,ハンマーとしての機能は果た{j}していない風化した武器。{j}復元加工していくと…。,A weathered weapon that no longer{j}functions as a Hammer.{j}Keep restoring it and...
 311,ハンマーとしての機能は果た{j}していない風化した武器。{j}復元加工していくと…。,A weathered weapon that no longer{j}functions as a Hammer.{j}Keep restoring it and...
@@ -352,7 +352,7 @@ index,source,target
 350,睡眠属性を持つ湾曲した小剣。{j}素材に含まれる神経性の毒素{j}が、攻撃対象を眠りへと誘う。,A curved sword with the Sleep element.{j}The neurotoxin contained in its{j}materials lures the target into sleep.
 351,睡眠属性を持つ湾曲した小剣。{j}素材に含まれる神経性の毒素{j}が、攻撃対象を眠りへと誘う。,A curved sword with the Sleep element.{j}The neurotoxin contained in its{j}materials lures the target into sleep.
 352,メラルーたちが愛用する棍棒。{j}これを持っても、盗みの技術{j}までが身につくわけではない。,A club favored by the Melynx.{j}Holding it won't teach you{j}their thieving skills.
-353,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}流した涙も無駄にはならない。,The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}Even the tears shed were not in vain.
+353,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}流した涙も無駄にはならない。,Training School sweat and blood.{j}Those passionate days come flooding back.{j}Even the tears shed were not in vain.
 354,訓練所で優秀な結果を残した{j}者に贈られる片手剣。なぜか{j}≪がんばれよ≫と彫ってある。,A Sword & Shield awarded to{j}those who earned excellent results at the training grounds. For some reason it is engraved with{j}≪Keep It Up≫.
 355,刃渡りは短く刀身も細身なが{j}ら、そのあまりの斬れ味ゆえ{j}に飛竜戦でも活躍する小刀。,"Though its blade is short and slender,{j}its edge is so keen that{j}it proves its worth even in wyvern battles."
 356,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.
@@ -361,11 +361,11 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 358,工房で金属の切断に使われて{j}いる道具が、そのまま武器に。{j}工房の精神がうかがえる一品。,"A tool used for cutting metal in the Workshop,{j}turned directly into a weapon. A piece that reveals{j}the spirit of the Workshop."
 359,ギルドナイトの中でも、特命{j}を帯びた者のみが扱いを許さ{j}れる秘剣。斬れ味は神の領域。,A secret sword that only those among Guild Knights{j}entrusted with a special mission are allowed to{j}handle. Its sharpness is divine.
 360,刀身を硬く、ただ硬く。それ{j}だけを考えて鍛えられた双剣。{j}無属性だが、驚異的な攻撃力。,"A blade forged hard, simply hard. Dual Blades{j}forged with only that in mind. Non-elemental, but{j}with astonishing Attack."
-361,姿を見ることさえかなわない、{j}伝説の金竜銀竜の素材を用い{j}た双剣。火属性が非常に強力。,"Dual Blades whose form can never even be glimpsed,{j}forged from the materials of the legendary gold and silver dragons{j}. The Fire element is extremely powerful."
+361,姿を見ることさえかなわない、{j}伝説の金竜銀竜の素材を用い{j}た双剣。火属性が非常に強力。,Dual Blades forged from legendary gold and{j}silver dragons. Their Fire element is{j}extremely powerful.
 362,双剣としての機能は果たして{j}いない風化した武器。{j}結晶研磨加工していくと…。,"A weathered weapon that{j}no longer serves its function as Dual Blades.{j}Continue polishing it into crystal, and..."
 363,双剣としての機能は果たして{j}いない風化した武器。{j}結晶研磨加工していくと…。,"A weathered weapon that{j}no longer serves its function as Dual Blades.{j}Continue polishing it into crystal, and..."
 364,わずかながらも毒の属性を{j}持つ双剣。攻撃の際は{j}鋸を引くように斬るのがコツ。,"Dual Blades that have a slight{j}poison attribute. When attacking,{j}the trick is to slash as if drawing a saw."
-365,最強の封龍剣をさらに超える{j}絶一門の最終兵器。全てが謎{j}の素材は太古の文明の名残か。,Surpassing even the strongest Dragon Seal Sword{j}The ultimate weapon of the Absolute. Everything is a mystery.{j}Are these materials vestiges of an ancient civilization?
+365,最強の封龍剣をさらに超える{j}絶一門の最終兵器。全てが謎{j}の素材は太古の文明の名残か。,"Ultimate weapon surpassing the strongest{j}Dragon Seal Sword. Its materials remain a{j}mystery, perhaps ancient remnants."
 366,闇夜を映したような蒼色の剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,A blue sword that seems to reflect the dark night.{j}A giant weapon of one-hit kills that boasts immense{j}attack power proportional to its weight.
 367,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.
 368,飛竜の血をどれだけ浴びても{j}汚れることのない純白の角槍。{j}槍身には常に霜が降りている。,"No matter how much Wyvern blood it bathes in,{j}a pure white horn lance that never gets dirty.{j}The shaft is always covered in frost."
@@ -651,7 +651,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 648,その刀身に熱き炎を閉じ込め{j}た太刀。刃の鈍い輝きが陽炎{j}に揺らぐ。,A Long Sword that seals a hot flame within its{j}blade. The blade's dull glow flickers in the heat{j}haze.
 649,その刀身に熱き炎を閉じ込め{j}た太刀。刃の鈍い輝きが陽炎{j}に揺らぐ。,A Long Sword that seals a hot flame within its{j}blade. The blade's dull glow flickers in the heat{j}haze.
 650,その刀身に熱き炎を閉じ込め{j}た太刀。静かなる青き火炎は、{j}赤き炎に勝る。,A Long Sword that seals a hot flame within its{j}blade. The quiet blue flame surpasses the red{j}flame.
-651,名工がこしらえた宝石細工の{j}槍の強化版。美しい装飾のみ{j}ならず、実用性の高さも好評。,"An upgraded version of the jewel-worked{j}Lance fashioned by a master artisan. It is well regarded not{j}only for its beautiful ornamentation, but for its high practicality as well."
+651,名工がこしらえた宝石細工の{j}槍の強化版。美しい装飾のみ{j}ならず、実用性の高さも好評。,Upgraded jewel-worked Lance by a master.{j}Beautiful ornamentation and practical{j}performance earn equal praise.
 652,ブロスホーンの強化版。{j}この赤槍を所持することは、{j}最強の証である。,Upgraded version of Blos Horn.{j}Possessing this red spear is{j}proof of the strongest.
 653,宝石細工の槍の最高級品。{j}使いやすさ、形状の美しさ、{j}すべてにおいて至高の一品。,"The finest jewel-crafted Lance.{j}Supreme in ease of use, beauty of form,{j}and all else."
 654,神秘の輝きを放つ水槍。{j}美しきフォルムはそのままに{j}攻撃力を増強。,"A water lance that radiates a mystic glow.{j}While keeping its beautiful form,{j}it enhances Attack power."
@@ -972,7 +972,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 969,ハンターの功績を称え、ギル{j}ドから贈与される太刀。,A Long Sword awarded by the Guild{j}in honor of a Hunter's achievements.
 970,素材を超高圧縮することで、{j}威力の向上に成功するも、{j}超重量の為、長さが犠牲に。,"By ultra-compressing the material,{j}its power was successfully raised, but{j}the extreme weight came at the cost of length."
 971,素材を超高圧縮することで、{j}威力の向上に成功するも、{j}超重量の為、長さが犠牲に。,"By ultra-compressing the material,{j}its power was successfully raised, but{j}the extreme weight came at the cost of length."
-972,ギルドの研究と工房の技術向上{j}で、古の封龍剣が完全復活。{j}太古の叡智が手の中に。,"Through the Guild's research and the workshop's advances{j}, the ancient Sealed Dragon Sword is fully revived.{j}The wisdom of the ancients is now in your hands."
+972,ギルドの研究と工房の技術向上{j}で、古の封龍剣が完全復活。{j}太古の叡智が手の中に。,Guild research and Workshop advances{j}revive the ancient Sealed Dragon Sword.{j}Ancient wisdom is now in your hands.
 973,凍て付く氷の刃は、{j}裂いた傷から噴出した血潮すら{j}瞬時に凍らせる。,The freezing ice blade can freeze in an instant{j}even the blood that gushes from the wounds it{j}carves.
 974,怒りに染まる黒衣の炎剣。{j}重く巨大なその姿は、{j}黒き火山の主そのものである。,"A black-robed flame sword dyed in rage.{j}Its heavy, massive form is{j}the very lord of the black volcano."
 975,褐色の棘竜が持つ底知れぬ力を{j}宿した、恐ろしくも美しい{j}狂気の片手剣。,"A Sword & Shield of madness, fearsome yet{j}beautiful, imbued with the unfathomable power of{j}the brown Thorn Wyvern."

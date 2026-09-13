@@ -1,0 +1,105 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58032,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用脚防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this leg armor is for Gunners specialized in Hearing Protection{j}.",
+      "target": "Leg armor for Hearing Protection Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized hearing protection.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59170,
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な脚防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Legs armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "target": "Heavy leg armor of crimson fur and iron.{j}Crafted from Red Violent Beast materials.{j}Beautiful intricate metalwork.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 34,
+      "source": "大型の骨から強化される大剣。{j}重量で破壊力を得る骨大剣で、{j}これを扱えるなら一人前。",
+      "previous": "A Great Sword upgraded from a large bone.{j}A bone Great Sword whose weight gives it destructive power;{j}if you can wield it, you are a full-fledged Hunter.",
+      "target": "Great Sword upgraded from large bone.{j}Its weight grants destructive power.{j}Wield it to become a full-fledged Hunter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 288,
+      "source": "訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}教官は元気にしてるだろうか。",
+      "previous": "The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}I wonder if the Instructor is doing well.",
+      "target": "Training School sweat and blood.{j}Those passionate days come flooding back.{j}I wonder if the Instructor is well.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 308,
+      "source": "訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}たまには顔を出してあげよう。",
+      "previous": "The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}I should drop by and show my face sometime.",
+      "target": "Training School sweat and blood.{j}Those passionate days come flooding back.{j}I should visit and show my face sometime.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 353,
+      "source": "訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}流した涙も無駄にはならない。",
+      "previous": "The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}Even the tears shed were not in vain.",
+      "target": "Training School sweat and blood.{j}Those passionate days come flooding back.{j}Even the tears shed were not in vain.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 361,
+      "source": "姿を見ることさえかなわない、{j}伝説の金竜銀竜の素材を用い{j}た双剣。火属性が非常に強力。",
+      "previous": "Dual Blades whose form can never even be glimpsed,{j}forged from the materials of the legendary gold and silver dragons{j}. The Fire element is extremely powerful.",
+      "target": "Dual Blades forged from legendary gold and{j}silver dragons. Their Fire element is{j}extremely powerful.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 365,
+      "source": "最強の封龍剣をさらに超える{j}絶一門の最終兵器。全てが謎{j}の素材は太古の文明の名残か。",
+      "previous": "Surpassing even the strongest Dragon Seal Sword{j}The ultimate weapon of the Absolute. Everything is a mystery.{j}Are these materials vestiges of an ancient civilization?",
+      "target": "Ultimate weapon surpassing the strongest{j}Dragon Seal Sword. Its materials remain a{j}mystery, perhaps ancient remnants.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 651,
+      "source": "名工がこしらえた宝石細工の{j}槍の強化版。美しい装飾のみ{j}ならず、実用性の高さも好評。",
+      "previous": "An upgraded version of the jewel-worked{j}Lance fashioned by a master artisan. It is well regarded not{j}only for its beautiful ornamentation, but for its high practicality as well.",
+      "target": "Upgraded jewel-worked Lance by a master.{j}Beautiful ornamentation and practical{j}performance earn equal praise.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 972,
+      "source": "ギルドの研究と工房の技術向上{j}で、古の封龍剣が完全復活。{j}太古の叡智が手の中に。",
+      "previous": "Through the Guild's research and the workshop's advances{j}, the ancient Sealed Dragon Sword is fully revived.{j}The wisdom of the ancients is now in your hands.",
+      "target": "Guild research and Workshop advances{j}revive the ancient Sealed Dragon Sword.{j}Ancient wisdom is now in your hands.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    },
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Two exact-source leg-armor and eight melee-description patterns."
+}
