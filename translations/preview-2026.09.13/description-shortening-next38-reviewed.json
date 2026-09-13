@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42539,
+      "source": "大巌竜の素材を用いた腰防具。{j}加工された今なお大地の鼓動{j}の如く脈打つ腰用装備。",
+      "previous": "Waist equipment made from Great Boulder Dragon materials.{j}Even after being processed, it pulses like the heartbeat{j}of the earth.",
+      "target": "Waist gear made from Great Boulder Dragon.{j}Even after processing, it pulses like{j}the earth's heartbeat.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42542,
+      "source": "大巌竜の素材を用いた腰防具。{j}数々の戦いの記憶が刻み込ま{j}れ、身に付けた者に甦る。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}The memories of countless battles are engraved{j}into it, reviving in the wearer.",
+      "target": "Great Boulder Dragon waist armor.{j}Countless battle memories are engraved{j}within, awakening in its wearer.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42545,
+      "source": "ランポスの素材を用いた腰{j}防具。素材、設計を一から{j}見直し機能性強化を実現。",
+      "previous": "Waist{j}armor using Velociprey materials. Reviewing materials and design from scratch{j}, functionality enhancement was achieved.",
+      "target": "Waist{j}armor using Velociprey materials.{j}A full redesign improves functionality.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42629,
+      "source": "棘竜の素材を用いた腰防具。{j}工房技術の進歩により、さ{j}らに改良を加えられた。",
+      "previous": "Waist armor made from Espinas materials.{j}Due to the advancement of workshop technology, further{j}improvements were made.",
+      "target": "Waist armor made from Espinas materials.{j}Workshop advances have enabled{j}further improvements.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44478,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用腰防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Hearing Protection{j}.",
+      "target": "Waist armor for Hearing Protection Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized hearing protection.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45616,
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な腰防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Waist armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "target": "Heavy waist armor of crimson fur and iron.{j}Crafted from Red Violent Beast materials.{j}Beautiful intricate metalwork.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55234,
+      "source": "漆黒の合金で作られた脚装備。{j}どれだけ磨いても決して光ら{j}ず、奈落の闇に染まり続ける。",
+      "previous": "Leg equipment made from a jet-black alloy.{j}No matter how much you polish it, it will never{j}shine, forever steeped in the darkness of the abyss.",
+      "target": "Leg gear made from jet-black alloy.{j}No polish can make it shine; it remains{j}steeped in abyssal darkness.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55268,
+      "source": "街を守護するという騎士の、{j}脚用装備の廉価版。一見無骨{j}だが、精密な構造で隙がない。",
+      "previous": "A budget version of the{j}leg armor of the knight said to guard the town.{j}Rough at a glance, yet its precise construction leaves no gaps.",
+      "target": "Budget leg armor for town guards.{j}Rough at a glance, but precisely built{j}leaves no gaps.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55269,
+      "source": "街を守護するという騎士の、{j}脚用装備の廉価版。性能面で{j}の妥協は一切無い。男性専用。",
+      "previous": "A budget version of the{j}leg armor of the knight said to guard the town. In terms of performance,{j}there is no compromise at all. Men only.",
+      "target": "Budget leg armor for town guards.{j}Performance has no compromises.{j}For men only.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55273,
+      "source": "東方の衣装を真似た脚用装備。{j}黒狼鳥素材の装甲が発する{j}熱は、脚に力をみなぎらせる。",
+      "previous": "Leg armor that imitates Eastern attire.{j}The armor made from Yian Garuga materials gives off a heat{j}that fills your legs with power.",
+      "target": "Leg armor imitating Eastern attire.{j}Yian Garuga armor heat fills your legs{j}with power.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist- and leg-armor description patterns."
+}
