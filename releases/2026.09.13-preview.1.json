@@ -1,0 +1,33 @@
+{
+  "client": {
+    "files": 3,
+    "unique_deltas": 3,
+    "bytes": 9105494,
+    "sha256": "ee1331a0ca6700f6bcb8d8ecea871bcde6608a0cbd07dcbc422a78891789855a",
+    "asset": "client-english-2026.09.13-preview.1.zip",
+    "verification": {
+      "apply": "PASS",
+      "idempotence": "PASS",
+      "rollback": "PASS",
+      "isolated_copy": true,
+      "runtime": "NOT_RUN"
+    }
+  },
+  "server": {
+    "files": 972,
+    "unique_deltas": 746,
+    "bytes": 3611369,
+    "sha256": "e016251aeb7b4be480ceab8857618d0ba0b883baca5a70feac83204785552957",
+    "asset": "server-english-2026.09.13-preview.1.zip",
+    "verification": {
+      "apply": "PASS",
+      "idempotence": "PASS",
+      "rollback": "PASS",
+      "isolated_copy": true,
+      "runtime": "NOT_RUN"
+    }
+  },
+  "version": "2026.09.13-preview.1",
+  "status": "EXPERIMENTAL_RUNTIME_NOT_RUN",
+  "unit_tests": 73
+}

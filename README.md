@@ -25,6 +25,10 @@ patcher, then place the bundle ZIP files in its folder without extracting them.
 See [compatibility and coverage](docs/compatibility.md) and the
 [release catalog](releases/2026.09.13.json) for exact counts, hashes and limits.
 
+An optional [experimental translation preview](docs/preview-2026.09.13.md) adds
+weapon/equipment text, town wrapping trials and the 972 withheld server quests.
+It is not yet verified in-game.
+
 ## Requirements
 
 - Your own matching Monster Hunter Frontier client or Erupe quest/scenario data.

@@ -1,0 +1,65 @@
+{
+  "status": "WORK_IN_PROGRESS_NOT_FULLY_REVIEWED",
+  "files": [
+    {
+      "file": "dat-armors-arms.csv",
+      "rows": 13452,
+      "sha256": "216a42b09f2216714dc2114ea636772dd34d65dc65665809ef51f5e86d33528d"
+    },
+    {
+      "file": "dat-armors-body.csv",
+      "rows": 13462,
+      "sha256": "4c0ce5534819f28d7ebe2c48bbe3033f2b9f4d24a5a7d9f94f05de652578964a"
+    },
+    {
+      "file": "dat-armors-head.csv",
+      "rows": 14594,
+      "sha256": "b69d6cb8ba5a23f89c1937831157fb25ed2c06fc75a91a5cfac50c7192a3201e"
+    },
+    {
+      "file": "dat-armors-legs.csv",
+      "rows": 13514,
+      "sha256": "c8db4b39d49beb6434dbabf359766cac65d12c5f42601a1d143c6ead4b45875a"
+    },
+    {
+      "file": "dat-armors-waist.csv",
+      "rows": 13708,
+      "sha256": "dee348f1185efeee5dfe1655f96eb5903741b05f10cc3f56de9fcf75b0801927"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "rows": 68730,
+      "sha256": "6a6f62332f82ddf2247e9d06db51fc58be0efd5f4dd8cbaf435d5aa884240bb4"
+    },
+    {
+      "file": "dat-items-description.csv",
+      "rows": 16725,
+      "sha256": "7b16e1b755b43694878727bcf1c77c32434260b19668d5ec4b8bbc711bf02c1c"
+    },
+    {
+      "file": "dat-items-name.csv",
+      "rows": 16701,
+      "sha256": "e3d8cfe00121839630bbbc0da9547e6ab342b9f746406cf53080d5d41e913332"
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "rows": 17568,
+      "sha256": "0f6decf5888207638f941fc52e34c2c99947aa45172c9a1e102b471dde9f8bed"
+    },
+    {
+      "file": "dat-weapons-melee-name.csv",
+      "rows": 17568,
+      "sha256": "c19e02377b3b713229768461bbeed1aabd739afb55963c402eb32c932d6f9d0c"
+    },
+    {
+      "file": "dat-weapons-ranged-description.csv",
+      "rows": 4223,
+      "sha256": "e4df53d5c4f225fe774f6e9aff3c01615fa6b82cd2efa234cf0d926e1be9d28b"
+    },
+    {
+      "file": "dat-weapons-ranged-name.csv",
+      "rows": 4223,
+      "sha256": "d77cdc9020be922639b15a747cb518e92c6dd7be1cd817cd39009f9162f73959"
+    }
+  ]
+}

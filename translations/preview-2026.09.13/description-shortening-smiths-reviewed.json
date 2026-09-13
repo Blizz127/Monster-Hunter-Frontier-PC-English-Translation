@@ -1,0 +1,1235 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 175,
+      "source": "ギルドナイトの女性用頭装備。{j}見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。",
+      "previous": "Female head armor for Guild Knights.{j}Adorned with a splendid feather ornament,{j}a symbol of the Guild Knights' public face.",
+      "target": "Women's Guild Knight headgear. Splendid{j}feathers symbolize the Guild Knights'{j}public face.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 237,
+      "source": "ギルドナイトの女性用頭装備。{j}見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。",
+      "previous": "Female head armor for Guild Knights.{j}Adorned with a splendid feather ornament,{j}a symbol of the Guild Knights' public face.",
+      "target": "Women's Guild Knight headgear. Splendid{j}feathers symbolize the Guild Knights'{j}public face.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 787,
+      "source": "ギルドナイトの女性用頭装備。{j}見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。",
+      "previous": "Female head armor for Guild Knights.{j}Adorned with a splendid feather ornament,{j}a symbol of the Guild Knights' public face.",
+      "target": "Women's Guild Knight headgear. Splendid{j}feathers symbolize the Guild Knights'{j}public face.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1009,
+      "source": "ギルドナイトの女性用頭装備。{j}見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。",
+      "previous": "Female head armor for Guild Knights.{j}Adorned with a splendid feather ornament,{j}a symbol of the Guild Knights' public face.",
+      "target": "Women's Guild Knight headgear. Splendid{j}feathers symbolize the Guild Knights'{j}public face.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 364,
+      "source": "特殊な金属で耳にあるツボを{j}刺激し、体を硬くするピアス。{j}「つければ安全」が売り文句。",
+      "previous": "A piercing that{j}stimulates a pressure point in the ear with a special metal, hardening the body.{j}Its tagline: \"Wear it and you're safe.\"",
+      "target": "Special-metal piercings harden the body by{j}stimulating ear pressure points. Slogan:{j}\"Wear them, be safe.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 365,
+      "source": "特殊な金属で耳にあるツボを{j}刺激し、体を硬くするピアス。{j}「つければ安全」が売り文句。",
+      "previous": "A piercing that{j}stimulates a pressure point in the ear with a special metal, hardening the body.{j}Its tagline: \"Wear it and you're safe.\"",
+      "target": "Special-metal piercings harden the body by{j}stimulating ear pressure points. Slogan:{j}\"Wear them, be safe.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 366,
+      "source": "特殊な金属で耳にあるツボを{j}刺激し、体を硬くするピアス。{j}「つければ安全」が売り文句。",
+      "previous": "A piercing that{j}stimulates a pressure point in the ear with a special metal, hardening the body.{j}Its tagline: \"Wear it and you're safe.\"",
+      "target": "Special-metal piercings harden the body by{j}stimulating ear pressure points. Slogan:{j}\"Wear them, be safe.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 367,
+      "source": "特殊な金属で耳にあるツボを{j}刺激し、体を硬くするピアス。{j}「つければ安全」が売り文句。",
+      "previous": "A piercing that{j}stimulates a pressure point in the ear with a special metal, hardening the body.{j}Its tagline: \"Wear it and you're safe.\"",
+      "target": "Special-metal piercings harden the body by{j}stimulating ear pressure points. Slogan:{j}\"Wear them, be safe.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1037,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった頭装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Head armor that is now harder and lighter.",
+      "target": "Head armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1038,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった頭装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Head armor that is now harder and lighter.",
+      "target": "Head armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2524,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった頭装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Head armor that is now harder and lighter.",
+      "target": "Head armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2525,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった頭装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Head armor that is now harder and lighter.",
+      "target": "Head armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1820,
+      "source": "蛮竜の素材を使った髪飾り。{j}髪に巻くと、闘争心が増し、{j}気合いが入る。",
+      "previous": "A hair ornament made from Abiorugu materials.{j}Wrapping it in your hair increases your fighting spirit and{j}fires you up.",
+      "target": "A hair ornament made from Berserk Dragon{j}parts. Winding it into your hair boosts{j}fighting spirit and resolve.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1821,
+      "source": "蛮竜の素材を使った髪飾り。{j}髪に巻くと、闘争心が増し、{j}気合いが入る。",
+      "previous": "A hair ornament made from Abiorugu materials.{j}Wrapping it in your hair increases your fighting spirit and{j}fires you up.",
+      "target": "A hair ornament made from Berserk Dragon{j}parts. Winding it into your hair boosts{j}fighting spirit and resolve.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2183,
+      "source": "蛮竜の素材を使った髪飾り。{j}髪に巻くと、闘争心が増し、{j}気合いが入る。",
+      "previous": "A hair ornament made from Abiorugu materials.{j}Wrapping it in your hair increases your fighting spirit and{j}fires you up.",
+      "target": "A hair ornament made from Berserk Dragon{j}parts. Winding it into your hair boosts{j}fighting spirit and resolve.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2184,
+      "source": "蛮竜の素材を使った髪飾り。{j}髪に巻くと、闘争心が増し、{j}気合いが入る。",
+      "previous": "A hair ornament made from Abiorugu materials.{j}Wrapping it in your hair increases your fighting spirit and{j}fires you up.",
+      "target": "A hair ornament made from Berserk Dragon{j}parts. Winding it into your hair boosts{j}fighting spirit and resolve.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2265,
+      "source": "素材の性能を極限まで引き出{j}して生成された頭防具。武具{j}職人の英知が結集されている。",
+      "previous": "Head Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Head armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2266,
+      "source": "素材の性能を極限まで引き出{j}して生成された頭防具。武具{j}職人の英知が結集されている。",
+      "previous": "Head Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Head armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2267,
+      "source": "素材の性能を極限まで引き出{j}して生成された頭防具。武具{j}職人の英知が結集されている。",
+      "previous": "Head Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Head armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2268,
+      "source": "素材の性能を極限まで引き出{j}して生成された頭防具。武具{j}職人の英知が結集されている。",
+      "previous": "Head Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Head armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2373,
+      "source": "跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。",
+      "previous": "A hair ornament made from Gogomoa materials.{j}Hair bound with its sturdy thread{j}never comes loose, even in fierce movement.",
+      "target": "A hair ornament made from Gogomoa parts.{j}Tough thread keeps tied hair in place even{j}through vigorous movement.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2374,
+      "source": "跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。",
+      "previous": "A hair ornament made from Gogomoa materials.{j}Hair bound with its sturdy thread{j}never comes loose, even in fierce movement.",
+      "target": "A hair ornament made from Gogomoa parts.{j}Tough thread keeps tied hair in place even{j}through vigorous movement.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2695,
+      "source": "跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。",
+      "previous": "A hair ornament made from Gogomoa materials.{j}Hair bound with its sturdy thread{j}never comes loose, even in fierce movement.",
+      "target": "A hair ornament made from Gogomoa parts.{j}Tough thread keeps tied hair in place even{j}through vigorous movement.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2696,
+      "source": "跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。",
+      "previous": "A hair ornament made from Gogomoa materials.{j}Hair bound with its sturdy thread{j}never comes loose, even in fierce movement.",
+      "target": "A hair ornament made from Gogomoa parts.{j}Tough thread keeps tied hair in place even{j}through vigorous movement.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2379,
+      "source": "東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Head armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Head armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2380,
+      "source": "東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Head armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Head armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2381,
+      "source": "東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Head armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Head armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2382,
+      "source": "東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Head armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Head armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2561,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。",
+      "previous": "Head armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2562,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。",
+      "previous": "Head armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2564,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。",
+      "previous": "Head armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2565,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。",
+      "previous": "Head armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6312,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した頭防具。",
+      "previous": "Head armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Head armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6319,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した頭防具。",
+      "previous": "Head armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Head armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11316,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した頭防具。",
+      "previous": "Head armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Head armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11323,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した頭防具。",
+      "previous": "Head armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Head armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6316,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した頭防具。",
+      "previous": "Head armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Head armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6323,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した頭防具。",
+      "previous": "Head armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Head armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11320,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した頭防具。",
+      "previous": "Head armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Head armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11327,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した頭防具。",
+      "previous": "Head armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Head armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15431,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった胴装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Body armor that is now harder and lighter.",
+      "target": "Body armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15432,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった胴装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Body armor that is now harder and lighter.",
+      "target": "Body armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16673,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった胴装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Body armor that is now harder and lighter.",
+      "target": "Body armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16674,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった胴装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Body armor that is now harder and lighter.",
+      "target": "Body armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16456,
+      "source": "素材の性能を極限まで引き出{j}して生成された胴防具。武具{j}職人の英知が結集されている。",
+      "previous": "Body Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Body armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16457,
+      "source": "素材の性能を極限まで引き出{j}して生成された胴防具。武具{j}職人の英知が結集されている。",
+      "previous": "Body Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Body armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16458,
+      "source": "素材の性能を極限まで引き出{j}して生成された胴防具。武具{j}職人の英知が結集されている。",
+      "previous": "Body Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Body armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16459,
+      "source": "素材の性能を極限まで引き出{j}して生成された胴防具。武具{j}職人の英知が結集されている。",
+      "previous": "Body Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Body armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16548,
+      "source": "東方より伝来した胴防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Body armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Body armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16549,
+      "source": "東方より伝来した胴防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Body armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Body armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16550,
+      "source": "東方より伝来した胴防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Body armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Body armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16551,
+      "source": "東方より伝来した胴防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Body armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Body armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16700,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の胴防具。{j}鋭い動きが身に付くという。",
+      "previous": "Body armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Body armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16701,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の胴防具。{j}鋭い動きが身に付くという。",
+      "previous": "Body armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Body armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16703,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の胴防具。{j}鋭い動きが身に付くという。",
+      "previous": "Body armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Body armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16704,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の胴防具。{j}鋭い動きが身に付くという。",
+      "previous": "Body armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Body armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20247,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した胴防具。",
+      "previous": "Body armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Body armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20254,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した胴防具。",
+      "previous": "Body armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Body armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25016,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した胴防具。",
+      "previous": "Body armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Body armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25023,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した胴防具。",
+      "previous": "Body armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Body armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20251,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した胴防具。",
+      "previous": "Body armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Body armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20258,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した胴防具。",
+      "previous": "Body armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Body armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25020,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した胴防具。",
+      "previous": "Body armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Body armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25027,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した胴防具。",
+      "previous": "Body armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Body armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28889,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腕装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Arm armor that is now harder and lighter.",
+      "target": "Arm armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28890,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腕装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Arm armor that is now harder and lighter.",
+      "target": "Arm armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30122,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腕装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Arm armor that is now harder and lighter.",
+      "target": "Arm armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30123,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腕装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Arm armor that is now harder and lighter.",
+      "target": "Arm armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29905,
+      "source": "素材の性能を極限まで引き出{j}して生成された腕防具。武具{j}職人の英知が結集されている。",
+      "previous": "Arms Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Arm armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29906,
+      "source": "素材の性能を極限まで引き出{j}して生成された腕防具。武具{j}職人の英知が結集されている。",
+      "previous": "Arms Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Arm armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29907,
+      "source": "素材の性能を極限まで引き出{j}して生成された腕防具。武具{j}職人の英知が結集されている。",
+      "previous": "Arms Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Arm armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29908,
+      "source": "素材の性能を極限まで引き出{j}して生成された腕防具。武具{j}職人の英知が結集されている。",
+      "previous": "Arms Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Arm armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29997,
+      "source": "東方より伝来した腕防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Arm armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Arm armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29998,
+      "source": "東方より伝来した腕防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Arm armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Arm armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29999,
+      "source": "東方より伝来した腕防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Arm armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Arm armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30000,
+      "source": "東方より伝来した腕防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Arm armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Arm armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30149,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腕防具。{j}鋭い動きが身に付くという。",
+      "previous": "Arms armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Arm armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30150,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腕防具。{j}鋭い動きが身に付くという。",
+      "previous": "Arms armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Arm armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30152,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腕防具。{j}鋭い動きが身に付くという。",
+      "previous": "Arms armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Arm armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30153,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腕防具。{j}鋭い動きが身に付くという。",
+      "previous": "Arms armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Arm armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33702,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腕防具。",
+      "previous": "Arm armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Arm armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33709,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腕防具。",
+      "previous": "Arm armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Arm armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 38469,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腕防具。",
+      "previous": "Arm armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Arm armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 38476,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腕防具。",
+      "previous": "Arm armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Arm armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33706,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腕防具。",
+      "previous": "Arms armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Arm armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33713,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腕防具。",
+      "previous": "Arms armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Arm armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 38473,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腕防具。",
+      "previous": "Arms armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Arm armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 38480,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腕防具。",
+      "previous": "Arms armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Arm armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42431,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腰装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Waist armor that is now harder and lighter.",
+      "target": "Waist armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42432,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腰装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Waist armor that is now harder and lighter.",
+      "target": "Waist armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43733,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腰装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Waist armor that is now harder and lighter.",
+      "target": "Waist armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43734,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった腰装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Waist armor that is now harder and lighter.",
+      "target": "Waist armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43516,
+      "source": "素材の性能を極限まで引き出{j}して生成された腰防具。武具{j}職人の英知が結集されている。",
+      "previous": "Waist Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Waist armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43517,
+      "source": "素材の性能を極限まで引き出{j}して生成された腰防具。武具{j}職人の英知が結集されている。",
+      "previous": "Waist Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Waist armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43518,
+      "source": "素材の性能を極限まで引き出{j}して生成された腰防具。武具{j}職人の英知が結集されている。",
+      "previous": "Waist Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Waist armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43519,
+      "source": "素材の性能を極限まで引き出{j}して生成された腰防具。武具{j}職人の英知が結集されている。",
+      "previous": "Waist Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Waist armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43608,
+      "source": "東方より伝来した腰防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Waist armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Waist armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43609,
+      "source": "東方より伝来した腰防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Waist armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Waist armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43610,
+      "source": "東方より伝来した腰防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Waist armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Waist armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43611,
+      "source": "東方より伝来した腰防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Waist armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Waist armor brought from the east. A{j}special weaving method uses tough fibers;{j}its lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43760,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。",
+      "previous": "Waist armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43761,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。",
+      "previous": "Waist armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43763,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。",
+      "previous": "Waist armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43764,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。",
+      "previous": "Waist armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47308,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腰防具。",
+      "previous": "Waist armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Waist armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47315,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腰防具。",
+      "previous": "Waist armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Waist armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 52143,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腰防具。",
+      "previous": "Waist armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Waist armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 52150,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した腰防具。",
+      "previous": "Waist armor crafted by an artisan who admired elegantly dressed Hunters, dreamed of{j}armor production, and{j}dashed into the workshop.",
+      "target": "Waist armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47312,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腰防具。",
+      "previous": "Waist armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Waist armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47319,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腰防具。",
+      "previous": "Waist armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Waist armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 52147,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腰防具。",
+      "previous": "Waist armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Waist armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 52154,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した腰防具。",
+      "previous": "Waist armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Waist armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56051,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった脚装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Leg armor that is now harder and lighter.",
+      "target": "Leg armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56052,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった脚装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Leg armor that is now harder and lighter.",
+      "target": "Leg armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57287,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった脚装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Leg armor that is now harder and lighter.",
+      "target": "Leg armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57288,
+      "source": "硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった脚装備。",
+      "previous": "Processing techniques have improved the{j}properties of hard, heavy Diablos materials.{j}Leg armor that is now harder and lighter.",
+      "target": "Leg armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57070,
+      "source": "素材の性能を極限まで引き出{j}して生成された脚防具。武具{j}職人の英知が結集されている。",
+      "previous": "Legs Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Leg armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57071,
+      "source": "素材の性能を極限まで引き出{j}して生成された脚防具。武具{j}職人の英知が結集されている。",
+      "previous": "Legs Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Leg armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57072,
+      "source": "素材の性能を極限まで引き出{j}して生成された脚防具。武具{j}職人の英知が結集されている。",
+      "previous": "Legs Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Leg armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57073,
+      "source": "素材の性能を極限まで引き出{j}して生成された脚防具。武具{j}職人の英知が結集されている。",
+      "previous": "Legs Armor created by drawing out{j}the material's properties to the extreme. The wisdom of arms{j}craftsmen is concentrated within.",
+      "target": "Leg armor that draws out the utmost{j}performance of its materials. Embodies the{j}combined wisdom of armor smiths.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57162,
+      "source": "東方より伝来した脚防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Leg armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Leg armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57163,
+      "source": "東方より伝来した脚防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Leg armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Leg armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57164,
+      "source": "東方より伝来した脚防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Leg armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Leg armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57165,
+      "source": "東方より伝来した脚防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。",
+      "previous": "Leg armor brought over from the East. Woven by a special{j}method using strong{j}and supple fibers, it is also well known for its lightness.",
+      "target": "Leg armor brought from the east. A special{j}weaving method uses tough fibers; its{j}lightness is also renowned.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57314,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の脚防具。{j}鋭い動きが身に付くという。",
+      "previous": "Leg armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Leg armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57315,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の脚防具。{j}鋭い動きが身に付くという。",
+      "previous": "Leg armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Leg armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57317,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の脚防具。{j}鋭い動きが身に付くという。",
+      "previous": "Leg armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Leg armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57318,
+      "source": "動き易さを極限まで追求した{j}獰竜素材の脚防具。{j}鋭い動きが身に付くという。",
+      "previous": "Leg armor made from{j}Fierce Wyvern materials, pursuing ease of movement to the extreme.{j}They say you acquire sharp movements.",
+      "target": "Leg armor of Fierce Wyvern parts, designed{j}for the utmost mobility. Said to give the{j}wearer sharp movements.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60862,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した脚防具。",
+      "previous": "Leg armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Leg armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60869,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した脚防具。",
+      "previous": "Leg armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Leg armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65653,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した脚防具。",
+      "previous": "Leg armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Leg armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65660,
+      "source": "優雅な装いのハンターに憧れ、{j}防具生産を夢見て工房に飛び{j}込んだ職人が生産した脚防具。",
+      "previous": "Leg armor produced by a craftsman who admired{j}elegantly dressed Hunters and{j}leapt into the workshop dreaming of making armor.",
+      "target": "Leg armor made by a smith inspired by an{j}elegant Hunter, who joined the Workshop{j}dreaming of making armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60866,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した脚防具。",
+      "previous": "Leg armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Leg armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60873,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した脚防具。",
+      "previous": "Leg armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Leg armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65657,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した脚防具。",
+      "previous": "Leg armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Leg armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65664,
+      "source": "工房の急な方針転換によって{j}翻弄された職人が命を削り、{j}不眠不休で生み出した脚防具。",
+      "previous": "Leg armor{j}made by an artisan driven to the brink by the workshop's sudden policy change, who worked himself to death and{j}toiled without sleep or rest.",
+      "target": "Leg armor made at the cost of a smith's{j}health, working without rest after a{j}sudden change in Workshop policy.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source armor and smith prose patterns. Qualifications and performance comparisons retained."
+}
