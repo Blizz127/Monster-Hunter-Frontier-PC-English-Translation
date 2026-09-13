@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4167,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した頭防具。",
+      "previous": "Head armor that, by using the latest technology, succeeded in removing the strong slime of{j}Devourer Wyvern materials and the foul{j}odor.",
+      "target": "Latest technology removes the slime and{j}odor from Devourer Wyvern materials.{j}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4168,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した頭防具。",
+      "previous": "Head armor that, by using the latest technology, succeeded in removing the strong slime of{j}Devourer Wyvern materials and the foul{j}odor.",
+      "target": "Latest technology removes the slime and{j}odor from Devourer Wyvern materials.{j}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4169,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した頭防具。",
+      "previous": "Head armor that, by using the latest technology, succeeded in removing the strong slime of{j}Devourer Wyvern materials and the foul{j}odor.",
+      "target": "Latest technology removes the slime and{j}odor from Devourer Wyvern materials.{j}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4170,
+      "source": "呑竜素材の頭防具。独特の{j}ヌメリ、臭いは完璧に除去済。{j}物足りないという人も…？",
+      "previous": "Head armor made from Glutton Dragon materials. Its distinctive{j}sliminess and odor have been completely removed.{j}Some may find it lacking...?",
+      "target": "Glutton Dragon head armor with its slime{j}and odor completely removed. Some may find{j}it lacking...?",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4171,
+      "source": "呑竜素材の頭防具。独特の{j}ヌメリ、臭いは完璧に除去済。{j}物足りないという人も…？",
+      "previous": "Head armor made from Glutton Dragon materials. Its distinctive{j}sliminess and odor have been completely removed.{j}Some may find it lacking...?",
+      "target": "Glutton Dragon head armor with its slime{j}and odor completely removed. Some may find{j}it lacking...?",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4172,
+      "source": "呑竜素材の頭防具。独特の{j}ヌメリ、臭いは完璧に除去済。{j}物足りないという人も…？",
+      "previous": "Head armor made from Glutton Dragon materials. Its distinctive{j}sliminess and odor have been completely removed.{j}Some may find it lacking...?",
+      "target": "Glutton Dragon head armor with its slime{j}and odor completely removed. Some may find{j}it lacking...?",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4191,
+      "source": "金獅子の、壮麗な素材を利用{j}した頭装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Head armor made using{j}the magnificent materials of Rajang. The wearer is imbued with the{j}soul, dignity, and rage of the strong.",
+      "target": "Head armor made from magnificent Rajang{j}materials. It imbues the wearer with the{j}strong's soul, dignity and rage.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4192,
+      "source": "金獅子の、壮麗な素材を利用{j}した頭装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Head armor made using{j}the magnificent materials of Rajang. The wearer is imbued with the{j}soul, dignity, and rage of the strong.",
+      "target": "Head armor made from magnificent Rajang{j}materials. It imbues the wearer with the{j}strong's soul, dignity and rage.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4193,
+      "source": "金獅子の、壮麗な素材を利用{j}した頭装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Head armor made using{j}the magnificent materials of Rajang. The wearer is imbued with the{j}soul, dignity, and rage of the strong.",
+      "target": "Head armor made from magnificent Rajang{j}materials. It imbues the wearer with the{j}strong's soul, dignity and rage.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4209,
+      "source": "尾晶蠍を狩りし者の証たる{j}頭装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Head equipment, proof of one who hunted the Crystal Scorpion. Its hardness and sharpness are such that{j}the hand that strikes it hurts.",
+      "target": "{j}Crystal Scorpion hunter's headgear. Its{j}hardness hurts the hand that strikes it.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4210,
+      "source": "尾晶蠍を狩りし者の証たる{j}頭装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Head equipment, proof of one who hunted the Crystal Scorpion. Its hardness and sharpness are such that{j}the hand that strikes it hurts.",
+      "target": "{j}Crystal Scorpion hunter's headgear. Its{j}hardness hurts the hand that strikes it.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4211,
+      "source": "尾晶蠍を狩りし者の証たる{j}頭装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Head equipment, proof of one who hunted the Crystal Scorpion. Its hardness and sharpness are such that{j}the hand that strikes it hurts.",
+      "target": "{j}Crystal Scorpion hunter's headgear. Its{j}hardness hurts the hand that strikes it.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4828,
+      "source": "帯電する舞雷竜の素材を{j}使用した頭装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Head armor{j}made from the materials of a charged Dancing Thunder Wyvern. Its lightning is said to{j}grant power to the wearer.",
+      "target": "Head armor made from charged Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4829,
+      "source": "帯電する舞雷竜の素材を{j}使用した頭装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Head armor{j}made from the materials of a charged Dancing Thunder Wyvern. Its lightning is said to{j}grant power to the wearer.",
+      "target": "Head armor made from charged Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4830,
+      "source": "帯電する舞雷竜の素材を{j}使用した頭装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Head armor{j}made from the materials of a charged Dancing Thunder Wyvern. Its lightning is said to{j}grant power to the wearer.",
+      "target": "Head armor made from charged Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4843,
+      "source": "壮麗なる女王を狩った証の{j}頭用装備。装飾の美しさは{j}月に例えられるほど。",
+      "previous": "Proof of Hunting the Magnificent Queen{j}Head equipment. The beauty of its decoration is{j}Enough to be likened to the moon.",
+      "target": "Headgear proving a hunt of the Magnificent{j}Queen. Its beautiful decoration is said to{j}resemble the moon.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4844,
+      "source": "壮麗なる女王を狩った証の{j}頭用装備。装飾の美しさは{j}月に例えられるほど。",
+      "previous": "Proof of Hunting the Magnificent Queen{j}Head equipment. The beauty of its decoration is{j}Enough to be likened to the moon.",
+      "target": "Headgear proving a hunt of the Magnificent{j}Queen. Its beautiful decoration is said to{j}resemble the moon.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4845,
+      "source": "壮麗なる女王を狩った証の{j}頭用装備。装飾の美しさは{j}月に例えられるほど。",
+      "previous": "Proof of Hunting the Magnificent Queen{j}Head equipment. The beauty of its decoration is{j}Enough to be likened to the moon.",
+      "target": "Headgear proving a hunt of the Magnificent{j}Queen. Its beautiful decoration is said to{j}resemble the moon.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6941,
+      "source": "圧倒的な存在感と圧力を感じる{j}頭防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Head Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Head armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6942,
+      "source": "圧倒的な存在感と圧力を感じる{j}頭防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Head Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Head armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6943,
+      "source": "圧倒的な存在感と圧力を感じる{j}頭防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Head Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Head armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7583,
+      "source": "猟団から支給されるピアス。{j}不思議な力がハンターを包み、{j}四肢の力を極限まで高める。",
+      "previous": "A piercing provided by the Guild.{j}Its mysterious power envelops the Hunter,{j}raising the strength of their limbs to the limit.",
+      "target": "A Guild-issued piercing whose mysterious{j}power envelops the Hunter and maximizes{j}limb strength.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7584,
+      "source": "猟団から支給されるピアス。{j}不思議な力がハンターを包み、{j}四肢の力を極限まで高める。",
+      "previous": "A piercing provided by the Guild.{j}Its mysterious power envelops the Hunter,{j}raising the strength of their limbs to the limit.",
+      "target": "A Guild-issued piercing whose mysterious{j}power envelops the Hunter and maximizes{j}limb strength.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7585,
+      "source": "猟団から支給されるピアス。{j}不思議な力がハンターを包み、{j}四肢の力を極限まで高める。",
+      "previous": "A piercing provided by the Guild.{j}Its mysterious power envelops the Hunter,{j}raising the strength of their limbs to the limit.",
+      "target": "A Guild-issued piercing whose mysterious{j}power envelops the Hunter and maximizes{j}limb strength.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7635,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた頭防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Head armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Head armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7636,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた頭防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Head armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Head armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7637,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた頭防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Head armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Head armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8135,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる頭防具。意外と軽量。",
+      "previous": "Head armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Head armor said to absorb human sweat and{j}turn it into protective power.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8136,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる頭防具。意外と軽量。",
+      "previous": "Head armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Head armor said to absorb human sweat and{j}turn it into protective power.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8137,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる頭防具。意外と軽量。",
+      "previous": "Head armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Head armor said to absorb human sweat and{j}turn it into protective power.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source equipment description patterns."
+}
