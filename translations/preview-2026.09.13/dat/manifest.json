@@ -29,7 +29,7 @@
     {
       "file": "dat-equipment-description.csv",
       "rows": 68730,
-      "sha256": "4b589d620cf4d96f7a926c062f20d3f391da4acc93f8a4cc059af3d01413c59f"
+      "sha256": "92e7c56c2db56802f85ad78011004e0b206f0ee311894a374d839db4e57e2501"
     },
     {
       "file": "dat-items-description.csv",
@@ -44,7 +44,7 @@
     {
       "file": "dat-weapons-melee-description.csv",
       "rows": 17568,
-      "sha256": "af35abc8695b04b164b4830a29cadef073fdf140e61bda69077eaf1891b22ea4"
+      "sha256": "787e58700cecbd45b0c4f59236b468476a38b0ea170cc0adc852ce13acf3bef1"
     },
     {
       "file": "dat-weapons-melee-name.csv",

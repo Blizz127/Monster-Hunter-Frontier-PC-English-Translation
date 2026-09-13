@@ -1,0 +1,195 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56864,
+      "source": "極龍の力を具現する脚鎧。{j}持ち主の足は、龍の足音{j}を放ち、獲物を追い詰める。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}The wearer's feet give off the footfalls of a dragon{j}, cornering the prey.",
+      "target": "Leg armor of Extreme Dragon power.{j}Its wearer's steps sound like a dragon,{j}cornering prey.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56866,
+      "source": "極龍の力を具現する脚鎧。{j}持ち主の足は、龍の足音{j}を放ち、獲物を追い詰める。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}The wearer's feet give off the footfalls of a dragon{j}, cornering the prey.",
+      "target": "Leg armor of Extreme Dragon power.{j}Its wearer's steps sound like a dragon,{j}cornering prey.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56865,
+      "source": "極龍の力を具現する脚鎧。{j}その歩みは破壊を呼び、{j}狙われた獲物に襲い掛かる。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}Its stride brings destruction,{j}falling upon the prey it has marked.",
+      "target": "Leg armor of Extreme Dragon power.{j}Its stride brings destruction to marked{j}prey.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57305,
+      "source": "極龍の力を具現する脚鎧。{j}その歩みは破壊を呼び、{j}狙われた獲物に襲い掛かる。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}Its stride brings destruction,{j}falling upon the prey it has marked.",
+      "target": "Leg armor of Extreme Dragon power.{j}Its stride brings destruction to marked{j}prey.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56867,
+      "source": "極龍の力を具現する脚鎧。{j}その足音は地の果てまで{j}轟くような錯覚をもたらす。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}Its footfalls create the illusion that they{j}echo to the very ends of the earth.",
+      "target": "Leg armor of Extreme Dragon power.{j}Its footfalls seem to echo to the ends{j}of the earth.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57306,
+      "source": "極龍の力を具現する脚鎧。{j}その足音は地の果てまで{j}轟くような錯覚をもたらす。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}Its footfalls create the illusion that they{j}echo to the very ends of the earth.",
+      "target": "Leg armor of Extreme Dragon power.{j}Its footfalls seem to echo to the ends{j}of the earth.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57313,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の脚防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Leg armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon leg armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57316,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の脚防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Leg armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon leg armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60849,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した脚防具。",
+      "previous": "The craftswoman who made these leg armor pieces mysteriously vanished,{j}and the craftsman who inherited the work improved them through trial{j}and error.",
+      "target": "Leg armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60856,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した脚防具。",
+      "previous": "The craftswoman who made these leg armor pieces mysteriously vanished,{j}and the craftsman who inherited the work improved them through trial{j}and error.",
+      "target": "Leg armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60850,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した脚防具。",
+      "previous": "Legs armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Leg armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60857,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した脚防具。",
+      "previous": "Legs armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Leg armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60854,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた脚防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Legs armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This leg{j}armor was found in his room beside a{j}certain document.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60861,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた脚防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Legs armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This leg{j}armor was found in his room beside a{j}certain document.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 66035,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ脚防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Leg armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon leg armor.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 66036,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ脚防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Leg armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon leg armor.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 154,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の東門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the East Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the East Gate.~",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 219,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の東門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the East Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the East Gate.~",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 203,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の北門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the North Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the North Gate.~",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 222,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の北門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the North Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the North Gate.~",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    },
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Eight exact-source leg-armor and two melee-description patterns."
+}
