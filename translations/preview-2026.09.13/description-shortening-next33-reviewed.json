@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1576,
+      "source": "エスピナス亜種の頭を模した{j}マスク。環境に馴染み、毒に{j}強くなる。",
+      "previous": "A{j}mask modeled after the head of an Espinas Subspecies. Blends into the environment and becomes{j}resistant to poison.",
+      "target": "A{j}Espinas Subspecies mask.{j}Blends in and resists poison.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1847,
+      "source": "２本の巨大な角を設えた頭{j}防具。その存在感は、彼我の{j}闘志を掻き立てる諸刃の剣。",
+      "previous": "Head armor{j}adorned with two giant horns. Its sheer presence is a double-edged sword that stirs{j}the fighting spirit of friend and foe alike.",
+      "target": "Head armor{j}with two giant horns. Its presence stirs{j}the fighting spirit of friend and foe.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4518,
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な頭防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Head armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "target": "Heavy head armor of crimson fur and iron.{j}Crafted from Red Violent Beast materials.{j}Beautiful intricate metalwork.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10041,
+      "source": "大巌竜の素材を用いた頭用{j}防具。ほのかな温かさがあり、{j}大巌竜の魂を感じられる。",
+      "previous": "Head{j}armor made from Great Boulder Dragon materials. It has a faint warmth,{j}and you can feel the soul of the Great Boulder Dragon.",
+      "target": "Head{j}armor of Great Boulder Dragon materials.{j}Warmth reveals its dragon soul.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14654,
+      "source": "深い紫黒色をした胴用装備。{j}内に籠った黒狼鳥の怒りが{j}強度を何倍にも高めるという。",
+      "previous": "Body armor in deep purple-black.{j}The wrath of the Black Wolf Bird sealed within{j}is said to multiply its might many times over.",
+      "target": "Deep purple-black body armor.{j}Black Wolf Bird wrath sealed within{j}multiplies its strength many times.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14655,
+      "source": "傷つく度に、より強固に{j}再生するという黒狼鳥の甲殻{j}をふんだんに使った胴用装備。",
+      "previous": "Body gear that makes abundant use of the Black Wolf Bird's shell{j}, said to regenerate{j}even sturdier each time it is wounded.",
+      "target": "Body gear using Black Wolf Bird shell.{j}It is said to regenerate{j}even sturdier after each wound.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14708,
+      "source": "ギルドを守護するナイトの、{j}正式な胴用装備。輝く赤色は、{j}不屈の精神を表す。男性専用。",
+      "previous": "Official{j}body equipment of the Knight who guards the Guild. Its shining red color represents an{j}unyielding spirit. Male only.",
+      "target": "Official{j}body armor of the Guild Knight.{j}Shining red shows an unyielding spirit.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14719,
+      "source": "氷点下の炎に霞む、銀の太陽{j}の輝きを放つ防具。いかなる{j}攻撃も、命中の前に凍りつく。",
+      "previous": "Armor that radiates the{j}brilliance of a silver sun, hazy amid flames below freezing. Any{j}attack freezes solid before it lands.",
+      "target": "Armor radiating a silver sun's brilliance,{j}hazy in subzero flames. Any attack{j}freezes solid before it lands.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14804,
+      "source": "鋼龍の素材で作られた胴装備。{j}その荘厳さは古代の神像が動{j}き出したような印象を与える。",
+      "previous": "Body armor made from Kushala Daora's materials.{j}Its majesty gives the impression of an ancient idol{j}come to life.",
+      "target": "Body armor made from Kushala Daora.{j}Its majesty resembles an ancient idol{j}come to life.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14814,
+      "source": "東方に住む神々の戦装束を模{j}した胴装備。羽衣の如き形状{j}は風をはらみ衝撃を吸収する。",
+      "previous": "Body armor modeled{j}after the battle raiment of the gods who dwell in the East. Its feather-robe-like{j}form catches the wind and absorbs impacts.",
+      "target": "Eastern gods' battle gear.{j}Its feather-like form catches wind{j}and absorbs impacts.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source head- and body-armor description patterns."
+}

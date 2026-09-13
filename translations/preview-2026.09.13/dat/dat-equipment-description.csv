@@ -1575,7 +1575,7 @@ index,source,target
 1573,ある人の要望を受けて{j}開発された教官風の防具。{j}威厳が高まり自信が増す。,Instructor-style Armor developed at the{j}request of a certain person. Its dignity{j}rises and confidence grows.
 1574,エスピナスの頭を模した{j}マスク。頭部をしっかり{j}守り、気絶しにくくなる。,A mask modeled after the Espinas's head.{j}It firmly protects the head and makes you{j}less likely to be stunned.
 1575,エスピナスの頭を模した{j}マスク。火属性攻撃に強い。,A{j}mask modeled after the Espinas's head. Strong against Fire-element attacks.
-1576,エスピナス亜種の頭を模した{j}マスク。環境に馴染み、毒に{j}強くなる。,A{j}mask modeled after the head of an Espinas Subspecies. Blends into the environment and becomes{j}resistant to poison.
+1576,エスピナス亜種の頭を模した{j}マスク。環境に馴染み、毒に{j}強くなる。,A{j}Espinas Subspecies mask.{j}Blends in and resists poison.
 1577,エスピナス亜種の頭を模した{j}マスク。氷属性攻撃に強い。,A{j}mask modeled after the head of an Espinas Subspecies. Strong against Ice element attacks.
 1578,エスピナス希少種の頭を模し{j}たマスク。これをかぶると、{j}なぜか目がさえる。,A mask modeled after the head of the{j}Espinas Rare Species. Wearing it somehow{j}makes your eyes feel refreshed.
 1579,エスピナス希少種の頭を模し{j}たマスク。雷属性攻撃に強い。,A mask modeled after{j}the head of the Espinas Rare Species. Resistant to Thunder-element attacks.
@@ -1846,7 +1846,7 @@ index,source,target
 1844,最先端の技術が生み出した、{j}高性能な頭防具。メゼポルタ{j}を駆ける一陣の風となれ！,High-performance head armor made with{j}cutting-edge technology. Become a gust of{j}wind racing through Mezeporta!
 1845,最先端の技術が生み出した、{j}高性能な頭防具。メゼポルタ{j}を駆ける一陣の風となれ！,High-performance head armor made with{j}cutting-edge technology. Become a gust of{j}wind racing through Mezeporta!
 1846,最先端の技術が生み出した、{j}高性能な頭防具。メゼポルタ{j}を駆ける一陣の風となれ！,High-performance head armor made with{j}cutting-edge technology. Become a gust of{j}wind racing through Mezeporta!
-1847,２本の巨大な角を設えた頭{j}防具。その存在感は、彼我の{j}闘志を掻き立てる諸刃の剣。,Head armor{j}adorned with two giant horns. Its sheer presence is a double-edged sword that stirs{j}the fighting spirit of friend and foe alike.
+1847,２本の巨大な角を設えた頭{j}防具。その存在感は、彼我の{j}闘志を掻き立てる諸刃の剣。,Head armor{j}with two giant horns. Its presence stirs{j}the fighting spirit of friend and foe.
 1848,高名なハンターの装備を{j}再現した高品質の頭防具。{j}最高の安心感を得られる。,High-quality head armor that reproduces{j}the equipment of a famous Hunter. Grants{j}the ultimate peace of mind.
 1849,高名なハンターの装備を{j}再現した高品質の頭防具。{j}最高の安心感を得られる。,High-quality head armor that reproduces{j}the equipment of a famous Hunter. Grants{j}the ultimate peace of mind.
 1850,高名なハンターの装備を{j}再現した高品質の頭防具。{j}最高の安心感を得られる。,High-quality head armor that reproduces{j}the equipment of a famous Hunter. Grants{j}the ultimate peace of mind.
@@ -4519,7 +4519,7 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 4515,赤と青の牙獣種の柔らかい{j}素材で作った頭防具。{j}野生を感じさせる髪型でしょ？,"Head armor made from the soft material of{j}a red-and-blue Fanged Beast. The hairstyle{j}gives it a wild feel, doesn't it?"
 4516,相思相愛の狩人が身に付ける{j}ピアス。周囲からの嫉妬は{j}気にしない。{c11}≪Ｇ級狩護≫{/c},Piercings worn by{j}Hunters who share true love. Pay no mind to{j}the envy of others.{c11}≪G-Rank Hunting Guard≫{/c}
 4517,メゼポルタで流行中のピアス。{j}共に苦難を乗り越えた同士に{j}のみ与えられる。{c11}≪Ｇ級狩護≫{/c},A piercing currently popular in Mezepolta.{j}Given only to comrades{j}who have overcome hardships together.{c11}≪G-Rank Hunting Guard≫{/c}
-4518,赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な頭防具。{j}精巧な金属細工が美しい。,Heavy Head armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.
+4518,赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な頭防具。{j}精巧な金属細工が美しい。,Heavy head armor of crimson fur and iron.{j}Crafted from Red Violent Beast materials.{j}Beautiful intricate metalwork.
 4519,赤闘獣素材の頭防具に特殊な{j}素材を打ちつけて強化。野生{j}を感じる…。{c11}≪狩護防具≫{/c},Reinforced by riveting special{j}materials onto Head armor made from Red Violent Beast parts. You can feel the wild{j}...{c11}≪Hunting Guard Armor≫{/c}
 4520,青闘獣の藍毛や極鉄など素材{j}で生産した重厚な頭防具。{j}精巧な金属細工が美しい。,"Heavy Head Armor produced from Blue Beast{j}indigo fur, rare iron and other materials.{j}The exquisite metalwork is beautiful."
 4521,青闘獣素材の頭防具に特殊な{j}素材を打ちつけて強化。野生{j}を感じる…。{c11}≪狩護防具≫{/c},Reinforced by hammering a special{j}material into Head armor made from Blue Fanged Beast parts. You can feel the wild{j}...{c11}≪Hunting Guard Armor≫{/c}
@@ -10054,7 +10054,7 @@ Felyne partner, meow!{j}To the sea!"
 10038,大巌竜の素材を用いた頭用{j}防具。常に新たな狩猟を求め{j}る狩人へ向けられた逸品。,Head Armor crafted from Great Rock Dragon{j}materials. A gem meant for hunters forever{j}seeking new prey.
 10039,大巌竜の素材を用いた頭用{j}防具。常に新たな狩猟を求め{j}る狩人へ向けられた逸品。,Head Armor crafted from Great Rock Dragon{j}materials. A gem meant for hunters forever{j}seeking new prey.
 10040,大巌竜の素材を用いた頭用{j}防具。常に新たな狩猟を求め{j}る狩人へ向けられた逸品。,Head Armor crafted from Great Rock Dragon{j}materials. A gem meant for hunters forever{j}seeking new prey.
-10041,大巌竜の素材を用いた頭用{j}防具。ほのかな温かさがあり、{j}大巌竜の魂を感じられる。,"Head{j}armor made from Great Boulder Dragon materials. It has a faint warmth,{j}and you can feel the soul of the Great Boulder Dragon."
+10041,大巌竜の素材を用いた頭用{j}防具。ほのかな温かさがあり、{j}大巌竜の魂を感じられる。,Head{j}armor of Great Boulder Dragon materials.{j}Warmth reveals its dragon soul.
 10042,大巌竜の素材を用いた頭用{j}防具。大巌竜の魂を感じら{j}れる。{c11}≪狩護防具≫{/c},Head{j}armor made from Great Boulder Dragon materials. The soul of the Great Boulder Dragon can be{j}felt.{c11}≪Hunting Guard Armor≫{/c}
 10043,大巌竜の素材を用いた頭用{j}防具。進化し続ける狩人を{j}圧倒的耐久力で保護する。,Head Armor crafted from Great Rock Dragon{j}materials. Its overwhelming durability{j}shields the ever-evolving hunter.
 10044,大巌竜の素材を用いた頭用{j}防具。進化し続ける狩人を{j}圧倒的耐久力で保護する。,Head Armor crafted from Great Rock Dragon{j}materials. Its overwhelming durability{j}shields the ever-evolving hunter.
@@ -14667,8 +14667,8 @@ Felyne partner, meow!{j}To the sea!"
 14651,街を守護するという騎士の、{j}胴装備の廉価版。市販品とは{j}いえその加工は精緻を極める。,"Budget body armor of the knight said to{j}guard the town. Mass-produced, but its{j}craftsmanship is exquisite."
 14652,お店の看板娘の制服の市販版。{j}襟周りのデザインがおしゃれ。{j}女性のみが扱える。,The store-bought version of the shop{j}poster girl's uniform. The collar design{j}is stylish. Usable only by women.
 14653,お店の女性スタッフ用の{j}制服の同型品。清潔感のある{j}ベストが特長。,An identical copy of the uniform worn by{j}the shop's female staff. The clean vest is{j}its highlight.
-14654,深い紫黒色をした胴用装備。{j}内に籠った黒狼鳥の怒りが{j}強度を何倍にも高めるという。,Body armor in deep purple-black.{j}The wrath of the Black Wolf Bird sealed within{j}is said to multiply its might many times over.
-14655,傷つく度に、より強固に{j}再生するという黒狼鳥の甲殻{j}をふんだんに使った胴用装備。,"Body gear that makes abundant use of the Black Wolf Bird's shell{j}, said to regenerate{j}even sturdier each time it is wounded."
+14654,深い紫黒色をした胴用装備。{j}内に籠った黒狼鳥の怒りが{j}強度を何倍にも高めるという。,Deep purple-black body armor.{j}Black Wolf Bird wrath sealed within{j}multiplies its strength many times.
+14655,傷つく度に、より強固に{j}再生するという黒狼鳥の甲殻{j}をふんだんに使った胴用装備。,Body gear using Black Wolf Bird shell.{j}It is said to regenerate{j}even sturdier after each wound.
 14656,老山龍の素材で作られた男性{j}用胴丸。精巧な技術で仕立て{j}られた武具は暁に煌めく。,A cuirass for male made from Lao-Shan Lung{j}materials. The gear tailored with{j}exquisite skill gleams at daybreak.
 14657,老山龍の素材で作られた男性{j}用胴丸。究極の素材で作られ{j}た武具は曙光に輝く。,A cuirass for male made from Lao-Shan Lung{j}materials. The gear made from the ultimate{j}material shines in the dawn light.
 14658,老山龍の素材で作られた女性{j}用胴装備。一たび剣を抜けば、{j}風に舞う桜のごとし。,Women's body armor made from Lao-Shan Lung{j}materials. Drawing the sword is like{j}cherry blossoms in wind.
@@ -14721,7 +14721,7 @@ Felyne partner, meow!{j}To the sea!"
 14705,雲一つ無い澄みきった空の{j}ように心を無にできた者のみ{j}着ることが許された装束。,"Garments that only one who can empty{j}their mind like a cloudless, clear sky{j}is permitted to wear."
 14706,海のように限りなく慈悲深き{j}心を持つ者のみ着ることが{j}許された装束。,A raiment that only those with a{j}heart as endlessly merciful as the sea are{j}permitted to wear.
 14707,ギルドナイトの正式な胴装備。{j}細かな細工を施されたそれは、{j}すべてオーダーメイドの逸品。,"Official body armor for Guild Knights.{j}Exquisitely crafted,{j}each piece is a custom-made masterpiece."
-14708,ギルドを守護するナイトの、{j}正式な胴用装備。輝く赤色は、{j}不屈の精神を表す。男性専用。,Official{j}body equipment of the Knight who guards the Guild. Its shining red color represents an{j}unyielding spirit. Male only.
+14708,ギルドを守護するナイトの、{j}正式な胴用装備。輝く赤色は、{j}不屈の精神を表す。男性専用。,Official{j}body armor of the Guild Knight.{j}Shining red shows an unyielding spirit.
 14709,ギルドの看板娘の正式な制服。{j}襟周りと赤いベストが可愛ら{j}しい。女性のみが扱える。,The official uniform of the Guild's poster{j}girl. The collar and red vest give it a{j}charming look. Only women may wear it.
 14710,ギルドスタッフの正式な制服。{j}チェックのタイが可愛らしい{j}胴用装備。女性のみ着用可能。,Official uniform of the guild staff.{j}Body equipment with a cute checkered tie.{j}Women only.
 14711,老山龍の素材で作られた男性{j}用胴丸。精巧な技術で仕立て{j}られた武具は暁に煌めく。,A cuirass for male made from Lao-Shan Lung{j}materials. The gear tailored with{j}exquisite skill gleams at daybreak.
@@ -14732,7 +14732,7 @@ Felyne partner, meow!{j}To the sea!"
 14716,装備していることを忘れる程{j}軽い胴用防具。時折、皮膚が{j}鎧に侵食される錯覚を覚える。,"Body armor so light you forget you're{j}wearing it. At times, you feel as if your{j}skin is being eroded by the armor."
 14717,見上げた月に舞う女王の胴用{j}装備。その黄金色を曇らせる{j}ことは、何者にもできない。,Body armor of the queen who dances in the{j}moon above. None can tarnish its golden{j}hue.
 14718,工房の技術を超えた力を持つ、{j}金色の月からの贈り物。灼熱{j}の火炎にもまったく動じない。,{j}Golden moon gift beyond the forge.{j}Unfazed by scorching flames.
-14719,氷点下の炎に霞む、銀の太陽{j}の輝きを放つ防具。いかなる{j}攻撃も、命中の前に凍りつく。,"Armor that radiates the{j}brilliance of a silver sun, hazy amid flames below freezing. Any{j}attack freezes solid before it lands."
+14719,氷点下の炎に霞む、銀の太陽{j}の輝きを放つ防具。いかなる{j}攻撃も、命中の前に凍りつく。,"Armor radiating a silver sun's brilliance,{j}hazy in subzero flames. Any attack{j}freezes solid before it lands."
 14720,熱いという言葉すら超越した、{j}銀色の炎をともすリオレウス{j}の胴装備。神がかった防御力。,"Body armor of a Rathalos wreathed in a{j}silver flame, transcending even the word{j}hot. Godlike Defense."
 14721,革をベースに軽い素材で作ら{j}れた胴用装備。使い勝手と{j}防御力を両立。,Body armor made{j}from light materials over leather.{j}Balances ease of use and Defense.
 14722,チェーンで編まれた胴用装備。{j}革に比べ頑丈。多くの{j}ハンターを守ってきた防具。,Body armor woven from chainmail. Sturdier{j}than leather. Armor that has protected{j}many Hunters.
@@ -14817,7 +14817,7 @@ Felyne partner, meow!{j}To the sea!"
 14801,闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷によ{j}りその報いを受けるであろう。,A robe of light that flickers in darkness.{j}Careless intruders are punished by{j}lightning.
 14802,天を裂く雷で編まれたとされ{j}る蒼白の衣。あらゆる衝撃は{j}白光により直前で遮断される。,A pale robe woven from heaven-splitting{j}lightning. White light blocks every shock{j}before impact.
 14803,闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷によ{j}りその報いを受けるであろう。,A robe of light that flickers in darkness.{j}Careless intruders are punished by{j}lightning.
-14804,鋼龍の素材で作られた胴装備。{j}その荘厳さは古代の神像が動{j}き出したような印象を与える。,Body armor made from Kushala Daora's materials.{j}Its majesty gives the impression of an ancient idol{j}come to life.
+14804,鋼龍の素材で作られた胴装備。{j}その荘厳さは古代の神像が動{j}き出したような印象を与える。,Body armor made from Kushala Daora.{j}Its majesty resembles an ancient idol{j}come to life.
 14805,クシャルダオラの鋼の如き{j}素材で作られた胴装備。{j}その素材に常に風をまとう。,Body armor made from the{j}steel-like materials of Kushala Daora.{j}Those materials are ever wrapped in wind.
 14806,オオナズチの素材を用いた胴{j}装備。工房最新の技術との融{j}合が優れた性能を生み出した。,Body armor made using Chameleos materials.{j}Its fusion with the workshop's latest{j}technology produced superior performance.
 14807,オオナズチの素材を用いた胴{j}装備。姿を隠すことはできな{j}いが、隠密性に富む。,"Body armor made using Chameleos materials.{j}It cannot render you invisible, but it{j}excels at concealment."
@@ -14827,7 +14827,7 @@ Felyne partner, meow!{j}To the sea!"
 14811,鋼をはるかに上回る堅牢さを{j}誇る胴用装備。何者もこれを{j}揺るがすことはできない。,Body armor that boasts sturdiness far{j}surpassing steel. Nothing can shake it.{j}
 14812,炎王龍テオ・テスカトルの{j}赤き炎を封じ込めた胴用装備。{j}伝説上の覇王の如き峻厳さ。,Body armor that seals Teostra's red flame.{j}Its sternness is like that of a legendary{j}overlord.
 14813,赤き業火をまとう炎王龍。{j}その素材を秘伝の技術で{j}練り上げた至上の胴用装備。,A Teostra clad in crimson hellfire.{j}Supreme body equipment forged{j}from its materials with secret techniques.
-14814,東方に住む神々の戦装束を模{j}した胴装備。羽衣の如き形状{j}は風をはらみ衝撃を吸収する。,Body armor modeled{j}after the battle raiment of the gods who dwell in the East. Its feather-robe-like{j}form catches the wind and absorbs impacts.
+14814,東方に住む神々の戦装束を模{j}した胴装備。羽衣の如き形状{j}は風をはらみ衝撃を吸収する。,Eastern gods' battle gear.{j}Its feather-like form catches wind{j}and absorbs impacts.
 14815,東方の極楽に住まう神々の戦{j}装束を模した胴用装備。浮岳{j}龍の素材と伝説の技術の結晶。,Body armor modeled after the battle{j}garb of the gods who dwell in the Eastern paradise. A crystallization of Yama Tsukami{j}materials and legendary craft.
 14816,金獅子の素材を使用した胴用{j}装備。その黄金の毛並みは獣{j}毛とは思えない壮麗さを放つ。,Body armor made using Rajang materials.{j}Its golden fur radiates a splendor that is{j}unimaginable for beast fur.
 14817,ラージャンの素材を使用した{j}漆黒の胴用装備。強者のみが{j}身につけることを許される。,Jet-black body armor made using Rajang{j}materials. Only the strong are{j}permitted to wear it.
