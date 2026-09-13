@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1361,
+      "source": "更なる強化の可能性を模索し{j}方向性を変えて再設計された{j}極短剣。修羅の道へようこそ。",
+      "previous": "In search of further upgrade possibilities, it was redesigned with a changed{j}direction into an{j}ultra-short sword. Welcome to the path of the Asura.",
+      "target": "Redesigned as an ultra-short sword after{j}seeking further upgrades. Welcome to the{j}path of the Asura.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1362,
+      "source": "更なる強化の可能性を模索し{j}方向性を変えて再設計された{j}極短剣。修羅の道へようこそ。",
+      "previous": "In search of further upgrade possibilities, it was redesigned with a changed{j}direction into an{j}ultra-short sword. Welcome to the path of the Asura.",
+      "target": "Redesigned as an ultra-short sword after{j}seeking further upgrades. Welcome to the{j}path of the Asura.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1363,
+      "source": "更なる強化の可能性を模索し{j}方向性を変えて再設計された{j}極短剣。修羅の道へようこそ。",
+      "previous": "In search of further upgrade possibilities, it was redesigned with a changed{j}direction into an{j}ultra-short sword. Welcome to the path of the Asura.",
+      "target": "Redesigned as an ultra-short sword after{j}seeking further upgrades. Welcome to the{j}path of the Asura.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5167,
+      "source": "この大剣と相まみえし者は、{j}あまりの威圧感にその場から{j}一歩も動けなくなるという。",
+      "previous": "It is said that those who face this Great Sword are{j}so overwhelmed by its intimidating presence that they cannot{j}move a single step from where they stand.",
+      "target": "Those who face this Great Sword are{j}overwhelmed by its presence and cannot{j}move a single step.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5168,
+      "source": "この大剣と相まみえし者は、{j}あまりの威圧感にその場から{j}一歩も動けなくなるという。",
+      "previous": "It is said that those who face this Great Sword are{j}so overwhelmed by its intimidating presence that they cannot{j}move a single step from where they stand.",
+      "target": "Those who face this Great Sword are{j}overwhelmed by its presence and cannot{j}move a single step.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5169,
+      "source": "この大剣と相まみえし者は、{j}あまりの威圧感にその場から{j}一歩も動けなくなるという。",
+      "previous": "It is said that those who face this Great Sword are{j}so overwhelmed by its intimidating presence that they cannot{j}move a single step from where they stand.",
+      "target": "Those who face this Great Sword are{j}overwhelmed by its presence and cannot{j}move a single step.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5449,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}氷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Ice and Poison attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. A masterpiece{j}combining Ice and Poison.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5450,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}氷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Ice and Poison attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. A masterpiece{j}combining Ice and Poison.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5451,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}氷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Ice and Poison attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. A masterpiece{j}combining Ice and Poison.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5461,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}雷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Thunder and Poison attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. A masterpiece{j}combining Thunder and Poison.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5462,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}雷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Thunder and Poison attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. A masterpiece{j}combining Thunder and Poison.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5463,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}雷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Thunder and Poison attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. A masterpiece{j}combining Thunder and Poison.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5465,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}龍と睡眠属性を両立させた。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It combines Dragon and Sleep attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. It combines Dragon{j}and Sleep attributes.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5466,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}龍と睡眠属性を両立させた。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It combines Dragon and Sleep attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. It combines Dragon{j}and Sleep attributes.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5467,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}龍と睡眠属性を両立させた。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It combines Dragon and Sleep attributes.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. It combines Dragon{j}and Sleep attributes.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5469,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}何でも眠らすことができる。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It can put anything to sleep.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. It can put anything{j}to sleep.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5470,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}何でも眠らすことができる。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It can put anything to sleep.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. It can put anything{j}to sleep.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 5471,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}何でも眠らすことができる。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It can put anything to sleep.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. It can put anything{j}to sleep.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6789,
+      "source": "古の装飾が施された白い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Though meant for ceremony, it also{j}possesses practicality--a masterpiece by a master smith.",
+      "target": "A white Great Sword with ancient{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6790,
+      "source": "古の装飾が施された白い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Though meant for ceremony, it also{j}possesses practicality--a masterpiece by a master smith.",
+      "target": "A white Great Sword with ancient{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6791,
+      "source": "古の装飾が施された白い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Though meant for ceremony, it also{j}possesses practicality--a masterpiece by a master smith.",
+      "target": "A white Great Sword with ancient{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6793,
+      "source": "古の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "A black Great Sword with ancient{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6794,
+      "source": "古の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "A black Great Sword with ancient{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6795,
+      "source": "古の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "A black Great Sword with ancient{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 7024,
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。非常に軽い{j}武器な上、リーチは極長。",
+      "previous": "A Sword & Shield that{j}applies the magnetism symbolizing the Magnet Dragon's power. Not only is it an extremely light{j}weapon, its reach is exceptional.",
+      "target": "A Sword & Shield using the Magnet Dragon's{j}power. Extremely light, with an{j}exceptionally long reach.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 7028,
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。非常に軽い{j}武器な上、リーチは極長。",
+      "previous": "A Sword & Shield that{j}applies the magnetism symbolizing the Magnet Dragon's power. Not only is it an extremely light{j}weapon, its reach is exceptional.",
+      "target": "A Sword & Shield using the Magnet Dragon's{j}power. Extremely light, with an{j}exceptionally long reach.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 7032,
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。非常に軽い{j}武器な上、リーチは極長。",
+      "previous": "A Sword & Shield that{j}applies the magnetism symbolizing the Magnet Dragon's power. Not only is it an extremely light{j}weapon, its reach is exceptional.",
+      "target": "A Sword & Shield using the Magnet Dragon's{j}power. Extremely light, with an{j}exceptionally long reach.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8106,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}精巧な研磨により切っ先鋭い。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}Its tip is sharp due to meticulous polishing.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. Meticulous polishing{j}gives it a sharp tip.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8107,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}精巧な研磨により切っ先鋭い。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}Its tip is sharp due to meticulous polishing.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. Meticulous polishing{j}gives it a sharp tip.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8108,
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}精巧な研磨により切っ先鋭い。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}Its tip is sharp due to meticulous polishing.",
+      "target": "A Sword & Shield born from advanced{j}Workshop techniques. Meticulous polishing{j}gives it a sharp tip.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source melee-description patterns."
+}
