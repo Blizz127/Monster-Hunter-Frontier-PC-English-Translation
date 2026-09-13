@@ -7034,7 +7034,7 @@ but devised to further improve{j}its attack power."
 7027,極龍の力の象徴である磁力を{j}応用した片手剣。龍と睡眠の{j}双属性で、モンスターを狩れ。,"A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its{j}dual Dragon and Sleep attributes, hunt monsters."
 7028,極龍の力の象徴である磁力を{j}応用した片手剣。非常に軽い{j}武器な上、リーチは極長。,"A Sword & Shield using the Magnet Dragon's{j}power. Extremely light, with an{j}exceptionally long reach."
 7029,極龍の力の象徴である磁力を{j}応用した片手剣。ハンターは{j}周回する黒曜石で守られる。,A Sword & Shield that applies the magnetism{j}symbolizing the Magnet Dragon's power. The Hunter{j}is guarded by circling obsidian.
-7030,極龍の力の象徴である磁力を{j}応用した片手剣。龍と睡眠の{j}双属性で、畏れを薙ぎ払え！,"A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its dual Dragon and Sleep{j}attributes, mow down all fear!"
+7030,極龍の力の象徴である磁力を{j}応用した片手剣。龍と睡眠の{j}双属性で、畏れを薙ぎ払え！,Sword & Shield using Extreme Dragon power.{j}Dragon and Sleep elements let{j}you mow down fear!
 7031,極龍の力の象徴である磁力を{j}応用した片手剣。龍と毒の{j}双属性で、モンスターを狩れ。,A Sword & Shield that applies the magnetism{j}symbolizing the Magnet Dragon's power. Hunt{j}monsters with its dual Dragon and Poison elements.
 7032,極龍の力の象徴である磁力を{j}応用した片手剣。非常に軽い{j}武器な上、リーチは極長。,"A Sword & Shield using the Magnet Dragon's{j}power. Extremely light, with an{j}exceptionally long reach."
 7033,極龍の力の象徴である磁力を{j}応用した片手剣。ハンターは{j}周回する黒曜石で守られる。,A Sword & Shield that applies the magnetism{j}symbolizing the Magnet Dragon's power. The Hunter{j}is guarded by circling obsidian.
@@ -8662,8 +8662,8 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 8652,岩竜の甲殻を削り出して{j}作られた、無骨な狩猟笛。{j}弦の振動は独特な音を奏でる。,A rugged Hunting Horn carved from Basarios{j}carapace. The vibration of its strings produces a{j}unique tone.
 8653,バサルモスの大きな翼を{j}加工して作られた槍。{j}突く際に睡眠ガスを噴出する。,A lance made by working the{j}great wings of a Basarios.{j}Sprays sleep gas when thrust.
 8654,希少な鉱石を鍛造して作り{j}上げられた銃槍。シンプル{j}故に壊れにくい。,"A Gunlance forged{j}from rare ore. Simple,{j}and therefore hard to break."
-8655,甲殻種素材の堅さと鋭さを{j}可能な限り活かした片手剣。{j}職人の優れた研磨の技も秀逸。,A Sword & Shield that exploits the hardness and sharpness of Carapaceon materials{j}to the fullest.{j}The craftsman's superb polishing is also outstanding.
-8656,鎌蟹の爪が持つ鋭さを{j}再現した双剣。二刀六刃の{j}角度まで探究されている。,These Dual Blades reproduce the sharpness of the Shogun Ceanataur's claws.{j}Even the angles of the two blades and six edges{j}have been thoroughly investigated.
+8655,甲殻種素材の堅さと鋭さを{j}可能な限り活かした片手剣。{j}職人の優れた研磨の技も秀逸。,Sword & Shield using Carapaceon materials{j}to maximize hardness and sharpness.{j}Polished by a master craftsman.
+8656,鎌蟹の爪が持つ鋭さを{j}再現した双剣。二刀六刃の{j}角度まで探究されている。,Dual Blades recreating Shogun Ceanataur{j}claw sharpness. Their twin blades and six{j}edges were precisely researched.
 8657,獲物に多大なダメージを与える{j}鋭利な刃を有する大剣。無数の{j}棘がさらなるダメージを生む。,A Great Sword with keen blades that deal massive{j}damage to prey. Countless thorns inflict even more{j}damage.
 8658,見る者に寒気すら与える、{j}深海のごとく蒼き太刀。{j}鋭い棘がより恐怖を醸し出す。,"A Long Sword blue as the{j}deep sea, chilling even those who see it.{j}Its keen thorns stir even greater fear."
 8659,無数の棘を有する大斧。{j}非常に鋭いため、持ち主さえ{j}気を抜けない。,A great axe covered in countless spines.{j}So sharp that even its owner{j}cannot let his guard down.
@@ -9071,12 +9071,12 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 9061,朱蒼の銃槍が狩りを{j}闘いに変える。,The Vermilion Azure Gunlance turns the hunt into{j}combat.
 9062,様々な素材を超高温で一度{j}溶かし、成形した銃槍。表面{j}の模様は成形時にできたもの。,A Gunlance shaped by melting various materials{j}all at once at ultra-high heat. The{j}pattern on its surface formed during casting.
 9063,轟竜の特殊素材で打ち直され、{j}全てのスペックが大幅に底上{j}げされた銃槍。,"A Gunlance reforged from Tigrex special{j}materials, with every spec vastly{j}improved."
-9064,呑龍の伸縮性による衝撃緩和と{j}優れた保湿性による耐熱効果に{j}より強力な一撃を放つ。,"Cushions impacts through the Glutton Dragon's elasticity, and{j}its superb moisture retention grants heat resistance,{j}letting it unleash an even more powerful blow."
+9064,呑龍の伸縮性による衝撃緩和と{j}優れた保湿性による耐熱効果に{j}より強力な一撃を放つ。,"Glutton Dragon elasticity cushions blows.{j}Moisture retention grants heat resistance,{j}unleashing a stronger blow."
 9065,活火山が如き脈動を秘めた{j}銃槍。噴き上げる砲撃はさな{j}がら大地の怒号のよう。,A{j}Gunlance concealing a pulse like an active volcano.{j}Its erupting shells are like the roar of the earth.
 9066,棘竜の素材を使用した銃槍。{j}その砲撃は、主の咆哮の如く{j}獲物を薙ぎ倒す。,"A Gunlance made from Espinas materials.{j}Its shelling, like the roar of the lord,{j}mows down the prey."
 9067,放たれた砲弾が数日間放電し続{j}けるほど、強力な雷気をまとっ{j}たガンランス。,A Gunlance clad in such powerful lightning{j}that its fired shells keep{j}discharging for days on end.
 9068,怪鳥と黒狼鳥の素材から{j}作られた銃槍。ハンターへの{j}憎悪がこめられた凶悪な武器。,A Gunlance forged from the materials of Yian Kut-Ku{j}and Yian Garuga. A vicious weapon steeped in hatred{j}for Hunters.
-9069,尾晶蠍の麻痺性と高い耐熱性{j}により、撃って良し、殴って{j}良しの強力な武器となった。,"Thanks to the Crystal-Tailed Scorpion's paralysis and high heat resistance{j}, it became a powerful weapon that is good for shooting and{j}good for striking."
+9069,尾晶蠍の麻痺性と高い耐熱性{j}により、撃って良し、殴って{j}良しの強力な武器となった。,Crystal-Tailed Scorpion paralysis and heat{j}resistance make this weapon powerful for{j}both shooting and striking.
 9070,狩人の闘争心に火をつける{j}槍先に特殊な技巧を施した{j}蛮竜の銃槍。,"A Gunlance of the Barbarian Dragon that{j}ignites the fighting spirit of Hunters,{j}with special techniques applied to its spearhead."
 9071,取回しを重視して、砲身が{j}細く作られている銃槍。砲撃{j}よりは刺突に向く。,"Built for ease of handling, this Gunlance has a{j}slender barrel. It favors thrusting over{j}shelling."
 9072,砲唸ルトキ、{j}凍レル時、動キ出ス。,"When the cannon roars,{j}when it freezes, it starts to move."
@@ -9600,12 +9600,12 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 9590,子供の息災を願って作られた{j}美しき太刀。所持者の心身を{j}強化し、守護するという。,A beautiful Long Sword made to wish for a child's{j}well-being. It is said to strengthen and protect{j}the bearer's body and mind.
 9591,伝わる心は想いの強さ。{j}通じた願いは星々の贈り物。{j}ササ姫伝説・五章,"The heart that reaches is the strength of feeling.{j}A wish that comes true is a gift from the stars.{j}Princess Sasa Legend, Chapter 5"
 9592,東方の地で作られる飾り。{j}ふたつの想いが重なるとき、{j}短冊の願いは叶うという。,"A decoration made in the eastern lands.{j}When two feelings overlap,{j}the wish on the strip is said to come true."
-9593,言い伝えられている昔話。男{j}女の名を冠した星々が重なる{j}時の煌きを音に込めた狩猟笛。,A legend passed down through the ages. A{j}Hunting Horn that sets to sound the brilliance{j}of the moment when stars bearing a man's and woman's names align.
+9593,言い伝えられている昔話。男{j}女の名を冠した星々が重なる{j}時の煌きを音に込めた狩猟笛。,A Hunting Horn sounding a legend of stars.{j}It captures the glow when stars bearing a{j}man's and woman's names align.
 9594,古の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword & Shield adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 9595,古の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword & Shield adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 9596,古の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword & Shield adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 9597,古の装飾が施された黒い片手{j}剣。名工謹製の逸品。{j}{c16}≪親方印≫{/c},A black Sword{j}& Shield adorned with ancient ornamentation. A masterpiece crafted by a master artisan.{j}{c16}≪Master Mark≫{/c}
-9598,古の装飾が施された黒い片手{j}剣。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。,"A black Sword{j}& Shield adorned with ancient ornamentation. Forged{j}from what was once ceremonial, it was elevated into a supreme masterpiece."
+9598,古の装飾が施された黒い片手{j}剣。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。,"Black Sword & Shield, ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece."
 9599,古の装飾が施された黒い銃槍。{j}名工謹製の逸品。{j}{c03}砲撃LV2{/c}。,A black Gunlance adorned with ancient ornamentation.{j}A masterpiece by a master artisan.{j}{c03}Shelling LV2{/c}.
 9600,古の装飾が施された黒い銃槍。{j}名工謹製の逸品。{j}{c03}砲撃LV3{/c}。,A black Gunlance adorned with ancient ornamentation.{j}A masterpiece by a master artisan.{j}{c03}Shelling LV3{/c}.
 9601,古の装飾が施された黒い銃槍。{j}名工謹製の逸品。{j}{c03}砲撃LV4{/c}。,A black Gunlance adorned with ancient ornamentation.{j}A masterpiece by a master artisan.{j}{c03}Shelling LV4{/c}.
@@ -9615,7 +9615,7 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 9605,古の装飾が施された黒い狩猟{j}笛。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Hunting Horn adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 9606,古の装飾が施された黒い狩猟{j}笛。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Hunting Horn adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 9607,古の装飾が施された黒い狩猟{j}笛。名工謹製の逸品。{j}{c16}≪親方印≫{/c},A black Hunting{j}Horn adorned with ancient ornamentation. A masterpiece crafted by a master artisan.{j}{c16}≪Master Mark≫{/c}
-9608,古の装飾が施された黒い狩猟{j}笛。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。,"A black Hunting{j}Horn adorned with ancient ornamentation. Forged{j}from what was once ceremonial, it was elevated into a supreme masterpiece."
+9608,古の装飾が施された黒い狩猟{j}笛。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。,Black Hunting Horn with ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece.
 9609,古の装飾が施された黒い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"A black Great Sword adorned with ancient{j}decorations. Forged from a ceremonial piece, it has{j}been elevated to a supreme masterpiece."
 9610,古の装飾が施された黒い鎚。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"A black Hammer adorned with ancient ornamentation.{j}What was once ceremonial has been reforged,{j}sublimated into a supreme masterpiece."
 9611,古の装飾が施された黒い槍。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"A black Lance adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece."
@@ -11603,7 +11603,7 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 11593,棘竜の素材を使用し、その{j}形状と棘から叩いた相手を{j}削る様な一撃で攻撃する。,Made from Espinas materials. Its{j}form and thorns deliver blows that{j}grind down whatever they strike.
 11594,暴鋸竜をイメージして作ら{j}れた穿龍棍。ついている棘が、{j}暴鋸竜の凶暴さを物語る。,A Tonfa crafted in the image of a Saw Wyvern. The{j}spikes on it speak of the beast's ferocity.{j}
 11595,硬い尾晶蠍素材を用いた{j}屈強な穿龍棍。繰り出される{j}豪打で獲物を破壊する。,A mighty Tonfa made from hard Akura materials. It{j}destroys its prey with the crushing blows it{j}unleashes.
-11596,雷極龍を素材とし、その力を{j}宿した穿龍棍。龍の爪と角を{j}思わせる棍が敵を屠る。,"Using the Thunder Extreme Dragon as material, its power{j}A Tonfa imbued with the claws and horns of a dragon.{j}A staff that makes you think slays the enemy."
+11596,雷極龍を素材とし、その力を{j}宿した穿龍棍。龍の爪と角を{j}思わせる棍が敵を屠る。,"Tonfa made with Thunder Extreme Dragon{j}power, its claws and horns evoking a{j}dragon as it fells enemies."
 11597,天を翔る古龍を素材とした{j}穿龍棍。荘厳さと神秘性を{j}兼ね備えた希少な武器。,A Tonfa crafted from an Elder Dragon that soars the{j}heavens. A rare weapon that combines solemnity and{j}mystery.
 11598,黒狐竜の素材により作成さ{j}れた穿龍棍。刃を付けて殺傷{j}力を強化した、無慈悲な武器。,A Dragon-Piercing Rod crafted{j}from Black Fox Wyvern materials. A merciless{j}weapon fitted with blades to enhance its lethality.
 11599,熾セシ罪、凍リシ咎ハ{j}一線ヲ越エタ者ヘノ代償カ。,"A blazing sin, a freezing transgression{j}the price for those who crossed the line?"
@@ -11677,7 +11677,7 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 11667,キャラバンの民に多大な貢献{j}をした証。防御力に特化し{j}ている。{c11}≪ＨＣ武器≫{/c},Proof of great service{j}to the Caravan folk. Specialized in{j}Defense.{c11}≪HC Weapon≫{/c}
 11668,キャラバンの民に協力して{j}いく中で作られた武器。{j}防御力向上に技術を集めた。,A weapon forged while{j}aiding the Caravan folk.{j}All its craft is devoted to raising Defense.
 11669,キャラバンの民に協力して{j}いく中で作られた武器。{j}防御力向上に技術を集めた。,A weapon forged while{j}aiding the Caravan folk.{j}All its craft is devoted to raising Defense.
-11670,鍛錬を重ね、さらなる進化を{j}遂げた大剣。宿す光は輝きを{j}増し、その力は王者の風格。,"A Great Sword that has{j}achieved further evolution through repeated forging. The light it houses increases{j}its brilliance, and its power has the dignity of a king."
+11670,鍛錬を重ね、さらなる進化を{j}遂げた大剣。宿す光は輝きを{j}増し、その力は王者の風格。,"Great Sword refined through long training.{j}Its stored light shines brighter, with the{j}bearing of a king."
 11671,良い武器に最も必要なのは愛{j}と情熱であると逆説的に証明{j}した双剣。,Dual Blades that ironically prove{j}that what a good weapon needs most{j}is love and passion.
 11672,良い武器に最も必要なのは愛{j}と情熱であると逆説的に証明{j}した双剣。,Dual Blades that ironically prove{j}that what a good weapon needs most{j}is love and passion.
 11673,ハンターの功績を称え、ギル{j}ドから贈与される太刀。{j}{c11}≪ＨＣ武器≫{/c},A Long Sword awarded by the Guild{j}in honor of a Hunter's achievements.{j}{c11}≪HC Weapon≫{/c}

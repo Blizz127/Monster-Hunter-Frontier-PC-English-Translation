@@ -1,0 +1,457 @@
+{
+  "depends_on_candidate": "description-shortening-next42-candidate",
+  "status": "Pending verification",
+  "records_count": 60,
+  "patterns": [
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 841
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 843
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2215
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2216
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2897
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2899
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15264
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15266
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16414
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16415
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17006
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17008
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28722
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28724
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29863
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29864
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30455
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30457
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42264
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42266
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43474
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43475
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44065
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44067
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55885
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55887
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57028
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57029
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57619
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57621
+        }
+      ]
+    },
+    {
+      "source": "遠国の少女が使用した槍を{j}模した太刀。少女の言葉は{j}届かず同胞の心は闇に染まる。",
+      "previous": "A Long Sword{j}modeled after the spear used by a girl from a distant land. The girl's words did not{j}reach, and her brethren's hearts were stained in darkness.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 12499
+        }
+      ]
+    },
+    {
+      "source": "緑の装飾が施された黒い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Great Sword adorned with green ornamentation.{j}Forged from what was once a ceremonial blade,{j}it has been refined into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14096
+        }
+      ]
+    },
+    {
+      "source": "緑の装飾が施された黒い狩猟{j}笛。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。",
+      "previous": "A black Hunting{j}Horn adorned with green ornamentation. Forged{j}from what was once a ceremonial instrument, it has been refined into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14106
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14118
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い双剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "White Dual Blades adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}they were elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14121
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い太刀。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A white Long Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14122
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された片手剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A Sword & Shield forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14153
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された双剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A set of Dual Blades created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14154
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された大剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A Great Sword created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14155
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された太刀。{j}持ち主に風の力を宿すという。",
+      "previous": "A Long Sword forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14156
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された鎚。{j}持ち主に風の力を宿すという。",
+      "previous": "A Hammer forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14157
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された狩猟笛。{j}持ち主に風の力を宿すという。",
+      "previous": "A Hunting Horn forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14158
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された槍。{j}持ち主に風の力を宿すという。",
+      "previous": "A Lance forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14159
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された銃槍。{j}持ち主に風の力を宿すという。",
+      "previous": "A Gunlance forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14160
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された穿龍棍。{j}持ち主に風の力を宿すという。",
+      "previous": "A Tonfa forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14161
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の騎士の{j}伝承を元に作成された片手剣。{j}かつて世界を支配したという。",
+      "previous": "A Sword & Shield crafted from the{j}legend of a knight from a distant land, passed down since ancient times.{j}It is said to have once ruled the world.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14412
+        }
+      ]
+    },
+    {
+      "source": "帝征龍の魂が宿る剣斧。所持{j}者の力を高みへと導き、抗え{j}ぬ程の力で相手を蹂躙する。",
+      "previous": "A Switch Axe inhabited by the soul of the Emperor Dragon. It guides the power of its wielder{j}to new heights, and overwhelms the opponent with an irresistible{j}force.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14675
+        }
+      ]
+    },
+    {
+      "source": "蒼火竜と桜火竜の甲殻を用いた{j}剣斧。二対の火竜を制した証で{j}あり、その証たる力を秘める。",
+      "previous": "{j}A Switch Axe made from the shells of the Azure Rathalos and Pink Rathalos. It is{j}proof of having conquered two pairs of fire wyverns and holds power worthy of that proof.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14682
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い太刀。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Long Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14766
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された剣斧。{j}持ち主に風の力を宿すという。",
+      "previous": "A Switch Axe created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14994
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された重銃。{j}持ち主に風の力を宿すという。",
+      "previous": "A Heavy Bowgun forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-ranged-description.csv",
+          "index": 3249
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された弓。{j}持ち主に風の力を宿すという。",
+      "previous": "A Bow forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-ranged-description.csv",
+          "index": 3250
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い軽弩。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Light Bowgun adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-ranged-description.csv",
+          "index": 3539
+        }
+      ]
+    },
+    {
+      "source": "東方の極楽に住まう神々の戦{j}装束を模した胴用装備。浮岳{j}龍の素材と伝説の技術の結晶。",
+      "previous": "Body armor modeled after the battle{j}garb of the gods who dwell in the Eastern paradise. A crystallization of Yama Tsukami{j}materials and legendary craft.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14815
+        }
+      ]
+    },
+    {
+      "source": "滑らかな光沢を持つ特殊合金{j}製の防具。金の細工が、夜空{j}を流れる星の大河を思わせる。",
+      "previous": "Armor made from a special alloy{j}with a smooth gloss. Its goldwork calls to mind{j}a great river of stars flowing across the night sky.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55238
+        }
+      ]
+    },
+    {
+      "source": "メラルーの足を模した脚用装{j}備。歩くたびに足裏から伝わ{j}る肉球の感触が好評。",
+      "previous": "Leg equip{j}ment modeled after a Melynx's foot. The feel of the paw pads transmit{j}ted through your soles with every step is popular.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55467
+        }
+      ]
+    },
+    {
+      "source": "黒きを滅ぼすという名の龍剣。{j}龍の唸りに呼応して振動し、{j}その威力を数倍に増すという。",
+      "previous": "A dragon sword named for the destruction of blackness. It vibrates in answer to{j}a dragon's roar,{j}and is said to multiply its power severalfold.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 344
+        }
+      ]
+    },
+    {
+      "source": "一見何の変哲もないが、盾蟹{j}素材の一等堅い部分だけを削{j}りぬいて作られた乙な片手剣。",
+      "previous": "Though unremarkable at first glance, this tasteful Sword & Shield was made from Daimyo Hermitaur{j}materials by carving{j}away all but the hardest parts.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8609
+        }
+      ]
+    },
+    {
+      "source": "銀の装飾が施された黒い穿龍{j}棍。儀礼用であったが実用性{j}も兼ね備えた至高の逸品。",
+      "previous": "A black Tonfa{j}adorned with silver ornaments. Though it was for ceremonial use, it possesses practicality{j}as well, making it a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 13208
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}辺りが凍るほどの寒さを放つ。",
+      "previous": "A steel Great Sword forged by{j}combining Kushala Daora's materials with an ancient Great Sword. It gives off{j}a cold intense enough to freeze the air around it.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14637
+        }
+      ]
+    }
+  ]
+}
