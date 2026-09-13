@@ -218,10 +218,10 @@ index,source,target
 216,炎妃龍の素材を練り上げた頭{j}装備。特徴的な頭飾りには、{j}青き炎がゆらめくという。,Head equipment forged from Lunastra{j}materials. A blue flame is said to flicker{j}on its distinctive headdress.
 217,古の巨神をかたどった頭装備。{j}砦蟹の年経た素材には神が{j}宿るという。,Head armor modeled after an ancient giant{j}deity. A god is said to dwell within the{j}aged materials of a Fortress Crab.
 218,往古の神具を模した頭用装備。{j}数多の星霜を経た砦蟹素材は、{j}神への供物にふさわしい。,Head gear modeled after ancient sacred{j}implements. Aged Fortress Crab materials{j}make worthy offerings to the gods.
-219,赤き炎の冠の如き頭装備。破{j}格な素材から作られたそれは、{j}紅蓮の王の魂が宿るという。,"Head equipment like a crown of crimson flame.{j}Made from extraordinary materials, it is said to{j}house the soul of the Crimson King."
+219,赤き炎の冠の如き頭装備。破{j}格な素材から作られたそれは、{j}紅蓮の王の魂が宿るという。,"Head gear like a crimson-flame crown.{j}Made from rare material, it is said to{j}house the Crimson King's soul."
 220,炎王龍の素材を練り上げた頭{j}装備。王冠の如き頭飾りには、{j}赤き炎が燃えさかるという。,Head armor refined from Teostra materials.{j}They say a red flame blazes in its{j}crown-like headpiece.
 221,浮岳龍の素材に宿るという東{j}方の神を削りだした頭用装備。{j}その背後には後光すら感じる。,Head equipment carved from the eastern god{j}said to dwell in Yama Tsukami's materials.{j}You can even feel a halo behind it.
-222,東方の武神を象る頭装備。{j}素材の中にあった物を取り出{j}しただけと伝説の職人は語る。,Head armor shaped in the image of the Eastern god of war. The legendary artisan says he{j}simply pulled out what was already in the material{j}and did nothing else.
+222,東方の武神を象る頭装備。{j}素材の中にあった物を取り出{j}しただけと伝説の職人は語る。,Head armor shaped like an Eastern war god.{j}A legendary artisan says he simply drew it{j}from the material itself.
 223,金獅子の壮麗な２本の角を{j}配した頭用装備。見た者はこ{j}とごとくその威厳にうたれる。,Head equipment adorned with two{j}magnificent horns of Rajang. All who see{j}it are struck by its dignity.
 224,闇にとけ込む頭用装備。金獅{j}子の強靱な素材が伝説の暗殺{j}部隊の装備を再現させた。,Head gear that melts into the dark. The{j}sturdy parts of a Golden Lion recreate the{j}gear of a legendary assassin unit.
 225,白色に光り輝く頭用装備。{j}その存在自体、謎に包まれて{j}いる。,Shining white head armor.{j}Its very existence{j}is shrouded in mystery.
@@ -229,9 +229,9 @@ index,source,target
 227,道場の卒業者に贈られる、{j}魂のこもった頭用装備。{j}教官との毎日がよみがえる。,"Head Armor imbued with the soul of,{j}awarded to dojo graduates. Every day spent{j}with the Instructor comes back to mind."
 228,ギアノスの頭部を模した頭用{j}装備。ギアノスと心が通う…{j}ような気がする。,Head armor modeled after a Giaprey's head.{j}It feels as though{j}your heart is in tune with the Giaprey...
 229,蛇竜の頭部を模した頭用装備。{j}ランポスなどとは一味違った{j}肌触りが話題。,"Head armor modeled after a Snake Wyvern's{j}head. The texture is a hot topic,{j}different from Velociprey and the like."
-230,見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。{j}裏の顔を知るものは少ない。,"Adorned with a magnificent feather ornament,{j}it is the very symbol of the Guild Knights' public face.{j}Few know the face behind it."
+230,見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。{j}裏の顔を知るものは少ない。,Magnificent feather ornament.{j}Symbol of the Guild Knights' public face.{j}Few know what lies behind it.
 231,ハンターたちを光とするなら、{j}ギルドナイトは影の存在。{j}マスクの奥に鋭い眼光が覗く。,"If Hunters are the light, then{j}Guild Knights are beings of shadow.{j}Sharp eyes peer from behind the mask."
-232,危機が迫った時は、誰もが剣{j}を取るのがギルドの掟。有事{j}に備えた戦うお姉さん用装備。,"When a crisis looms, it is the Guild's law that everyone{j}takes up a sword. Gear for a battle-ready lady prepared for{j}emergencies."
+232,危機が迫った時は、誰もが剣{j}を取るのがギルドの掟。有事{j}に備えた戦うお姉さん用装備。,Guild law demands everyone take a sword{j}in a crisis. Gear for battle-ready ladies{j}prepared for emergencies.
 233,街で流行のメガネ。だが度は{j}入っておらず、実用的な意味{j}はあまりない。女性専用。,"Glasses that are all the rage in town. But{j}they have no prescription, so there is{j}little practical use to them. Women only."
 234,おしゃれさん御用達、{j}白色のクールなピアス。{j}氷属性の攻撃に強い。,A favorite of the stylish:{j}cool white earrings.{j}Strong against Ice attacks.
 235,街を守護するギルドナイトが{j}正装として身につける頭装備。{j}大きな羽飾りが特長。,Head gear worn as formal attire by the{j}Guild Knights who guard the city. Its{j}large feather plume is its finest feature.
@@ -301,7 +301,7 @@ index,source,target
 299,チャチャブーの面を模した{j}頭用装備。仮装大会には{j}もってこいの一品。,Head gear modeled after a Chachabu's face.{j}A perfect piece for a costume contest.{j}
 300,威厳ある輝きを放つ頭用装備。{j}これをつけると、なんとなく{j}勇気と希望が湧いてくる。,Head gear that radiates a dignified{j}brilliance. Putting it on somehow fills{j}you with courage and hope.
 301,ハンターの功績を称え、ギル{j}ドから贈与されるピアス。{j}洞察力が研ぎ澄まされる。,A Pierce awarded by the{j}Guild in honor of a Hunter's achievements.{j}Your insight is sharpened.
-302,猟団から支給されるピアス。{j}不思議な力が全身を包み様々{j}な災いからハンターを守る。,A piercing provided by the Guild.{j}Its mysterious power envelops the whole body and protects the Hunter from{j}various calamities.
+302,猟団から支給されるピアス。{j}不思議な力が全身を包み様々{j}な災いからハンターを守る。,Guild-issued piercing.{j}Its mysterious power envelops the body and{j}guards Hunters from calamities.
 303,荷車をモチーフにデザインさ{j}れたピアス。不思議な力がハ{j}ンターに強靭な足腰を与える。,An earring designed after{j}a cart. Its mysterious power grants the{j}Hunter a sturdy lower body.
 304,釣り針の形をしたピアス。{j}不思議な力が魚をおびきよせ{j}る。,A piercing shaped like a fishhook.{j}A mysterious power lures{j}fish to you.
 305,猟団から支給されるピアス。{j}不思議な力がハンターの持つ{j}潜在的な戦闘能力を引き出す。,A piercing provided by the Guild. Its{j}mysterious power draws out the Hunter's{j}latent combat ability.
@@ -318,7 +318,7 @@ index,source,target
 316,死神をかたどる頭用装備。{j}死神に見初められた者は、{j}あらゆる命を刈り取って行く。,Head armor modeled after the Grim Reaper.{j}Those the Reaper takes a liking to{j}go on to reap every life before them.
 317,とある村の特産品、頭用装備。{j}厳しい寒さの雪山での{j}活動には欠かせない。,"A specialty of a certain village, head{j}equipment. Essential for activities in the{j}harsh cold of snowy mountains."
 318,とある村の特産品、頭用装備。{j}厳しい寒さの雪山での{j}活動には欠かせない。,"A specialty of a certain village, head{j}equipment. Essential for activities in the{j}harsh cold of snowy mountains."
-319,覇竜の素材を使った頭用装備。{j}漆黒の装甲は、見る者の魂を{j}凍り付かせる威圧感を持つ。,Head armor made from Akantor materials.{j}Its jet-black armor has an intimidating presence that{j}freezes the souls of those who see it.
+319,覇竜の素材を使った頭用装備。{j}漆黒の装甲は、見る者の魂を{j}凍り付かせる威圧感を持つ。,Head armor made from Akantor materials.{j}Its jet-black shell freezes the souls of{j}those who see it.
 320,覇竜の素材を使った頭用装備。{j}生命の息吹を残す黒炎の装甲{j}は、畏怖されし強者の証。,Head armor made from Akantor materials.{j}Black flame armor that retains the breath{j}of life is proof of a feared champion.
 321,鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。,Head armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.
 322,鋼龍の素材を用いた頭用装備。{j}風を纏いし龍の気高き心が{j}宿っている。,Head armor made from Kushala Daora{j}materials. The noble heart of the dragon{j}that cloaks itself in wind resides within.
@@ -745,7 +745,7 @@ index,source,target
 743,特別な素材を使用した頭装備。{j}上品な紺色が、ひとあじ違う{j}こだわりハンターの証。,Head armor made from special materials.{j}The elegant navy blue sets it apart--{j}a mark of the discerning Hunter.
 744,虫の素材を使った頭用装備。{j}質感はふわふわしているが、{j}衝撃を吸収する優れもの。,"Head armor made from insect materials. The{j}texture is fluffy, but it's excellent at{j}absorbing impact."
 745,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare."
-746,安らぎに満ちた冥暗の頭防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。,"Head Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve."
+746,安らぎに満ちた冥暗の頭防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。,Head armor of tranquil gloom.{j}It is said to grant repose and cause those{j}who obtain it to evolve.
 747,安らぎに満ちた冥暗の頭防具。{j}一部分を捨てる事により、{j}新たな強さを手に入れた。,"A tranquil, dark Head armor. By discarding{j}a part, it gained{j}new strength."
 748,安らぎに満ちた冥暗の頭防具。{j}大部分を捨てる事により、{j}無二の強さを手に入れた。,"A tranquil, dark Head armor. By discarding{j}most of it, it gained{j}unmatched strength."
 749,狩猟に明け暮れる狩人が愛用{j}する頭防具。仕留めた獲物は、{j}一寸たりとも無駄にしない。,"Head armor favored by hunters who devote{j}themselves to the hunt. No game they take{j}is wasted, not a single scrap."
@@ -935,7 +935,7 @@ index,source,target
 933,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
 934,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
 935,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-936,遠方の工房より伝来した頭用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,"Head{j}equipment passed down from a distant workshop. Made with special{j}materials with excellent insulation, it is highly versatile."
+936,遠方の工房より伝来した頭用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,"Head{j}Equipment from a distant workshop, made{j}with insulating material; very versatile."
 937,遠方の工房より伝来した頭用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,"Head equipment passed down from a distant{j}workshop, strengthened to specialize in{j}attack. It is said that power wells up."
 938,遠方の工房より伝来した頭用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,"Head equipment from a distant workshop,{j}strengthened for defense. Excellent in{j}both attack and defense."
 939,遠方の工房より伝来した頭用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。,"Head equipment passed down from a distant{j}workshop, strengthened to specialize in{j}shooting. Technique improves dramatically."
@@ -946,7 +946,7 @@ index,source,target
 944,神々しいまでの威厳に満ちた{j}純白の頭用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white head armor. It{j}cleanses the wearer's heart as well."
 945,神々しいまでの慈愛に満ちた{j}純白の頭用防具。大いなる{j}愛に包まれる。,"Filled with a compassion that borders on{j}the divine, this pure white head armor.{j}You are wrapped in a great love."
 946,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
-947,”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし頭防具。,Head Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.
+947,”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし頭防具。,"Head armor reborn through human craft,{j}holding souls of the male Fire Wyvern of{j}heaven and female of earth."
 948,装備すると、アイルーの如き{j}飽くなき探究心が宿る頭防具。{j}機能を追及し軽量で動き易い。,"Light, mobile head armor built for{j}function. Wearing it grants the tireless{j}curiosity of a Felyne."
 949,装備すると、アイルーの如き{j}飽くなき探究心が宿る頭防具。{j}機能を追及し軽量で動き易い。,"Light, mobile head armor built for{j}function. Wearing it grants the tireless{j}curiosity of a Felyne."
 950,装備すると、アイルーの如き{j}飽くなき探究心が宿る頭防具。{j}機能を追及し軽量で動き易い。,"Light, mobile head armor built for{j}function. Wearing it grants the tireless{j}curiosity of a Felyne."
@@ -1150,7 +1150,7 @@ index,source,target
 1148,大巌竜の素材を用いた頭用{j}防具。その強度は如何なる{j}衝撃をも無力化する。,Head armor made from Great Boulder Dragon{j}materials. Its strength nullifies any{j}impact.
 1149,大巌竜の素材を用いた頭用{j}防具。身に付ける者は如何な{j}る困難にも屈しない勇者。,Head Armor crafted from Great Rock Dragon{j}materials. Its wearer is a hero who yields{j}to no hardship.
 1150,大巌竜の素材を用いた頭用{j}防具。生半可な攻撃では傷{j}ひとつ付かない。,Head Armor crafted from Great Rock Dragon{j}materials. Half-hearted attacks cannot{j}leave so much as a scratch.
-1151,大巌竜の素材を用いた頭用{j}防具。大質量の素材からは{j}想像もつかないほど軽量。,Head{j}armor made from Great Boulder Dragon materials. You would never{j}imagine from its massive material that it is so lightweight.
+1151,大巌竜の素材を用いた頭用{j}防具。大質量の素材からは{j}想像もつかないほど軽量。,"Head{j}Great Boulder Dragon armor, astonishingly{j}light despite the material's mass."
 1152,大巌竜の素材を用いた頭用{j}防具。数々の戦いを征した{j}者だけが手にできる。,Head Armor crafted from Great Rock Dragon{j}materials. Within reach only of those who{j}have conquered countless battles.
 1153,ランポスの素材を用いた頭{j}用防具。設計を一から見直{j}したことで強化を実現。,Head armor made from Velociprey materials.{j}Fully redesigned from the ground up for{j}greater strength.
 1154,ランポスの素材を用いた頭{j}用防具。設計を一から見直{j}して改良を加えた。,Head armor made from Velociprey materials.{j}Redesigned from the ground up with added{j}improvements.

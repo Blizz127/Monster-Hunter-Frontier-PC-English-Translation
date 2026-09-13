@@ -176,3 +176,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 14 more source-reviewed melee and head-armor descriptions.
 - Reduce the remaining reviewed shortening queue to 170 entries.
+
+## 2026.09.13-preview.33 (experimental)
+
+- Add 10 more source-reviewed head-armor descriptions.
+- Reduce the remaining reviewed shortening queue to 160 entries.

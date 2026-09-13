@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 219,
+      "source": "赤き炎の冠の如き頭装備。破{j}格な素材から作られたそれは、{j}紅蓮の王の魂が宿るという。",
+      "previous": "Head equipment like a crown of crimson flame.{j}Made from extraordinary materials, it is said to{j}house the soul of the Crimson King.",
+      "target": "Head gear like a crimson-flame crown.{j}Made from rare material, it is said to{j}house the Crimson King's soul.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 222,
+      "source": "東方の武神を象る頭装備。{j}素材の中にあった物を取り出{j}しただけと伝説の職人は語る。",
+      "previous": "Head armor shaped in the image of the Eastern god of war. The legendary artisan says he{j}simply pulled out what was already in the material{j}and did nothing else.",
+      "target": "Head armor shaped like an Eastern war god.{j}A legendary artisan says he simply drew it{j}from the material itself.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 230,
+      "source": "見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。{j}裏の顔を知るものは少ない。",
+      "previous": "Adorned with a magnificent feather ornament,{j}it is the very symbol of the Guild Knights' public face.{j}Few know the face behind it.",
+      "target": "Magnificent feather ornament.{j}Symbol of the Guild Knights' public face.{j}Few know what lies behind it.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 232,
+      "source": "危機が迫った時は、誰もが剣{j}を取るのがギルドの掟。有事{j}に備えた戦うお姉さん用装備。",
+      "previous": "When a crisis looms, it is the Guild's law that everyone{j}takes up a sword. Gear for a battle-ready lady prepared for{j}emergencies.",
+      "target": "Guild law demands everyone take a sword{j}in a crisis. Gear for battle-ready ladies{j}prepared for emergencies.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 302,
+      "source": "猟団から支給されるピアス。{j}不思議な力が全身を包み様々{j}な災いからハンターを守る。",
+      "previous": "A piercing provided by the Guild.{j}Its mysterious power envelops the whole body and protects the Hunter from{j}various calamities.",
+      "target": "Guild-issued piercing.{j}Its mysterious power envelops the body and{j}guards Hunters from calamities.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 319,
+      "source": "覇竜の素材を使った頭用装備。{j}漆黒の装甲は、見る者の魂を{j}凍り付かせる威圧感を持つ。",
+      "previous": "Head armor made from Akantor materials.{j}Its jet-black armor has an intimidating presence that{j}freezes the souls of those who see it.",
+      "target": "Head armor made from Akantor materials.{j}Its jet-black shell freezes the souls of{j}those who see it.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 746,
+      "source": "安らぎに満ちた冥暗の頭防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Head Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "target": "Head armor of tranquil gloom.{j}It is said to grant repose and cause those{j}who obtain it to evolve.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 936,
+      "source": "遠方の工房より伝来した頭用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "Head{j}equipment passed down from a distant workshop. Made with special{j}materials with excellent insulation, it is highly versatile.",
+      "target": "Head{j}Equipment from a distant workshop, made{j}with insulating material; very versatile.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 947,
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし頭防具。",
+      "previous": "Head Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "target": "Head armor reborn through human craft,{j}holding souls of the male Fire Wyvern of{j}heaven and female of earth.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1151,
+      "source": "大巌竜の素材を用いた頭用{j}防具。大質量の素材からは{j}想像もつかないほど軽量。",
+      "previous": "Head{j}armor made from Great Boulder Dragon materials. You would never{j}imagine from its massive material that it is so lightweight.",
+      "target": "Head{j}Great Boulder Dragon armor, astonishingly{j}light despite the material's mass.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source head-armor description patterns."
+}
