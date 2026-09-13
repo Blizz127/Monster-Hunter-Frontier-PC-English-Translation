@@ -1,6 +1,12 @@
 {
   "version": "2026.09.12",
-  "status": "VERIFIED",
+  "status": "CLIENT_ISSUE_CONFIRMED",
+  "known_client_issue": {
+    "file": "mhfpac.bin",
+    "description": "Legacy text import repointed numeric fields; defer new client installs",
+    "repair": "OFFLINE_VERIFIED_RUNTIME_PENDING",
+    "details": "docs/client-numeric-table.md"
+  },
   "unit_tests": 73,
   "platform_ci": [
     "Windows",
