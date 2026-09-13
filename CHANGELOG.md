@@ -76,3 +76,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 30 more source-reviewed arm and waist descriptions.
 - Reduce the remaining reviewed shortening queue to 664 entries.
+
+## 2026.09.13-preview.13 (experimental)
+
+- Add 30 more source-reviewed waist descriptions.
+- Reduce the remaining reviewed shortening queue to 634 entries.

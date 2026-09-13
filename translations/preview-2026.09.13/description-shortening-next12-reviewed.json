@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41566,
+      "source": "老山龍の素材でできた男性用{j}腰当て。究極の素材を最高級{j}の匠の業で仕上げた逸品。",
+      "previous": "Men's{j}waist guard made from Lao-Shan Lung materials. A masterpiece finished with the finest{j}craftsmanship using ultimate materials.",
+      "target": "Men's Lao-Shan Lung waist guard, a{j}masterpiece finished with ultimate{j}materials and finest craft.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41621,
+      "source": "老山龍の素材でできた男性用{j}腰当て。究極の素材を最高級{j}の匠の業で仕上げた逸品。",
+      "previous": "Men's{j}waist guard made from Lao-Shan Lung materials. A masterpiece finished with the finest{j}craftsmanship using ultimate materials.",
+      "target": "Men's Lao-Shan Lung waist guard, a{j}masterpiece finished with ultimate{j}materials and finest craft.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41678,
+      "source": "老山龍の素材でできた男性用{j}腰当て。究極の素材を最高級{j}の匠の業で仕上げた逸品。",
+      "previous": "Men's{j}waist guard made from Lao-Shan Lung materials. A masterpiece finished with the finest{j}craftsmanship using ultimate materials.",
+      "target": "Men's Lao-Shan Lung waist guard, a{j}masterpiece finished with ultimate{j}materials and finest craft.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41567,
+      "source": "老山龍の素材でできた男性用{j}腰当て。全身から放たれる{j}煌きは、射手究極の姿。",
+      "previous": "Men's{j}waist guard made from Lao-Shan Lung materials. The{j}radiance it emits from its entire body is the ultimate form of a gunner.",
+      "target": "Men's Lao-Shan Lung waist guard. Its{j}radiance is a gunner's ultimate form.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41622,
+      "source": "老山龍の素材でできた男性用{j}腰当て。全身から放たれる{j}煌きは、射手究極の姿。",
+      "previous": "Men's{j}waist guard made from Lao-Shan Lung materials. The{j}radiance it emits from its entire body is the ultimate form of a gunner.",
+      "target": "Men's Lao-Shan Lung waist guard. Its{j}radiance is a gunner's ultimate form.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41679,
+      "source": "老山龍の素材でできた男性用{j}腰当て。全身から放たれる{j}煌きは、射手究極の姿。",
+      "previous": "Men's{j}waist guard made from Lao-Shan Lung materials. The{j}radiance it emits from its entire body is the ultimate form of a gunner.",
+      "target": "Men's Lao-Shan Lung waist guard. Its{j}radiance is a gunner's ultimate form.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41569,
+      "source": "老山龍の素材で作られた女性{j}用腰装備。全身から放たれる{j}艶やかな煌きは射手究極の姿。",
+      "previous": "Waist armor for female{j}made from Lao-Shan Lung materials. The lustrous radiance{j}from the whole body is the ultimate form of a gunner.",
+      "target": "Women's Lao-Shan Lung waist armor. Its{j}lustrous radiance is a gunner's ultimate{j}form.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41624,
+      "source": "老山龍の素材で作られた女性{j}用腰装備。全身から放たれる{j}艶やかな煌きは射手究極の姿。",
+      "previous": "Waist armor for female{j}made from Lao-Shan Lung materials. The lustrous radiance{j}from the whole body is the ultimate form of a gunner.",
+      "target": "Women's Lao-Shan Lung waist armor. Its{j}lustrous radiance is a gunner's ultimate{j}form.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41681,
+      "source": "老山龍の素材で作られた女性{j}用腰装備。全身から放たれる{j}艶やかな煌きは射手究極の姿。",
+      "previous": "Waist armor for female{j}made from Lao-Shan Lung materials. The lustrous radiance{j}from the whole body is the ultimate form of a gunner.",
+      "target": "Women's Lao-Shan Lung waist armor. Its{j}lustrous radiance is a gunner's ultimate{j}form.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41598,
+      "source": "ガレオスの素材で作られた{j}腰用装備。強固な鱗は物理{j}防御に優れる反面、氷に弱い。",
+      "previous": "{j}Waist equipment made from Cephadrome materials. The sturdy scales excel at physical{j}Defense, but they are weak to Ice.",
+      "target": "{j}Cephadrome waist armor: sturdy scales{j}excel at physical defense, weak to ice.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42417,
+      "source": "ガレオスの素材で作られた{j}腰用装備。強固な鱗は物理{j}防御に優れる反面、氷に弱い。",
+      "previous": "{j}Waist equipment made from Cephadrome materials. The sturdy scales excel at physical{j}Defense, but they are weak to Ice.",
+      "target": "{j}Cephadrome waist armor: sturdy scales{j}excel at physical defense, weak to ice.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43775,
+      "source": "ガレオスの素材で作られた{j}腰用装備。強固な鱗は物理{j}防御に優れる反面、氷に弱い。",
+      "previous": "{j}Waist equipment made from Cephadrome materials. The sturdy scales excel at physical{j}Defense, but they are weak to Ice.",
+      "target": "{j}Cephadrome waist armor: sturdy scales{j}excel at physical defense, weak to ice.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41601,
+      "source": "華麗な美を全身から放つ桃色{j}の腰用装備。強度に重量の{j}均整と、どれを取っても一級。",
+      "previous": "A pink{j}Waist armor that radiates gorgeous beauty from the whole body. Its balance of strength and weight{j}is first-class in every way.",
+      "target": "Pink waist armor radiating beauty. Its{j}strength and weight are balanced to the{j}highest standard.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42077,
+      "source": "華麗な美を全身から放つ桃色{j}の腰用装備。強度に重量の{j}均整と、どれを取っても一級。",
+      "previous": "A pink{j}Waist armor that radiates gorgeous beauty from the whole body. Its balance of strength and weight{j}is first-class in every way.",
+      "target": "Pink waist armor radiating beauty. Its{j}strength and weight are balanced to the{j}highest standard.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43577,
+      "source": "華麗な美を全身から放つ桃色{j}の腰用装備。強度に重量の{j}均整と、どれを取っても一級。",
+      "previous": "A pink{j}Waist armor that radiates gorgeous beauty from the whole body. Its balance of strength and weight{j}is first-class in every way.",
+      "target": "Pink waist armor radiating beauty. Its{j}strength and weight are balanced to the{j}highest standard.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41605,
+      "source": "蒼き空の王を象徴する腰用の{j}装備。風と炎を司る飛竜の{j}信じがたいまでの力を秘める。",
+      "previous": "Waist{j}equipment symbolizing the king of the blue sky. It holds the{j}unbelievable power of the wyvern that rules wind and flame.",
+      "target": "Waist equipment symbolizing the blue-sky{j}king, holding a wyvern's unbelievable wind{j}and flame power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42232,
+      "source": "蒼き空の王を象徴する腰用の{j}装備。風と炎を司る飛竜の{j}信じがたいまでの力を秘める。",
+      "previous": "Waist{j}equipment symbolizing the king of the blue sky. It holds the{j}unbelievable power of the wyvern that rules wind and flame.",
+      "target": "Waist equipment symbolizing the blue-sky{j}king, holding a wyvern's unbelievable wind{j}and flame power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43483,
+      "source": "蒼き空の王を象徴する腰用の{j}装備。風と炎を司る飛竜の{j}信じがたいまでの力を秘める。",
+      "previous": "Waist{j}equipment symbolizing the king of the blue sky. It holds the{j}unbelievable power of the wyvern that rules wind and flame.",
+      "target": "Waist equipment symbolizing the blue-sky{j}king, holding a wyvern's unbelievable wind{j}and flame power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41708,
+      "source": "雷帝の腰巻。腰に纏えば、{j}丹田に氣を集め、持てる力を{j}数十倍にも高めるという。",
+      "previous": "A Thunder Emperor's waist wrap. Worn about the waist,{j}it gathers energy in the core and{j}raises one's power dozens of times over.",
+      "target": "Thunder Emperor's waist wrap. It gathers{j}core energy and multiplies one's power{j}dozens of times.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41710,
+      "source": "雷帝の腰巻。腰に纏えば、{j}丹田に氣を集め、持てる力を{j}数十倍にも高めるという。",
+      "previous": "A Thunder Emperor's waist wrap. Worn about the waist,{j}it gathers energy in the core and{j}raises one's power dozens of times over.",
+      "target": "Thunder Emperor's waist wrap. It gathers{j}core energy and multiplies one's power{j}dozens of times.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42301,
+      "source": "雷帝の腰巻。腰に纏えば、{j}丹田に氣を集め、持てる力を{j}数十倍にも高めるという。",
+      "previous": "A Thunder Emperor's waist wrap. Worn about the waist,{j}it gathers energy in the core and{j}raises one's power dozens of times over.",
+      "target": "Thunder Emperor's waist wrap. It gathers{j}core energy and multiplies one's power{j}dozens of times.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41709,
+      "source": "天地を繋ぐ雷光が姿を変えた{j}防具。東方では神衣とされ、{j}一度纏えば雷神が心身を護る。",
+      "previous": "Armor formed from the lightning that joins{j}heaven and earth. Called divine raiment in the East,{j}once worn, the Thunder God protects mind and body.",
+      "target": "Waist armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41711,
+      "source": "天地を繋ぐ雷光が姿を変えた{j}防具。東方では神衣とされ、{j}一度纏えば雷神が心身を護る。",
+      "previous": "Armor formed from the lightning that joins{j}heaven and earth. Called divine raiment in the East,{j}once worn, the Thunder God protects mind and body.",
+      "target": "Waist armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42646,
+      "source": "天地を繋ぐ雷光が姿を変えた{j}防具。東方では神衣とされ、{j}一度纏えば雷神が心身を護る。",
+      "previous": "Armor formed from the lightning that joins{j}heaven and earth. Called divine raiment in the East,{j}once worn, the Thunder God protects mind and body.",
+      "target": "Waist armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41764,
+      "source": "気品溢れる腰用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Waist armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Crystal Scorpion hunter's waist armor: its{j}hardness hurts the hand that strikes it.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45613,
+      "source": "気品溢れる腰用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Waist armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Crystal Scorpion hunter's waist armor: its{j}hardness hurts the hand that strikes it.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45614,
+      "source": "気品溢れる腰用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Waist armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Crystal Scorpion hunter's waist armor: its{j}hardness hurts the hand that strikes it.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41780,
+      "source": "轟竜の素材を使った腰用装備。{j}暴君を制して手にする者は、{j}恐怖を超えた存在となる。",
+      "previous": "Waist equipment made from Tigrex materials.{j}One who conquers the tyrant and obtains this,{j}becomes a being that transcends fear.",
+      "target": "Dancing Thunder Wyvern waist armor whose{j}lightning grants the wearer power.{j}",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41782,
+      "source": "轟竜の素材を使った腰用装備。{j}暴君を制して手にする者は、{j}恐怖を超えた存在となる。",
+      "previous": "Waist equipment made from Tigrex materials.{j}One who conquers the tyrant and obtains this,{j}becomes a being that transcends fear.",
+      "target": "Dancing Thunder Wyvern waist armor whose{j}lightning grants the wearer power.{j}",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42319,
+      "source": "轟竜の素材を使った腰用装備。{j}暴君を制して手にする者は、{j}恐怖を超えた存在となる。",
+      "previous": "Waist equipment made from Tigrex materials.{j}One who conquers the tyrant and obtains this,{j}becomes a being that transcends fear.",
+      "target": "Dancing Thunder Wyvern waist armor whose{j}lightning grants the wearer power.{j}",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist-armor description patterns."
+}
