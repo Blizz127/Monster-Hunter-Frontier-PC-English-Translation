@@ -257,3 +257,9 @@ checked in-game; other dialogue branches and all server quests were not.
 - Package the cumulative `mhfdat.bin` work together with both Mezeporta archive reflows.
 - The downloadable client delta now contains all three files documented by the preview.
 - Town runtime verification remains pending.
+
+## 2026.09.13-preview.49 (experimental)
+
+- Reflow 14 fresh exact-source equipment-description records from the current over-width census.
+- Preserve the cumulative three-file client delta, including both town archive reflows.
+- The remaining current over-width census is 24260 records; runtime verification remains pending.

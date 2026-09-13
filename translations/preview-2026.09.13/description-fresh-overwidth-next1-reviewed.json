@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 331,
+      "source": "炎妃龍の素材を用いた頭装備。{j}誇り高き青炎を破りし者の証。",
+      "previous": "Head equipment made from Lunastra materials.{j}Proof of the one who broke the proud blue flame.",
+      "target": "Head gear from Lunastra materials.{j}Proof of breaking the proud blue flame.",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 347,
+      "source": "炎妃龍の素材を用いた頭装備。{j}誇り高き青炎を破りし者の証。",
+      "previous": "Head equipment made from Lunastra materials.{j}Proof of the one who broke the proud blue flame.",
+      "target": "Head gear from Lunastra materials.{j}Proof of breaking the proud blue flame.",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 394,
+      "source": "安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "An immortal{j}head piece with reliably stable performance. Sturdy yet lightweight.{j}{c07}SP Armor: Blue{/c}",
+      "target": "An immortal{j}head piece: stable, sturdy and light.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 395,
+      "source": "安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "An immortal{j}head piece with reliably stable performance. Sturdy yet lightweight.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "An immortal{j}head piece: stable, sturdy and light.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 396,
+      "source": "安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "An immortal{j}head piece with reliably stable performance. Sturdy yet lightweight.{j}{c07}SP Armor: Purple{/c}",
+      "target": "An immortal{j}head piece: stable, sturdy and light.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 397,
+      "source": "火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head armor imbued with the soul of a Fire Wyvern.{j}Brimming with a queen's grace.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Head armor bearing a Fire Wyvern soul.{j}A queen's grace overflows.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 398,
+      "source": "火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor imbued with the soul of a Fire Wyvern.{j}Brimming with a queen's grace.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head armor bearing a Fire Wyvern soul.{j}A queen's grace overflows.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 399,
+      "source": "火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor imbued with the soul of a Fire Wyvern.{j}Brimming with a queen's grace.{j}{c07}SP Armor: Black{/c}",
+      "target": "Head armor bearing a Fire Wyvern soul.{j}A queen's grace overflows.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 400,
+      "source": "どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1541,
+      "source": "どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 401,
+      "source": "どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Green{/c}",
+      "target": "Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1540,
+      "source": "どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Green{/c}",
+      "target": "Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 402,
+      "source": "どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Black{/c}",
+      "target": "Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1539,
+      "source": "どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Black{/c}",
+      "target": "Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}

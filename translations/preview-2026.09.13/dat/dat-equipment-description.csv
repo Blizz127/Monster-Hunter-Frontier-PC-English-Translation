@@ -330,7 +330,7 @@ index,source,target
 328,砦蟹の素材を用いた頭用装備。{j}鈍い青銅色に輝く素材は、{j}あらゆる衝撃を無へと帰す。,Head equipment made from Shen Gaoren{j}materials. The dull bronze gleam of the{j}material nullifies all impacts.
 329,浮岳龍の素材を用いた頭装備。{j}荘厳で神々しい形状に、つい{j}ため息がもれてしまう。,"Head armor made from the materials of a{j}Floating Peak Dragon. Its solemn, divine{j}form draws an involuntary sigh."
 330,浮岳龍の素材を用いた頭装備。{j}幽玄に浮かぶ龍に相応しい、{j}厳粛な形状をしている。,"Head armor made from the materials of a{j}Floating Peak Dragon. Befitting a dragon{j}adrift in mystery, it has a solemn shape."
-331,炎妃龍の素材を用いた頭装備。{j}誇り高き青炎を破りし者の証。,Head equipment made from Lunastra materials.{j}Proof of the one who broke the proud blue flame.
+331,炎妃龍の素材を用いた頭装備。{j}誇り高き青炎を破りし者の証。,Head gear from Lunastra materials.{j}Proof of breaking the proud blue flame.
 332,炎妃龍の素材を用いた頭装備。{j}美しき高貴な青は、見る者{j}すべてを魅了する。,Head equipment made from Lunastra{j}materials. Its beautiful noble blue{j}captivates all who behold it.
 333,金獅子の素材を用いた頭装備。{j}豪胆な金獅子の魂が、細部に{j}まで宿っている。,Head armor made from Gold Lion materials.{j}The bold spirit of the Gold Lion dwells{j}in every last detail.
 334,金獅子の素材を用いた頭装備。{j}怒れる黄金髪の獅子を討ち{j}取った証。,Head armor made from Gold Lion materials.{j}Proof of slaying{j}the raging golden-maned lion.
@@ -346,7 +346,7 @@ index,source,target
 344,砦蟹の素材を用いた頭用装備。{j}鈍い青銅色に輝く素材は、{j}あらゆる衝撃を無へと帰す。,Head equipment made from Shen Gaoren{j}materials. The dull bronze gleam of the{j}material nullifies all impacts.
 345,浮岳龍の素材を用いた頭装備。{j}荘厳で神々しい形状に、つい{j}ため息がもれてしまう。,"Head armor made from the materials of a{j}Floating Peak Dragon. Its solemn, divine{j}form draws an involuntary sigh."
 346,浮岳龍の素材を用いた頭装備。{j}幽玄に浮かぶ龍に相応しい、{j}厳粛な形状をしている。,"Head armor made from the materials of a{j}Floating Peak Dragon. Befitting a dragon{j}adrift in mystery, it has a solemn shape."
-347,炎妃龍の素材を用いた頭装備。{j}誇り高き青炎を破りし者の証。,Head equipment made from Lunastra materials.{j}Proof of the one who broke the proud blue flame.
+347,炎妃龍の素材を用いた頭装備。{j}誇り高き青炎を破りし者の証。,Head gear from Lunastra materials.{j}Proof of breaking the proud blue flame.
 348,炎妃龍の素材を用いた頭装備。{j}美しき高貴な青は、見る者{j}すべてを魅了する。,Head equipment made from Lunastra{j}materials. Its beautiful noble blue{j}captivates all who behold it.
 349,金獅子の素材を用いた頭装備。{j}豪胆な金獅子の魂が、細部に{j}まで宿っている。,Head armor made from Gold Lion materials.{j}The bold spirit of the Gold Lion dwells{j}in every last detail.
 350,金獅子の素材を用いた頭装備。{j}怒れる黄金髪の獅子を討ち{j}取った証。,Head armor made from Gold Lion materials.{j}Proof of slaying{j}the raging golden-maned lion.
@@ -393,15 +393,15 @@ index,source,target
 391,きめ細かい生地を使用した{j}頭用装備。上質な肌触りで{j}快適な狩猟生活をサポート。,"Head armor made from finely woven fabric.{j}With its superior texture, it supports a{j}comfortable hunting life."
 392,樹海の主の頭部を模した{j}頭用装備。雄雄しく天を穿つ{j}棘角が、狩人の士気を上げる。,"Head gear modeled after the head of the{j}Deep Woods' master. Valiant, sky-piercing{j}horns raise a Hunter's morale."
 393,邪悪な空気を纏う、頭装備。{j}古の様式美を最新の技術に{j}よって再現した。,Head armor that wraps the wearer in an{j}evil air. The beauty of ancient forms was{j}reproduced with the latest technology.
-394,安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：青{/c},An immortal{j}head piece with reliably stable performance. Sturdy yet lightweight.{j}{c07}SP Armor: Blue{/c}
-395,安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：黄{/c},An immortal{j}head piece with reliably stable performance. Sturdy yet lightweight.{j}{c07}SP Armor: Yellow{/c}
-396,安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：紫{/c},An immortal{j}head piece with reliably stable performance. Sturdy yet lightweight.{j}{c07}SP Armor: Purple{/c}
-397,火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：青{/c},Head armor imbued with the soul of a Fire Wyvern.{j}Brimming with a queen's grace.{j}{c07}SP Armor: Blue{/c}
-398,火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：赤{/c},Head armor imbued with the soul of a Fire Wyvern.{j}Brimming with a queen's grace.{j}{c07}SP Armor: Red{/c}
-399,火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：黒{/c},Head armor imbued with the soul of a Fire Wyvern.{j}Brimming with a queen's grace.{j}{c07}SP Armor: Black{/c}
-400,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c},"Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Blue{/c}"
-401,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c},"Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Green{/c}"
-402,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},"Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Black{/c}"
+394,安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：青{/c},"An immortal{j}head piece: stable, sturdy and light.{j}{c07}SP Armor: Blue{/c}"
+395,安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：黄{/c},"An immortal{j}head piece: stable, sturdy and light.{j}{c07}SP Armor: Yellow{/c}"
+396,安定した性能を誇る、不朽の{j}頭用装備。頑丈、かつ軽量。{j}{c07}ＳＰ防具：紫{/c},"An immortal{j}head piece: stable, sturdy and light.{j}{c07}SP Armor: Purple{/c}"
+397,火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：青{/c},Head armor bearing a Fire Wyvern soul.{j}A queen's grace overflows.{j}{c07}SP Armor: Blue{/c}
+398,火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：赤{/c},Head armor bearing a Fire Wyvern soul.{j}A queen's grace overflows.{j}{c07}SP Armor: Red{/c}
+399,火竜の魂が籠められた頭装備。{j}女王の気品が溢れている。{j}{c07}ＳＰ防具：黒{/c},Head armor bearing a Fire Wyvern soul.{j}A queen's grace overflows.{j}{c07}SP Armor: Black{/c}
+400,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Blue{/c}
+401,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Green{/c}
+402,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}
 403,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：赤{/c},Head equipment made from Espinas materials.{j}Harbors the wrath of the Lord of the Sea of Trees.{j}{c07}SP Armor: Red{/c}
 404,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：青{/c},Head armor made from Espinas materials.{j}Conceals the wrath of the Lord of the Forest.{j}{c07}SP Armor: Blue{/c}
 405,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：黄{/c},Head armor made from Espinas materials.{j}Conceals the wrath of the Lord of the Forest.{j}{c07}SP Armor: Yellow{/c}
@@ -1538,9 +1538,9 @@ index,source,target
 1536,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：黄{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Yellow{/c}
 1537,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：緑{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Green{/c}
 1538,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：白{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: White{/c}
-1539,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},"Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Black{/c}"
-1540,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c},"Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Green{/c}"
-1541,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c},"Head armor that gives off a somewhat eerie air.{j}Made from flexible materials, so it is easy to move in.{j}{c07}SP Armor: Blue{/c}"
+1539,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}
+1540,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Green{/c}
+1541,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Blue{/c}
 1542,白いヒプノックの素材で作成{j}された頭用装備。泥や返り血を{j}浴びても白さは損なわれない。,"Head armor crafted from white Hypnoc{j}materials. Even covered in mud or blood,{j}it never loses its whiteness."
 1543,軽量な溶岩石と強靭な鱗、両{j}方の性質を併せ持つ溶岩竜の{j}石化素材を用いた頭用装備。,"Head armor made from petrified Lavasioth{j}parts, combining the lightness of lava{j}rock and the toughness of scales."
 1544,虫の素材を使った頭用装備。{j}動くと白い粉がきらきらと{j}落ちてくる。,"Head armor made from insect materials.{j}When you move, white powder{j}falls sparklingly."
