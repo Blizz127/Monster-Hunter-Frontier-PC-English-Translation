@@ -1,0 +1,173 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1001,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15405,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28863,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42405,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56026,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1002,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15406,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28864,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42406,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56027,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1111,
+      "source": "女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Blademaster head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Red{/c}",
+      "target": "Blademaster head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1112,
+      "source": "女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Blademaster head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Blademaster head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1113,
+      "source": "女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Blademaster head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Blademaster head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1114,
+      "source": "女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Gunner head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Red{/c}",
+      "target": "Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1115,
+      "source": "女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Gunner head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1116,
+      "source": "女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Gunner head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1117,
+      "source": "軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1118,
+      "source": "軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Black{/c}",
+      "target": "Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}

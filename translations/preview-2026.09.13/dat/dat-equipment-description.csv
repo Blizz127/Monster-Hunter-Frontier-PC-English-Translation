@@ -1000,8 +1000,8 @@ index,source,target
 998,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}
 999,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}
 1000,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c},Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}
-1001,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
-1002,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
+1001,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
+1002,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
 1003,ダイミョウザザミの強固な{j}素材を使用した頭用装備。{j}曲面加工が衝撃を逃がす。,Head armor made using the sturdy{j}materials of a Daimyo Hermitaur.{j}Curved shaping deflects impacts.
 1004,貴重な鉱石が主成分の頭用{j}装備。くせがなく手練れの{j}ハンターも愛用する。,Head armor made mainly of precious ore.{j}Unpretentious; even veteran Hunters favor{j}it.
 1005,溶岩竜の素材を用いた頭用装{j}備。軽量さ、頑丈さに長ける{j}石化部位をふんだんに使用。,Head armor made from Lavasioth materials.{j}It uses plenty of petrified parts that{j}excel in lightness and durability.
@@ -1110,14 +1110,14 @@ index,source,target
 1108,羽根の様に軽い生地で出来た{j}頭防具。独自の文化で培われ{j}た美しい意匠に眼を奪われる。,"Head Armor made from featherlight fabric.{j}Its beautiful design, cultivated through a{j}unique culture, captivates the eye."
 1109,羽根の様に軽い生地で出来た{j}頭防具。独自の文化で培われ{j}た美しい意匠に眼を奪われる。,"Head Armor made from featherlight fabric.{j}Its beautiful design, cultivated through a{j}unique culture, captivates the eye."
 1110,羽根の様に軽い生地で出来た{j}頭防具。独自の文化で培われ{j}た美しい意匠に眼を奪われる。,"Head Armor made from featherlight fabric.{j}Its beautiful design, cultivated through a{j}unique culture, captivates the eye."
-1111,女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：赤{/c},Blademaster head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Red{/c}
-1112,女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：黄{/c},Blademaster head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Yellow{/c}
-1113,女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：紫{/c},Blademaster head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Purple{/c}
-1114,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：赤{/c},Gunner head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Red{/c}
-1115,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：黄{/c},Gunner head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Yellow{/c}
-1116,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：紫{/c},Gunner head armor{j}clad in the noble aura emitted by the Empress.{j}{c07}SP Armor: Purple{/c}
-1117,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黄{/c},Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Yellow{/c}
-1118,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黒{/c},Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Black{/c}
+1111,女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：赤{/c},Blademaster head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Red{/c}
+1112,女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：黄{/c},Blademaster head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Yellow{/c}
+1113,女帝が放つ高貴なオーラを{j}纏った剣士用頭防具。{j}{c07}ＳＰ防具：紫{/c},Blademaster head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Purple{/c}
+1114,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：赤{/c},Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Red{/c}
+1115,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：黄{/c},Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Yellow{/c}
+1116,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：紫{/c},Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Purple{/c}
+1117,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黄{/c},Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Yellow{/c}
+1118,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黒{/c},Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Black{/c}
 1119,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：青{/c},Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Blue{/c}
 1120,猟団の絆を示す頭用装備。{j}燃えたぎる赤は、決して消え{j}ぬ友情の炎を表す。,Head gear that embodies the bonds of a{j}Hunting Guild. Its searing red speaks of{j}the flame of friendship that never dies.
 1121,猟団の絆を示す頭用装備。{j}澄み切った青は、晴天の如く{j}曇りのない友情を表す。,Head armor showing Hunting Guild bonds.{j}Its clear blue symbolizes friendship as{j}cloudless as a fair sky.
@@ -15418,8 +15418,8 @@ Felyne partner, meow!{j}To the sea!"
 15402,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}
 15403,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}
 15404,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c},Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}
-15405,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
-15406,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
+15405,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
+15406,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
 15407,盾蟹の素材を使用した胴装備。{j}激しい衝撃にも当たり負け{j}しない堅牢な防具。,Body armor made from Shield Crab{j}materials. Sturdy armor that won't buckle{j}under fierce impacts.
 15408,貴重な鉱石が主成分の胴用{j}装備。傷つけることさえ{j}難しい強度を誇る。,Body armor made primarily of precious ore.{j}It boasts toughness that is difficult even{j}to scratch.
 15409,特殊な鉱石をふんだんに使っ{j}た胴用装備。熟成されたスタ{j}イルは、高い信頼性を持つ。,Body equipment using{j}plenty of a special ore. Its matured{j}style boasts high reliability.
@@ -28888,8 +28888,8 @@ Felyne partner, meow!{j}To the sea!"
 28860,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}
 28861,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}
 28862,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c},Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}
-28863,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
-28864,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
+28863,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
+28864,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
 28865,ダイミョウザザミの素材と{j}良質な鉱石を使用した腕装備。{j}隙間のない精密な構造。,Arm armor made using Daimyo Hermitaur{j}materials and high-quality ore. A precise{j}structure with no gaps.
 28866,貴重な鉱石が主成分の腕用{j}装備。飛竜に踏まれても{j}曲がらない。,"Arm armor made mainly of precious ore.{j}Even if trampled by a Flying Wyvern, it{j}won't bend."
 28867,特殊な鉱石でできた腕用装備。{j}シンプルなデザインに必要な{j}機能が詰め込まれている。,Arms equipment made from a special ore.{j}A simple design packed with{j}all the functions it needs.
@@ -42442,8 +42442,8 @@ Felyne partner, meow!{j}To the sea!"
 42402,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}
 42403,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}
 42404,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c},Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}
-42405,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
-42406,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
+42405,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
+42406,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
 42407,盾蟹の素材を使用した腰装備。{j}最小限の防備で急所をカバー。{j}動きやすさを極限まで追求。,"Waist armor made from Shield Crab parts.{j}Minimal protection covers vital spots,{j}allowing the utmost freedom of movement."
 42408,貴重な鉱石が主成分の腰用{j}装備。並みの飛竜をものとも{j}しない強度。,Waist armor made mainly of precious ore.{j}Strength that shrugs off an ordinary{j}Flying Wyvern.
 42409,防御範囲自体は狭いものの、{j}人体の急所を巧みに覆う構造。{j}予想以上の性能に驚かされる。,"Though it covers little, its design{j}skillfully shields vital spots. Its{j}performance is surprisingly good."
@@ -56079,8 +56079,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 56023,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}
 56024,儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c},Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}
 56025,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c},Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}
-56026,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
-56027,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
+56026,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：青{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Blue{/c}
+56027,職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：紫{/c},Armor imbued with an artisan's dreams.{j}Renowned for its loveliness.{j}{c07}SP Armor: Purple{/c}
 56028,ダイミョウザザミの素材を使{j}用した脚用装備。軽やかな{j}ステップの実現こそ勝利の鍵。,Leg armor using Daimyo Hermitaur{j}materials. Achieving a light step is the{j}key to victory.
 56029,貴重な鉱石が主成分の脚用{j}装備。物理的攻撃には{j}とことん強い。,Leg armor made mainly of precious ore.{j}Thoroughly strong against physical{j}attacks.
 56030,ヴォルガノスの素材を用いた{j}脚用装備。驚くべき軽さで狩{j}人の機動性をサポート。,Leg armor made using Volganos materials.{j}Its surprising lightness supports the{j}Hunter's mobility.

@@ -288,3 +288,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 26 exact-source equipment-description records in the next head-armor families.
 - Reduce the current over-width census to 23855 records.
+
+## 2026.09.13-preview.55 (experimental)
+
+- Reflow 18 exact-source equipment-description records across artisan, Empress, and beetle head-armor families.
+- Reduce the current over-width census to 23837 records.
