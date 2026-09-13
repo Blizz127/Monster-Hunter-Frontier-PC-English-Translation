@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55325,
+      "source": "ギルドナイトの正式な脚装備。{j}その金色の脚は、一歩も退か{j}ないという決意の現れ。",
+      "previous": "Official leg armor for Guild Knights.{j}Those golden legs are a sign of the determination to{j}never retreat a single step.",
+      "target": "Official Guild Knight leg armor.{j}Golden legs show determination to{j}never retreat.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55426,
+      "source": "堅牢な砦蟹の素材を使用した{j}脚用装備。その重厚さは地に{j}根が生えた如き安定感を生む。",
+      "previous": "Leg equipment{j}made using sturdy Shen Gaoren materials. Its heft creates a sense of stability, as if roots{j}had grown into the earth.",
+      "target": "Leg{j}equipment made from sturdy Shen Gaoren.{j}Its heft feels rooted to the earth.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55427,
+      "source": "砦蟹の素材を最新の技術で{j}加工した脚用装備。身につけ{j}た者は不動の精神を得る。",
+      "previous": "Leg equipment made by{j}processing Shen Gaoren materials with the latest technology. Those who{j}wear it gain an unyielding spirit.",
+      "target": "Leg equipment made from Shen Gaoren.{j}Latest processing grants its wearer{j}an unyielding spirit.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55428,
+      "source": "工房の職人が最新技術を注い{j}で練り上げた脚装備。炎王龍{j}の赤き炎が封じられている。",
+      "previous": "Legs armor forged by a workshop artisan{j}who applied the latest techniques.{j}The crimson flame of the Flame King Dragon is sealed within.",
+      "target": "Leg armor forged with latest tech.{j}The Flame King Dragon's crimson flame{j}is sealed within.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55430,
+      "source": "東方の神の脚を飾ったいわれ{j}る装備を模した物。風を踏む{j}が如き軽やかさを得る。",
+      "previous": "Leg armor modeled after gear said to have{j}adorned the legs of an Eastern god. Grants a lightness as if you were{j}treading on the wind.",
+      "target": "Leg armor modeled after Eastern god gear.{j}It grants lightness like treading on wind.{j}Light as wind.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55431,
+      "source": "東方の神の脚を飾ったいわれ{j}る装備を模した物。大地を{j}感じない程の軽やかさを得る。",
+      "previous": "Leg armor modeled after gear said to have{j}adorned the legs of an Eastern god. Grants a lightness that makes you{j}forget the ground itself.",
+      "target": "Leg armor modeled after Eastern god gear.{j}It grants lightness that makes you{j}forget the ground.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55451,
+      "source": "強靭な刃と硬度を誇る脚防具。{j}その脚で駆け抜けると刃のご{j}とき鋭い風が舞うという。",
+      "previous": "Leg armor boasting a sturdy blade and hardness.{j}They say that when you race along on those legs,{j}a wind as keen as a blade swirls about.",
+      "target": "Leg armor with a sturdy blade.{j}Its wearer races with a blade-sharp wind{j}swirling around them.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55816,
+      "source": "安らぎに満ちた冥暗の脚防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Leg Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "target": "Leg armor of tranquil gloom.{j}Said to grant repose to its bearer and{j}cause them to evolve.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55961,
+      "source": "遠方の工房より伝来した脚用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "target": "{j}Leg gear from a distant workshop.{j}Insulating material makes it versatile.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55972,
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし脚防具。",
+      "previous": "Leg Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "target": "Leg armor reborn through human skill,{j}holding souls of male Fire Wyvern of{j}heaven and female of earth.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source leg-armor description patterns."
+}
