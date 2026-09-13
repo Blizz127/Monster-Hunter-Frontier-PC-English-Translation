@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58793,
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。朱色の毛と意匠{j}をこらした金色の装甲が特徴。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Noted for crimson fur and golden plating{j}wrought with elaborate design.",
+      "target": "Armor housing a mighty arm like a raging{j}red beast, with crimson fur and ornate{j}golden plating.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58794,
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。朱色の毛と意匠{j}をこらした金色の装甲が特徴。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Noted for crimson fur and golden plating{j}wrought with elaborate design.",
+      "target": "Armor housing a mighty arm like a raging{j}red beast, with crimson fur and ornate{j}golden plating.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58795,
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。朱色の毛と意匠{j}をこらした金色の装甲が特徴。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Noted for crimson fur and golden plating{j}wrought with elaborate design.",
+      "target": "Armor housing a mighty arm like a raging{j}red beast, with crimson fur and ornate{j}golden plating.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58820,
+      "source": "轟竜の素材を使った脚用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Leg armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "target": "Tigrex leg armor: proof of conquering a{j}destructive tyrant and overcoming fear.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58821,
+      "source": "轟竜の素材を使った脚用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Leg armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "target": "Tigrex leg armor: proof of conquering a{j}destructive tyrant and overcoming fear.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58822,
+      "source": "轟竜の素材を使った脚用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Leg armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "target": "Tigrex leg armor: proof of conquering a{j}destructive tyrant and overcoming fear.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58823,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した脚防具。",
+      "previous": "Legs armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58824,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した脚防具。",
+      "previous": "Legs armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58825,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した脚防具。",
+      "previous": "Legs armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58838,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した脚装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Leg armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight leg armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58839,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した脚装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Leg armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight leg armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58840,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した脚装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Leg armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight leg armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58847,
+      "source": "金獅子の、壮麗な素材を利用{j}した脚装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Legs armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Leg armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58848,
+      "source": "金獅子の、壮麗な素材を利用{j}した脚装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Legs armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Leg armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58849,
+      "source": "金獅子の、壮麗な素材を利用{j}した脚装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Legs armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Leg armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58865,
+      "source": "尾晶蠍を狩りし者の証たる{j}脚装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Legs Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion leg armor: its hardness{j}hurts the hand that strikes it.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58866,
+      "source": "尾晶蠍を狩りし者の証たる{j}脚装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Legs Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion leg armor: its hardness{j}hurts the hand that strikes it.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58867,
+      "source": "尾晶蠍を狩りし者の証たる{j}脚装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Legs Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion leg armor: its hardness{j}hurts the hand that strikes it.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59432,
+      "source": "帯電する舞雷竜の素材を{j}使用した脚装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Leg Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Leg armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59433,
+      "source": "帯電する舞雷竜の素材を{j}使用した脚装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Leg Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Leg armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59434,
+      "source": "帯電する舞雷竜の素材を{j}使用した脚装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Leg Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Leg armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61459,
+      "source": "圧倒的な存在感と圧力を感じる{j}脚防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Leg Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Leg armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61460,
+      "source": "圧倒的な存在感と圧力を感じる{j}脚防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Leg Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Leg armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61461,
+      "source": "圧倒的な存在感と圧力を感じる{j}脚防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Leg Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Leg armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 62150,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた脚防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Leg armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Leg armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 62151,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた脚防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Leg armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Leg armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 62152,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた脚防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Leg armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Leg armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 62650,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる脚防具。意外と軽量。",
+      "previous": "Leg armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Leg armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 62651,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる脚防具。意外と軽量。",
+      "previous": "Leg armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Leg armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 62652,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる脚防具。意外と軽量。",
+      "previous": "Leg armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Leg armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source leg-armor description patterns."
+}
