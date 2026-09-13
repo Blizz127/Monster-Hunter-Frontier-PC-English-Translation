@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28175,
+      "source": "太陽の光さえ封じ込める黒色{j}の防具。装飾の隙間から誰か{j}に監視されているような気に。",
+      "previous": "Black{j}armor that seals away even the sunlight. Through the gaps in its ornamentation, you feel as though{j}someone is watching you.",
+      "target": "Black{j}armor sealing sunlight. Gaps in its{j}ornamentation make you feel watched.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28179,
+      "source": "稲妻のように天を駆ける銀の{j}竜が命を吹き込んだ腕用装備。{j}振るう剣の切先も鋭さを増す。",
+      "previous": "Silver that races across the sky like lightning{j}Arms equipment into which a dragon breathed life.{j}The edge of the sword you swing grows even sharper.",
+      "target": "Silver arm gear, dragon-infused.{j}Its swung sword edge grows sharper.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28266,
+      "source": "工房の職人が技術の粋をつぎ{j}込んで作成した霞龍の腕装備。{j}ゆったりとして機能性に富む。",
+      "previous": "Chameleos arms armor,{j}crafted by a workshop artisan who poured in the very finest skill.{j}Loose-fitting and highly functional.",
+      "target": "Chameleos arm armor.{j}Made with the Workshop's finest skill.{j}Loose-fitting and highly functional.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28268,
+      "source": "塔に君臨する女王を従えた証。{j}特殊な加工で現れた深き青が、{j}見る者の心を魅了する。",
+      "previous": "Proof of having made the queen who reigns over the tower your servant.{j}The deep blue drawn out by special processing{j}captivates the hearts of all who behold it.",
+      "target": "Proof of subduing the tower queen.{j}Special processing reveals deep blue that{j}captivates all who behold it.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28269,
+      "source": "炎妃龍の素材を特殊な技術で{j}練り上げた腕用装備。身につ{j}けた者の心奥に青き炎が灯る。",
+      "previous": "Arm equipment{j}crafted from Lunastra materials with special techniques. A blue flame burns deep in the heart of the{j}wearer.",
+      "target": "Arm gear crafted from Lunastra materials.{j}A blue flame burns deep in the wearer's{j}heart.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28272,
+      "source": "炎を律する王を従えた証。{j}最新の加工で現れた猛き赤が、{j}見る者の心を駆り立てる。",
+      "previous": "Proof of subjugating the king who rules flames.{j}The fierce red that emerged from the latest processing,{j}stirs the hearts of all who see it.",
+      "target": "Proof of subjugating the flame king.{j}Latest processing reveals fierce red that{j}stirs every viewer's heart.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28277,
+      "source": "金獅子の良質の黒毛のみを最{j}新の技術で織り込んだ腕装備。{j}その腕は闇にとけ込む。",
+      "previous": "Arms armor woven from only the finest black fur of the Gold Lion{j}with the latest techniques.{j}Those arms melt into the darkness.",
+      "target": "Arm armor woven from finest Gold Lion fur{j}with modern techniques. It melts into{j}darkness.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28293,
+      "source": "偉大な古龍をも打ち砕く力を{j}秘めた腕防具。古の時を生き{j}た古龍も恐れおののくという。",
+      "previous": "Arm armor{j}concealing the power to shatter even{j}great Elder Dragons. Even Elder Dragons that lived in ancient times are said to tremble before it.",
+      "target": "Arm{j}armor with power to shatter Elder Dragons.{j}Ancient Elder Dragons tremble before it.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28654,
+      "source": "安らぎに満ちた冥暗の腕防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Arm Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "target": "Arm armor of tranquil gloom.{j}Said to grant repose to its bearer and{j}cause them to evolve.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28798,
+      "source": "遠方の工房より伝来した腕用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "target": "{j}Arm gear from a distant workshop.{j}Insulating material makes it versatile.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source arm-armor description patterns."
+}

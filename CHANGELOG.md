@@ -191,3 +191,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 10 more source-reviewed body- and arm-armor descriptions.
 - Reduce the remaining reviewed shortening queue to 140 entries.
+
+## 2026.09.13-preview.36 (experimental)
+
+- Add 10 more source-reviewed arm-armor descriptions.
+- Reduce the remaining reviewed shortening queue to 130 entries.
