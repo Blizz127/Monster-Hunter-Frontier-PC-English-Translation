@@ -278,3 +278,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 13 exact-source equipment-description records in the next head-armor group.
 - Reduce the current over-width census to 23894 records.
+
+## 2026.09.13-preview.53 (experimental)
+
+- Rebuild the cumulative client delta from the corrected candidate lineage through the first five fresh wrap batches.
+- Preserve the two Mezeporta archive reflows; static verification passes for all three files.

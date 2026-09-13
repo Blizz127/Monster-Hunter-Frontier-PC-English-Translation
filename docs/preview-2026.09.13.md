@@ -1,4 +1,4 @@
-# Experimental translation update: 2026.09.13-preview.49
+# Experimental translation update: 2026.09.13-preview.53
 
 This preview is **not in-game verified** and is not the stable release. It does
 not claim 100% English coverage. Use the stable 2026.09.13 release for the
