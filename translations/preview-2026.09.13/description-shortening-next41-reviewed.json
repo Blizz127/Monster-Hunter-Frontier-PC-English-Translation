@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1159,
+      "source": "師範代しか持つことを許され{j}ぬ高級稽古用太刀。先革から{j}柄まで、非の打ち所無き逸品。",
+      "previous": "A high-grade training Long Sword that only assistant instructors are permitted{j}to possess. From the tip leather to the{j}hilt, it is a flawless masterpiece.",
+      "target": "Training Long Sword for instructors only.{j}Flawless from tip leather{j}to hilt.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1182,
+      "source": "伝説の家具職人の魂が宿った{j}大槌。大人気の肉球仕掛けの{j}詳細は、企業秘密らしい。",
+      "previous": "A Hammer{j}imbued with the soul of a legendary furniture craftsman. The details of the wildly popular paw-pad gadget{j}are apparently a company secret.",
+      "target": "Hammer imbued with a legendary furniture{j}craftsman's soul. Its popular paw gadget's{j}details are a company secret.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 4463,
+      "source": "装飾を廃し、素材の持ち味を{j}最大限に引き出した大剣。{j}可能な限り加工した完成系。",
+      "previous": "A Great Sword that forgoes decoration and draws out the material's inherent qualities{j}to the fullest.{j}A final form, processed to the greatest possible extent.",
+      "target": "Great Sword forgoing decoration, drawing{j}out its material's full quality. Its final{j}form is meticulously processed.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 4568,
+      "source": "ダークランスの究極進化形。{j}内部構造を一から見直して、神{j}経毒の注入効率を大幅に向上。",
+      "previous": "Dark Lance's ultimate evolved form. The{j}internal structure was redesigned from scratch, greatly improving the injection efficiency of divine{j}neurotoxin.",
+      "target": "Ultimate Dark Lance evolution.{j}Redesigned inside from scratch, greatly{j}improving divine neurotoxin injection.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6576,
+      "source": "黒角竜の素材で強化した剛鎚。{j}逞しい黒角竜の突進を思わせ{j}る破壊力は、まさに覇者の力。",
+      "previous": "A mighty hammer reinforced with Black Diablos materials.{j}Its destructive power, reminiscent of{j}a Black Diablos's powerful charge, is truly the power of a conqueror.",
+      "target": "Mighty Black Diablos hammer.{j}Its charge-like destructive power.{j}The power of a conqueror.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6659,
+      "source": "最先端の加工技術を結集し、{j}高い火属性と武器としての{j}威力を徹底追及した珠玉の槍。",
+      "previous": "Bringing together cutting-edge processing technology,{j}High Fire element and, as a weapon,{j}A peerless lance that pursues raw power to the utmost.",
+      "target": "Peerless lance built with cutting-edge.{j}High Fire element and weapon power pursued{j}to the utmost.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6734,
+      "source": "伝説の金竜銀竜の素材を用い{j}た双剣。武器となった今なお{j}熱さを感じる貴重な武器。",
+      "previous": "Dual Blades made using{j}materials from the legendary Gold Dragon and Silver Dragon. Even now as a weapon,{j}it is a precious weapon that still feels hot.",
+      "target": "Dual Blades made from legendary Gold and{j}Silver Dragon materials. Even as a weapon,{j}they remain precious and hot.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 6888,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け{j}御神体の南門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the South Gate.~",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 7023,
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。龍と麻痺の{j}双属性で、モンスターを狩れ。",
+      "previous": "A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its dual Dragon and Paralysis{j}attributes, hunt monsters.",
+      "target": "Sword & Shield applying Extreme Dragon{j}magnetism. Dragon and Paralysis elements{j}let you hunt monsters.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 7026,
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。龍と麻痺の{j}双属性で、畏れを薙ぎ払え！",
+      "previous": "A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its dual Dragon and Paralysis{j}attributes, mow down all fear!",
+      "target": "Sword & Shield applying Extreme Dragon{j}magnetism. Dragon and Paralysis elements{j}mow down all fear!",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source melee-description patterns."
+}
