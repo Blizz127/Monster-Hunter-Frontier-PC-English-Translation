@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 426,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}狩人の全身に力が漲る。",
+      "previous": "Head armor that has achieved{j}further evolution through the use of Espinas Subspecies materials.{j}Strength surges through the Hunter's entire body.",
+      "target": "Head armor evolved further with Espinas{j}Subspecies materials. Power surges through{j}the Hunter's body.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 914,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}狩人の全身に力が漲る。",
+      "previous": "Head armor that has achieved{j}further evolution through the use of Espinas Subspecies materials.{j}Strength surges through the Hunter's entire body.",
+      "target": "Head armor evolved further with Espinas{j}Subspecies materials. Power surges through{j}the Hunter's body.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2926,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}狩人の全身に力が漲る。",
+      "previous": "Head armor that has achieved{j}further evolution through the use of Espinas Subspecies materials.{j}Strength surges through the Hunter's entire body.",
+      "target": "Head armor evolved further with Espinas{j}Subspecies materials. Power surges through{j}the Hunter's body.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 437,
+      "source": "異国の船乗りが伝えた帽子。{j}船上で結束を増す、仲間との{j}深い絆を象徴するという。",
+      "previous": "A hat passed down from foreign sailors.{j}It is said to strengthen unity aboard ship and symbolize the{j}deep bonds between comrades.",
+      "target": "A hat passed down by foreign sailors. It{j}symbolizes deep bonds and strengthens{j}unity aboard ship.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 546,
+      "source": "異国の船乗りが伝えた帽子。{j}船上で結束を増す、仲間との{j}深い絆を象徴するという。",
+      "previous": "A hat passed down from foreign sailors.{j}It is said to strengthen unity aboard ship and symbolize the{j}deep bonds between comrades.",
+      "target": "A hat passed down by foreign sailors. It{j}symbolizes deep bonds and strengthens{j}unity aboard ship.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7586,
+      "source": "異国の船乗りが伝えた帽子。{j}船上で結束を増す、仲間との{j}深い絆を象徴するという。",
+      "previous": "A hat passed down from foreign sailors.{j}It is said to strengthen unity aboard ship and symbolize the{j}deep bonds between comrades.",
+      "target": "A hat passed down by foreign sailors. It{j}symbolizes deep bonds and strengthens{j}unity aboard ship.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 772,
+      "source": "メゼポルタで流行の頭用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the head, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal headpiece popular in Mezepolta.{j}Used for ceremonies, it also offers{j}first-class performance.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 774,
+      "source": "メゼポルタで流行の頭用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the head, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal headpiece popular in Mezepolta.{j}Used for ceremonies, it also offers{j}first-class performance.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3028,
+      "source": "メゼポルタで流行の頭用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the head, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal headpiece popular in Mezepolta.{j}Used for ceremonies, it also offers{j}first-class performance.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 835,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた頭防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Hard-to-process Pariapuria materials{j}Head armor used in large quantities. The order's{j}You may even get a dirty look when...",
+      "target": "Head armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 836,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた頭防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Hard-to-process Pariapuria materials{j}Head armor used in large quantities. The order's{j}You may even get a dirty look when...",
+      "target": "Head armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1994,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた頭防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Hard-to-process Pariapuria materials{j}Head armor used in large quantities. The order's{j}You may even get a dirty look when...",
+      "target": "Head armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 938,
+      "source": "遠方の工房より伝来した頭用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "Head{j}equipment passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "Head equipment from a distant workshop,{j}strengthened for defense. Excellent in{j}both attack and defense.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1570,
+      "source": "遠方の工房より伝来した頭用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "Head{j}equipment passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "Head equipment from a distant workshop,{j}strengthened for defense. Excellent in{j}both attack and defense.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2225,
+      "source": "遠方の工房より伝来した頭用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "Head{j}equipment passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "Head equipment from a distant workshop,{j}strengthened for defense. Excellent in{j}both attack and defense.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3795,
+      "source": "新発見された採取素材を多く{j}用いた頭装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Head equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}head armor. Expert craftsmanship.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3796,
+      "source": "新発見された採取素材を多く{j}用いた頭装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Head equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}head armor. Expert craftsmanship.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4106,
+      "source": "新発見された採取素材を多く{j}用いた頭装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Head equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}head armor. Expert craftsmanship.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3797,
+      "source": "凍海獣の素材を多く利用した{j}頭防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Head armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast armor that heals you and{j}your allies.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3798,
+      "source": "凍海獣の素材を多く利用した{j}頭防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Head armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast armor that heals you and{j}your allies.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4107,
+      "source": "凍海獣の素材を多く利用した{j}頭防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Head armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast armor that heals you and{j}your allies.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3805,
+      "source": "イャンクックの素材で作られた{j}頭防具。怪鳥のイメージを{j}大きく覆す、強さ、堅さ。",
+      "previous": "Head armor{j}made from Yian Kut-Ku materials. Strength and hardness that{j}greatly overturn the image of the Bird Wyvern.",
+      "target": "Head armor made from materials gathered in{j}the volcanic zone. Its sturdy finish{j}reflects expert craftsmanship.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3806,
+      "source": "イャンクックの素材で作られた{j}頭防具。怪鳥のイメージを{j}大きく覆す、強さ、堅さ。",
+      "previous": "Head armor{j}made from Yian Kut-Ku materials. Strength and hardness that{j}greatly overturn the image of the Bird Wyvern.",
+      "target": "Head armor made from materials gathered in{j}the volcanic zone. Its sturdy finish{j}reflects expert craftsmanship.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4111,
+      "source": "イャンクックの素材で作られた{j}頭防具。怪鳥のイメージを{j}大きく覆す、強さ、堅さ。",
+      "previous": "Head armor{j}made from Yian Kut-Ku materials. Strength and hardness that{j}greatly overturn the image of the Bird Wyvern.",
+      "target": "Head armor made from materials gathered in{j}the volcanic zone. Its sturdy finish{j}reflects expert craftsmanship.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3807,
+      "source": "イャンクックの素材で作られた{j}頭防具。頑丈なだけではなく、{j}危険に対して敏感になるとか。",
+      "previous": "{j}Head Armor made from Yian Kut-Ku materials. Not only is it sturdy, but it apparently heightens your senses to{j}danger.",
+      "target": "{j}Rare-insect head armor: light and strong.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3808,
+      "source": "イャンクックの素材で作られた{j}頭防具。頑丈なだけではなく、{j}危険に対して敏感になるとか。",
+      "previous": "{j}Head Armor made from Yian Kut-Ku materials. Not only is it sturdy, but it apparently heightens your senses to{j}danger.",
+      "target": "{j}Rare-insect head armor: light and strong.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4112,
+      "source": "イャンクックの素材で作られた{j}頭防具。頑丈なだけではなく、{j}危険に対して敏感になるとか。",
+      "previous": "{j}Head Armor made from Yian Kut-Ku materials. Not only is it sturdy, but it apparently heightens your senses to{j}danger.",
+      "target": "{j}Rare-insect head armor: light and strong.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3845,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした頭防具。{j}着ていると力があふれる。",
+      "previous": "Head armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Head armor made from a famous monster's{j}hide. Its intimidating design reflects the{j}beast's ferocity.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3846,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした頭防具。{j}着ていると力があふれる。",
+      "previous": "Head armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Head armor made from a famous monster's{j}hide. Its intimidating design reflects the{j}beast's ferocity.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4131,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした頭防具。{j}着ていると力があふれる。",
+      "previous": "Head armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Head armor made from a famous monster's{j}hide. Its intimidating design reflects the{j}beast's ferocity.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source equipment description patterns."
+}

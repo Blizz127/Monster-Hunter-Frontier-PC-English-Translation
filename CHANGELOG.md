@@ -31,3 +31,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 32 more source-reviewed equipment descriptions.
 - Reduce the remaining reviewed shortening queue to 931 entries.
+
+## 2026.09.13-preview.4 (experimental)
+
+- Add 30 more source-reviewed equipment descriptions.
+- Reduce the remaining reviewed shortening queue to 901 entries.
