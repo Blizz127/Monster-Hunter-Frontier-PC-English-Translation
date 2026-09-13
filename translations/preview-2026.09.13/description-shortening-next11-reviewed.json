@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31687,
+      "source": "金獅子の、壮麗な素材を利用{j}した腕装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Arms armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Arm armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31688,
+      "source": "金獅子の、壮麗な素材を利用{j}した腕装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Arms armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Arm armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31689,
+      "source": "金獅子の、壮麗な素材を利用{j}した腕装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Arms armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Arm armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31705,
+      "source": "尾晶蠍を狩りし者の証たる{j}腕装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Arms Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion hunter's arm armor: its{j}hardness hurts the hand that strikes it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31706,
+      "source": "尾晶蠍を狩りし者の証たる{j}腕装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Arms Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion hunter's arm armor: its{j}hardness hurts the hand that strikes it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31707,
+      "source": "尾晶蠍を狩りし者の証たる{j}腕装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Arms Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion hunter's arm armor: its{j}hardness hurts the hand that strikes it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32272,
+      "source": "帯電する舞雷竜の素材を{j}使用した腕装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Arm Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Arm armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32273,
+      "source": "帯電する舞雷竜の素材を{j}使用した腕装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Arm Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Arm armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32274,
+      "source": "帯電する舞雷竜の素材を{j}使用した腕装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Arm Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Arm armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34299,
+      "source": "圧倒的な存在感と圧力を感じる{j}腕防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Arm Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Arm armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34300,
+      "source": "圧倒的な存在感と圧力を感じる{j}腕防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Arm Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Arm armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34301,
+      "source": "圧倒的な存在感と圧力を感じる{j}腕防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Arm Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Arm armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34972,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた腕防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Arm armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Arm armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34973,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた腕防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Arm armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Arm armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34974,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた腕防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Arm armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Arm armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 35472,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる腕防具。意外と軽量。",
+      "previous": "Arm armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Arm armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 35473,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる腕防具。意外と軽量。",
+      "previous": "Arm armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Arm armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 35474,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる腕防具。意外と軽量。",
+      "previous": "Arm armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Arm armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 35851,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた腕防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Arm armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite arm armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 35852,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた腕防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Arm armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite arm armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 35853,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた腕防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Arm armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite arm armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 36160,
+      "source": "遠方で流行しているという{j}腕防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}arm armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land arm armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 36161,
+      "source": "遠方で流行しているという{j}腕防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}arm armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land arm armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 36162,
+      "source": "遠方で流行しているという{j}腕防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}arm armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land arm armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 37991,
+      "source": "極龍の力を具現する篭手。抱{j}える武器は、肉となり、体の{j}一部となり自由自在に扱える。",
+      "previous": "Arms that embody the power of the Extreme Dragon.The{j}weapon you hold becomes flesh, becomes part of your{j}body, and you can wield it freely.",
+      "target": "Gauntlets embodying the Extreme Dragon's{j}power. Held weapons become flesh and part{j}of the body, wielded freely.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 37992,
+      "source": "極龍の力を具現する篭手。抱{j}える武器は、肉となり、体の{j}一部となり自由自在に扱える。",
+      "previous": "Arms that embody the power of the Extreme Dragon.The{j}weapon you hold becomes flesh, becomes part of your{j}body, and you can wield it freely.",
+      "target": "Gauntlets embodying the Extreme Dragon's{j}power. Held weapons become flesh and part{j}of the body, wielded freely.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 37993,
+      "source": "極龍の力を具現する篭手。抱{j}える武器は、肉となり、体の{j}一部となり自由自在に扱える。",
+      "previous": "Arms that embody the power of the Extreme Dragon.The{j}weapon you hold becomes flesh, becomes part of your{j}body, and you can wield it freely.",
+      "target": "Gauntlets embodying the Extreme Dragon's{j}power. Held weapons become flesh and part{j}of the body, wielded freely.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41534,
+      "source": "赤い鱗が美しい腰用装備。{j}イーオス素材と良質な鉱石を、{j}合成、使い心地も抜群。",
+      "previous": "Waist equipment with beautiful red scales.{j}Synthesized from Ios materials and fine ore,{j}and exceptionally comfortable to wear.",
+      "target": "Comfortable waist equipment with beautiful{j}red scales, synthesized from Ios materials{j}and fine ore.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41652,
+      "source": "赤い鱗が美しい腰用装備。{j}イーオス素材と良質な鉱石を、{j}合成、使い心地も抜群。",
+      "previous": "Waist equipment with beautiful red scales.{j}Synthesized from Ios materials and fine ore,{j}and exceptionally comfortable to wear.",
+      "target": "Comfortable waist equipment with beautiful{j}red scales, synthesized from Ios materials{j}and fine ore.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42419,
+      "source": "赤い鱗が美しい腰用装備。{j}イーオス素材と良質な鉱石を、{j}合成、使い心地も抜群。",
+      "previous": "Waist equipment with beautiful red scales.{j}Synthesized from Ios materials and fine ore,{j}and exceptionally comfortable to wear.",
+      "target": "Comfortable waist equipment with beautiful{j}red scales, synthesized from Ios materials{j}and fine ore.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source armor description patterns."
+}
