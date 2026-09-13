@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-ranged-description.csv",
+      "index": 3249,
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された重銃。{j}持ち主に風の力を宿すという。",
+      "previous": "A Heavy Bowgun forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "target": "Heavy Bowgun from a sage's legend.{j}Passed down for ages, it is said{j}to grant its wielder wind power.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-ranged-description.csv",
+      "index": 3250,
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された弓。{j}持ち主に風の力を宿すという。",
+      "previous": "A Bow forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "target": "Bow from a sage's legend.{j}Passed down for ages, it is said{j}to grant its wielder wind power.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-ranged-description.csv",
+      "index": 3539,
+      "source": "古の装飾が施された黒い軽弩。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Light Bowgun adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "target": "Black Light Bowgun with ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14815,
+      "source": "東方の極楽に住まう神々の戦{j}装束を模した胴用装備。浮岳{j}龍の素材と伝説の技術の結晶。",
+      "previous": "Body armor modeled after the battle{j}garb of the gods who dwell in the Eastern paradise. A crystallization of Yama Tsukami{j}materials and legendary craft.",
+      "target": "Body armor modeled after Eastern gods.{j}Yama Tsukami materials and legendary{j}craft crystallized in its form.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55238,
+      "source": "滑らかな光沢を持つ特殊合金{j}製の防具。金の細工が、夜空{j}を流れる星の大河を思わせる。",
+      "previous": "Armor made from a special alloy{j}with a smooth gloss. Its goldwork calls to mind{j}a great river of stars flowing across the night sky.",
+      "target": "Armor made from a smooth special alloy.{j}Its goldwork evokes a great river of stars{j}flowing across the night sky.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55467,
+      "source": "メラルーの足を模した脚用装{j}備。歩くたびに足裏から伝わ{j}る肉球の感触が好評。",
+      "previous": "Leg equip{j}ment modeled after a Melynx's foot. The feel of the paw pads transmit{j}ted through your soles with every step is popular.",
+      "target": "Leg gear modeled after a Melynx paw.{j}Paw pads transmit their feel through your{j}soles with every step; a popular design.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 344,
+      "source": "黒きを滅ぼすという名の龍剣。{j}龍の唸りに呼応して振動し、{j}その威力を数倍に増すという。",
+      "previous": "A dragon sword named for the destruction of blackness. It vibrates in answer to{j}a dragon's roar,{j}and is said to multiply its power severalfold.",
+      "target": "Dragon sword that destroys darkness.{j}It vibrates to a dragon's roar and may{j}multiply its power severalfold.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8609,
+      "source": "一見何の変哲もないが、盾蟹{j}素材の一等堅い部分だけを削{j}りぬいて作られた乙な片手剣。",
+      "previous": "Though unremarkable at first glance, this tasteful Sword & Shield was made from Daimyo Hermitaur{j}materials by carving{j}away all but the hardest parts.",
+      "target": "Tasteful Sword & Shield, plain at glance.{j}Made from Daimyo Hermitaur materials,{j}carved to retain only the hardest parts.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 13208,
+      "source": "銀の装飾が施された黒い穿龍{j}棍。儀礼用であったが実用性{j}も兼ね備えた至高の逸品。",
+      "previous": "A black Tonfa{j}adorned with silver ornaments. Though it was for ceremonial use, it possesses practicality{j}as well, making it a supreme masterpiece.",
+      "target": "Black Tonfa with silver ornaments.{j}Ceremonial yet practical, it became{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14637,
+      "source": "鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}辺りが凍るほどの寒さを放つ。",
+      "previous": "A steel Great Sword forged by{j}combining Kushala Daora's materials with an ancient Great Sword. It gives off{j}a cold intense enough to freeze the air around it.",
+      "target": "Steel Great Sword combining Kushala Daora{j}materials and an ancient Great Sword.{j}Its cold can freeze the surrounding air.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    },
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    },
+    "dat-weapons-ranged-description.csv": {
+      "offset": 144,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source description patterns."
+}

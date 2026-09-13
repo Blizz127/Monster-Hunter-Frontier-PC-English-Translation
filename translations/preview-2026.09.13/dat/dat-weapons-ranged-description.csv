@@ -3248,8 +3248,8 @@ index,source,target
 3246,古の装飾が施された白い重弩。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"A white Heavy Bowgun adorned with ancient{j}decorations. Forged from a ceremonial piece, it has{j}been elevated to a supreme masterpiece."
 3247,古の装飾が施された白い弓。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"A white Bow adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece."
 3248,古来より伝わる賢者の伝承を{j}元に作られた軽弩。{c03}LV2 通常{j}弾{/c}、{c03}LV1 貫通弾{/c}が{c03}速射{/c}対応。,A Light Bowgun made based on the{j}legend of a sage handed down from ancient times. It supports{c03}Rapid Fire{/c}for{c03}LV2 Normal{j}Ammo{/c}and{c03}LV1 Pierce Ammo{/c}.
-3249,古来より伝わる遠国の賢者の{j}伝承を元に作成された重銃。{j}持ち主に風の力を宿すという。,"A Heavy Bowgun forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind."
-3250,古来より伝わる遠国の賢者の{j}伝承を元に作成された弓。{j}持ち主に風の力を宿すという。,"A Bow forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind."
+3249,古来より伝わる遠国の賢者の{j}伝承を元に作成された重銃。{j}持ち主に風の力を宿すという。,"Heavy Bowgun from a sage's legend.{j}Passed down for ages, it is said{j}to grant its wielder wind power."
+3250,古来より伝わる遠国の賢者の{j}伝承を元に作成された弓。{j}持ち主に風の力を宿すという。,"Bow from a sage's legend.{j}Passed down for ages, it is said{j}to grant its wielder wind power."
 3251,蘇った大巌竜の軽弩。{c06}強酸弾{/c}に{j}対応。{c03}LV2 通常弾{/c}、{c03}LV1 貫通弾{/c}{j}が{c03}速射{/c}対応。{c05}≪進化武器≫{/c},"A Light Bowgun of the revived Great Rock Dragon.{c06}Supports Strong Acid Ammo{/c}.{j}Supports{c03}LV2 Normal Ammo{/c},{c03}LV1 Pierce Ammo{/c}{j}and{c03}Rapid Fire{/c}.{c05}≪Evolution Weapon≫{/c}"
 3252,幻の大巌竜の軽弩。{c06}龍酸弾{/c}に{j}対応。{c03}LV2 通常弾{/c}、{c03}LV1 貫通弾{/c}{j}が{c03}速射{/c}対応。{c05}≪進化武器≫{/c},Light Bowgun of a legendary Gurenzeburu. Supports{c06}Dragon Acid Ammo{/c}{j}.{c03}LV2 Normal Ammo{/c}and{c03}LV1 Pierce Ammo{/c}{j}are{c03}Rapid Fire{/c}compatible.{c05}≪Evolution Weapon≫{/c}
 3253,稀少な大巌竜の軽弩。{c06}強酸弾{/c}、{j}{c06}龍酸弾{/c}に対応。{c03}LV2 通常弾{/c}が{j}{c03}速射{/c}対応。{c05}≪進化武器≫{/c},A Light Bowgun of the rare Great Rock Dragon.{c06}Strong Acid Ammo{/c}and{j}{c06}Dragon Acid Ammo{/c}are supported.{c03}LV2 Normal Ammo{/c}can use{j}{c03}Rapid Fire{/c}.{c05}≪Evolution Weapon≫{/c}
@@ -3538,7 +3538,7 @@ index,source,target
 3536,古の装飾が施された黒い軽弩。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Light Bowgun adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 3537,古の装飾が施された黒い軽弩。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Light Bowgun adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 3538,古の装飾が施された黒い軽弩。{j}名工謹製の逸品。{j}{c16}≪親方印≫{/c},A black Light Bowgun adorned with ancient ornamentation.{j}A masterpiece crafted by a master artisan.{j}{c16}≪Master Mark≫{/c}
-3539,古の装飾が施された黒い軽弩。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"A black Light Bowgun adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece."
+3539,古の装飾が施された黒い軽弩。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,Black Light Bowgun with ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece.
 3540,古の装飾が施された黒い重弩。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Heavy Bowgun adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 3541,古の装飾が施された黒い重弩。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Heavy Bowgun adorned with ancient{j}ornamentation. A masterpiece by a master artisan,{j}ceremonial yet also practical."
 3542,古の装飾が施された黒い重弩。{j}名工謹製の逸品。{j}{c16}≪親方印≫{/c},A black Heavy Bowgun adorned with ancient ornamentation.{j}A masterpiece by a master artisan.{j}{c16}≪Master Mark≫{/c}

@@ -343,7 +343,7 @@ index,source,target
 341,想像を絶する毒性を持つ小斧。{j}耐性のない者は、近づくだけ{j}でその瘴気に冒されるという。,A hatchet of unfathomable toxicity.{j}Those without resistance need only draw near{j}to fall ill from its miasma.
 342,自在に風を呼び、雷を操ると{j}言われる片手剣。扱う者の{j}呼吸と同調してにぶく輝く。,A Sword & Shield said to summon the wind and{j}command the lightning at will. It glows dimly in{j}tune with the breathing of its wielder.
 343,龍を討ち祓う力を秘めた双刀。{j}一対の刃は、互いにその力を{j}高めあい更なる力を引き出す。,"Dual Blades holding the power to slay and purge{j}dragons. The paired blades amplify each other's{j}strength, drawing out even greater power."
-344,黒きを滅ぼすという名の龍剣。{j}龍の唸りに呼応して振動し、{j}その威力を数倍に増すという。,"A dragon sword named for the destruction of blackness. It vibrates in answer to{j}a dragon's roar,{j}and is said to multiply its power severalfold."
+344,黒きを滅ぼすという名の龍剣。{j}龍の唸りに呼応して振動し、{j}その威力を数倍に増すという。,Dragon sword that destroys darkness.{j}It vibrates to a dragon's roar and may{j}multiply its power severalfold.
 345,角竜の怨念が宿ると言われる{j}棍棒。常に角竜がそばにいる{j}かのような気配を漂わせる。,A club made from a horn said to harbor Diablos's{j}grudge. It gives off a presence as if Diablos is{j}always at your side.
 346,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.
 347,大きな爪を使った赤き双剣。{j}両手に携え、獲物を狩る姿{j}はドスランポスそのもの。,"Crimson Dual Blades crafted using great claws.{j}Wielded in both hands, their prey-hunting form{j}is a Velocidrome itself."
@@ -8616,7 +8616,7 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 8606,イャンクックが走りまわる姿{j}を想像させる、陽気で朗らか{j}な音色を奏でる狩猟笛。,"A Hunting Horn that evokes a Yian Kut-Ku{j}dashing about, playing a cheerful and merry{j}tone."
 8607,貫き通すことだけに全てを{j}注いだ先端の鋭い槍。槍身{j}は炎を纏うかのように赤い。,"A sharp-tipped Lance with all of{j}poured into piercing through. The shaft{j}is red, as if wreathed in flame."
 8608,硬骨の頑丈な骨膜部分で銃身{j}を覆った安全性の高い銃槍。{j}とても扱いやすい。,A highly safe Gunlance whose barrel{j}is wrapped in sturdy hard-bone periosteum.{j}Very easy to handle.
-8609,一見何の変哲もないが、盾蟹{j}素材の一等堅い部分だけを削{j}りぬいて作られた乙な片手剣。,"Though unremarkable at first glance, this tasteful Sword & Shield was made from Daimyo Hermitaur{j}materials by carving{j}away all but the hardest parts."
+8609,一見何の変哲もないが、盾蟹{j}素材の一等堅い部分だけを削{j}りぬいて作られた乙な片手剣。,"Tasteful Sword & Shield, plain at glance.{j}Made from Daimyo Hermitaur materials,{j}carved to retain only the hardest parts."
 8610,盾蟹の構造的強さを、ダイレ{j}クトかつダイナミックに取り{j}込んだ双剣。,Dual Blades that take in the Shield Crab's{j}structural strength in a direct and dynamic way.{j}
 8611,堅さの割に軽い、盾蟹の素材{j}特性を究極まで追求した大剣。{j}大安定の一品。,A Great Sword that pursues the properties of Shield{j}Crab material to the ultimate -- light for its{j}hardness. A supremely reliable piece.
 8612,ワイルドな設計思想により{j}「断ち」「切る」ことを体現{j}した盾蟹の大鎌。,"A Daimyo Hermitaur Great Scythe that, through its{j}wild design philosophy, embodies 'cutting' and{j}'slicing'."
@@ -13215,7 +13215,7 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 13205,銀の装飾が施された黒い太刀。{j}名工謹製の逸品。{j}{c16}≪親方印≫{/c},Black Long Sword adorned with silver decorations.{j}A masterpiece by a master craftsman.{j}{c16}≪Master Mark≫{/c}
 13206,銀の装飾が施された黒い太刀。{j}名工謹製の逸品。{j}{c11}≪ＨＣ武器≫{/c},Black Long Sword adorned with silver decorations.{j}A masterpiece by a master craftsman.{j}{c11}≪HC Weapon≫{/c}
 13207,銀の装飾が施された黒い太刀。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。,"Black Long Sword adorned with silver decorations.{j}Reforged from a ceremonial piece,{j}elevated to a supreme masterpiece."
-13208,銀の装飾が施された黒い穿龍{j}棍。儀礼用であったが実用性{j}も兼ね備えた至高の逸品。,"A black Tonfa{j}adorned with silver ornaments. Though it was for ceremonial use, it possesses practicality{j}as well, making it a supreme masterpiece."
+13208,銀の装飾が施された黒い穿龍{j}棍。儀礼用であったが実用性{j}も兼ね備えた至高の逸品。,"Black Tonfa with silver ornaments.{j}Ceremonial yet practical, it became{j}a supreme masterpiece."
 13209,巨大な拳の形をした穿龍棍。{j}腕が伸びたような形は職人{j}曰く「男の浪漫」だとか。,"A Tonfa shaped like a giant fist. The shape, like{j}an extended arm, is what the craftsman calls 'a{j}man's romance.'"
 13210,巨大な拳の形をした穿龍棍。{j}独特な機構をしているため、{j}調整に非常に手間がかかる。,"A Tonfa shaped like a giant fist.{j}Because it has a unique mechanism,{j}adjusting it takes a great deal of effort."
 13211,巨大な拳の形をした穿龍棍。{j}独特な機構をしているため、{j}調整に非常に手間がかかる。,"A Tonfa shaped like a giant fist.{j}Because it has a unique mechanism,{j}adjusting it takes a great deal of effort."
@@ -14644,7 +14644,7 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 14634,太古の精霊を宿すという、{j}不思議な壺を模した強力無比{j}な大槌。,"Said to house an ancient spirit,{j}Modeled after a mysterious pot, supremely powerful.{j}A large mallet."
 14635,うす気味の悪い音色を奏でる{j}狩猟笛。扱い手は、既に存在{j}しない者の姿が見えるという。,A Hunting Horn that plays{j}a faintly eerie tone. Its wielder is said to see{j}those who no longer exist.
 14636,霞龍の素材を秘伝の毒に、{j}幾千日にも渡り漬け込み、{j}丹念に仕上げた銃槍。,"A Gunlance steeped in a secret venom made from{j}Chameleos materials for thousands of days, then{j}carefully finished."
-14637,鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}辺りが凍るほどの寒さを放つ。,A steel Great Sword forged by{j}combining Kushala Daora's materials with an ancient Great Sword. It gives off{j}a cold intense enough to freeze the air around it.
+14637,鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}辺りが凍るほどの寒さを放つ。,Steel Great Sword combining Kushala Daora{j}materials and an ancient Great Sword.{j}Its cold can freeze the surrounding air.
 14638,鋼龍の素材と古き槌との融合{j}により再生した氷冷槌。蛇の{j}意匠は芸術的評価も高い。,An ice-cold hammer reborn through the fusion of{j}Kushala Daora's materials and an ancient hammer.{j}Its snake motif is also highly acclaimed as art.
 14639,突き刺せば大地を凍土へ{j}変えてしまう脅威の鋼龍槍。{j}熟練者だけが扱える。,A threatening Steel Dragon Lance that{j}turns the earth into frozen soil when thrust.{j}Only experts can handle it.
 14640,鋼龍の素材を用いた片手剣。{j}刃から凍気を発し、いつの間{j}にか周囲が凍えてることも。,"A Sword & Shield made using Kushala Daora's{j}materials. Its blade emits a chill, and before you{j}know it, everything around may be frozen."

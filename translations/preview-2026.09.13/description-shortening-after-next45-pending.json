@@ -1,0 +1,157 @@
+{
+  "depends_on_candidate": "description-shortening-next45-candidate",
+  "status": "Pending verification",
+  "records_count": 30,
+  "patterns": [
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 841
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 843
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2215
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2216
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2897
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2899
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15264
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15266
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16414
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16415
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17006
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17008
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28722
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28724
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29863
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29864
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30455
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30457
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42264
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42266
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43474
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43475
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44065
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44067
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55885
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55887
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57028
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57029
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57619
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57621
+        }
+      ]
+    }
+  ]
+}
