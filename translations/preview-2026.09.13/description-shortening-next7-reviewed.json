@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17848,
+      "source": "凍海獣の素材を多く利用した{j}胴防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Body armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast body armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17849,
+      "source": "凍海獣の素材を多く利用した{j}胴防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Body armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast body armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18148,
+      "source": "凍海獣の素材を多く利用した{j}胴防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Body armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast body armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17856,
+      "source": "イャンクックの素材で作られた{j}胴防具。怪鳥のイメージを{j}大きく覆す、強さ、堅さ。",
+      "previous": "Body armor{j}made from Yian Kut-Ku materials. Strength and hardness that{j}greatly overturn the image of the Bird Wyvern.",
+      "target": "Yian Kut-Ku body armor with strength and{j}hardness that overturn its Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17857,
+      "source": "イャンクックの素材で作られた{j}胴防具。怪鳥のイメージを{j}大きく覆す、強さ、堅さ。",
+      "previous": "Body armor{j}made from Yian Kut-Ku materials. Strength and hardness that{j}greatly overturn the image of the Bird Wyvern.",
+      "target": "Yian Kut-Ku body armor with strength and{j}hardness that overturn its Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18152,
+      "source": "イャンクックの素材で作られた{j}胴防具。怪鳥のイメージを{j}大きく覆す、強さ、堅さ。",
+      "previous": "Body armor{j}made from Yian Kut-Ku materials. Strength and hardness that{j}greatly overturn the image of the Bird Wyvern.",
+      "target": "Yian Kut-Ku body armor with strength and{j}hardness that overturn its Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17890,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた胴防具。",
+      "previous": "Body armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Body armor using aloof Burst Wolf{j}materials and its traits, finished with a{j}unique air.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17891,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた胴防具。",
+      "previous": "Body armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Body armor using aloof Burst Wolf{j}materials and its traits, finished with a{j}unique air.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18169,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた胴防具。",
+      "previous": "Body armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Body armor using aloof Burst Wolf{j}materials and its traits, finished with a{j}unique air.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17896,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした胴防具。{j}着ていると力があふれる。",
+      "previous": "Body armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Body armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17897,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした胴防具。{j}着ていると力があふれる。",
+      "previous": "Body armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Body armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18172,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした胴防具。{j}着ていると力があふれる。",
+      "previous": "Body armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Body armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18178,
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。磁力の影響か、{j}闘獣の皮は白黒の模様がでる。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Perhaps from magnetic influence,{j}the beast's hide bears a black-and-white pattern.",
+      "target": "Armor with a mighty arm like a raging red{j}beast. Magnetic influence gives its hide a{j}black-and-white pattern.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18179,
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。磁力の影響か、{j}闘獣の皮は白黒の模様がでる。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Perhaps from magnetic influence,{j}the beast's hide bears a black-and-white pattern.",
+      "target": "Armor with a mighty arm like a raging red{j}beast. Magnetic influence gives its hide a{j}black-and-white pattern.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18180,
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。磁力の影響か、{j}闘獣の皮は白黒の模様がでる。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Perhaps from magnetic influence,{j}the beast's hide bears a black-and-white pattern.",
+      "target": "Armor with a mighty arm like a raging red{j}beast. Magnetic influence gives its hide a{j}black-and-white pattern.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18181,
+      "source": "勇ましい青闘獣を体現した{j}胴防具。磁力の影響か、{j}闘獣の皮は白黒の模様がでる。",
+      "previous": "Embodying the valiant blue fighting beast{j}Body armor. Perhaps due to magnetic influence,{j}The hide of a Gougarf has a black-and-white pattern.",
+      "target": "Body armor embodying the valiant blue{j}fighting beast. Magnetic influence gives{j}its hide a black-and-white pattern.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18182,
+      "source": "勇ましい青闘獣を体現した{j}胴防具。磁力の影響か、{j}闘獣の皮は白黒の模様がでる。",
+      "previous": "Embodying the valiant blue fighting beast{j}Body armor. Perhaps due to magnetic influence,{j}The hide of a Gougarf has a black-and-white pattern.",
+      "target": "Body armor embodying the valiant blue{j}fighting beast. Magnetic influence gives{j}its hide a black-and-white pattern.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18183,
+      "source": "勇ましい青闘獣を体現した{j}胴防具。磁力の影響か、{j}闘獣の皮は白黒の模様がでる。",
+      "previous": "Embodying the valiant blue fighting beast{j}Body armor. Perhaps due to magnetic influence,{j}The hide of a Gougarf has a black-and-white pattern.",
+      "target": "Body armor embodying the valiant blue{j}fighting beast. Magnetic influence gives{j}its hide a black-and-white pattern.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18196,
+      "source": "グラビモスの素材で作られた{j}胴用装備。岩の固さ、厚さで、{j}モンスターの攻撃を通さない。",
+      "previous": "Body equipment{j}made from Gravios materials. With the hardness and thickness of rock, it does not let{j}monster attacks through.",
+      "target": "Gravios body armor as hard and thick as{j}rock; monster attacks cannot break{j}through.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18197,
+      "source": "グラビモスの素材で作られた{j}胴用装備。岩の固さ、厚さで、{j}モンスターの攻撃を通さない。",
+      "previous": "Body equipment{j}made from Gravios materials. With the hardness and thickness of rock, it does not let{j}monster attacks through.",
+      "target": "Gravios body armor as hard and thick as{j}rock; monster attacks cannot break{j}through.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18198,
+      "source": "グラビモスの素材で作られた{j}胴用装備。岩の固さ、厚さで、{j}モンスターの攻撃を通さない。",
+      "previous": "Body equipment{j}made from Gravios materials. With the hardness and thickness of rock, it does not let{j}monster attacks through.",
+      "target": "Gravios body armor as hard and thick as{j}rock; monster attacks cannot break{j}through.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18199,
+      "source": "グラビモスの素材で作られた{j}胴用装備。その重さ、安定感が{j}射撃の貫通力を増すという。",
+      "previous": "Body equipment{j}made from Gravios materials. Its weight and stability are said to increase{j}the penetrating power of shots.",
+      "target": "Gravios body armor whose weight and{j}stability increase shot penetration.{j}",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18200,
+      "source": "グラビモスの素材で作られた{j}胴用装備。その重さ、安定感が{j}射撃の貫通力を増すという。",
+      "previous": "Body equipment{j}made from Gravios materials. Its weight and stability are said to increase{j}the penetrating power of shots.",
+      "target": "Gravios body armor whose weight and{j}stability increase shot penetration.{j}",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18201,
+      "source": "グラビモスの素材で作られた{j}胴用装備。その重さ、安定感が{j}射撃の貫通力を増すという。",
+      "previous": "Body equipment{j}made from Gravios materials. Its weight and stability are said to increase{j}the penetrating power of shots.",
+      "target": "Gravios body armor whose weight and{j}stability increase shot penetration.{j}",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18205,
+      "source": "轟竜の素材を使った胴用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Body armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "target": "Tigrex body armor: proof of a destructive{j}tyrant and of conquering fear.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18206,
+      "source": "轟竜の素材を使った胴用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Body armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "target": "Tigrex body armor: proof of a destructive{j}tyrant and of conquering fear.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18207,
+      "source": "轟竜の素材を使った胴用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Body armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "target": "Tigrex body armor: proof of a destructive{j}tyrant and of conquering fear.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18208,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した胴防具。",
+      "previous": "Body armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18209,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した胴防具。",
+      "previous": "Body armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18210,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した胴防具。",
+      "previous": "Body armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source body-armor description patterns."
+}
