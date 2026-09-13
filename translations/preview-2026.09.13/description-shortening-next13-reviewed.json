@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41791,
+      "source": "魚鱗から作られた腰用装備。{j}飛竜の素材には出せない、{j}鮮やかな色彩が人気の秘密。",
+      "previous": "Waist armor made from fish scales.{j}It cannot be produced from wyvern materials, but its{j}vivid color is the secret to its popularity.",
+      "target": "Waist armor made from fish scales. Its{j}vivid color, impossible with wyvern{j}materials, makes it popular.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41792,
+      "source": "魚鱗から作られた腰用装備。{j}飛竜の素材には出せない、{j}鮮やかな色彩が人気の秘密。",
+      "previous": "Waist armor made from fish scales.{j}It cannot be produced from wyvern materials, but its{j}vivid color is the secret to its popularity.",
+      "target": "Waist armor made from fish scales. Its{j}vivid color, impossible with wyvern{j}materials, makes it popular.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42538,
+      "source": "魚鱗から作られた腰用装備。{j}飛竜の素材には出せない、{j}鮮やかな色彩が人気の秘密。",
+      "previous": "Waist armor made from fish scales.{j}It cannot be produced from wyvern materials, but its{j}vivid color is the secret to its popularity.",
+      "target": "Waist armor made from fish scales. Its{j}vivid color, impossible with wyvern{j}materials, makes it popular.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41795,
+      "source": "昆虫の素材を使った腰用装備。{j}重そうな外見と裏腹に、驚く{j}程軽やかに動ける優れ物。",
+      "previous": "Waist equipment made from insect materials.{j}In contrast to its heavy-looking exterior, it is an excellent piece that allows you to move with surprising{j}agility.",
+      "target": "Lightweight insect waist armor that lets{j}you move with surprising agility despite{j}its heavy look.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41797,
+      "source": "昆虫の素材を使った腰用装備。{j}重そうな外見と裏腹に、驚く{j}程軽やかに動ける優れ物。",
+      "previous": "Waist equipment made from insect materials.{j}In contrast to its heavy-looking exterior, it is an excellent piece that allows you to move with surprising{j}agility.",
+      "target": "Lightweight insect waist armor that lets{j}you move with surprising agility despite{j}its heavy look.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43292,
+      "source": "昆虫の素材を使った腰用装備。{j}重そうな外見と裏腹に、驚く{j}程軽やかに動ける優れ物。",
+      "previous": "Waist equipment made from insect materials.{j}In contrast to its heavy-looking exterior, it is an excellent piece that allows you to move with surprising{j}agility.",
+      "target": "Lightweight insect waist armor that lets{j}you move with surprising agility despite{j}its heavy look.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41900,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腰装備。{j}狩人の全身に力が漲る。",
+      "previous": "Waist equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Waist equipment evolved further with{j}Espinas Subspecies materials. Power{j}courses through the Hunter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42318,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腰装備。{j}狩人の全身に力が漲る。",
+      "previous": "Waist equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Waist equipment evolved further with{j}Espinas Subspecies materials. Power{j}courses through the Hunter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44094,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腰装備。{j}狩人の全身に力が漲る。",
+      "previous": "Waist equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Waist equipment evolved further with{j}Espinas Subspecies materials. Power{j}courses through the Hunter.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42222,
+      "source": "メゼポルタで流行の腰用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the waist, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta waist dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42224,
+      "source": "メゼポルタで流行の腰用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the waist, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta waist dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44196,
+      "source": "メゼポルタで流行の腰用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the waist, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta waist dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42258,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた腰防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Pariapuria materials that are troublesome to process{j}Waist armor used in large quantities. The order's{j}You may even get a dirty look when...",
+      "target": "Waist armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42259,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた腰防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Pariapuria materials that are troublesome to process{j}Waist armor used in large quantities. The order's{j}You may even get a dirty look when...",
+      "target": "Waist armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43307,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた腰防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Pariapuria materials that are troublesome to process{j}Waist armor used in large quantities. The order's{j}You may even get a dirty look when...",
+      "target": "Waist armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42342,
+      "source": "遠方の工房より伝来した腰用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "Waist{j}equipment passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "Defense waist equipment from a distant{j}workshop. Excellent in attack and defense.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42926,
+      "source": "遠方の工房より伝来した腰用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "Waist{j}equipment passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "Defense waist equipment from a distant{j}workshop. Excellent in attack and defense.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43481,
+      "source": "遠方の工房より伝来した腰用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "Waist{j}equipment passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "Defense waist equipment from a distant{j}workshop. Excellent in attack and defense.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42343,
+      "source": "遠方の工房より伝来した腰用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Waist passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting waist equipment from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42927,
+      "source": "遠方の工房より伝来した腰用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Waist passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting waist equipment from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43480,
+      "source": "遠方の工房より伝来した腰用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Waist passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting waist equipment from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42844,
+      "source": "エスピナス亜種の特徴を参考{j}にして作成された剣士用の腰{j}防具。長期戦で真価発揮。",
+      "previous": "Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's waist{j}armor. Proves its worth in long battles.",
+      "target": "Blademaster waist armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42845,
+      "source": "エスピナス亜種の特徴を参考{j}にして作成された剣士用の腰{j}防具。長期戦で真価発揮。",
+      "previous": "Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's waist{j}armor. Proves its worth in long battles.",
+      "target": "Blademaster waist armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44472,
+      "source": "エスピナス亜種の特徴を参考{j}にして作成された剣士用の腰{j}防具。長期戦で真価発揮。",
+      "previous": "Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's waist{j}armor. Proves its worth in long battles.",
+      "target": "Blademaster waist armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44909,
+      "source": "新発見された採取素材を多く{j}用いた腰装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Waist equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}waist equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44910,
+      "source": "新発見された採取素材を多く{j}用いた腰装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Waist equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}waist equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45208,
+      "source": "新発見された採取素材を多く{j}用いた腰装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Waist equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}waist equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44911,
+      "source": "凍海獣の素材を多く利用した{j}腰防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Waist armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast waist armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44912,
+      "source": "凍海獣の素材を多く利用した{j}腰防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Waist armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast waist armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45209,
+      "source": "凍海獣の素材を多く利用した{j}腰防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Waist armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast waist armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist-armor description patterns."
+}
