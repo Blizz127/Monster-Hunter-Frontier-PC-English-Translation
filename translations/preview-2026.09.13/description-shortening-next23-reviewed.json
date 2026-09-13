@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6300,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した頭防具。",
+      "previous": "Head armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Head armor improved after finding{j}the vanished craftswoman's notes{j}while seeking further upgrades.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6307,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した頭防具。",
+      "previous": "Head armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Head armor improved after finding{j}the vanished craftswoman's notes{j}while seeking further upgrades.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6304,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた頭防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Head armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This armor{j}was found in his room beside a certain{j}document.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6311,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた頭防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Head armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This armor{j}was found in his room beside a certain{j}document.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11721,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ頭防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Head armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon armor from the East.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11722,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ頭防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Head armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon armor from the East.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14650,
+      "source": "街を守護するという騎士の、{j}胴装備の廉価版。市販品とは{j}いえその加工は精緻を極める。",
+      "previous": "A budget version of the{j}body armor of the knight said to guard the town.{j}Mass-produced it may be, but its craftsmanship is exquisite.",
+      "target": "Budget body armor of the knight said to{j}guard the town. Mass-produced, but its{j}craftsmanship is exquisite.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14651,
+      "source": "街を守護するという騎士の、{j}胴装備の廉価版。市販品とは{j}いえその加工は精緻を極める。",
+      "previous": "A budget version of the{j}body armor of the knight said to guard the town.{j}Mass-produced it may be, but its craftsmanship is exquisite.",
+      "target": "Budget body armor of the knight said to{j}guard the town. Mass-produced, but its{j}craftsmanship is exquisite.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14690,
+      "source": "舞い散る花びらのような桃色{j}の胴装備。目を奪われた者は、{j}次の瞬間例外なく地獄を見る。",
+      "previous": "Body armor{j}in the pink of dancing petals. Those whose eyes it captures{j}will, the next instant, behold hell without exception.",
+      "target": "Pink body armor like drifting petals.{j}Those who gaze upon it see hell at once.{j}Without exception.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15421,
+      "source": "舞い散る花びらのような桃色{j}の胴装備。目を奪われた者は、{j}次の瞬間例外なく地獄を見る。",
+      "previous": "Body armor{j}in the pink of dancing petals. Those whose eyes it captures{j}will, the next instant, behold hell without exception.",
+      "target": "Pink body armor like drifting petals.{j}Those who gaze upon it see hell at once.{j}Without exception.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14694,
+      "source": "巨大な瀑布のような威圧感を{j}持つ蒼い胴用装備。その防御{j}力は、他とは次元を異にする。",
+      "previous": "Blue body armor that wields{j}the intimidating presence of a giant waterfall. Its defense{j}is on an entirely different dimension from the rest.",
+      "target": "Blue body armor with the presence of a{j}giant waterfall. Its defense is on another{j}level.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15655,
+      "source": "巨大な瀑布のような威圧感を{j}持つ蒼い胴用装備。その防御{j}力は、他とは次元を異にする。",
+      "previous": "Blue body armor that wields{j}the intimidating presence of a giant waterfall. Its defense{j}is on an entirely different dimension from the rest.",
+      "target": "Blue body armor with the presence of a{j}giant waterfall. Its defense is on another{j}level.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14718,
+      "source": "工房の技術を超えた力を持つ、{j}金色の月からの贈り物。灼熱{j}の火炎にもまったく動じない。",
+      "previous": "{j}A gift from the golden moon, possessing power beyond the workshop's techniques. It is completely unfazed even by scorching{j}flames.",
+      "target": "{j}Golden moon gift beyond the forge.{j}Unfazed by scorching flames.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16066,
+      "source": "工房の技術を超えた力を持つ、{j}金色の月からの贈り物。灼熱{j}の火炎にもまったく動じない。",
+      "previous": "{j}A gift from the golden moon, possessing power beyond the workshop's techniques. It is completely unfazed even by scorching{j}flames.",
+      "target": "{j}Golden moon gift beyond the forge.{j}Unfazed by scorching flames.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14895,
+      "source": "鋼龍の素材を用いた胴用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Body armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "target": "Body armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may wear it.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14911,
+      "source": "鋼龍の素材を用いた胴用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Body armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "target": "Body armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may wear it.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14896,
+      "source": "鋼龍の素材を用いた胴用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Body armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "target": "Body armor made from Kushala Daora{j}materials. It holds the noble heart of the{j}dragon cloaked in wind.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14912,
+      "source": "鋼龍の素材を用いた胴用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Body armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "target": "Body armor made from Kushala Daora{j}materials. It holds the noble heart of the{j}dragon cloaked in wind.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14992,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた胴装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Body equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies body armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15907,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた胴装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Body equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies body armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source body- and head-armor description patterns."
+}
