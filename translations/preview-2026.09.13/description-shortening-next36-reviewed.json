@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28809,
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし腕防具。",
+      "previous": "Arm Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "target": "Arm armor reborn through human skill.{j}Holding souls of male Fire Wyvern of{j}heaven and female of earth.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28994,
+      "source": "大巌竜の素材を用いた腕防具。{j}素材、設計を見直したことで{j}飛躍的な防御力向上を実現。",
+      "previous": "Arm armor made from Great Rock Dragon materials.{j}By reviewing the materials and design,{j}a dramatic improvement in defense was achieved.",
+      "target": "Arm armor made from Great Rock Dragon.{j}Revised materials and design greatly{j}improve its defense.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28995,
+      "source": "大巌竜の素材を用いた腕防具。{j}手にした者こそ天地を統べる{j}覇者。これはその証となる。",
+      "previous": "Arm armor made from Great Rock Dragon materials.{j}Only those who hold it are the conquerors{j}who rule heaven and earth. This is the proof.",
+      "target": "Arm armor made from Great Rock Dragon.{j}Its bearer rules heaven and earth;{j}this armor is their proof.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28997,
+      "source": "大巌竜の素材を用いた腕防具。{j}軽量化と防御力向上を同時に{j}実現した強化版。",
+      "previous": "Arm armor made from Great Rock Dragon materials.{j}An upgraded version that simultaneously achieved{j}weight reduction and improved defense.",
+      "target": "Arm armor made from Great Rock Dragon.{j}An upgraded version that reduces weight{j}while improving defense.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29084,
+      "source": "棘竜の素材を用いた腕防具。{j}より上質な素材のみを追求し{j}性能向上と軽量化に成功した。",
+      "previous": "Arm armor made from Tigrex materials.{j}By pursuing only higher-quality materials,{j}it succeeded in improving performance and reducing weight.",
+      "target": "Arm armor made from Tigrex materials.{j}Higher-quality materials improve{j}performance while reducing weight.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30872,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用腕防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Hearing Protection{j}.",
+      "target": "Arm armor for Hearing Protection Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized hearing protection.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32010,
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な腕防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Arms armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "target": "Heavy arm armor of crimson fur and iron.{j}Crafted from Red Violent Beast materials.{j}Beautiful intricate metalwork.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41512,
+      "source": "鉄鉱石で強化されたベルト。{j}革に比べ頑丈で、人体の{j}弱点を的確に覆う作り。",
+      "previous": "A belt reinforced with iron ore.{j}It is sturdier than leather and designed to precisely cover the{j}weak points of the human body.",
+      "target": "Iron-reinforced belt.{j}Stronger than leather, it precisely covers{j}the body's weak points.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41530,
+      "source": "滑らかな光沢を持つ特殊合金{j}製の防具。細部や内側に至る{j}まで、見事な装飾が施される。",
+      "previous": "Armor made from a special alloy{j}with a smooth gloss. Splendid ornamentation is{j}applied to every detail, even the interior.",
+      "target": "Smooth special-alloy armor.{j}Ornamentation covers every detail,{j}even the interior.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41560,
+      "source": "街を守護するという騎士の、{j}腰用装備の廉価版。儀礼用が{j}ベースだが機能性は高い。",
+      "previous": "A budget version of the{j}waist gear worn by knights sworn to guard the city. Ceremonial in its{j}base design, yet highly functional.",
+      "target": "Budget waist gear for knights guarding the{j}city. Ceremonial in design, yet highly{j}functional.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source arm- and waist-armor description patterns."
+}
