@@ -1,0 +1,254 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14991,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた胴装備。{j}狩人の全身に力が漲る。",
+      "previous": "Body equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Body armor evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15318,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた胴装備。{j}狩人の全身に力が漲る。",
+      "previous": "Body equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Body armor evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17035,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた胴装備。{j}狩人の全身に力が漲る。",
+      "previous": "Body equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Body armor evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15224,
+      "source": "メゼポルタで流行の胴用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the torso, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta body dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15226,
+      "source": "メゼポルタで流行の胴用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the torso, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta body dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17137,
+      "source": "メゼポルタで流行の胴用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the torso, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta body dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15256,
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な胴防具。",
+      "previous": "Superior Body Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "target": "Superior body armor made by removing{j}Pariapuria slime and applying special{j}treatment.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15257,
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な胴防具。",
+      "previous": "Superior Body Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "target": "Superior body armor made by removing{j}Pariapuria slime and applying special{j}treatment.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16246,
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な胴防具。",
+      "previous": "Superior Body Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "target": "Superior body armor made by removing{j}Pariapuria slime and applying special{j}treatment.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15258,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた胴防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Body Armor crafted using{j}large quantities of Devouring Dragon materials, which are a pain to process. You may earn a scowl{j}when placing your order...",
+      "target": "Body armor using large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a scowl...",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15259,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた胴防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Body Armor crafted using{j}large quantities of Devouring Dragon materials, which are a pain to process. You may earn a scowl{j}when placing your order...",
+      "target": "Body armor using large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a scowl...",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16247,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた胴防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Body Armor crafted using{j}large quantities of Devouring Dragon materials, which are a pain to process. You may earn a scowl{j}when placing your order...",
+      "target": "Body armor using large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a scowl...",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15341,
+      "source": "遠方の工房より伝来した胴用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized body armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15926,
+      "source": "遠方の工房より伝来した胴用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized body armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16419,
+      "source": "遠方の工房より伝来した胴用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized body armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15342,
+      "source": "遠方の工房より伝来した胴用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense body armor from a distant{j}workshop. Excellent in attack and defense.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15927,
+      "source": "遠方の工房より伝来した胴用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense body armor from a distant{j}workshop. Excellent in attack and defense.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16421,
+      "source": "遠方の工房より伝来した胴用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense body armor from a distant{j}workshop. Excellent in attack and defense.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15343,
+      "source": "遠方の工房より伝来した胴用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting body armor from a distant{j}workshop. Technique improves dramatically.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15928,
+      "source": "遠方の工房より伝来した胴用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting body armor from a distant{j}workshop. Technique improves dramatically.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16420,
+      "source": "遠方の工房より伝来した胴用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Body passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting body armor from a distant{j}workshop. Technique improves dramatically.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15845,
+      "source": "エスピナス亜種の特徴を参考{j}にして作成された剣士用の胴{j}防具。長期戦で真価発揮。",
+      "previous": "Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's chest{j}armor. Proves its worth in long battles.",
+      "target": "Blademaster body armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15846,
+      "source": "エスピナス亜種の特徴を参考{j}にして作成された剣士用の胴{j}防具。長期戦で真価発揮。",
+      "previous": "Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's chest{j}armor. Proves its worth in long battles.",
+      "target": "Blademaster body armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17409,
+      "source": "エスピナス亜種の特徴を参考{j}にして作成された剣士用の胴{j}防具。長期戦で真価発揮。",
+      "previous": "Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's chest{j}armor. Proves its worth in long battles.",
+      "target": "Blademaster body armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17846,
+      "source": "新発見された採取素材を多く{j}用いた胴装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Body equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}body armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17847,
+      "source": "新発見された採取素材を多く{j}用いた胴装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Body equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}body armor.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18147,
+      "source": "新発見された採取素材を多く{j}用いた胴装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Body equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy{j}body armor.",
+      "width": 42,
+      "family": 13
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Nine exact-source body-armor description patterns."
+}
