@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 12499,
+      "source": "遠国の少女が使用した槍を{j}模した太刀。少女の言葉は{j}届かず同胞の心は闇に染まる。",
+      "previous": "A Long Sword{j}modeled after the spear used by a girl from a distant land. The girl's words did not{j}reach, and her brethren's hearts were stained in darkness.",
+      "target": "Long Sword modeled after a girl's spear.{j}Her words went unheard; her kin's hearts{j}were stained by darkness.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14096,
+      "source": "緑の装飾が施された黒い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Great Sword adorned with green ornamentation.{j}Forged from what was once a ceremonial blade,{j}it has been refined into a supreme masterpiece.",
+      "target": "Black Great Sword with green ornament.{j}Forged from a ceremonial blade into{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14106,
+      "source": "緑の装飾が施された黒い狩猟{j}笛。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。",
+      "previous": "A black Hunting{j}Horn adorned with green ornamentation. Forged{j}from what was once a ceremonial instrument, it has been refined into a supreme masterpiece.",
+      "target": "Black Hunting Horn with green ornament.{j}Forged from a ceremonial instrument into{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14118,
+      "source": "古の装飾が施された白い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "target": "White Great Sword with ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14121,
+      "source": "古の装飾が施された白い双剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "White Dual Blades adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}they were elevated into a supreme masterpiece.",
+      "target": "White Dual Blades with ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14122,
+      "source": "古の装飾が施された白い太刀。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A white Long Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "target": "White Long Sword with ancient ornament.{j}Forged from a ceremonial weapon into{j}a supreme masterpiece.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14153,
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された片手剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A Sword & Shield forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "target": "Sword & Shield from a sage's legend.{j}Passed down through the ages, it is said{j}to grant its wielder wind power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14154,
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された双剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A set of Dual Blades created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "target": "Dual Blades from a sage's legend.{j}Passed down for ages, they are said{j}to grant their wielder wind power.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14155,
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された大剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A Great Sword created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "target": "Great Sword from a sage's legend.{j}Passed down through the ages, it is said{j}to grant its wielder wind power.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14156,
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された太刀。{j}持ち主に風の力を宿すという。",
+      "previous": "A Long Sword forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "target": "Long Sword from a sage's legend.{j}Passed down through the ages, it is said{j}to grant its wielder wind power.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source melee-description patterns."
+}
