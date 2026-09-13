@@ -496,11 +496,11 @@ index,source,target
 494,銀火竜素材を元にした頭防具。{j}宵闇の空の色を再現。{j}{c07}ＳＰ防具：紫{/c},Silver Rathalos head armor.{j}Reproduces the twilight sky's color.{j}{c07}SP Armor: Purple{/c}
 495,銀火竜素材を元にした頭防具。{j}一筋の光も届かない闇を再現。{j}{c07}ＳＰ防具：黒{/c},Silver Rathalos head armor.{j}Reproduces darkness untouched by light.{j}{c07}SP Armor: Black{/c}
 496,雪山での迷彩効果を狙い、{j}白く染め上げられた頭防具。{j}{c07}ＳＰ防具：白{/c},"Aiming for camouflage on snowy mountains,{j}Head Armor dyed white.{j}{c07}SP Armor: White{/c}"
-497,樹海での迷彩効果を狙い、{j}緑に染め上げられた頭防具。{j}{c07}ＳＰ防具：緑{/c},Head armor{j}dyed green for camouflage in the Deep Woods.{j}{c07}SP Armor: Green{/c}
+497,樹海での迷彩効果を狙い、{j}緑に染め上げられた頭防具。{j}{c07}ＳＰ防具：緑{/c},Head armor{j}dyed green for Deep Woods camouflage.{j}{c07}SP Armor: Green{/c}
 498,火山での迷彩効果を狙い、{j}赤く染め上げられた頭防具。{j}{c07}ＳＰ防具：赤{/c},"For camouflage in a volcano,{j}red-dyed Head armor.{j}{c07}SP Armor: Red{/c}"
-499,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?
-500,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?
-501,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?
+499,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?
+500,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?
+501,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?
 502,非常に貴重な白いヒプノックの{j}素材で作成された頭用装備。{j}まぶしい白さが魅力。,Head armor crafted from the extremely rare{j}white Hypnoc material. Its dazzling{j}whiteness is captivating.
 503,白いヒプノックの素材で作成{j}された頭用装備。泥や返り血を{j}浴びても白さは損なわれない。,"Head armor crafted from white Hypnoc{j}materials. Even covered in mud or blood,{j}it never loses its whiteness."
 504,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
@@ -587,14 +587,14 @@ index,source,target
 585,古くから儀式などで用いられ{j}てきた伝統的な頭防具。現代{j}風にアレンジされている。,Traditional Head armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 586,古くから儀式などで用いられ{j}てきた伝統的な頭防具。現代{j}風にアレンジされている。,Traditional Head armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 587,古くから儀式などで用いられ{j}てきた伝統的な頭防具。現代{j}風にアレンジされている。,Traditional Head armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
-588,最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：赤{/c},{j}Exquisite head gear that inherits the power of the strongest race.{j}{c07}SP Armor: Red{/c}
-589,最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：黄{/c},{j}Exquisite head gear that inherits the power of the strongest race.{j}{c07}SP Armor: Yellow{/c}
-590,最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：緑{/c},{j}Exquisite head gear that inherits the power of the strongest race.{j}{c07}SP Armor: Green{/c}
-591,最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：赤{/c},"{j}revered head armor, inheriting the power of the strongest race.{j}{c07}SP Armor: Red{/c}"
-592,最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：黄{/c},"{j}revered head armor, inheriting the power of the strongest race.{j}{c07}SP Armor: Yellow{/c}"
-593,最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：緑{/c},"{j}revered head armor, inheriting the power of the strongest race.{j}{c07}SP Armor: Green{/c}"
-594,雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：赤{/c},Head armor that seems to echo{j}the neigh of a lightning-clad phantom beast.{j}{c07}SP Armor: Red{/c}
-595,雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：紫{/c},Head armor that seems to echo{j}the neigh of a lightning-clad phantom beast.{j}{c07}SP Armor: Purple{/c}
+588,最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：赤{/c},{j}Exquisite gear of the strongest race.{j}{c07}SP Armor: Red{/c}
+589,最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：黄{/c},{j}Exquisite gear of the strongest race.{j}{c07}SP Armor: Yellow{/c}
+590,最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：緑{/c},{j}Exquisite gear of the strongest race.{j}{c07}SP Armor: Green{/c}
+591,最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：赤{/c},{j}Revered gear inheriting supreme power.{j}{c07}SP Armor: Red{/c}
+592,最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：黄{/c},{j}Revered gear inheriting supreme power.{j}{c07}SP Armor: Yellow{/c}
+593,最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：緑{/c},{j}Revered gear inheriting supreme power.{j}{c07}SP Armor: Green{/c}
+594,雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：赤{/c},Armor echoing a lightning beast's neigh.{j}A phantom beast's neigh is almost audible.{j}{c07}SP Armor: Red{/c}
+595,雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：紫{/c},Armor echoing a lightning beast's neigh.{j}A phantom beast's neigh is almost audible.{j}{c07}SP Armor: Purple{/c}
 596,雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：黒{/c},Head armor that seems to echo{j}the neigh of a lightning-clad phantom beast.{j}{c07}SP Armor: Black{/c}
 597,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：赤{/c},The hoofbeats of a phantom beast that commands lightning{j}Head equipment that you can almost hear.{j}{c07}SP Armor: Red{/c}
 598,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：紫{/c},The hoofbeats of a phantom beast that commands lightning{j}Head armor that seems to let you hear something.{j}{c07}SP Armor: Purple{/c}
@@ -2554,7 +2554,7 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2550,見た目とは裏腹に{j}高い性能を誇る{j}不思議な頭防具。,A mysterious head armor that boasts{j}high performance{j}in contrast to its appearance.
 2551,見た目とは裏腹に{j}高い性能を誇る{j}不思議な頭防具。,A mysterious head armor that boasts{j}high performance{j}in contrast to its appearance.
 2552,見た目とは裏腹に高い性能を{j}誇る不思議な頭防具。{j}{c07}ＳＰ防具：虹{/c},A mysterious head armor that boasts high performance{j}in contrast to its appearance.{j}{c07}SP Armor: Rainbow{/c}
-2553,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?
+2553,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?
 2554,多殻蟹素材をふんだんに{j}使用して作られた頭防具。{j}着用者に幸運を招くという。,Head armor made using an abundance of{j}Carapaceon materials. It is said to bring{j}good fortune to its wearer.
 2555,多殻蟹素材をより強靭に{j}鍛え上げた頭防具。より{j}幸運を招きやすいらしい。,Head armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
 2556,多殻蟹素材をより強靭に{j}鍛え上げた頭防具。より{j}幸運を招きやすいらしい。,Head armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.

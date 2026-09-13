@@ -273,3 +273,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 343 exact-source equipment-description records across the next over-width families.
 - Reduce the current over-width census to 23907 records.
+
+## 2026.09.13-preview.52 (experimental)
+
+- Reflow 13 exact-source equipment-description records in the next head-armor group.
+- Reduce the current over-width census to 23894 records.

@@ -1,0 +1,128 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 497,
+      "source": "樹海での迷彩効果を狙い、{j}緑に染め上げられた頭防具。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head armor{j}dyed green for camouflage in the Deep Woods.{j}{c07}SP Armor: Green{/c}",
+      "target": "Head armor{j}dyed green for Deep Woods camouflage.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 499,
+      "source": "新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？",
+      "previous": "{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?",
+      "target": "{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 500,
+      "source": "新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？",
+      "previous": "{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?",
+      "target": "{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 501,
+      "source": "新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？",
+      "previous": "{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?",
+      "target": "{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2553,
+      "source": "新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？",
+      "previous": "{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?",
+      "target": "{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 588,
+      "source": "最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "{j}Exquisite head gear that inherits the power of the strongest race.{j}{c07}SP Armor: Red{/c}",
+      "target": "{j}Exquisite gear of the strongest race.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 589,
+      "source": "最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "{j}Exquisite head gear that inherits the power of the strongest race.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "{j}Exquisite gear of the strongest race.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 590,
+      "source": "最強の種族の力を受け継いだ{j}珠玉の頭用装備。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "{j}Exquisite head gear that inherits the power of the strongest race.{j}{c07}SP Armor: Green{/c}",
+      "target": "{j}Exquisite gear of the strongest race.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 591,
+      "source": "最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "{j}revered head armor, inheriting the power of the strongest race.{j}{c07}SP Armor: Red{/c}",
+      "target": "{j}Revered gear inheriting supreme power.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 592,
+      "source": "最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "{j}revered head armor, inheriting the power of the strongest race.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "{j}Revered gear inheriting supreme power.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 593,
+      "source": "最強の種族の力を受け継いだ{j}尊い頭用装備。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "{j}revered head armor, inheriting the power of the strongest race.{j}{c07}SP Armor: Green{/c}",
+      "target": "{j}Revered gear inheriting supreme power.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 594,
+      "source": "雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor that seems to echo{j}the neigh of a lightning-clad phantom beast.{j}{c07}SP Armor: Red{/c}",
+      "target": "Armor echoing a lightning beast's neigh.{j}A phantom beast's neigh is almost audible.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 595,
+      "source": "雷を纏いし幻獣の嘶きが{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Head armor that seems to echo{j}the neigh of a lightning-clad phantom beast.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Armor echoing a lightning beast's neigh.{j}A phantom beast's neigh is almost audible.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
