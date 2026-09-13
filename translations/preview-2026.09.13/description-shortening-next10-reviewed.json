@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28799,
+      "source": "遠方の工房より伝来した腕用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized arm armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29379,
+      "source": "遠方の工房より伝来した腕用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized arm armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29868,
+      "source": "遠方の工房より伝来した腕用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized arm armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28800,
+      "source": "遠方の工房より伝来した腕用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense arm armor from a distant workshop.{j}Excellent in attack and defense.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29380,
+      "source": "遠方の工房より伝来した腕用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense arm armor from a distant workshop.{j}Excellent in attack and defense.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29870,
+      "source": "遠方の工房より伝来した腕用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense arm armor from a distant workshop.{j}Excellent in attack and defense.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28801,
+      "source": "遠方の工房より伝来した腕用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting arm armor from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29381,
+      "source": "遠方の工房より伝来した腕用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting arm armor from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29869,
+      "source": "遠方の工房より伝来した腕用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting arm armor from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31303,
+      "source": "新発見された採取素材を多く{j}用いた腕装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Arm equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy arm{j}equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31304,
+      "source": "新発見された採取素材を多く{j}用いた腕装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Arm equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy arm{j}equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31602,
+      "source": "新発見された採取素材を多く{j}用いた腕装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Arm equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy arm{j}equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31305,
+      "source": "凍海獣の素材を多く利用した{j}腕防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Arm armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast arm armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31306,
+      "source": "凍海獣の素材を多く利用した{j}腕防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Arm armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast arm armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31603,
+      "source": "凍海獣の素材を多く利用した{j}腕防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Arm armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast arm armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31347,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた腕防具。",
+      "previous": "Arm armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Arm armor using aloof Burst Wolf materials{j}and traits, finished with a unique air.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31348,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた腕防具。",
+      "previous": "Arm armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Arm armor using aloof Burst Wolf materials{j}and traits, finished with a unique air.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31624,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた腕防具。",
+      "previous": "Arm armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Arm armor using aloof Burst Wolf materials{j}and traits, finished with a unique air.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31353,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした腕防具。{j}着ていると力があふれる。",
+      "previous": "Arms armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Arm armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31354,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした腕防具。{j}着ていると力があふれる。",
+      "previous": "Arms armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Arm armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31627,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした腕防具。{j}着ていると力があふれる。",
+      "previous": "Arms armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Arm armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31636,
+      "source": "勇ましい青闘獣を体現した{j}腕防具。闘獣の細工を施した{j}左手甲が特徴。",
+      "previous": "Embodying the valiant blue battling beast.{j}Arms armor. Crafted with beast craftsmanship.{j}Characterized by its left hand guard.",
+      "target": "Arm armor embodying the valiant blue{j}fighting beast, with a crafted left hand{j}guard.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31637,
+      "source": "勇ましい青闘獣を体現した{j}腕防具。闘獣の細工を施した{j}左手甲が特徴。",
+      "previous": "Embodying the valiant blue battling beast.{j}Arms armor. Crafted with beast craftsmanship.{j}Characterized by its left hand guard.",
+      "target": "Arm armor embodying the valiant blue{j}fighting beast, with a crafted left hand{j}guard.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31638,
+      "source": "勇ましい青闘獣を体現した{j}腕防具。闘獣の細工を施した{j}左手甲が特徴。",
+      "previous": "Embodying the valiant blue battling beast.{j}Arms armor. Crafted with beast craftsmanship.{j}Characterized by its left hand guard.",
+      "target": "Arm armor embodying the valiant blue{j}fighting beast, with a crafted left hand{j}guard.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31663,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した腕防具。",
+      "previous": "Arms armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31664,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した腕防具。",
+      "previous": "Arms armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31665,
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した腕防具。",
+      "previous": "Arms armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "target": "Latest technology removes the slime and{j}odor from Glutton Dragon materials.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31678,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した腕装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Arm armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight arm armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31679,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した腕装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Arm armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight arm armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31680,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した腕装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Arm armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight arm armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source arm-armor description patterns."
+}
