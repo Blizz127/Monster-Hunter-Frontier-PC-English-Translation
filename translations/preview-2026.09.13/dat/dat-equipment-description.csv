@@ -402,23 +402,23 @@ index,source,target
 400,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Blue{/c}
 401,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Green{/c}
 402,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}
-403,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：赤{/c},Head equipment made from Espinas materials.{j}Harbors the wrath of the Lord of the Sea of Trees.{j}{c07}SP Armor: Red{/c}
-404,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：青{/c},Head armor made from Espinas materials.{j}Conceals the wrath of the Lord of the Forest.{j}{c07}SP Armor: Blue{/c}
-405,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：黄{/c},Head armor made from Espinas materials.{j}Conceals the wrath of the Lord of the Forest.{j}{c07}SP Armor: Yellow{/c}
+403,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：赤{/c},Head armor from Espinas materials.{j}Holds the Lord of the Forest's wrath.{j}{c07}SP Armor: Red{/c}
+404,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：青{/c},Head armor from Espinas materials.{j}Holds the Lord of the Forest's wrath.{j}{c07}SP Armor: Blue{/c}
+405,棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：黄{/c},Head armor from Espinas materials.{j}Holds the Lord of the Forest's wrath.{j}{c07}SP Armor: Yellow{/c}
 406,棘竜の素材を用いた頭用装備。{j}静かなる竜の魂が宿っている。{j}{c07}ＳＰ防具：赤{/c},Head armor made from Espinas materials.{j}Houses the soul of a silent dragon.{j}{c07}SP Armor: Red{/c}
 407,棘竜の素材を用いた頭用装備。{j}静かなる竜の魂が宿っている。{j}{c07}ＳＰ防具：青{/c},Head armor made from Espinas materials.{j}Houses the soul of a silent dragon.{j}{c07}SP Armor: Blue{/c}
 408,棘竜の素材を用いた頭用装備。{j}静かなる竜の魂が宿っている。{j}{c07}ＳＰ防具：黄{/c},Head armor made from Espinas materials.{j}Houses the soul of a silent dragon.{j}{c07}SP Armor: Yellow{/c}
 409,漆黒の防具に合わせて作られた{j}特殊なピアス。妖艶な魅力に溢{j}れる。,A special piercing made to match{j}jet-black armor. Overflowing with{j}bewitching allure.
-410,街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：白{/c},A color-variant replica of the Head armor{j}worn by the proud guard knights who protect the town.{j}{c07}SP Armor: White{/c}
-411,街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：黒{/c},A color-variant replica of the Head armor{j}worn by the proud guard knights who protect the town.{j}{c07}SP Armor: Black{/c}
-412,街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：紫{/c},A color-variant replica of the Head armor{j}worn by the proud guard knights who protect the town.{j}{c07}SP Armor: Purple{/c}
-413,お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：青{/c},Uniform for the shop's female staff. The long-awaited{j}recolor version. Head equipment.{j}{c07}SP Armor: Blue{/c}
-414,お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：白{/c},Uniform for the shop's female staff. The long-awaited{j}recolor version. Head equipment.{j}{c07}SP Armor: White{/c}
-415,お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：黄{/c},Uniform for the shop's female staff. The long-awaited{j}recolor version. Head equipment.{j}{c07}SP Armor: Yellow{/c}
+410,街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：白{/c},"Proud guard knight head armor replica.{j}A town protector, in a color variant.{j}{c07}SP Armor: White{/c}"
+411,街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：黒{/c},"Proud guard knight head armor replica.{j}A town protector, in a color variant.{j}{c07}SP Armor: Black{/c}"
+412,街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：紫{/c},"Proud guard knight head armor replica.{j}A town protector, in a color variant.{j}{c07}SP Armor: Purple{/c}"
+413,お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：青{/c},Female shop staff uniform.{j}Long-awaited recolor; head equipment.{j}{c07}SP Armor: Blue{/c}
+414,お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：白{/c},Female shop staff uniform.{j}Long-awaited recolor; head equipment.{j}{c07}SP Armor: White{/c}
+415,お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：黄{/c},Female shop staff uniform.{j}Long-awaited recolor; head equipment.{j}{c07}SP Armor: Yellow{/c}
 416,素朴な味わいのある頭用装備。{j}通気性が良いため、蒸れない。{j}{c07}ＳＰ防具：赤{/c},Head armor with a rustic feel.{j}Good ventilation prevents stuffiness.{j}{c07}SP Armor: Red{/c}
 417,素朴な味わいのある頭用装備。{j}通気性が良いため、蒸れない。{j}{c07}ＳＰ防具：黄{/c},Head armor with a rustic feel.{j}Good ventilation prevents stuffiness.{j}{c07}SP Armor: Yellow{/c}
 418,素朴な味わいのある頭用装備。{j}通気性が良いため、蒸れない。{j}{c07}ＳＰ防具：紫{/c},Head armor with a rustic feel.{j}Good ventilation prevents stuffiness.{j}{c07}SP Armor: Purple{/c}
-419,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：赤{/c},Head armor that makes the most of the material's flavor.{j}The sound of cicadas easily seeps in.{j}{c07}SP Armor: Red{/c}
+419,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：赤{/c},Head armor showing the material's nature.{j}Cicada sounds seep through with ease.{j}{c07}SP Armor: Red{/c}
 420,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黒{/c},Head equipment that makes the most of the material's character.{j}Cicada cries easily soak into it.{j}{c07}SP Armor: Black{/c}
 421,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黄{/c},Head armor that makes the most of the material's flavor.{j}The sound of cicadas easily seeps in.{j}{c07}SP Armor: Yellow{/c}
 422,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}強力な水圧にも耐えうる。,Head armor made from Carapaceon and{j}Piscine Wyvern materials. It withstands{j}even powerful water pressure.

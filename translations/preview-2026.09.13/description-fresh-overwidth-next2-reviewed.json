@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 403,
+      "source": "棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head equipment made from Espinas materials.{j}Harbors the wrath of the Lord of the Sea of Trees.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head armor from Espinas materials.{j}Holds the Lord of the Forest's wrath.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 404,
+      "source": "棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head armor made from Espinas materials.{j}Conceals the wrath of the Lord of the Forest.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Head armor from Espinas materials.{j}Holds the Lord of the Forest's wrath.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 405,
+      "source": "棘竜の素材を用いた頭用装備。{j}樹海の主の怒りを秘める。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor made from Espinas materials.{j}Conceals the wrath of the Lord of the Forest.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Head armor from Espinas materials.{j}Holds the Lord of the Forest's wrath.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 410,
+      "source": "街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "A color-variant replica of the Head armor{j}worn by the proud guard knights who protect the town.{j}{c07}SP Armor: White{/c}",
+      "target": "Proud guard knight head armor replica.{j}A town protector, in a color variant.{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 411,
+      "source": "街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "A color-variant replica of the Head armor{j}worn by the proud guard knights who protect the town.{j}{c07}SP Armor: Black{/c}",
+      "target": "Proud guard knight head armor replica.{j}A town protector, in a color variant.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 412,
+      "source": "街を護る誇り高き守衛騎士用{j}頭装備の色違いレプリカ。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "A color-variant replica of the Head armor{j}worn by the proud guard knights who protect the town.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Proud guard knight head armor replica.{j}A town protector, in a color variant.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 413,
+      "source": "お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Uniform for the shop's female staff. The long-awaited{j}recolor version. Head equipment.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Female shop staff uniform.{j}Long-awaited recolor; head equipment.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 414,
+      "source": "お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "Uniform for the shop's female staff. The long-awaited{j}recolor version. Head equipment.{j}{c07}SP Armor: White{/c}",
+      "target": "Female shop staff uniform.{j}Long-awaited recolor; head equipment.{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 415,
+      "source": "お店の女性スタッフ用制服。そ{j}の待望の色違い版。頭用装備。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Uniform for the shop's female staff. The long-awaited{j}recolor version. Head equipment.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Female shop staff uniform.{j}Long-awaited recolor; head equipment.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 419,
+      "source": "素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor that makes the most of the material's flavor.{j}The sound of cicadas easily seeps in.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head armor showing the material's nature.{j}Cicada sounds seep through with ease.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}

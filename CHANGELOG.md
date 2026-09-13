@@ -263,3 +263,8 @@ checked in-game; other dialogue branches and all server quests were not.
 - Reflow 14 fresh exact-source equipment-description records from the current over-width census.
 - Preserve the cumulative three-file client delta, including both town archive reflows.
 - The remaining current over-width census is 24260 records; runtime verification remains pending.
+
+## 2026.09.13-preview.50 (experimental)
+
+- Reflow 10 additional exact-source equipment-description records.
+- Reduce the current over-width census to 24,250 records.
