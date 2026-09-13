@@ -41,3 +41,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 30 more source-reviewed equipment descriptions.
 - Reduce the remaining reviewed shortening queue to 871 entries.
+
+## 2026.09.13-preview.6 (experimental)
+
+- Add 30 more source-reviewed armor descriptions.
+- Reduce the remaining reviewed shortening queue to 841 entries.

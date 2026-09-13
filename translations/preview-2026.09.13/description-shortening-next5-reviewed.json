@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8539,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた頭防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Head armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite head armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8540,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた頭防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Head armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite head armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8541,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた頭防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Head armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite head armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8848,
+      "source": "遠方で流行しているという{j}頭防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}head armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land head armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8849,
+      "source": "遠方で流行しているという{j}頭防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}head armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land head armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8850,
+      "source": "遠方で流行しているという{j}頭防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}head armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land head armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10761,
+      "source": "歌姫を愛する職人が、腕に{j}よりをかけて手がけた頭防具。{j}これで貴方も歌姫になれる！",
+      "previous": "Head armor crafted with{j}consummate skill by an artisan who loves the Songstress.{j}With this, you can become a Songstress too!",
+      "target": "Head armor crafted by a Songstress-loving{j}artisan. With it, you can become a{j}Songstress too!",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10762,
+      "source": "歌姫を愛する職人が、腕に{j}よりをかけて手がけた頭防具。{j}これで貴方も歌姫になれる！",
+      "previous": "Head armor crafted with{j}consummate skill by an artisan who loves the Songstress.{j}With this, you can become a Songstress too!",
+      "target": "Head armor crafted by a Songstress-loving{j}artisan. With it, you can become a{j}Songstress too!",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10763,
+      "source": "歌姫を愛する職人が、腕に{j}よりをかけて手がけた頭防具。{j}これで貴方も歌姫になれる！",
+      "previous": "Head armor crafted with{j}consummate skill by an artisan who loves the Songstress.{j}With this, you can become a Songstress too!",
+      "target": "Head armor crafted by a Songstress-loving{j}artisan. With it, you can become a{j}Songstress too!",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10828,
+      "source": "極龍の力を具現する兜。双眸{j}に映るのは、獲物の末路のみ。{j}獲物は出会ったが最期。",
+      "previous": "A helm that embodies the Extreme Dragon's power. All that is reflected in its eyes{j}is the fate of its prey.{j}Once it meets its prey, that prey is doomed.",
+      "target": "A helm embodying the Extreme Dragon's{j}power. Its gaze shows only prey's fate;{j}meeting it means doom.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10829,
+      "source": "極龍の力を具現する兜。双眸{j}に映るのは、獲物の末路のみ。{j}獲物は出会ったが最期。",
+      "previous": "A helm that embodies the Extreme Dragon's power. All that is reflected in its eyes{j}is the fate of its prey.{j}Once it meets its prey, that prey is doomed.",
+      "target": "A helm embodying the Extreme Dragon's{j}power. Its gaze shows only prey's fate;{j}meeting it means doom.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10830,
+      "source": "極龍の力を具現する兜。双眸{j}に映るのは、獲物の末路のみ。{j}獲物は出会ったが最期。",
+      "previous": "A helm that embodies the Extreme Dragon's power. All that is reflected in its eyes{j}is the fate of its prey.{j}Once it meets its prey, that prey is doomed.",
+      "target": "A helm embodying the Extreme Dragon's{j}power. Its gaze shows only prey's fate;{j}meeting it means doom.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10834,
+      "source": "雷獣そのものとさえ思える迫{j}力をもった頭冠。擁すれば、{j}全てを知り得るという。",
+      "previous": "A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that whoever{j}wears it can know all.",
+      "target": "A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to know everything.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10835,
+      "source": "雷獣そのものとさえ思える迫{j}力をもった頭冠。擁すれば、{j}全てを知り得るという。",
+      "previous": "A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that whoever{j}wears it can know all.",
+      "target": "A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to know everything.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10836,
+      "source": "雷獣そのものとさえ思える迫{j}力をもった頭冠。擁すれば、{j}全てを知り得るという。",
+      "previous": "A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that whoever{j}wears it can know all.",
+      "target": "A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to know everything.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14601,
+      "source": "ランポスの素材で作られた胴{j}装備。素材の入手が容易なわ{j}りに耐性も均整が取れている。",
+      "previous": "Body{j}equipment made from Velociprey materials. Even though the materials are easy to obtain,{j}the resistances are well-balanced.",
+      "target": "Balanced-resistance body armor made from{j}easy-to-obtain Velociprey materials.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14727,
+      "source": "ランポスの素材で作られた胴{j}装備。素材の入手が容易なわ{j}りに耐性も均整が取れている。",
+      "previous": "Body{j}equipment made from Velociprey materials. Even though the materials are easy to obtain,{j}the resistances are well-balanced.",
+      "target": "Balanced-resistance body armor made from{j}easy-to-obtain Velociprey materials.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15780,
+      "source": "ランポスの素材で作られた胴{j}装備。素材の入手が容易なわ{j}りに耐性も均整が取れている。",
+      "previous": "Body{j}equipment made from Velociprey materials. Even though the materials are easy to obtain,{j}the resistances are well-balanced.",
+      "target": "Balanced-resistance body armor made from{j}easy-to-obtain Velociprey materials.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14658,
+      "source": "老山龍の素材で作られた女性{j}用胴装備。一たび剣を抜けば、{j}風に舞う桜のごとし。",
+      "previous": "Women's{j}body equipment made from Lao-Shan Lung materials. Once the sword is drawn, it is like cherry blossoms dancing in the{j}wind.",
+      "target": "Women's body armor made from Lao-Shan Lung{j}materials. Drawing the sword is like{j}cherry blossoms in wind.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14713,
+      "source": "老山龍の素材で作られた女性{j}用胴装備。一たび剣を抜けば、{j}風に舞う桜のごとし。",
+      "previous": "Women's{j}body equipment made from Lao-Shan Lung materials. Once the sword is drawn, it is like cherry blossoms dancing in the{j}wind.",
+      "target": "Women's body armor made from Lao-Shan Lung{j}materials. Drawing the sword is like{j}cherry blossoms in wind.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14772,
+      "source": "老山龍の素材で作られた女性{j}用胴装備。一たび剣を抜けば、{j}風に舞う桜のごとし。",
+      "previous": "Women's{j}body equipment made from Lao-Shan Lung materials. Once the sword is drawn, it is like cherry blossoms dancing in the{j}wind.",
+      "target": "Women's body armor made from Lao-Shan Lung{j}materials. Drawing the sword is like{j}cherry blossoms in wind.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14800,
+      "source": "天を裂く雷で編まれたとされ{j}る蒼白の衣。あらゆる衝撃は{j}白光により直前で遮断される。",
+      "previous": "A pale robe said to be{j}woven from lightning that splits the heavens. All shocks are{j}blocked just before impact by a white light.",
+      "target": "A pale robe woven from heaven-splitting{j}lightning. White light blocks every shock{j}before impact.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14802,
+      "source": "天を裂く雷で編まれたとされ{j}る蒼白の衣。あらゆる衝撃は{j}白光により直前で遮断される。",
+      "previous": "A pale robe said to be{j}woven from lightning that splits the heavens. All shocks are{j}blocked just before impact by a white light.",
+      "target": "A pale robe woven from heaven-splitting{j}lightning. White light blocks every shock{j}before impact.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15301,
+      "source": "天を裂く雷で編まれたとされ{j}る蒼白の衣。あらゆる衝撃は{j}白光により直前で遮断される。",
+      "previous": "A pale robe said to be{j}woven from lightning that splits the heavens. All shocks are{j}blocked just before impact by a white light.",
+      "target": "A pale robe woven from heaven-splitting{j}lightning. White light blocks every shock{j}before impact.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14801,
+      "source": "闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷によ{j}りその報いを受けるであろう。",
+      "previous": "A robe of light that flickers faint white even in the dark of night.{j}Those who carelessly approach will receive their reward by{j}lightning.",
+      "target": "A robe of light that flickers in darkness.{j}Careless intruders are punished by{j}lightning.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14803,
+      "source": "闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷によ{j}りその報いを受けるであろう。",
+      "previous": "A robe of light that flickers faint white even in the dark of night.{j}Those who carelessly approach will receive their reward by{j}lightning.",
+      "target": "A robe of light that flickers in darkness.{j}Careless intruders are punished by{j}lightning.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15646,
+      "source": "闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷によ{j}りその報いを受けるであろう。",
+      "previous": "A robe of light that flickers faint white even in the dark of night.{j}Those who carelessly approach will receive their reward by{j}lightning.",
+      "target": "A robe of light that flickers in darkness.{j}Careless intruders are punished by{j}lightning.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14856,
+      "source": "気品溢れる胴用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Body equipment overflowing with elegance. The men's{j}version is commonly called the Dandy Series, and the women's{j}version the Elegant Series.",
+      "target": "Elegant body equipment. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18552,
+      "source": "気品溢れる胴用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Body equipment overflowing with elegance. The men's{j}version is commonly called the Dandy Series, and the women's{j}version the Elegant Series.",
+      "target": "Elegant body equipment. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18553,
+      "source": "気品溢れる胴用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Body equipment overflowing with elegance. The men's{j}version is commonly called the Dandy Series, and the women's{j}version the Elegant Series.",
+      "target": "Elegant body equipment. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source armor description patterns."
+}
