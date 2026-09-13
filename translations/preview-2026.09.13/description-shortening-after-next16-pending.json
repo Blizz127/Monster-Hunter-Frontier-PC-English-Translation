@@ -1,0 +1,3833 @@
+{
+  "depends_on_candidate": "description-shortening-next16-candidate",
+  "status": "Pending verification",
+  "records_count": 514,
+  "patterns": [
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 841
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 843
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2215
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2216
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2897
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2899
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15264
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15266
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16414
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16415
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17006
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17008
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28722
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28724
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29863
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29864
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30455
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30457
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42264
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42266
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43474
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43475
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44065
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44067
+        }
+      ]
+    },
+    {
+      "source": "金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。",
+      "previous": "Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55885
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55887
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57028
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57029
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57619
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57621
+        }
+      ]
+    },
+    {
+      "source": "メゼポルタで流行の脚用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the legs, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55842
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55844
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57750
+        }
+      ]
+    },
+    {
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な脚防具。",
+      "previous": "Superior Legs Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55877
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55878
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56860
+        }
+      ]
+    },
+    {
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた脚防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "A Pariapuria material that is laborious to process.{j}Leg Armor used in large quantities. The order's{j}When doing so, you may even get a dirty look...",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55879
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55880
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56861
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した脚用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55962
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56540
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57033
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した脚用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55963
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56541
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57035
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した脚用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55964
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56542
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57034
+        }
+      ]
+    },
+    {
+      "source": "新発見された採取素材を多く{j}用いた脚装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Leg equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58463
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58464
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58762
+        }
+      ]
+    },
+    {
+      "source": "凍海獣の素材を多く利用した{j}脚防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Leg armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58465
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58466
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58763
+        }
+      ]
+    },
+    {
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた脚防具。",
+      "previous": "Leg armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58507
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58508
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58784
+        }
+      ]
+    },
+    {
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした脚防具。{j}着ていると力があふれる。",
+      "previous": "Leg armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58513
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58514
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58787
+        }
+      ]
+    },
+    {
+      "source": "荒ぶる赤闘獣のごとく、剛腕{j}が宿る防具。朱色の毛と意匠{j}をこらした金色の装甲が特徴。",
+      "previous": "Armor housing a mighty arm{j}, like a raging red beast. Noted for crimson fur and golden plating{j}wrought with elaborate design.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58793
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58794
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58795
+        }
+      ]
+    },
+    {
+      "source": "轟竜の素材を使った脚用装備。{j}破壊の限りを尽くす暴君、{j}そして、恐怖を制した者の証。",
+      "previous": "Leg armor made from Tigrex materials.{j}Proof of the tyrant who wreaks utter destruction,{j}and of the one who conquered fear.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58820
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58821
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58822
+        }
+      ]
+    },
+    {
+      "source": "最新の技術を利用することで、{j}呑竜素材の強いヌメリと、臭い{j}の除去に成功した脚防具。",
+      "previous": "Legs armor made with{j}the latest technology, successfully removing the strong slime and the stench{j}of Glutton Dragon materials.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58823
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58824
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58825
+        }
+      ]
+    },
+    {
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した脚装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Leg armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58838
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58839
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58840
+        }
+      ]
+    },
+    {
+      "source": "金獅子の、壮麗な素材を利用{j}した脚装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Legs armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58847
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58848
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58849
+        }
+      ]
+    },
+    {
+      "source": "尾晶蠍を狩りし者の証たる{j}脚装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Legs Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58865
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58866
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58867
+        }
+      ]
+    },
+    {
+      "source": "帯電する舞雷竜の素材を{j}使用した脚装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Leg Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 59432
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 59433
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 59434
+        }
+      ]
+    },
+    {
+      "source": "圧倒的な存在感と圧力を感じる{j}脚防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Leg Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 61459
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 61460
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 61461
+        }
+      ]
+    },
+    {
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた脚防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Leg armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 62150
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 62151
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 62152
+        }
+      ]
+    },
+    {
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる脚防具。意外と軽量。",
+      "previous": "Leg armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 62650
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 62651
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 62652
+        }
+      ]
+    },
+    {
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた脚防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Leg armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 63029
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 63030
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 63031
+        }
+      ]
+    },
+    {
+      "source": "遠方で流行しているという{j}脚防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}leg armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 63338
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 63339
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 63340
+        }
+      ]
+    },
+    {
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた脚防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Leg{j}Armor was created. It has a mysterious texture.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 64929
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 64930
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 64931
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する脚鎧。力{j}は破壊を呼び、辺り一帯を{j}荒廃させるという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon. Its power{j}brings destruction,{j}laying waste to all around, they say.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65172
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65173
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65174
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する脚鎧。{j}獲物が地の果てまで行こう{j}とも逃がすことはないという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}No prey escapes,{j}even if it flees to the ends of the earth, they say.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65175
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65176
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65177
+        }
+      ]
+    },
+    {
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が狩人の身を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that protects the Hunter's body.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65178
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65179
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 65180
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。",
+      "previous": "An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 97
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 433
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1041
+        }
+      ]
+    },
+    {
+      "source": "目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。",
+      "previous": "A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 164
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 356
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1089
+        }
+      ]
+    },
+    {
+      "source": "桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。",
+      "previous": "A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 281
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 367
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 4919
+        }
+      ]
+    },
+    {
+      "source": "紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。",
+      "previous": "Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 346
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 460
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 4397
+        }
+      ]
+    },
+    {
+      "source": "更なる強化の可能性を模索し{j}方向性を変えて再設計された{j}極短剣。修羅の道へようこそ。",
+      "previous": "In search of further upgrade possibilities, it was redesigned with a changed{j}direction into an{j}ultra-short sword. Welcome to the path of the Asura.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1361
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1362
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1363
+        }
+      ]
+    },
+    {
+      "source": "この大剣と相まみえし者は、{j}あまりの威圧感にその場から{j}一歩も動けなくなるという。",
+      "previous": "It is said that those who face this Great Sword are{j}so overwhelmed by its intimidating presence that they cannot{j}move a single step from where they stand.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5167
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5168
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5169
+        }
+      ]
+    },
+    {
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}氷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Ice and Poison attributes.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5449
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5450
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5451
+        }
+      ]
+    },
+    {
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}雷と毒属性を両立させた逸品。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}A masterpiece that combines Thunder and Poison attributes.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5461
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5462
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5463
+        }
+      ]
+    },
+    {
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}龍と睡眠属性を両立させた。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It combines Dragon and Sleep attributes.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5465
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5466
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5467
+        }
+      ]
+    },
+    {
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}何でも眠らすことができる。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}It can put anything to sleep.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5469
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5470
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 5471
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Though meant for ceremony, it also{j}possesses practicality--a masterpiece by a master smith.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6789
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6790
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6791
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6793
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6794
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6795
+        }
+      ]
+    },
+    {
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。非常に軽い{j}武器な上、リーチは極長。",
+      "previous": "A Sword & Shield that{j}applies the magnetism symbolizing the Magnet Dragon's power. Not only is it an extremely light{j}weapon, its reach is exceptional.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7024
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7028
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7032
+        }
+      ]
+    },
+    {
+      "source": "工房の加工技術の発達により、{j}生産が可能になった片手剣。{j}精巧な研磨により切っ先鋭い。",
+      "previous": "Thanks to the development of the Workshop's processing techniques,{j}production of this Sword & Shield became possible.{j}Its tip is sharp due to meticulous polishing.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8106
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8107
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8108
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された青い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A blue Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8199
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8200
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8201
+        }
+      ]
+    },
+    {
+      "source": "強大な力を鏡の盾で制御して{j}いる片手剣。柄の顔は、屠った{j}獲物で表情を変えるという。",
+      "previous": "A sword & shield that controls its mighty power with a mirror shield{j}. The face on its hilt is said to change expression depending on the{j}prey it has slain.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9414
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9415
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9416
+        }
+      ]
+    },
+    {
+      "source": "異国の若き王子が持つ宝剣。{j}王家に代々伝わるもので{j}装飾にも手が込んでいる。",
+      "previous": "A treasured sword held by a young prince of a foreign land.{j}Passed down through the royal family for generations,{j}its ornamentation is elaborate as well.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9474
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9475
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9476
+        }
+      ]
+    },
+    {
+      "source": "魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。",
+      "previous": "A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 307
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1146
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。",
+      "previous": "Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15849
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15850
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17413
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。",
+      "previous": "Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29303
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29304
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30870
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。",
+      "previous": "Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42848
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42849
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44476
+        }
+      ]
+    },
+    {
+      "source": "一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。",
+      "previous": "Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55417
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55419
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56262
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。",
+      "previous": "Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56465
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56466
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58030
+        }
+      ]
+    },
+    {
+      "source": "ハンマーを初めて狩りに用い{j}た老人。その実力を上回った{j}という弟子が使った金色の鎚。",
+      "previous": "An old man who was the first to{j}use a Hammer for hunting. The golden hammer wielded by his apprentice, who{j}is said to have surpassed his master's skill.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 298
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 785
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 953
+        }
+      ]
+    },
+    {
+      "source": "忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。",
+      "previous": "A weapon modeled after the mask{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Head armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 321
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 337
+        }
+      ]
+    },
+    {
+      "source": "黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Head equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 335
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 351
+        }
+      ]
+    },
+    {
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Head equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 427
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1550
+        }
+      ]
+    },
+    {
+      "source": "百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。",
+      "previous": "A Thunder Horn to rival a million fierce thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 792
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 793
+        }
+      ]
+    },
+    {
+      "source": "山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。",
+      "previous": "Based on cold-weather gear from mountainous regions,{j}a masterpiece that withstands hunting is complete.{j}The secret lies in the knitting method.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1136
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1137
+        }
+      ]
+    },
+    {
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。",
+      "previous": "Head armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1991
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1992
+        }
+      ]
+    },
+    {
+      "source": "動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Head armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2560
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 2563
+        }
+      ]
+    },
+    {
+      "source": "とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。",
+      "previous": "Head armor secretly produced by a female craftswoman of a weapon{j}craft workshop, influenced by a certain book, without{j}borrowing anyone's help.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6298
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6305
+        }
+      ]
+    },
+    {
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。",
+      "previous": "The craftswoman who made this head armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6299
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6306
+        }
+      ]
+    },
+    {
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した頭防具。",
+      "previous": "Head armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6300
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6307
+        }
+      ]
+    },
+    {
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた頭防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Head armor was found left behind{j}along with a certain document.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6304
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 6311
+        }
+      ]
+    },
+    {
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ頭防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Head armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 11721
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 11722
+        }
+      ]
+    },
+    {
+      "source": "街を守護するという騎士の、{j}胴装備の廉価版。市販品とは{j}いえその加工は精緻を極める。",
+      "previous": "A budget version of the{j}body armor of the knight said to guard the town.{j}Mass-produced it may be, but its craftsmanship is exquisite.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14650
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14651
+        }
+      ]
+    },
+    {
+      "source": "舞い散る花びらのような桃色{j}の胴装備。目を奪われた者は、{j}次の瞬間例外なく地獄を見る。",
+      "previous": "Body armor{j}in the pink of dancing petals. Those whose eyes it captures{j}will, the next instant, behold hell without exception.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14690
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15421
+        }
+      ]
+    },
+    {
+      "source": "巨大な瀑布のような威圧感を{j}持つ蒼い胴用装備。その防御{j}力は、他とは次元を異にする。",
+      "previous": "Blue body armor that wields{j}the intimidating presence of a giant waterfall. Its defense{j}is on an entirely different dimension from the rest.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14694
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15655
+        }
+      ]
+    },
+    {
+      "source": "工房の技術を超えた力を持つ、{j}金色の月からの贈り物。灼熱{j}の火炎にもまったく動じない。",
+      "previous": "{j}A gift from the golden moon, possessing power beyond the workshop's techniques. It is completely unfazed even by scorching{j}flames.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14718
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16066
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた胴用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Body armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14895
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14911
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた胴用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Body armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14896
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14912
+        }
+      ]
+    },
+    {
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた胴装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Body equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14992
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15907
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用胴防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Pellet{j}attack.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15851
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15852
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する胴鎧。{j}あらゆる凶事が迫ろうと{j}この鎧の前には無力。",
+      "previous": "Body Armor that embodies the power of the Extreme Dragon.{j}No matter what calamity approaches,{j}it is powerless before this armor.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16251
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16691
+        }
+      ]
+    },
+    {
+      "source": "動き易さを重視して、設計{j}された獰竜素材の胴防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Body armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16699
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 16702
+        }
+      ]
+    },
+    {
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した胴防具。",
+      "previous": "The craftswoman who made this body armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 20234
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 20241
+        }
+      ]
+    },
+    {
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した胴防具。",
+      "previous": "Body armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 20235
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 20242
+        }
+      ]
+    },
+    {
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた胴防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Body armor was found left behind{j}along with a certain document.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 20239
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 20246
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた胴用{j}防具。更なる進化を求めた{j}狩人達の身を守る鉄壁。",
+      "previous": "Body{j}Armor made from the Great Rock Wyvern's materials. An iron wall that protects the{j}Hunters who sought further evolution.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 23833
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 23834
+        }
+      ]
+    },
+    {
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ胴防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Body armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 25399
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 25400
+        }
+      ]
+    },
+    {
+      "source": "紫の鱗が美しい腕用装備。{j}良質なイーオス素材と鉱石を{j}特殊な加工で合成した逸品。",
+      "previous": "Arm armor with beautiful purple scales.{j}A fine piece synthesized from quality Ioprey material and ore{j}through special processing.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28143
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28697
+        }
+      ]
+    },
+    {
+      "source": "ギルドの看板娘達が身につけ{j}る制服の腕装備の正式版。ギ{j}ルドに一人前と認められた証。",
+      "previous": "The official version of the arm gear for the uniform worn{j}by the Guild's poster girls. Proof of being recognized by the{j}Guild as a full-fledged member.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28169
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28873
+        }
+      ]
+    },
+    {
+      "source": "銀色をしたリオレウスの防具。{j}一撃を防いだ腕に散る火花は、{j}空に散りばめられた銀砂の様。",
+      "previous": "Armor made from a silver Rathalos.{j}The sparks that scatter from the arms that blocked a blow are like silver sand{j}scattered across the sky.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28180
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29520
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた腕用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Arm armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28352
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28368
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた腕用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Arm armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28353
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28369
+        }
+      ]
+    },
+    {
+      "source": "黒狼鳥の素材を用いた腕装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Arms equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28366
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28382
+        }
+      ]
+    },
+    {
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腕装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Arms equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28449
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29361
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腕防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Pellet{j}attack.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29305
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29306
+        }
+      ]
+    },
+    {
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腕防具。至高の逸品。",
+      "previous": "Arms armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29693
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29694
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する篭手。{j}素手で岩を砕き、振るう{j}武器の力を高めるという。",
+      "previous": "Arms that embody the power of the Extreme Dragon.{j}They smash rocks bare-handed, and are said to increase the power of the{j}weapon you wield.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29699
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29701
+        }
+      ]
+    },
+    {
+      "source": "動き易さを重視して、設計{j}された獰竜素材の腕防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Arm armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30148
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30151
+        }
+      ]
+    },
+    {
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腕防具。",
+      "previous": "The craftswoman who made these arm armor pieces mysteriously vanished,{j}and the craftsman who inherited the work improved them through trial{j}and error.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 33689
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 33696
+        }
+      ]
+    },
+    {
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腕防具。",
+      "previous": "Arms armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 33690
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 33697
+        }
+      ]
+    },
+    {
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた腕防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Arms armor was found left behind{j}along with a certain document.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 33694
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 33701
+        }
+      ]
+    },
+    {
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ腕防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Arm armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 38851
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 38852
+        }
+      ]
+    },
+    {
+      "source": "忍ぶ者へ授けられるという帯{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。",
+      "previous": "A weapon modeled after the obi{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41558
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41559
+        }
+      ]
+    },
+    {
+      "source": "炎と水を下僕とする、飛竜の{j}王の腰装備。物理的な攻撃に{j}加え、様々な属性攻撃も防ぐ。",
+      "previous": "Waist armor of the{j}King of Wyverns, who keeps fire and water as his servants.{j}In addition to physical attacks, it also blocks attacks of various elements.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41606
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42655
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた腰用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Waist armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41804
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41820
+        }
+      ]
+    },
+    {
+      "source": "黒狼鳥の素材を用いた腰装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Waist equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41818
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41834
+        }
+      ]
+    },
+    {
+      "source": "棘竜の素材を用いた腰用装備。{j}樹海の主の領域は、何人たり{j}とも侵すことはできない。",
+      "previous": "Waist equipment made from Espinas materials.{j}The territory of the Lord of the Sea of Trees cannot be trespassed{j}by anyone.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41848
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41850
+        }
+      ]
+    },
+    {
+      "source": "甲殻種、魚竜種、生息域が近い{j}２種の素材を用いた腰用装備。{j}相性の良さは抜群。",
+      "previous": "Waist armor made from the materials of two{j}species with similar habitats, Carapaceon and Piscine Wyvern.{j}Their compatibility is outstanding.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41897
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42970
+        }
+      ]
+    },
+    {
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腰装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Waist equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41901
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42906
+        }
+      ]
+    },
+    {
+      "source": "ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。",
+      "previous": "Waist{j}armor made from Doragyuros materials. Its sturdy construction is said to even repel the{j}attacks of Flying Wyverns.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42822
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43490
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42850
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42851
+        }
+      ]
+    },
+    {
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。",
+      "previous": "Waist armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43304
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43305
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}It seals the power of the Extreme Dragon, which{j}intimidates all around it even when spent.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43310
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43312
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}The released power of the Extreme Dragon{j}grants the wearer a dragon's power.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43311
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43751
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}The released power gives off a murderous aura{j}that cows its prey, they say.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43313
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43752
+        }
+      ]
+    },
+    {
+      "source": "動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Waist armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43759
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 43762
+        }
+      ]
+    },
+    {
+      "source": "とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。",
+      "previous": "Waist armor secretly produced by the female smith of a{j}weapons workshop, inspired by a certain book,{j}with no help from anyone.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47294
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47301
+        }
+      ]
+    },
+    {
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。",
+      "previous": "The craftswoman who made this waist armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47295
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47302
+        }
+      ]
+    },
+    {
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。",
+      "previous": "Waist armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47296
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47303
+        }
+      ]
+    },
+    {
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた腰防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Waist armor was found left behind{j}along with a certain document.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47300
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 47307
+        }
+      ]
+    },
+    {
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ腰防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Waist armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 52526
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 52527
+        }
+      ]
+    },
+    {
+      "source": "王の迫力を備えた、蒼い飛竜{j}の脚用装備。非常に希少で、{j}熟練ハンターでも入手が困難。",
+      "previous": "Leg equipment of the blue wyvern{j}, possessed of a king's imposing might. Extremely rare,{j}even veteran Hunters find it hard to obtain.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55311
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56271
+        }
+      ]
+    },
+    {
+      "source": "天上の月を直接に削り出して{j}作ったかと思える脚用の装備。{j}雪月花もかすむ美には嘆息。",
+      "previous": "Leg armor that seems to have been{j}carved directly from the moon in the heavens.{j}One sighs at its beauty, which even dims the snow, moon, and flowers.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55335
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56680
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた脚用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Leg armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55515
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55531
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を用いた脚用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Leg armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55516
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55532
+        }
+      ]
+    },
+    {
+      "source": "黒狼鳥の素材を用いた脚装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Leg equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55529
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55545
+        }
+      ]
+    },
+    {
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた脚装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Legs equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55612
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56523
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用脚防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this leg armor is for Gunners specialized in Pellet{j}attack.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56467
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56468
+        }
+      ]
+    },
+    {
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる脚防具。至高の逸品。",
+      "previous": "Legs armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56858
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56859
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する脚鎧。{j}持ち主の足は、龍の足音{j}を放ち、獲物を追い詰める。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}The wearer's feet give off the footfalls of a dragon{j}, cornering the prey.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56864
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56866
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する脚鎧。{j}その歩みは破壊を呼び、{j}狙われた獲物に襲い掛かる。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}Its stride brings destruction,{j}falling upon the prey it has marked.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56865
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57305
+        }
+      ]
+    },
+    {
+      "source": "極龍の力を具現する脚鎧。{j}その足音は地の果てまで{j}轟くような錯覚をもたらす。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}Its footfalls create the illusion that they{j}echo to the very ends of the earth.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 56867
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57306
+        }
+      ]
+    },
+    {
+      "source": "動き易さを重視して、設計{j}された獰竜素材の脚防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Leg armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57313
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 57316
+        }
+      ]
+    },
+    {
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した脚防具。",
+      "previous": "The craftswoman who made these leg armor pieces mysteriously vanished,{j}and the craftsman who inherited the work improved them through trial{j}and error.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60849
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60856
+        }
+      ]
+    },
+    {
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した脚防具。",
+      "previous": "Legs armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60850
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60857
+        }
+      ]
+    },
+    {
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた脚防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Legs armor was found left behind{j}along with a certain document.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60854
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60861
+        }
+      ]
+    },
+    {
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ脚防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Leg armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 66035
+        },
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 66036
+        }
+      ]
+    },
+    {
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の東門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the East Gate of the divine body~",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 154
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 219
+        }
+      ]
+    },
+    {
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の北門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the North Gate of the divine body~",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 203
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 222
+        }
+      ]
+    },
+    {
+      "source": "片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。",
+      "previous": "Dual Blades that fight by wielding two{j}one-handed weapons, one in each hand. Since they cannot defend at all{j}, they overwhelm with sheer number of attacks.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 239
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 240
+        }
+      ]
+    },
+    {
+      "source": "炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。",
+      "previous": "A crimson Great Sword imbued with the power of the Flame Dragon.{j}Despite its graceful form, a single swing{j}turns a league in every direction to scorched earth.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 269
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 420
+        }
+      ]
+    },
+    {
+      "source": "天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。",
+      "previous": "Dual Blades that seem to hold{j}a lightning pillar joining heaven and earth{j}right in your hand. A phantom weapon worthy of the King of Phantom Beasts.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 379
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 790
+        }
+      ]
+    },
+    {
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 473
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 475
+        }
+      ]
+    },
+    {
+      "source": "ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。",
+      "previous": "Dancing Thunder Wyvern materials have{j}long been considered unsuitable for making Hammers, but{j}the discovery of new materials has made production possible.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3699
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3700
+        }
+      ]
+    },
+    {
+      "source": "呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。",
+      "previous": "A high-performance water sword with terrifying moisture retention{j}performance thanks to the slime{j}component secreted on the surface of Plesioth materials.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3743
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3744
+        }
+      ]
+    },
+    {
+      "source": "斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。",
+      "previous": "The slimy surface{j}that hinders sharpness has, through advanced processing techniques, been transformed instead{j}into a liquid that improves sharpness.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3837
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3838
+        }
+      ]
+    },
+    {
+      "source": "「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。",
+      "previous": "A poison hammer that further evolved{j}the virulent venom once praised as the most vicious of the \"Poison Monster\".{j}Its entire body is a mass of poison.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 3854
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7447
+        }
+      ]
+    },
+    {
+      "source": "万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。",
+      "previous": "The{j}roar of the Echoing Wolf, said to reach ten thousand miles. Any{j}who sees the Great Sword that houses its power trembles from the depths of their heart.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 4175
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 4176
+        }
+      ]
+    },
+    {
+      "source": "銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman that, while for ceremonies, also{j}possesses practicality.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 13193
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 13194
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い双剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Dual Blades adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14759
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14760
+        }
+      ]
+    },
+    {
+      "source": "芸術肌の職人が相棒の姿を{j}武器にした渾身の迷作。{j}「そこに山があるからニャ」",
+      "previous": "A dubious masterpiece turned into a weapon in the image of its partner{j}by a craftsman with an artistic flair.{j}\"Because there's a mountain there, meow.\"",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14836
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14843
+        }
+      ]
+    },
+    {
+      "source": "緑の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with green ornamentation.{j}A ceremonial blade, yet{j}a masterpiece of master craftsmanship that also boasts practical use.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14092
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14093
+        }
+      ]
+    },
+    {
+      "source": "緑の装飾が施された黒い狩猟{j}笛。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Hunting{j}Horn adorned with green ornamentation. A ceremonial instrument, yet{j}a masterpiece of master craftsmanship that also boasts practical use.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14102
+        },
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14103
+        }
+      ]
+    },
+    {
+      "source": "ランゴスタの素材で覆われた{j}頭用装備。火と氷には極端に{j}弱いが、硬い外殻により強固。",
+      "previous": "{j}Head equipment covered in Vespoid materials. It is extremely{j}weak to Fire and Ice, but its hard outer shell makes it sturdy.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 11
+        }
+      ]
+    },
+    {
+      "source": "街を守護するという騎士の、{j}頭装備の廉価版。羽飾りと特{j}徴的な面頬が人気の一品。",
+      "previous": "A budget version of the{j}head gear worn by knights sworn to guard the city. A popular piece, thanks to its feather plume and distinctive{j}face guard.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 60
+        }
+      ]
+    },
+    {
+      "source": "古い壁画に残る、龍をも凌ぐ{j}力を持つ人々の防具に酷似し{j}た頭装備。羽毛のように軽い。",
+      "previous": "Head armor closely resembling the armor of the people in ancient murals, whose power{j}surpassed even dragons.{j}Light as a feather.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 123
+        }
+      ]
+    },
+    {
+      "source": "かぶると雑念が消え去り、目{j}の前の敵を殲滅することしか{j}考えられなくなる恐怖の防具。",
+      "previous": "Armor of fear that, when worn, clears your mind of distracting thoughts, so that you can only{j}think of annihilating the enemy before your{j}eyes.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 124
+        }
+      ]
+    },
+    {
+      "source": "黄金の月の欠片で作られたか{j}と思わせる、壮麗なる女王の{j}頭装備。光こそが最たる装飾。",
+      "previous": "Is it made from a fragment of the golden moon?{j}making you think so--the magnificent queen's{j}Head equipment. Light is the ultimate adornment.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 125
+        }
+      ]
+    },
+    {
+      "source": "往古の神具を模した頭用装備。{j}数多の星霜を経た砦蟹素材は、{j}神への供物にふさわしい。",
+      "previous": "Head gear modeled after ancient sacred implements.{j}Fortress Crab materials that have weathered countless years{j}are worthy offerings to the gods.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 218
+        }
+      ]
+    },
+    {
+      "source": "赤き炎の冠の如き頭装備。破{j}格な素材から作られたそれは、{j}紅蓮の王の魂が宿るという。",
+      "previous": "Head equipment like a crown of crimson flame.{j}Made from extraordinary materials, it is said to{j}house the soul of the Crimson King.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 219
+        }
+      ]
+    },
+    {
+      "source": "東方の武神を象る頭装備。{j}素材の中にあった物を取り出{j}しただけと伝説の職人は語る。",
+      "previous": "Head armor shaped in the image of the Eastern god of war. The legendary artisan says he{j}simply pulled out what was already in the material{j}and did nothing else.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 222
+        }
+      ]
+    },
+    {
+      "source": "見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。{j}裏の顔を知るものは少ない。",
+      "previous": "Adorned with a magnificent feather ornament,{j}it is the very symbol of the Guild Knights' public face.{j}Few know the face behind it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 230
+        }
+      ]
+    },
+    {
+      "source": "危機が迫った時は、誰もが剣{j}を取るのがギルドの掟。有事{j}に備えた戦うお姉さん用装備。",
+      "previous": "When a crisis looms, it is the Guild's law that everyone{j}takes up a sword. Gear for a battle-ready lady prepared for{j}emergencies.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 232
+        }
+      ]
+    },
+    {
+      "source": "猟団から支給されるピアス。{j}不思議な力が全身を包み様々{j}な災いからハンターを守る。",
+      "previous": "A piercing provided by the Guild.{j}Its mysterious power envelops the whole body and protects the Hunter from{j}various calamities.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 302
+        }
+      ]
+    },
+    {
+      "source": "覇竜の素材を使った頭用装備。{j}漆黒の装甲は、見る者の魂を{j}凍り付かせる威圧感を持つ。",
+      "previous": "Head armor made from Akantor materials.{j}Its jet-black armor has an intimidating presence that{j}freezes the souls of those who see it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 319
+        }
+      ]
+    },
+    {
+      "source": "安らぎに満ちた冥暗の頭防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Head Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 746
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した頭用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "Head{j}equipment passed down from a distant workshop. Made with special{j}materials with excellent insulation, it is highly versatile.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 936
+        }
+      ]
+    },
+    {
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし頭防具。",
+      "previous": "Head Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 947
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた頭用{j}防具。大質量の素材からは{j}想像もつかないほど軽量。",
+      "previous": "Head{j}armor made from Great Boulder Dragon materials. You would never{j}imagine from its massive material that it is so lightweight.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1151
+        }
+      ]
+    },
+    {
+      "source": "エスピナス亜種の頭を模した{j}マスク。環境に馴染み、毒に{j}強くなる。",
+      "previous": "A{j}mask modeled after the head of an Espinas Subspecies. Blends into the environment and becomes{j}resistant to poison.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1576
+        }
+      ]
+    },
+    {
+      "source": "２本の巨大な角を設えた頭{j}防具。その存在感は、彼我の{j}闘志を掻き立てる諸刃の剣。",
+      "previous": "Head armor{j}adorned with two giant horns. Its sheer presence is a double-edged sword that stirs{j}the fighting spirit of friend and foe alike.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 1847
+        }
+      ]
+    },
+    {
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な頭防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Head armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 4518
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた頭用{j}防具。ほのかな温かさがあり、{j}大巌竜の魂を感じられる。",
+      "previous": "Head{j}armor made from Great Boulder Dragon materials. It has a faint warmth,{j}and you can feel the soul of the Great Boulder Dragon.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 10041
+        }
+      ]
+    },
+    {
+      "source": "深い紫黒色をした胴用装備。{j}内に籠った黒狼鳥の怒りが{j}強度を何倍にも高めるという。",
+      "previous": "Body armor in deep purple-black.{j}The wrath of the Black Wolf Bird sealed within{j}is said to multiply its might many times over.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14654
+        }
+      ]
+    },
+    {
+      "source": "傷つく度に、より強固に{j}再生するという黒狼鳥の甲殻{j}をふんだんに使った胴用装備。",
+      "previous": "Body gear that makes abundant use of the Black Wolf Bird's shell{j}, said to regenerate{j}even sturdier each time it is wounded.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14655
+        }
+      ]
+    },
+    {
+      "source": "ギルドを守護するナイトの、{j}正式な胴用装備。輝く赤色は、{j}不屈の精神を表す。男性専用。",
+      "previous": "Official{j}body equipment of the Knight who guards the Guild. Its shining red color represents an{j}unyielding spirit. Male only.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14708
+        }
+      ]
+    },
+    {
+      "source": "氷点下の炎に霞む、銀の太陽{j}の輝きを放つ防具。いかなる{j}攻撃も、命中の前に凍りつく。",
+      "previous": "Armor that radiates the{j}brilliance of a silver sun, hazy amid flames below freezing. Any{j}attack freezes solid before it lands.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14719
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材で作られた胴装備。{j}その荘厳さは古代の神像が動{j}き出したような印象を与える。",
+      "previous": "Body armor made from Kushala Daora's materials.{j}Its majesty gives the impression of an ancient idol{j}come to life.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14804
+        }
+      ]
+    },
+    {
+      "source": "東方に住む神々の戦装束を模{j}した胴装備。羽衣の如き形状{j}は風をはらみ衝撃を吸収する。",
+      "previous": "Body armor modeled{j}after the battle raiment of the gods who dwell in the East. Its feather-robe-like{j}form catches the wind and absorbs impacts.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14814
+        }
+      ]
+    },
+    {
+      "source": "工房のお姉さんファンたちが{j}心血を注いだ防具。可憐さと{j}妖艶さの共演はアートの領域。",
+      "previous": "Armor into which the Workshop lady's fans poured{j}their heart and soul. The pairing of cuteness and{j}seductive allure is a work of art.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14827
+        }
+      ]
+    },
+    {
+      "source": "安らぎに満ちた冥暗の胴防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Body Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15198
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した胴用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Body passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15340
+        }
+      ]
+    },
+    {
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし胴防具。",
+      "previous": "Body Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15351
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた胴防具。{j}幾多の困難をくぐり抜けた者{j}は覇者の称号こそ相応しい。",
+      "previous": "Body Armor made from Great Boulder Dragon materials.{j}Those who have weathered countless{j}hardships are truly worthy of a champion's title.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 15541
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用胴防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Hearing Protection{j}.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 17415
+        }
+      ]
+    },
+    {
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な胴防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Body armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 18555
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた胴用{j}防具。更なる進化を求める{j}狩人達を守る究極の鉄壁。",
+      "previous": "Body{j}Armor made from the Great Rock Wyvern's materials. The ultimate iron wall, protecting the{j}Hunters who seek further evolution.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 23835
+        }
+      ]
+    },
+    {
+      "source": "街を守護するという騎士の、{j}腕用装備の廉価版。華美な{j}部分を廃した質実剛健な作り。",
+      "previous": "A budget version of the{j}arm gear worn by knights sworn to guard the city. Sturdy and practical, stripped of all{j}ornamentation.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28110
+        }
+      ]
+    },
+    {
+      "source": "お店の女性スタッフ用制服の{j}同型品。繊細な作業にも邪魔{j}にならない手袋がポイント。",
+      "previous": "The same model{j}as the shop's female staff uniform. The gloves that never get in the way{j}even during delicate work are the key point.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28113
+        }
+      ]
+    },
+    {
+      "source": "太陽の光さえ封じ込める黒色{j}の防具。装飾の隙間から誰か{j}に監視されているような気に。",
+      "previous": "Black{j}armor that seals away even the sunlight. Through the gaps in its ornamentation, you feel as though{j}someone is watching you.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28175
+        }
+      ]
+    },
+    {
+      "source": "稲妻のように天を駆ける銀の{j}竜が命を吹き込んだ腕用装備。{j}振るう剣の切先も鋭さを増す。",
+      "previous": "Silver that races across the sky like lightning{j}Arms equipment into which a dragon breathed life.{j}The edge of the sword you swing grows even sharper.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28179
+        }
+      ]
+    },
+    {
+      "source": "工房の職人が技術の粋をつぎ{j}込んで作成した霞龍の腕装備。{j}ゆったりとして機能性に富む。",
+      "previous": "Chameleos arms armor,{j}crafted by a workshop artisan who poured in the very finest skill.{j}Loose-fitting and highly functional.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28266
+        }
+      ]
+    },
+    {
+      "source": "塔に君臨する女王を従えた証。{j}特殊な加工で現れた深き青が、{j}見る者の心を魅了する。",
+      "previous": "Proof of having made the queen who reigns over the tower your servant.{j}The deep blue drawn out by special processing{j}captivates the hearts of all who behold it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28268
+        }
+      ]
+    },
+    {
+      "source": "炎妃龍の素材を特殊な技術で{j}練り上げた腕用装備。身につ{j}けた者の心奥に青き炎が灯る。",
+      "previous": "Arm equipment{j}crafted from Lunastra materials with special techniques. A blue flame burns deep in the heart of the{j}wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28269
+        }
+      ]
+    },
+    {
+      "source": "炎を律する王を従えた証。{j}最新の加工で現れた猛き赤が、{j}見る者の心を駆り立てる。",
+      "previous": "Proof of subjugating the king who rules flames.{j}The fierce red that emerged from the latest processing,{j}stirs the hearts of all who see it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28272
+        }
+      ]
+    },
+    {
+      "source": "金獅子の良質の黒毛のみを最{j}新の技術で織り込んだ腕装備。{j}その腕は闇にとけ込む。",
+      "previous": "Arms armor woven from only the finest black fur of the Gold Lion{j}with the latest techniques.{j}Those arms melt into the darkness.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28277
+        }
+      ]
+    },
+    {
+      "source": "偉大な古龍をも打ち砕く力を{j}秘めた腕防具。古の時を生き{j}た古龍も恐れおののくという。",
+      "previous": "Arm armor{j}concealing the power to shatter even{j}great Elder Dragons. Even Elder Dragons that lived in ancient times are said to tremble before it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28293
+        }
+      ]
+    },
+    {
+      "source": "安らぎに満ちた冥暗の腕防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Arm Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28654
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した腕用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Arms passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28798
+        }
+      ]
+    },
+    {
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし腕防具。",
+      "previous": "Arm Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28809
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた腕防具。{j}素材、設計を見直したことで{j}飛躍的な防御力向上を実現。",
+      "previous": "Arm armor made from Great Rock Dragon materials.{j}By reviewing the materials and design,{j}a dramatic improvement in defense was achieved.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28994
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた腕防具。{j}手にした者こそ天地を統べる{j}覇者。これはその証となる。",
+      "previous": "Arm armor made from Great Rock Dragon materials.{j}Only those who hold it are the conquerors{j}who rule heaven and earth. This is the proof.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28995
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた腕防具。{j}軽量化と防御力向上を同時に{j}実現した強化版。",
+      "previous": "Arm armor made from Great Rock Dragon materials.{j}An upgraded version that simultaneously achieved{j}weight reduction and improved defense.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 28997
+        }
+      ]
+    },
+    {
+      "source": "棘竜の素材を用いた腕防具。{j}より上質な素材のみを追求し{j}性能向上と軽量化に成功した。",
+      "previous": "Arm armor made from Tigrex materials.{j}By pursuing only higher-quality materials,{j}it succeeded in improving performance and reducing weight.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 29084
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用腕防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Hearing Protection{j}.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 30872
+        }
+      ]
+    },
+    {
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な腕防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Arms armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 32010
+        }
+      ]
+    },
+    {
+      "source": "鉄鉱石で強化されたベルト。{j}革に比べ頑丈で、人体の{j}弱点を的確に覆う作り。",
+      "previous": "A belt reinforced with iron ore.{j}It is sturdier than leather and designed to precisely cover the{j}weak points of the human body.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41512
+        }
+      ]
+    },
+    {
+      "source": "滑らかな光沢を持つ特殊合金{j}製の防具。細部や内側に至る{j}まで、見事な装飾が施される。",
+      "previous": "Armor made from a special alloy{j}with a smooth gloss. Splendid ornamentation is{j}applied to every detail, even the interior.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41530
+        }
+      ]
+    },
+    {
+      "source": "街を守護するという騎士の、{j}腰用装備の廉価版。儀礼用が{j}ベースだが機能性は高い。",
+      "previous": "A budget version of the{j}waist gear worn by knights sworn to guard the city. Ceremonial in its{j}base design, yet highly functional.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41560
+        }
+      ]
+    },
+    {
+      "source": "艶【腰当て】の色違い。{j}匠の技により究極の紅い艶を{j}放つ。まさに覇王の輝き。",
+      "previous": "Color variation of Luster[Waist].{j}Through master craftsmanship, it emits{j}the ultimate crimson luster. Truly the brilliance of a conqueror.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41571
+        }
+      ]
+    },
+    {
+      "source": "伝説の職人のみが到達しうる{j}究極の技術をつぎ込んだ腰用{j}装備。青き炎が畏怖を与える。",
+      "previous": "Waist{j}armor forged with the{j}ultimate techniques only a legendary artisan could attain. Its blue flame strikes fear into all.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41717
+        }
+      ]
+    },
+    {
+      "source": "独特の形状をもつ砦蟹素材の{j}腰用装備。重厚な作りだが、{j}意外にも脚の動きを妨げない。",
+      "previous": "Waist equipment{j}made from Fortress Crab materials with a unique shape. Though heavy in build,{j}it surprisingly does not hinder leg movement.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41719
+        }
+      ]
+    },
+    {
+      "source": "工房が持ちうる最新の技術を{j}つぎ込んだ腰用装備。赤き炎{j}が見る者に戦慄を与える。",
+      "previous": "Waist armor{j}built with the very latest technology the Workshop can offer. Its crimson flame{j}strikes terror into all who behold it.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41721
+        }
+      ]
+    },
+    {
+      "source": "水耐性の高いキングロブスタ{j}の殻を使用した腰用装備。{j}一度身につけたらクセになる。",
+      "previous": "Waist equipment made from the shell of a King Lobster{j}with high Water resistance.{j}Once worn, you will never want to take it off.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41741
+        }
+      ]
+    },
+    {
+      "source": "覇竜の素材を使った腰用装備。{j}黒や赤とも見える輝きを見せ{j}噴火の激震にも耐えうる装具。",
+      "previous": "Waist armor made from Akantor materials.{j}It shows a brilliance that appears black or red{j}and withstands the violent tremors of eruptions.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 41788
+        }
+      ]
+    },
+    {
+      "source": "安らぎに満ちた冥暗の腰防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Waist Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42196
+        }
+      ]
+    },
+    {
+      "source": "ヒプノック希少種を模した腰{j}防具の完全体。蒼白の羽に彩{j}られた顔はなぜか誇らしげ。",
+      "previous": "The complete form of Waist{j}armor modeled after a Hypnocatrice rare species. The face, adorned{j}with pale blue feathers, is somehow proud.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42239
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した腰用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Waist passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42340
+        }
+      ]
+    },
+    {
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし腰防具。",
+      "previous": "Waist Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42351
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた腰防具。{j}加工された今なお大地の鼓動{j}の如く脈打つ腰用装備。",
+      "previous": "Waist equipment made from Great Boulder Dragon materials.{j}Even after being processed, it pulses like the heartbeat{j}of the earth.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42539
+        }
+      ]
+    },
+    {
+      "source": "大巌竜の素材を用いた腰防具。{j}数々の戦いの記憶が刻み込ま{j}れ、身に付けた者に甦る。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}The memories of countless battles are engraved{j}into it, reviving in the wearer.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42542
+        }
+      ]
+    },
+    {
+      "source": "ランポスの素材を用いた腰{j}防具。素材、設計を一から{j}見直し機能性強化を実現。",
+      "previous": "Waist{j}armor using Velociprey materials. Reviewing materials and design from scratch{j}, functionality enhancement was achieved.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42545
+        }
+      ]
+    },
+    {
+      "source": "棘竜の素材を用いた腰防具。{j}工房技術の進歩により、さ{j}らに改良を加えられた。",
+      "previous": "Waist armor made from Espinas materials.{j}Due to the advancement of workshop technology, further{j}improvements were made.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 42629
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用腰防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Hearing Protection{j}.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 44478
+        }
+      ]
+    },
+    {
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な腰防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Waist armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 45616
+        }
+      ]
+    },
+    {
+      "source": "漆黒の合金で作られた脚装備。{j}どれだけ磨いても決して光ら{j}ず、奈落の闇に染まり続ける。",
+      "previous": "Leg equipment made from a jet-black alloy.{j}No matter how much you polish it, it will never{j}shine, forever steeped in the darkness of the abyss.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55234
+        }
+      ]
+    },
+    {
+      "source": "街を守護するという騎士の、{j}脚用装備の廉価版。一見無骨{j}だが、精密な構造で隙がない。",
+      "previous": "A budget version of the{j}leg armor of the knight said to guard the town.{j}Rough at a glance, yet its precise construction leaves no gaps.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55268
+        }
+      ]
+    },
+    {
+      "source": "街を守護するという騎士の、{j}脚用装備の廉価版。性能面で{j}の妥協は一切無い。男性専用。",
+      "previous": "A budget version of the{j}leg armor of the knight said to guard the town. In terms of performance,{j}there is no compromise at all. Men only.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55269
+        }
+      ]
+    },
+    {
+      "source": "東方の衣装を真似た脚用装備。{j}黒狼鳥素材の装甲が発する{j}熱は、脚に力をみなぎらせる。",
+      "previous": "Leg armor that imitates Eastern attire.{j}The armor made from Yian Garuga materials gives off a heat{j}that fills your legs with power.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55273
+        }
+      ]
+    },
+    {
+      "source": "ギルドナイトの正式な脚装備。{j}その金色の脚は、一歩も退か{j}ないという決意の現れ。",
+      "previous": "Official leg armor for Guild Knights.{j}Those golden legs are a sign of the determination to{j}never retreat a single step.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55325
+        }
+      ]
+    },
+    {
+      "source": "堅牢な砦蟹の素材を使用した{j}脚用装備。その重厚さは地に{j}根が生えた如き安定感を生む。",
+      "previous": "Leg equipment{j}made using sturdy Shen Gaoren materials. Its heft creates a sense of stability, as if roots{j}had grown into the earth.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55426
+        }
+      ]
+    },
+    {
+      "source": "砦蟹の素材を最新の技術で{j}加工した脚用装備。身につけ{j}た者は不動の精神を得る。",
+      "previous": "Leg equipment made by{j}processing Shen Gaoren materials with the latest technology. Those who{j}wear it gain an unyielding spirit.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55427
+        }
+      ]
+    },
+    {
+      "source": "工房の職人が最新技術を注い{j}で練り上げた脚装備。炎王龍{j}の赤き炎が封じられている。",
+      "previous": "Legs armor forged by a workshop artisan{j}who applied the latest techniques.{j}The crimson flame of the Flame King Dragon is sealed within.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55428
+        }
+      ]
+    },
+    {
+      "source": "東方の神の脚を飾ったいわれ{j}る装備を模した物。風を踏む{j}が如き軽やかさを得る。",
+      "previous": "Leg armor modeled after gear said to have{j}adorned the legs of an Eastern god. Grants a lightness as if you were{j}treading on the wind.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55430
+        }
+      ]
+    },
+    {
+      "source": "東方の神の脚を飾ったいわれ{j}る装備を模した物。大地を{j}感じない程の軽やかさを得る。",
+      "previous": "Leg armor modeled after gear said to have{j}adorned the legs of an Eastern god. Grants a lightness that makes you{j}forget the ground itself.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55431
+        }
+      ]
+    },
+    {
+      "source": "強靭な刃と硬度を誇る脚防具。{j}その脚で駆け抜けると刃のご{j}とき鋭い風が舞うという。",
+      "previous": "Leg armor boasting a sturdy blade and hardness.{j}They say that when you race along on those legs,{j}a wind as keen as a blade swirls about.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55451
+        }
+      ]
+    },
+    {
+      "source": "安らぎに満ちた冥暗の脚防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。",
+      "previous": "Leg Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55816
+        }
+      ]
+    },
+    {
+      "source": "遠方の工房より伝来した脚用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop. Uses a special{j}material with excellent insulation, making it highly versatile.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55961
+        }
+      ]
+    },
+    {
+      "source": "”天”を翔ける雄火竜と”地”{j}を引き裂く雌火竜の魂が”人”{j}の技にて転生せし脚防具。",
+      "previous": "Leg Armor in which the souls of the male Fire Wyvern that soars through the heavens and the female Fire Wyvern that tears the earth{j}were reincarnated through human{j}skill.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55972
+        }
+      ]
+    },
+    {
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用脚防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this leg armor is for Gunners specialized in Hearing Protection{j}.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 58032
+        }
+      ]
+    },
+    {
+      "source": "赤闘獣の紅毛や極鉄など素材{j}で生産した重厚な脚防具。{j}精巧な金属細工が美しい。",
+      "previous": "Heavy Legs armor crafted from{j}materials such as the Red Violent Beast's crimson fur and extreme iron.{j}Its intricate metalwork is beautiful.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 59170
+        }
+      ]
+    },
+    {
+      "source": "大型の骨から強化される大剣。{j}重量で破壊力を得る骨大剣で、{j}これを扱えるなら一人前。",
+      "previous": "A Great Sword upgraded from a large bone.{j}A bone Great Sword whose weight gives it destructive power;{j}if you can wield it, you are a full-fledged Hunter.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 34
+        }
+      ]
+    },
+    {
+      "source": "訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}教官は元気にしてるだろうか。",
+      "previous": "The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}I wonder if the Instructor is doing well.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 288
+        }
+      ]
+    },
+    {
+      "source": "訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}たまには顔を出してあげよう。",
+      "previous": "The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}I should drop by and show my face sometime.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 308
+        }
+      ]
+    },
+    {
+      "source": "訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}流した涙も無駄にはならない。",
+      "previous": "The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}Even the tears shed were not in vain.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 353
+        }
+      ]
+    },
+    {
+      "source": "姿を見ることさえかなわない、{j}伝説の金竜銀竜の素材を用い{j}た双剣。火属性が非常に強力。",
+      "previous": "Dual Blades whose form can never even be glimpsed,{j}forged from the materials of the legendary gold and silver dragons{j}. The Fire element is extremely powerful.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 361
+        }
+      ]
+    },
+    {
+      "source": "最強の封龍剣をさらに超える{j}絶一門の最終兵器。全てが謎{j}の素材は太古の文明の名残か。",
+      "previous": "Surpassing even the strongest Dragon Seal Sword{j}The ultimate weapon of the Absolute. Everything is a mystery.{j}Are these materials vestiges of an ancient civilization?",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 365
+        }
+      ]
+    },
+    {
+      "source": "名工がこしらえた宝石細工の{j}槍の強化版。美しい装飾のみ{j}ならず、実用性の高さも好評。",
+      "previous": "An upgraded version of the jewel-worked{j}Lance fashioned by a master artisan. It is well regarded not{j}only for its beautiful ornamentation, but for its high practicality as well.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 651
+        }
+      ]
+    },
+    {
+      "source": "ギルドの研究と工房の技術向上{j}で、古の封龍剣が完全復活。{j}太古の叡智が手の中に。",
+      "previous": "Through the Guild's research and the workshop's advances{j}, the ancient Sealed Dragon Sword is fully revived.{j}The wisdom of the ancients is now in your hands.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 972
+        }
+      ]
+    },
+    {
+      "source": "師範代しか持つことを許され{j}ぬ高級稽古用太刀。先革から{j}柄まで、非の打ち所無き逸品。",
+      "previous": "A high-grade training Long Sword that only assistant instructors are permitted{j}to possess. From the tip leather to the{j}hilt, it is a flawless masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1159
+        }
+      ]
+    },
+    {
+      "source": "伝説の家具職人の魂が宿った{j}大槌。大人気の肉球仕掛けの{j}詳細は、企業秘密らしい。",
+      "previous": "A Hammer{j}imbued with the soul of a legendary furniture craftsman. The details of the wildly popular paw-pad gadget{j}are apparently a company secret.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 1182
+        }
+      ]
+    },
+    {
+      "source": "装飾を廃し、素材の持ち味を{j}最大限に引き出した大剣。{j}可能な限り加工した完成系。",
+      "previous": "A Great Sword that forgoes decoration and draws out the material's inherent qualities{j}to the fullest.{j}A final form, processed to the greatest possible extent.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 4463
+        }
+      ]
+    },
+    {
+      "source": "ダークランスの究極進化形。{j}内部構造を一から見直して、神{j}経毒の注入効率を大幅に向上。",
+      "previous": "Dark Lance's ultimate evolved form. The{j}internal structure was redesigned from scratch, greatly improving the injection efficiency of divine{j}neurotoxin.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 4568
+        }
+      ]
+    },
+    {
+      "source": "黒角竜の素材で強化した剛鎚。{j}逞しい黒角竜の突進を思わせ{j}る破壊力は、まさに覇者の力。",
+      "previous": "A mighty hammer reinforced with Black Diablos materials.{j}Its destructive power, reminiscent of{j}a Black Diablos's powerful charge, is truly the power of a conqueror.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6576
+        }
+      ]
+    },
+    {
+      "source": "最先端の加工技術を結集し、{j}高い火属性と武器としての{j}威力を徹底追及した珠玉の槍。",
+      "previous": "Bringing together cutting-edge processing technology,{j}High Fire element and, as a weapon,{j}A peerless lance that pursues raw power to the utmost.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6659
+        }
+      ]
+    },
+    {
+      "source": "伝説の金竜銀竜の素材を用い{j}た双剣。武器となった今なお{j}熱さを感じる貴重な武器。",
+      "previous": "Dual Blades made using{j}materials from the legendary Gold Dragon and Silver Dragon. Even now as a weapon,{j}it is a precious weapon that still feels hot.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6734
+        }
+      ]
+    },
+    {
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け{j}御神体の南門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 6888
+        }
+      ]
+    },
+    {
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。龍と麻痺の{j}双属性で、モンスターを狩れ。",
+      "previous": "A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its dual Dragon and Paralysis{j}attributes, hunt monsters.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7023
+        }
+      ]
+    },
+    {
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。龍と麻痺の{j}双属性で、畏れを薙ぎ払え！",
+      "previous": "A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its dual Dragon and Paralysis{j}attributes, mow down all fear!",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7026
+        }
+      ]
+    },
+    {
+      "source": "極龍の力の象徴である磁力を{j}応用した片手剣。龍と睡眠の{j}双属性で、畏れを薙ぎ払え！",
+      "previous": "A Sword & Shield that applies the magnetism{j}symbolizing the Extreme Dragon's power. With its dual Dragon and Sleep{j}attributes, mow down all fear!",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 7030
+        }
+      ]
+    },
+    {
+      "source": "甲殻種素材の堅さと鋭さを{j}可能な限り活かした片手剣。{j}職人の優れた研磨の技も秀逸。",
+      "previous": "A Sword & Shield that exploits the hardness and sharpness of Carapaceon materials{j}to the fullest.{j}The craftsman's superb polishing is also outstanding.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8655
+        }
+      ]
+    },
+    {
+      "source": "鎌蟹の爪が持つ鋭さを{j}再現した双剣。二刀六刃の{j}角度まで探究されている。",
+      "previous": "These Dual Blades reproduce the sharpness of the Shogun Ceanataur's claws.{j}Even the angles of the two blades and six edges{j}have been thoroughly investigated.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8656
+        }
+      ]
+    },
+    {
+      "source": "呑龍の伸縮性による衝撃緩和と{j}優れた保湿性による耐熱効果に{j}より強力な一撃を放つ。",
+      "previous": "Cushions impacts through the Glutton Dragon's elasticity, and{j}its superb moisture retention grants heat resistance,{j}letting it unleash an even more powerful blow.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9064
+        }
+      ]
+    },
+    {
+      "source": "尾晶蠍の麻痺性と高い耐熱性{j}により、撃って良し、殴って{j}良しの強力な武器となった。",
+      "previous": "Thanks to the Crystal-Tailed Scorpion's paralysis and high heat resistance{j}, it became a powerful weapon that is good for shooting and{j}good for striking.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9069
+        }
+      ]
+    },
+    {
+      "source": "言い伝えられている昔話。男{j}女の名を冠した星々が重なる{j}時の煌きを音に込めた狩猟笛。",
+      "previous": "A legend passed down through the ages. A{j}Hunting Horn that sets to sound the brilliance{j}of the moment when stars bearing a man's and woman's names align.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9593
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い片手{j}剣。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。",
+      "previous": "A black Sword{j}& Shield adorned with ancient ornamentation. Forged{j}from what was once ceremonial, it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9598
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い狩猟{j}笛。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。",
+      "previous": "A black Hunting{j}Horn adorned with ancient ornamentation. Forged{j}from what was once ceremonial, it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 9608
+        }
+      ]
+    },
+    {
+      "source": "雷極龍を素材とし、その力を{j}宿した穿龍棍。龍の爪と角を{j}思わせる棍が敵を屠る。",
+      "previous": "Using the Thunder Extreme Dragon as material, its power{j}A Tonfa imbued with the claws and horns of a dragon.{j}A staff that makes you think slays the enemy.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 11596
+        }
+      ]
+    },
+    {
+      "source": "鍛錬を重ね、さらなる進化を{j}遂げた大剣。宿す光は輝きを{j}増し、その力は王者の風格。",
+      "previous": "A Great Sword that has{j}achieved further evolution through repeated forging. The light it houses increases{j}its brilliance, and its power has the dignity of a king.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 11670
+        }
+      ]
+    },
+    {
+      "source": "遠国の少女が使用した槍を{j}模した太刀。少女の言葉は{j}届かず同胞の心は闇に染まる。",
+      "previous": "A Long Sword{j}modeled after the spear used by a girl from a distant land. The girl's words did not{j}reach, and her brethren's hearts were stained in darkness.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 12499
+        }
+      ]
+    },
+    {
+      "source": "緑の装飾が施された黒い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Great Sword adorned with green ornamentation.{j}Forged from what was once a ceremonial blade,{j}it has been refined into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14096
+        }
+      ]
+    },
+    {
+      "source": "緑の装飾が施された黒い狩猟{j}笛。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。",
+      "previous": "A black Hunting{j}Horn adorned with green ornamentation. Forged{j}from what was once a ceremonial instrument, it has been refined into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14106
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い大剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A white Great Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14118
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い双剣。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "White Dual Blades adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}they were elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14121
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された白い太刀。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A white Long Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14122
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された片手剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A Sword & Shield forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14153
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された双剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A set of Dual Blades created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14154
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された大剣。{j}持ち主に風の力を宿すという。",
+      "previous": "A Great Sword created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14155
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された太刀。{j}持ち主に風の力を宿すという。",
+      "previous": "A Long Sword forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14156
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された鎚。{j}持ち主に風の力を宿すという。",
+      "previous": "A Hammer forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14157
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された狩猟笛。{j}持ち主に風の力を宿すという。",
+      "previous": "A Hunting Horn forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14158
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された槍。{j}持ち主に風の力を宿すという。",
+      "previous": "A Lance forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14159
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された銃槍。{j}持ち主に風の力を宿すという。",
+      "previous": "A Gunlance forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14160
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された穿龍棍。{j}持ち主に風の力を宿すという。",
+      "previous": "A Tonfa forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14161
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の騎士の{j}伝承を元に作成された片手剣。{j}かつて世界を支配したという。",
+      "previous": "A Sword & Shield crafted from the{j}legend of a knight from a distant land, passed down since ancient times.{j}It is said to have once ruled the world.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14412
+        }
+      ]
+    },
+    {
+      "source": "帝征龍の魂が宿る剣斧。所持{j}者の力を高みへと導き、抗え{j}ぬ程の力で相手を蹂躙する。",
+      "previous": "A Switch Axe inhabited by the soul of the Emperor Dragon. It guides the power of its wielder{j}to new heights, and overwhelms the opponent with an irresistible{j}force.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14675
+        }
+      ]
+    },
+    {
+      "source": "蒼火竜と桜火竜の甲殻を用いた{j}剣斧。二対の火竜を制した証で{j}あり、その証たる力を秘める。",
+      "previous": "{j}A Switch Axe made from the shells of the Azure Rathalos and Pink Rathalos. It is{j}proof of having conquered two pairs of fire wyverns and holds power worthy of that proof.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14682
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い太刀。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Long Sword adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14766
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された剣斧。{j}持ち主に風の力を宿すという。",
+      "previous": "A Switch Axe created based on the{j}legend of a sage from a distant land, handed down from ancient times. It is said to imbue its{j}wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14994
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された重銃。{j}持ち主に風の力を宿すという。",
+      "previous": "A Heavy Bowgun forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-ranged-description.csv",
+          "index": 3249
+        }
+      ]
+    },
+    {
+      "source": "古来より伝わる遠国の賢者の{j}伝承を元に作成された弓。{j}持ち主に風の力を宿すという。",
+      "previous": "A Bow forged from the{j}legend of a sage from a distant land, handed down since ancient times.{j}It is said to imbue its wielder with the power of wind.",
+      "records": [
+        {
+          "file": "dat-weapons-ranged-description.csv",
+          "index": 3250
+        }
+      ]
+    },
+    {
+      "source": "古の装飾が施された黒い軽弩。{j}儀礼用であったものを鍛え、{j}至高の逸品へと昇華した。",
+      "previous": "A black Light Bowgun adorned with ancient ornamentation.{j}Forged from what was once ceremonial,{j}it was elevated into a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-ranged-description.csv",
+          "index": 3539
+        }
+      ]
+    },
+    {
+      "source": "東方の極楽に住まう神々の戦{j}装束を模した胴用装備。浮岳{j}龍の素材と伝説の技術の結晶。",
+      "previous": "Body armor modeled after the battle{j}garb of the gods who dwell in the Eastern paradise. A crystallization of Yama Tsukami{j}materials and legendary craft.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 14815
+        }
+      ]
+    },
+    {
+      "source": "滑らかな光沢を持つ特殊合金{j}製の防具。金の細工が、夜空{j}を流れる星の大河を思わせる。",
+      "previous": "Armor made from a special alloy{j}with a smooth gloss. Its goldwork calls to mind{j}a great river of stars flowing across the night sky.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55238
+        }
+      ]
+    },
+    {
+      "source": "メラルーの足を模した脚用装{j}備。歩くたびに足裏から伝わ{j}る肉球の感触が好評。",
+      "previous": "Leg equip{j}ment modeled after a Melynx's foot. The feel of the paw pads transmit{j}ted through your soles with every step is popular.",
+      "records": [
+        {
+          "file": "dat-equipment-description.csv",
+          "index": 55467
+        }
+      ]
+    },
+    {
+      "source": "黒きを滅ぼすという名の龍剣。{j}龍の唸りに呼応して振動し、{j}その威力を数倍に増すという。",
+      "previous": "A dragon sword named for the destruction of blackness. It vibrates in answer to{j}a dragon's roar,{j}and is said to multiply its power severalfold.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 344
+        }
+      ]
+    },
+    {
+      "source": "一見何の変哲もないが、盾蟹{j}素材の一等堅い部分だけを削{j}りぬいて作られた乙な片手剣。",
+      "previous": "Though unremarkable at first glance, this tasteful Sword & Shield was made from Daimyo Hermitaur{j}materials by carving{j}away all but the hardest parts.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 8609
+        }
+      ]
+    },
+    {
+      "source": "銀の装飾が施された黒い穿龍{j}棍。儀礼用であったが実用性{j}も兼ね備えた至高の逸品。",
+      "previous": "A black Tonfa{j}adorned with silver ornaments. Though it was for ceremonial use, it possesses practicality{j}as well, making it a supreme masterpiece.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 13208
+        }
+      ]
+    },
+    {
+      "source": "鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}辺りが凍るほどの寒さを放つ。",
+      "previous": "A steel Great Sword forged by{j}combining Kushala Daora's materials with an ancient Great Sword. It gives off{j}a cold intense enough to freeze the air around it.",
+      "records": [
+        {
+          "file": "dat-weapons-melee-description.csv",
+          "index": 14637
+        }
+      ]
+    }
+  ]
+}

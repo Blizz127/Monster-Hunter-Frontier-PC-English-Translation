@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51671,
+      "source": "天地を繋ぐ雷光が姿を変えた{j}防具。東方では神衣とされ、{j}雷神の力が心身を護る。",
+      "previous": "Armor formed from the lightning that joins{j}heaven and earth. Called divine raiment in the East,{j}the Thunder God's power protects mind and body.",
+      "target": "Armor formed from heaven-earth lightning.{j}Eastern divine raiment whose Thunder God{j}power protects mind and body.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51672,
+      "source": "天地を繋ぐ雷光が姿を変えた{j}防具。東方では神衣とされ、{j}雷神の力が心身を護る。",
+      "previous": "Armor formed from the lightning that joins{j}heaven and earth. Called divine raiment in the East,{j}the Thunder God's power protects mind and body.",
+      "target": "Armor formed from heaven-earth lightning.{j}Eastern divine raiment whose Thunder God{j}power protects mind and body.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51673,
+      "source": "天地を繋ぐ雷光が姿を変えた{j}防具。東方では神衣とされ、{j}雷神の力が心身を護る。",
+      "previous": "Armor formed from the lightning that joins{j}heaven and earth. Called divine raiment in the East,{j}the Thunder God's power protects mind and body.",
+      "target": "Armor formed from heaven-earth lightning.{j}Eastern divine raiment whose Thunder God{j}power protects mind and body.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55250,
+      "source": "空を征す王者の脚装備。世界{j}中の炎と雷を持ってしても、{j}この防具を焼くことは不可能。",
+      "previous": "Leg armor of the king who conquers the skies. Even with all the{j}flame and lightning in the world,{j}burning this armor is impossible.",
+      "target": "Leg armor of the sky-conquering king. No{j}flame or lightning in the world can burn{j}it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55369,
+      "source": "空を征す王者の脚装備。世界{j}中の炎と雷を持ってしても、{j}この防具を焼くことは不可能。",
+      "previous": "Leg armor of the king who conquers the skies. Even with all the{j}flame and lightning in the world,{j}burning this armor is impossible.",
+      "target": "Leg armor of the sky-conquering king. No{j}flame or lightning in the world can burn{j}it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55800,
+      "source": "空を征す王者の脚装備。世界{j}中の炎と雷を持ってしても、{j}この防具を焼くことは不可能。",
+      "previous": "Leg armor of the king who conquers the skies. Even with all the{j}flame and lightning in the world,{j}burning this armor is impossible.",
+      "target": "Leg armor of the sky-conquering king. No{j}flame or lightning in the world can burn{j}it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55275,
+      "source": "老山龍の素材で作られた男性{j}用具足。東方伝来の技術によ{j}り複数の耐性を高めた一品。",
+      "previous": "Armor for male{j}made from Lao-Shan Lung materials. A piece that raises multiple resistances{j}through techniques brought from the East.",
+      "target": "Male Lao-Shan Lung greaves that raise{j}multiple resistances through Eastern{j}techniques.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55329,
+      "source": "老山龍の素材で作られた男性{j}用具足。東方伝来の技術によ{j}り複数の耐性を高めた一品。",
+      "previous": "Armor for male{j}made from Lao-Shan Lung materials. A piece that raises multiple resistances{j}through techniques brought from the East.",
+      "target": "Male Lao-Shan Lung greaves that raise{j}multiple resistances through Eastern{j}techniques.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55387,
+      "source": "老山龍の素材で作られた男性{j}用具足。東方伝来の技術によ{j}り複数の耐性を高めた一品。",
+      "previous": "Armor for male{j}made from Lao-Shan Lung materials. A piece that raises multiple resistances{j}through techniques brought from the East.",
+      "target": "Male Lao-Shan Lung greaves that raise{j}multiple resistances through Eastern{j}techniques.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55276,
+      "source": "老山龍の素材で作られた女性{j}用脚装備。究極の素材を最高{j}級の匠の業で仕上げた逸品。",
+      "previous": "Leg armor for female{j}made from Lao-Shan Lung materials. A masterpiece in which ultimate material is finished with the finest{j}craftsmanship.",
+      "target": "Women's Lao-Shan Lung leg armor, a{j}masterpiece made from ultimate material{j}and finest craft.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55330,
+      "source": "老山龍の素材で作られた女性{j}用脚装備。究極の素材を最高{j}級の匠の業で仕上げた逸品。",
+      "previous": "Leg armor for female{j}made from Lao-Shan Lung materials. A masterpiece in which ultimate material is finished with the finest{j}craftsmanship.",
+      "target": "Women's Lao-Shan Lung leg armor, a{j}masterpiece made from ultimate material{j}and finest craft.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55388,
+      "source": "老山龍の素材で作られた女性{j}用脚装備。究極の素材を最高{j}級の匠の業で仕上げた逸品。",
+      "previous": "Leg armor for female{j}made from Lao-Shan Lung materials. A masterpiece in which ultimate material is finished with the finest{j}craftsmanship.",
+      "target": "Women's Lao-Shan Lung leg armor, a{j}masterpiece made from ultimate material{j}and finest craft.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55277,
+      "source": "老山龍の素材で作られた女性{j}用脚装備。至高の素材を繊細{j}な匠の業で仕上げた逸品。",
+      "previous": "Female armor made from Lao-Shan Lung materials{j}Leg equipment. Delicately crafted from the finest materials.{j}A masterpiece finished with masterful craftsmanship.",
+      "target": "Women's Lao-Shan Lung leg armor. A{j}masterpiece delicately crafted from the{j}finest material.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55331,
+      "source": "老山龍の素材で作られた女性{j}用脚装備。至高の素材を繊細{j}な匠の業で仕上げた逸品。",
+      "previous": "Female armor made from Lao-Shan Lung materials{j}Leg equipment. Delicately crafted from the finest materials.{j}A masterpiece finished with masterful craftsmanship.",
+      "target": "Women's Lao-Shan Lung leg armor. A{j}masterpiece delicately crafted from the{j}finest material.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55389,
+      "source": "老山龍の素材で作られた女性{j}用脚装備。至高の素材を繊細{j}な匠の業で仕上げた逸品。",
+      "previous": "Female armor made from Lao-Shan Lung materials{j}Leg equipment. Delicately crafted from the finest materials.{j}A masterpiece finished with masterful craftsmanship.",
+      "target": "Women's Lao-Shan Lung leg armor. A{j}masterpiece delicately crafted from the{j}finest material.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55306,
+      "source": "桃色の竜が力を授けた脚装備。{j}武器を手に乱舞する姿は、水{j}面に映る炎の揺らめきのよう。",
+      "previous": "Leg armor granted power by a pink dragon. Dancing with{j}weapon in hand, one looks like flames flickering on the{j}water's surface.",
+      "target": "Leg armor granted power by a pink dragon.{j}Dancing with a weapon, one resembles{j}flames on water.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55757,
+      "source": "桃色の竜が力を授けた脚装備。{j}武器を手に乱舞する姿は、水{j}面に映る炎の揺らめきのよう。",
+      "previous": "Leg armor granted power by a pink dragon. Dancing with{j}weapon in hand, one looks like flames flickering on the{j}water's surface.",
+      "target": "Leg armor granted power by a pink dragon.{j}Dancing with a weapon, one resembles{j}flames on water.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57131,
+      "source": "桃色の竜が力を授けた脚装備。{j}武器を手に乱舞する姿は、水{j}面に映る炎の揺らめきのよう。",
+      "previous": "Leg armor granted power by a pink dragon. Dancing with{j}weapon in hand, one looks like flames flickering on the{j}water's surface.",
+      "target": "Leg armor granted power by a pink dragon.{j}Dancing with a weapon, one resembles{j}flames on water.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55416,
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が衝撃と反発し脚を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that repels impacts and shields the legs.",
+      "target": "Mystical leg armor lighter than a feather.{j}Its magnetic field repels impacts and{j}shields the legs.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55418,
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が衝撃と反発し脚を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that repels impacts and shields the legs.",
+      "target": "Mystical leg armor lighter than a feather.{j}Its magnetic field repels impacts and{j}shields the legs.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55922,
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が衝撃と反発し脚を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that repels impacts and shields the legs.",
+      "target": "Mystical leg armor lighter than a feather.{j}Its magnetic field repels impacts and{j}shields the legs.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55475,
+      "source": "気品溢れる脚用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Leg armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant leg armor. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59167,
+      "source": "気品溢れる脚用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Leg armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant leg armor. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59168,
+      "source": "気品溢れる脚用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Leg armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant leg armor. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55513,
+      "source": "とある村の特産品、脚用装備。{j}保温性と共に、雪の中を歩き{j}やすいように工夫されている。",
+      "previous": "A specialty of a certain village, leg equipment.{j}Along with heat retention, it is designed to be easy{j}to walk in the snow.",
+      "target": "Leg equipment from a village specialty,{j}designed for warmth and easy walking in{j}snow.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55514,
+      "source": "とある村の特産品、脚用装備。{j}保温性と共に、雪の中を歩き{j}やすいように工夫されている。",
+      "previous": "A specialty of a certain village, leg equipment.{j}Along with heat retention, it is designed to be easy{j}to walk in the snow.",
+      "target": "Leg equipment from a village specialty,{j}designed for warmth and easy walking in{j}snow.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55748,
+      "source": "とある村の特産品、脚用装備。{j}保温性と共に、雪の中を歩き{j}やすいように工夫されている。",
+      "previous": "A specialty of a certain village, leg equipment.{j}Along with heat retention, it is designed to be easy{j}to walk in the snow.",
+      "target": "Leg equipment from a village specialty,{j}designed for warmth and easy walking in{j}snow.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55611,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた脚装備。{j}狩人の全身に力が漲る。",
+      "previous": "Legs equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Leg equipment evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55939,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた脚装備。{j}狩人の全身に力が漲る。",
+      "previous": "Legs equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Leg equipment evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57648,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた脚装備。{j}狩人の全身に力が漲る。",
+      "previous": "Legs equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Leg equipment evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source leg-armor description patterns."
+}
