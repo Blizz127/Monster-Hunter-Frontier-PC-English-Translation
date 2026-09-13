@@ -121,3 +121,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 30 more source-reviewed melee-weapon descriptions.
 - Reduce the remaining reviewed shortening queue to 394 entries.
+
+## 2026.09.13-preview.22 (experimental)
+
+- Add 30 more source-reviewed armor and melee-weapon descriptions.
+- Reduce the remaining reviewed shortening queue to 364 entries.

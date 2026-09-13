@@ -1,0 +1,285 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8199,
+      "source": "古の装飾が施された青い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A blue Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "A blue Great Sword with ancient decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8200,
+      "source": "古の装飾が施された青い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A blue Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "A blue Great Sword with ancient decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 8201,
+      "source": "古の装飾が施された青い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A blue Great Sword adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "A blue Great Sword with ancient decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 9414,
+      "source": "強大な力を鏡の盾で制御して{j}いる片手剣。柄の顔は、屠った{j}獲物で表情を変えるという。",
+      "previous": "A sword & shield that controls its mighty power with a mirror shield{j}. The face on its hilt is said to change expression depending on the{j}prey it has slain.",
+      "target": "A Sword & Shield controls its great power{j}A mirror shield makes its hilt face vary{j}with each slain prey.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 9415,
+      "source": "強大な力を鏡の盾で制御して{j}いる片手剣。柄の顔は、屠った{j}獲物で表情を変えるという。",
+      "previous": "A sword & shield that controls its mighty power with a mirror shield{j}. The face on its hilt is said to change expression depending on the{j}prey it has slain.",
+      "target": "A Sword & Shield controls its great power{j}A mirror shield makes its hilt face vary{j}with each slain prey.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 9416,
+      "source": "強大な力を鏡の盾で制御して{j}いる片手剣。柄の顔は、屠った{j}獲物で表情を変えるという。",
+      "previous": "A sword & shield that controls its mighty power with a mirror shield{j}. The face on its hilt is said to change expression depending on the{j}prey it has slain.",
+      "target": "A Sword & Shield controls its great power{j}A mirror shield makes its hilt face vary{j}with each slain prey.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 9474,
+      "source": "異国の若き王子が持つ宝剣。{j}王家に代々伝わるもので{j}装飾にも手が込んでいる。",
+      "previous": "A treasured sword held by a young prince of a foreign land.{j}Passed down through the royal family for generations,{j}its ornamentation is elaborate as well.",
+      "target": "A treasured sword of a young prince{j}from a foreign land. Passed down through{j}generations, richly ornamented.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 9475,
+      "source": "異国の若き王子が持つ宝剣。{j}王家に代々伝わるもので{j}装飾にも手が込んでいる。",
+      "previous": "A treasured sword held by a young prince of a foreign land.{j}Passed down through the royal family for generations,{j}its ornamentation is elaborate as well.",
+      "target": "A treasured sword of a young prince{j}from a foreign land. Passed down through{j}generations, richly ornamented.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 9476,
+      "source": "異国の若き王子が持つ宝剣。{j}王家に代々伝わるもので{j}装飾にも手が込んでいる。",
+      "previous": "A treasured sword held by a young prince of a foreign land.{j}Passed down through the royal family for generations,{j}its ornamentation is elaborate as well.",
+      "target": "A treasured sword of a young prince{j}from a foreign land. Passed down through{j}generations, richly ornamented.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47,
+      "source": "魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。",
+      "previous": "A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.",
+      "target": "A fish-scale hood that snugly covers the{j}head. Its beautiful cherry-colored scales{j}hold a mysterious power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 307,
+      "source": "魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。",
+      "previous": "A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.",
+      "target": "A fish-scale hood that snugly covers the{j}head. Its beautiful cherry-colored scales{j}hold a mysterious power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1146,
+      "source": "魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。",
+      "previous": "A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.",
+      "target": "A fish-scale hood that snugly covers the{j}head. Its beautiful cherry-colored scales{j}hold a mysterious power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15849,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。",
+      "previous": "Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Body armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15850,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。",
+      "previous": "Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Body armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17413,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。",
+      "previous": "Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Body armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29303,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。",
+      "previous": "Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Arm armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29304,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。",
+      "previous": "Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Arm armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30870,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。",
+      "previous": "Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Arm armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42848,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。",
+      "previous": "Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42849,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。",
+      "previous": "Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44476,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。",
+      "previous": "Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55417,
+      "source": "一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。",
+      "previous": "Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air.",
+      "target": "Kirin leg armor said to run a thousand{j}leagues in a single step. It kicks not the{j}ground, but the very air.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55419,
+      "source": "一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。",
+      "previous": "Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air.",
+      "target": "Kirin leg armor said to run a thousand{j}leagues in a single step. It kicks not the{j}ground, but the very air.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56262,
+      "source": "一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。",
+      "previous": "Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air.",
+      "target": "Kirin leg armor said to run a thousand{j}leagues in a single step. It kicks not the{j}ground, but the very air.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56465,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。",
+      "previous": "Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Leg armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56466,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。",
+      "previous": "Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Leg armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58030,
+      "source": "エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。",
+      "previous": "Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.",
+      "target": "Leg armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 298,
+      "source": "ハンマーを初めて狩りに用い{j}た老人。その実力を上回った{j}という弟子が使った金色の鎚。",
+      "previous": "An old man who was the first to{j}use a Hammer for hunting. The golden hammer wielded by his apprentice, who{j}is said to have surpassed his master's skill.",
+      "target": "A golden hammer wielded by the apprentice{j}of the old man who first hunted with a{j}Hammer. The student surpassed his master.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 785,
+      "source": "ハンマーを初めて狩りに用い{j}た老人。その実力を上回った{j}という弟子が使った金色の鎚。",
+      "previous": "An old man who was the first to{j}use a Hammer for hunting. The golden hammer wielded by his apprentice, who{j}is said to have surpassed his master's skill.",
+      "target": "A golden hammer wielded by the apprentice{j}of the old man who first hunted with a{j}Hammer. The student surpassed his master.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 953,
+      "source": "ハンマーを初めて狩りに用い{j}た老人。その実力を上回った{j}という弟子が使った金色の鎚。",
+      "previous": "An old man who was the first to{j}use a Hammer for hunting. The golden hammer wielded by his apprentice, who{j}is said to have surpassed his master's skill.",
+      "target": "A golden hammer wielded by the apprentice{j}of the old man who first hunted with a{j}Hammer. The student surpassed his master.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    },
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Seven exact-source armor and three melee-description patterns."
+}

@@ -46,7 +46,7 @@ index,source,target
 44,アイルーの顔を模して作られ{j}たマスク。不気味にカワイイ{j}と評判の逸品。,"A mask crafted in the image of an Airou's{j}face. An eerily cute masterpiece, by{j}reputation."
 45,混沌を喚ぶと云われるキノコ{j}を模した不思議な帽子。{j}対峙した者は幻覚に襲われる。,A strange hat modeled after a mushroom{j}said to summon chaos. Those who face it{j}are struck by hallucinations.
 46,美しい花びらから作られた{j}頭用装備。しなやかな花弁が{j}優しく頭部を守る。,Head gear made from beautiful petals.{j}Its supple petals{j}gently guard the head.
-47,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.
+47,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A fish-scale hood that snugly covers the{j}head. Its beautiful cherry-colored scales{j}hold a mysterious power.
 48,一流のシェフを目指す者が{j}頭にかぶるキッチンでの正装。{j}≪料理は真心≫と刺繍がある。,Formal kitchen wear{j}worn on the head by an aspiring top chef.{j}Embroidered with ≪Cooking is Devotion≫.
 49,ランポスの頭部を模した頭用{j}装備。ランポスと心が通う…{j}ような気がする。,Head gear modeled after a Velociprey's{j}head. You feel as if you can commune with{j}Velociprey.
 50,ゲネポスの頭部を模した頭用{j}装備。{j}ゲネポスの狡猾さが身につく。,Head{j}Armor modeled after a Genprey's head.{j}Wearing it grants a Genprey's cunning.
@@ -306,7 +306,7 @@ index,source,target
 304,釣り針の形をしたピアス。{j}不思議な力が魚をおびきよせ{j}る。,A piercing shaped like a fishhook.{j}A mysterious power lures{j}fish to you.
 305,猟団から支給されるピアス。{j}不思議な力がハンターの持つ{j}潜在的な戦闘能力を引き出す。,A piercing provided by the Guild. Its{j}mysterious power draws out the Hunter's{j}latent combat ability.
 306,美しい花びらから作られた{j}頭用装備。しなやかな花弁が{j}優しく頭部を守る。,Head gear made from beautiful petals.{j}Its supple petals{j}gently guard the head.
-307,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.
+307,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A fish-scale hood that snugly covers the{j}head. Its beautiful cherry-colored scales{j}hold a mysterious power.
 308,一流のシェフを目指す者が{j}頭にかぶるキッチンでの正装。{j}≪料理は真心≫と刺繍がある。,Formal kitchen wear{j}worn on the head by an aspiring top chef.{j}Embroidered with ≪Cooking is Devotion≫.
 309,昆虫の素材を使った頭用装備。{j}硬く勇ましいツノは、{j}昆虫たちの王の証となる。,"Head equipment made from insect materials.{j}The hard, brave horn becomes proof of the{j}king of insects."
 310,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.
@@ -1145,7 +1145,7 @@ index,source,target
 1143,多人数での狩猟用に{j}考案された頭防具。{j}特に後方支援に長ける。,Head armor designed{j}for hunting in groups.{j}Especially adept at rear support.
 1144,多人数での狩猟用に{j}考案された頭防具。{j}特に後方支援に長ける。,Head armor designed{j}for hunting in groups.{j}Especially adept at rear support.
 1145,多人数での狩猟用に{j}考案された頭防具。{j}特に後方支援に長ける。,Head armor designed{j}for hunting in groups.{j}Especially adept at rear support.
-1146,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.
+1146,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A fish-scale hood that snugly covers the{j}head. Its beautiful cherry-colored scales{j}hold a mysterious power.
 1147,大巌竜の素材を用いた頭用{j}防具。百人の工房職人たち{j}の手によって作り上げられた。,Head Armor crafted from Great Rock Dragon{j}materials. Wrought by the hands of a{j}hundred workshop artisans.
 1148,大巌竜の素材を用いた頭用{j}防具。その強度は如何なる{j}衝撃をも無力化する。,Head armor made from Great Boulder Dragon{j}materials. Its strength nullifies any{j}impact.
 1149,大巌竜の素材を用いた頭用{j}防具。身に付ける者は如何な{j}る困難にも屈しない勇者。,Head Armor crafted from Great Rock Dragon{j}materials. Its wearer is a hero who yields{j}to no hardship.
@@ -15862,8 +15862,8 @@ Felyne partner, meow!{j}To the sea!"
 15846,エスピナス亜種の特徴を参考{j}にして作成された剣士用の胴{j}防具。長期戦で真価発揮。,Blademaster body armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.
 15847,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用胴防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's chest{j}armor specializes in piercing attacks."
 15848,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用胴防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's chest{j}armor specializes in piercing attacks."
-15849,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。,Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
-15850,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。,Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+15849,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。,Body armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
+15850,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。,Body armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 15851,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用胴防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Pellet{j}attack."
 15852,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用胴防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Pellet{j}attack."
 15853,装備者の身守り優先で設計{j}された遠方大陸製の剣士用胴{j}装備。,"Designed with priority on protecting the{j}wearer, this Blademaster body armor is{j}made on a distant continent."
@@ -17426,7 +17426,7 @@ Felyne partner, meow!{j}To the sea!"
 17410,エスピナス亜種の特徴を参考{j}にして作成された剣士用の胴{j}防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's chest{j}armor.{c11}≪HC Armor≫{/c}"
 17411,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用胴防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's chest{j}armor specializes in piercing attacks."
 17412,エスピナス亜種の特徴を参考{j}にして作成された、ガンナー用{j}胴防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Gunner's{j}chest armor.{c11}≪HC Armor≫{/c}"
-17413,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。,Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+17413,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}装備する者に炎の力を与える。,Body armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 17414,エスピナス希少種の特徴を{j}参考にした剣士用の胴防具。{j}{c11}≪ＨＣ防具≫{/c},Body armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}{c11}≪HC Armor≫{/c}
 17415,エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用胴防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this body armor is for Gunners specialized in Hearing Protection{j}."
 17416,エスピナス希少種の特徴を参{j}考にして作成された、ガンナー{j}用胴防具。{c11}≪ＨＣ防具≫{/c},Body armor{j}crafted based on the traits of the Espinas Rare Species for{j}gunners.{c11}≪HC Armor≫{/c}
@@ -29328,8 +29328,8 @@ Felyne partner, meow!{j}To the sea!"
 29300,エスピナス亜種の特徴を参考{j}にして作成された剣士用の腕{j}防具。長期戦で真価発揮。,"Created by referencing the traits of the{j}Espinas Subspecies, this Blademaster's arm{j}armor. Proves its worth in long battles."
 29301,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腕防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's arm{j}armor specializes in piercing attacks."
 29302,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腕防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's arm{j}armor specializes in piercing attacks."
-29303,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。,Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
-29304,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。,Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+29303,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。,Arm armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
+29304,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。,Arm armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 29305,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腕防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Pellet{j}attack."
 29306,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腕防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Pellet{j}attack."
 29307,装備者の身守り優先で設計{j}された遠方大陸製の剣士用腕{j}装備。,"Designed with priority on protecting the{j}wearer, this Blademaster arm armor is made{j}on a distant continent."
@@ -30895,7 +30895,7 @@ Felyne partner, meow!{j}To the sea!"
 30867,エスピナス亜種の特徴を参考{j}にして作成された剣士用の腕{j}防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's arm{j}armor.{c11}≪HC Armor≫{/c}"
 30868,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腕防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's arm{j}armor specializes in piercing attacks."
 30869,エスピナス亜種の特徴を参考{j}にして作成された、ガンナー用{j}腕防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Gunner's{j}arm armor.{c11}≪HC Armor≫{/c}"
-30870,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。,Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+30870,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}装備する者に炎の力を与える。,Arm armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 30871,エスピナス希少種の特徴を{j}参考にした剣士用の腕防具。{j}{c11}≪ＨＣ防具≫{/c},Arm armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}{c11}≪HC Armor≫{/c}
 30872,エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用腕防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Hearing Protection{j}."
 30873,エスピナス希少種の特徴を参{j}考にして作成された、ガンナー{j}用腕防具。{c11}≪ＨＣ防具≫{/c},Arms armor{j}crafted based on the traits of the Espinas Rare Species for{j}gunners.{c11}≪HC Armor≫{/c}
@@ -42885,8 +42885,8 @@ Felyne partner, meow!{j}To the sea!"
 42845,エスピナス亜種の特徴を参考{j}にして作成された剣士用の腰{j}防具。長期戦で真価発揮。,Blademaster waist armor based on Espinas{j}Subspecies traits. It proves its worth in{j}long battles.
 42846,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腰防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's waist{j}armor specializes in piercing attacks."
 42847,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腰防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's waist{j}armor specializes in piercing attacks."
-42848,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
-42849,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+42848,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
+42849,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 42850,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack."
 42851,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack."
 42852,装備者の身守り優先で設計{j}された遠方大陸製の剣士用腰{j}装備。,"Designed with priority on protecting the{j}wearer, this Blademaster waist armor is{j}made on a distant continent."
@@ -44513,7 +44513,7 @@ Felyne partner, meow!{j}To the sea!"
 44473,エスピナス亜種の特徴を参考{j}にして作成された剣士用の腰{j}防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's waist{j}armor.{c11}≪HC Armor≫{/c}"
 44474,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腰防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's waist{j}armor specializes in piercing attacks."
 44475,エスピナス亜種の特徴を参考{j}にして作成された、ガンナー用{j}腰防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Gunner's{j}waist armor.{c11}≪HC Armor≫{/c}"
-44476,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+44476,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 44477,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}{c11}≪ＨＣ防具≫{/c},Waist armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}{c11}≪HC Armor≫{/c}
 44478,エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用腰防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Hearing Protection{j}."
 44479,エスピナス希少種の特徴を参{j}考にして作成された、ガンナー{j}用腰防具。{c11}≪ＨＣ防具≫{/c},"Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for{j}Gunners.{c11}<<HC Armor>>{/c}"
@@ -55469,9 +55469,9 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 55414,ショウグンギザミの素材で{j}作られた脚用装備。堅固な殻{j}の加工には最新の技術を使用。,Legs armor crafted from Shogun Ceanataur{j}materials. The latest technology is used{j}to work its sturdy shell.
 55415,鎌蟹の素材で作られた脚装備。{j}鋭利な刃が地面をつかみ、足{j}場の悪さを感じさせない。,"Leg armor made from Sickle Crab materials.{j}Sharp blades grip the ground, so you never{j}feel the poor footing."
 55416,羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が衝撃と反発し脚を護る。,Mystical leg armor lighter than a feather.{j}Its magnetic field repels impacts and{j}shields the legs.
-55417,一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。,"Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air."
+55417,一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。,"Kirin leg armor said to run a thousand{j}leagues in a single step. It kicks not the{j}ground, but the very air."
 55418,羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が衝撃と反発し脚を護る。,Mystical leg armor lighter than a feather.{j}Its magnetic field repels impacts and{j}shields the legs.
-55419,一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。,"Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air."
+55419,一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。,"Kirin leg armor said to run a thousand{j}leagues in a single step. It kicks not the{j}ground, but the very air."
 55420,鋼龍の硬質な素材で作られた{j}脚用装備。強靱な加工には、{j}一点の曇りもない。,Leg armor made from Kushala Daora's hard{j}materials. Its sturdy forging leaves not a{j}single flaw.
 55421,鋼龍の素材で作られた脚装備。{j}重量が意外にも苦にならない{j}のは鋼龍のまとう風ゆえか。,"Leg armor made from Kushala Daora parts.{j}Oddly, its weight is no burden. Is this{j}due to the wind cloaking the dragon?"
 55422,古龍の中でも特に幻といわれ{j}るオオナズチの素材を使用し{j}た脚用装備。履き心地抜群。,"Leg Armor crafted using materials from the{j}Chameleos, said to be the most elusive of{j}all Elder Dragons. Superb comfort."
@@ -56315,7 +56315,7 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 56259,動きやすさで評判となっている{j}鱗でできた脚用の装備。{j}{c07}ＳＰ防具：青{/c},Leg gear made from{j}scales renowned for their ease of movement.{j}{c07}SP Armor: Blue{/c}
 56260,動きやすさで評判となっている{j}鱗でできた脚用の装備。{j}{c07}ＳＰ防具：黒{/c},Leg gear made from{j}scales renowned for their ease of movement.{j}{c07}SP Armor: Black{/c}
 56261,死してなお、近づく者の心臓{j}を直に握りつぶすような殺気{j}を放ちつづける黒龍の脚装備。,"Black Dragon leg armor. Even in death, its{j}murderous aura seems to crush the hearts{j}of those who approach."
-56262,一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。,"Leg armor of the Ki{j}rin, said to run a thousand leagues in a single step. They say it kicks not the ground{j}but the very air."
+56262,一足千里を駆けるとされるキ{j}リンの具足。地面を蹴るので{j}はなく大気を蹴るのだという。,"Kirin leg armor said to run a thousand{j}leagues in a single step. It kicks not the{j}ground, but the very air."
 56263,盾蟹の素材で作られた脚用{j}装備。殻で覆われたように{j}みえるが、意外に動きやすい。,"Leg armor made from Shield Crab materials.{j}It looks as if covered in shell, yet moves{j}surprisingly easily."
 56264,モンスターの骨でスネ周りを{j}覆った、ネイティブの香り{j}漂う脚用装備。,Leg armor that wraps the shins in{j}monster bone and{j}carries a native scent.
 56265,ランゴスタの素材で覆われた{j}脚用装備。強力な物理攻撃{j}から脚を護る。,Leg equipment covered in Vespoid{j}materials. It protects the legs from{j}powerful physical attacks.
@@ -56519,8 +56519,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 56462,エスピナス亜種の特徴を参考{j}にして作成された剣士用の脚{j}防具。長期戦で真価発揮。,"Created by referencing the traits of the{j}Espinas Subspecies, this Blademaster's leg{j}armor. Proves its worth in long battles."
 56463,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用脚防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's leg{j}armor specializes in piercing attacks."
 56464,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用脚防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's leg{j}armor specializes in piercing attacks."
-56465,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。,Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
-56466,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。,Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+56465,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。,Leg armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
+56466,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。,Leg armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 56467,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用脚防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this leg armor is for Gunners specialized in Pellet{j}attack."
 56468,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用脚防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this leg armor is for Gunners specialized in Pellet{j}attack."
 56469,装備者の身守り優先で設計{j}された遠方大陸製の剣士用脚{j}装備。,"Designed with priority on protecting the{j}wearer, this Blademaster leg armor is made{j}on a distant continent."
@@ -58084,7 +58084,7 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 58027,エスピナス亜種の特徴を参考{j}にして作成された剣士用の脚{j}防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Blademaster's leg{j}armor.{c11}≪HC Armor≫{/c}"
 58028,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用脚防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's leg{j}armor specializes in piercing attacks."
 58029,エスピナス亜種の特徴を参考{j}にして作成された、ガンナー用{j}脚防具。{c11}≪ＨＣ防具≫{/c},"Created by referencing{j}the traits of the Espinas Subspecies, this Gunner's{j}leg armor.{c11}≪HC Armor≫{/c}"
-58030,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。,Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}Grants the power of fire to the wearer.
+58030,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}装備する者に炎の力を与える。,Leg armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 58031,エスピナス希少種の特徴を{j}参考にした剣士用の脚防具。{j}{c11}≪ＨＣ防具≫{/c},Leg armor for Blademasters{j}modeled after the characteristics of an Espinas Rare Species.{j}{c11}≪HC Armor≫{/c}
 58032,エスピナス希少種の特徴を参{j}考にして作成された、聴覚保護{j}特化ガンナー用脚防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this leg armor is for Gunners specialized in Hearing Protection{j}."
 58033,エスピナス希少種の特徴を参{j}考にして作成された、ガンナー{j}用脚防具。{c11}≪ＨＣ防具≫{/c},Legs armor{j}crafted based on the traits of the Espinas Rare Species for{j}gunners.{c11}≪HC Armor≫{/c}
