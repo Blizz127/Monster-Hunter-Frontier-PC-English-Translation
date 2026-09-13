@@ -101,3 +101,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 30 more source-reviewed leg descriptions.
 - Reduce the remaining reviewed shortening queue to 514 entries.
+
+## 2026.09.13-preview.18 (experimental)
+
+- Add 30 more source-reviewed leg descriptions.
+- Reduce the remaining reviewed shortening queue to 484 entries.

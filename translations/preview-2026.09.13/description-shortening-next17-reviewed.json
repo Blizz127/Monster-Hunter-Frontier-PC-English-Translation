@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55842,
+      "source": "メゼポルタで流行の脚用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the legs, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta leg dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55844,
+      "source": "メゼポルタで流行の脚用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the legs, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta leg dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57750,
+      "source": "メゼポルタで流行の脚用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the legs, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta leg dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55877,
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な脚防具。",
+      "previous": "Superior Legs Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "target": "Superior leg armor made by removing{j}Pariapuria slime and applying special{j}treatment.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55878,
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な脚防具。",
+      "previous": "Superior Legs Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "target": "Superior leg armor made by removing{j}Pariapuria slime and applying special{j}treatment.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56860,
+      "source": "呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な脚防具。",
+      "previous": "Superior Legs Armor born from carefully removing{j}the slime from Pariapuria materials and applying{j}a special treatment.",
+      "target": "Superior leg armor made by removing{j}Pariapuria slime and applying special{j}treatment.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55879,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた脚防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "A Pariapuria material that is laborious to process.{j}Leg Armor used in large quantities. The order's{j}When doing so, you may even get a dirty look...",
+      "target": "Leg armor made with large amounts of{j}hard-to-process Pariapuria material. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55880,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた脚防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "A Pariapuria material that is laborious to process.{j}Leg Armor used in large quantities. The order's{j}When doing so, you may even get a dirty look...",
+      "target": "Leg armor made with large amounts of{j}hard-to-process Pariapuria material. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56861,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた脚防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "A Pariapuria material that is laborious to process.{j}Leg Armor used in large quantities. The order's{j}When doing so, you may even get a dirty look...",
+      "target": "Leg armor made with large amounts of{j}hard-to-process Pariapuria material. The{j}order may draw a dirty look...",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55962,
+      "source": "遠方の工房より伝来した脚用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized leg armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56540,
+      "source": "遠方の工房より伝来した脚用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized leg armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57033,
+      "source": "遠方の工房より伝来した脚用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in attack. Power is said to well up.",
+      "target": "{j}Attack-specialized leg armor from a{j}distant workshop. Power wells up.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55963,
+      "source": "遠方の工房より伝来した脚用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense leg armor from a distant workshop.{j}Excellent in attack and defense.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56541,
+      "source": "遠方の工房より伝来した脚用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense leg armor from a distant workshop.{j}Excellent in attack and defense.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57035,
+      "source": "遠方の工房より伝来した脚用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in defense. Excellent in both attack and defense.",
+      "target": "{j}Defense leg armor from a distant workshop.{j}Excellent in attack and defense.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55964,
+      "source": "遠方の工房より伝来した脚用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting leg armor from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56542,
+      "source": "遠方の工房より伝来した脚用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting leg armor from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57034,
+      "source": "遠方の工房より伝来した脚用{j}装備を射撃に特化して強化し{j}たもの。技術が格段に上がる。",
+      "previous": "{j}armor for the Legs passed down from a distant workshop, strengthened{j}to specialize in shooting. Technique improves dramatically.",
+      "target": "{j}Shooting leg armor from a distant{j}workshop. Greatly improves technique.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58463,
+      "source": "新発見された採取素材を多く{j}用いた脚装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Leg equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy leg{j}equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58464,
+      "source": "新発見された採取素材を多く{j}用いた脚装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Leg equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy leg{j}equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58762,
+      "source": "新発見された採取素材を多く{j}用いた脚装備。優れた技術{j}により頑強に仕上がった。",
+      "previous": "{j}Leg equipment that makes abundant use of newly discovered gathered materials.{j}Superior craftsmanship gives it a sturdy finish.",
+      "target": "{j}Newly discovered materials make sturdy leg{j}equipment. Expert craftsmanship.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58465,
+      "source": "凍海獣の素材を多く利用した{j}脚防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Leg armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast leg armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58466,
+      "source": "凍海獣の素材を多く利用した{j}脚防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Leg armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast leg armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58763,
+      "source": "凍海獣の素材を多く利用した{j}脚防具。自分だけでなく、{j}仲間も癒す力を持つ。",
+      "previous": "{j}Leg armor crafted largely from Frozen Sea Beast materials. It holds the power to heal not only yourself, but your{j}allies as well.",
+      "target": "{j}Frozen Sea Beast leg armor that can heal{j}you and your allies.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58507,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた脚防具。",
+      "previous": "Leg armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Leg armor using aloof Burst Wolf materials{j}and traits, finished with a unique air.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58508,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた脚防具。",
+      "previous": "Leg armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Leg armor using aloof Burst Wolf materials{j}and traits, finished with a unique air.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58784,
+      "source": "孤高の存在である爆狼の素材{j}を、特性を活かしつつ、独特の{j}雰囲気に仕上げた脚防具。",
+      "previous": "Leg armor{j}crafted from the materials of the aloof Burst Wolf, making the most of its traits while finishing it with a unique{j}air.",
+      "target": "Leg armor using aloof Burst Wolf materials{j}and traits, finished with a unique air.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58513,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした脚防具。{j}着ていると力があふれる。",
+      "previous": "Leg armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Leg armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58514,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした脚防具。{j}着ていると力があふれる。",
+      "previous": "Leg armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Leg armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58787,
+      "source": "雪獅子の素材と、東方の技術、{j}雰囲気を活かした脚防具。{j}着ていると力があふれる。",
+      "previous": "Leg armor that makes use of Blangonga materials,{j}eastern techniques, and the atmosphere.{j}Wearing it fills you with power.",
+      "target": "Leg armor combining Blangonga materials{j}with eastern technique and style. Wearing{j}it fills you with power.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source leg-armor description patterns."
+}
