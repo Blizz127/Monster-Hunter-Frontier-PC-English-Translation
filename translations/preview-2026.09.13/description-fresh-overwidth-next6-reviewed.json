@@ -1,0 +1,245 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 865,
+      "source": "古の錬金術師の装束を模して{j}仕上げた逸品。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "A masterpiece{j}finished in imitation of an ancient alchemist's attire.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Masterpiece{j}Imitating an ancient alchemist's attire.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 866,
+      "source": "古の錬金術師の装束を模して{j}仕上げた逸品。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "A masterpiece{j}finished in imitation of an ancient alchemist's attire.{j}{c07}SP Armor: Red{/c}",
+      "target": "Masterpiece{j}Imitating an ancient alchemist's attire.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 867,
+      "source": "古の錬金術師の装束を模して{j}仕上げた逸品。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "A masterpiece{j}finished in imitation of an ancient alchemist's attire.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Masterpiece{j}Imitating an ancient alchemist's attire.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 991,
+      "source": "素材と金属との絶妙な合成で{j}隙のない構造にした頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head Armor crafted into a flawless structure{j}by an exquisite fusion of material and metal.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head armor with flawless construction.{j}Exquisite material-metal fusion.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 992,
+      "source": "素材と金属との絶妙な合成で{j}隙のない構造にした頭防具。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head Armor crafted into a flawless structure{j}by an exquisite fusion of material and metal.{j}{c07}SP Armor: Black{/c}",
+      "target": "Head armor with flawless construction.{j}Exquisite material-metal fusion.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 993,
+      "source": "素材と金属との絶妙な合成で{j}隙のない構造にした頭防具。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head Armor crafted into a flawless structure{j}by an exquisite fusion of material and metal.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Head armor with flawless construction.{j}Exquisite material-metal fusion.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 997,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Red{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15401,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Red{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28859,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Red{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42401,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Red{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56022,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Red{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 998,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15402,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28860,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42402,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56023,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 999,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15403,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28861,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42403,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56024,
+      "source": "儀礼用に作られた服でありな{j}がら、防御性能も非常に高い。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "A garment made for ceremonial use, yet{j}its defensive performance is also very high.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Ceremonial garment.{j}Yet its defense is also excellent.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1000,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Red{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15404,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Red{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28862,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Red{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42404,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Red{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56025,
+      "source": "職人の夢と情熱が籠められた{j}防具。可憐さに定評がある。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Armor imbued with the artisan's{j}dreams and passion. Renowned for its loveliness.{j}{c07}SP Armor: Red{/c}",
+      "target": "Armor imbued with an artisan's dreams.{j}Renowned for its beauty.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
