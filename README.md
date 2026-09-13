@@ -3,6 +3,13 @@
 English client and Erupe server patches, with exact file-version checks,
 automatic backups and rollback.
 
+**Client issue found after release:** the `2026.09.12` client bundle inherits
+a numeric-table corruption in `mhfpac.bin` from an earlier translation tool.
+Please defer new client installations while its repair is tested. Existing
+users can restore their installation using the saved patcher backup described
+below. See [the diagnosis and repair status](docs/client-numeric-table.md).
+This finding concerns the client bundle; the server bundle is separate.
+
 The first supported client set contains 102 changed files: seven main data
 files, 91 scene scripts, two pointer-table files, and the two Mezeporta town
 files. Mezeporta loads successfully, and the general-store clerk and Felyne

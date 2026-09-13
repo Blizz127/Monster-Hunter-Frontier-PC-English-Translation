@@ -8,6 +8,11 @@ backup when another translation or mod conflicts.
 
 ## Client
 
+The `2026.09.12` client bundle has a confirmed inherited numeric-table
+corruption in `mhfpac.bin`. Defer new client installations until the repair
+passes its pending in-game test and a corrected bundle is released. See
+[diagnosis and recovery](client-numeric-table.md).
+
 The initial release reproduces the locally accepted set of 102 changed files:
 seven root data files, 91 `load` scripts, `extend/mazpac.bin`,
 `my_gallery/mhf_bin.bin`, and `stage/st200.pac` plus `stage/st397.pac`.
