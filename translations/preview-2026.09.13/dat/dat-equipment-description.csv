@@ -67,9 +67,9 @@ index,source,target
 65,黒狼鳥の素材を用いた防具。{j}素材に宿る力が、装着者に{j}鋭敏な感覚を与えるという。,Armor made from Yian Garuga materials. The{j}power dwelling in the material is said to{j}grant the wearer keen senses.
 66,黒狼鳥の頭部を模した装備。{j}突き出した顎と広げた耳には{j}見る者を圧倒する迫力がある。,Equipment modeled after the head of a Yian{j}Garuga. Its jutting jaw and flared ears{j}give it an overwhelming presence.
 67,老山龍の素材で作られた男性{j}用兜。威風堂々とした出で{j}立ちは剣士究極の姿。,A helm for male made from Lao-Shan Lung{j}materials. Its majestic bearing is the{j}ultimate form of a Blademaster.
-68,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,"A helm for male{j}made from Lao-Shan Lung materials. With the ultimate material, techniques brought from the East{j}reach their pinnacle here."
-69,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,Head armor for female{j}made from Lao-Shan Lung materials. Its gallant yet divine{j}bearing is the ultimate form of a Blademaster.
-70,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Head armor for female{j}made from Lao-Shan Lung materials. The dragon's material gives off the ultimate luster through{j}craftsmanship.
+68,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.
+69,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,"Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form."
+70,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.
 71,黒龍の唸りを思い起こさせる{j}頭用装備。いもしない黒龍の{j}視線に怯え狂死した使用者も。,"Head armor recalling the Black Dragon's{j}growl. Some wearers died mad with fear of{j}its gaze, though it was not there."
 72,今にも黒龍の断末魔が聞こえ{j}て来そうな頭用の装備。肉体{j}の限界を超えた力をもたらす。,Head armor that seems to echo the Black{j}Dragon's death cry. Grants strength beyond{j}the body's limits.
 73,軽い素材で作られた頭用装備。{j}使い手を選ばない堅実な{j}作りが安心。,"Head armor made from lightweight{j}materials. Its dependable, user-friendly{j}construction gives peace of mind."
@@ -119,9 +119,9 @@ index,source,target
 117,ギルドの看板娘達の正式な{j}制服。特徴的な頭飾りが{j}チャーミング。,The official uniform of the Guild's poster{j}girls. The distinctive headdress is{j}charming.
 118,ギルドスタッフの正式な制服。{j}ギルドに貢献した女性のみ、{j}その着用が許される。,Official uniform of the guild staff. Only{j}women who have contributed to the guild{j}are permitted to wear it.
 119,老山龍の素材で作られた男性{j}用兜。威風堂々とした出で{j}立ちは剣士究極の姿。,A helm for male made from Lao-Shan Lung{j}materials. Its majestic bearing is the{j}ultimate form of a Blademaster.
-120,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,"A helm for male{j}made from Lao-Shan Lung materials. With the ultimate material, techniques brought from the East{j}reach their pinnacle here."
-121,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,Head armor for female{j}made from Lao-Shan Lung materials. Its gallant yet divine{j}bearing is the ultimate form of a Blademaster.
-122,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Head armor for female{j}made from Lao-Shan Lung materials. The dragon's material gives off the ultimate luster through{j}craftsmanship.
+120,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.
+121,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,"Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form."
+122,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.
 123,古い壁画に残る、龍をも凌ぐ{j}力を持つ人々の防具に酷似し{j}た頭装備。羽毛のように軽い。,"Head armor closely resembling the armor of the people in ancient murals, whose power{j}surpassed even dragons.{j}Light as a feather."
 124,かぶると雑念が消え去り、目{j}の前の敵を殲滅することしか{j}考えられなくなる恐怖の防具。,"Armor of fear that, when worn, clears your mind of distracting thoughts, so that you can only{j}think of annihilating the enemy before your{j}eyes."
 125,黄金の月の欠片で作られたか{j}と思わせる、壮麗なる女王の{j}頭装備。光こそが最たる装飾。,Is it made from a fragment of the golden moon?{j}making you think so--the magnificent queen's{j}Head equipment. Light is the ultimate adornment.
@@ -146,7 +146,7 @@ index,source,target
 144,貴重な鉱石が主成分の{j}頭用装備。その質実剛健な{j}美しさに見とれる者も多い。,"Head armor made primarily of precious ore.{j}Many are captivated by its sturdy, simple{j}beauty."
 145,上質なゲネポスの素材で{j}作られた頭用装備。{j}ランポスヘルムの強化型。,Head armor made from high-quality Genprey{j}materials. An upgraded version of the{j}Velociprey Helm.
 146,ゲネポスの細かい鱗を繋ぎ{j}合わせて作られた頭用装備。{j}高度な技術が用いられている。,Head Armor crafted by joining together the{j}fine scales of a Genprey. Advanced{j}techniques were used in its making.
-147,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.
+147,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.
 148,ごく一部分からしか取れない{j}怪鳥の堅牢な甲殻を使った、{j}最上位の頭用装備。,"Top-tier head gear made from the sturdy{j}shell of a Yian Kut-Ku, obtainable from{j}only a tiny portion of it."
 149,上質なイーオス素材で作られ{j}た頭用装備。ランポス系では{j}最強クラスの防具。,"Head armor made from high-quality Ios{j}materials. For the Velociprey series, it{j}is the strongest class of armor."
 150,赤い鱗が美しい防具。{j}厳選したイーオス素材を、繋{j}ぎ合わせて作られた頭用装備。,Armor with beautiful red scales.{j}Head equipment made by joining{j}carefully selected Ios materials.
@@ -177,9 +177,9 @@ index,source,target
 175,ギルドナイトの女性用頭装備。{j}見事な羽飾りをあしらった、{j}ギルドナイト表の顔の象徴。,Women's Guild Knight headgear. Splendid{j}feathers symbolize the Guild Knights'{j}public face.
 176,影の存在ともいうべきギルド{j}ナイトの正式装備。アイパッ{j}チの下には憂いを秘めた瞳が。,"The official equipment of a Guild Knight,{j}an existence akin to a shadow. Beneath the{j}eye patch lies an eye harboring sorrow."
 177,老山龍の素材で作られた男性{j}用兜。威風堂々とした出で{j}立ちは剣士究極の姿。,A helm for male made from Lao-Shan Lung{j}materials. Its majestic bearing is the{j}ultimate form of a Blademaster.
-178,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,"A helm for male{j}made from Lao-Shan Lung materials. With the ultimate material, techniques brought from the East{j}reach their pinnacle here."
-179,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,Head armor for female{j}made from Lao-Shan Lung materials. Its gallant yet divine{j}bearing is the ultimate form of a Blademaster.
-180,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Head armor for female{j}made from Lao-Shan Lung materials. The dragon's material gives off the ultimate luster through{j}craftsmanship.
+178,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.
+179,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,"Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form."
+180,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.
 181,黒龍の唸りを思い起こさせる{j}頭用装備。いもしない黒龍の{j}視線に怯え狂死した使用者も。,"Head armor recalling the Black Dragon's{j}growl. Some wearers died mad with fear of{j}its gaze, though it was not there."
 182,今にも黒龍の断末魔が聞こえ{j}て来そうな頭用の装備。肉体{j}の限界を超えた力をもたらす。,Head armor that seems to echo the Black{j}Dragon's death cry. Grants strength beyond{j}the body's limits.
 183,ダイミョウザザミの強固な{j}素材を使用した頭用装備。{j}曲面加工が衝撃を逃がす。,Head armor made using the sturdy{j}materials of a Daimyo Hermitaur.{j}Curved shaping deflects impacts.
@@ -206,10 +206,10 @@ index,source,target
 204,ショウグンギザミの素材を使{j}用した頭用装備。殻の堅固さ{j}を最大限に引き出す加工。,Head armor that uses Shogun Ceanataur{j}materials. Crafted to draw the hardness of{j}the shell out to the fullest.
 205,ショウグンギザミの素材で{j}作られた頭用装備。鉄を切り{j}裂くほど堅固な殻が頭を護る。,"Head armor crafted from Shogun Ceanataur{j}materials. Its shell is so sturdy it{j}slices through iron, guarding the head."
 206,ショウグンギザミの素材を使{j}用した頭用装備。殻の堅固さ{j}を最大限に引き出す加工。,Head armor that uses Shogun Ceanataur{j}materials. Crafted to draw the hardness of{j}the shell out to the fullest.
-207,百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million roaring thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.
-208,雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。,A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that its wearer{j}learns the laws of heaven and earth.
-209,百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million roaring thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.
-210,雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。,A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that its wearer{j}learns the laws of heaven and earth.
+207,百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million roars.{j}Its face guard makes all who see it kneel{j}in fear.
+208,雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。,A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to learn heaven and earth's laws.
+209,百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million roars.{j}Its face guard makes all who see it kneel{j}in fear.
+210,雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。,A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to learn heaven and earth's laws.
 211,クシャルダオラの硬質の素材{j}で作られた頭用装備。{j}あたかも鋼の彫刻の如き風貌。,Head armor made from the hard{j}materials of Kushala Daora.{j}Its look is like a steel sculpture.
 212,クシャルダオラの素材で作ら{j}れた頭用装備。その硬度は、{j}良質の鋼を優に上回る。,Head armor made from{j}Kushala Daora materials. Its hardness far{j}exceeds that of fine steel.
 213,幻といわれる霞龍の素材を、{j}古の錬金術師の装束を模して{j}仕上げた逸品。,A masterpiece modeled after the garb of an{j}ancient alchemist and finished using{j}materials from a legendary Chameleos.
@@ -254,11 +254,11 @@ index,source,target
 252,古の秘術を施した特殊ピアス。{j}身に付けた者の感覚を研ぎ澄{j}ませる不思議な力を持つ。,A special piercing imbued with an ancient{j}secret art. It holds a mysterious power{j}that hones the senses of its wearer.
 253,イャンクックの素材を使用し{j}たイヤーカフス。トゲのある{j}刺激的な形が人気。,Ear cuffs made{j}using Yian Kut-Ku materials. Their spiky{j}stimulating shape is popular.
 254,イャンクックの素材を使用し{j}たイヤリング。鋭さを強調し{j}た攻撃的な形が魅力。,Earrings made using Yian Kut-Ku materials.{j}Their charm is their aggressive shape that{j}emphasizes sharpness.
-255,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.
+255,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.
 256,ごく一部分からしか取れない{j}怪鳥の堅牢な甲殻を使った、{j}最上位の頭用装備。,"Top-tier head gear made from the sturdy{j}shell of a Yian Kut-Ku, obtainable from{j}only a tiny portion of it."
-257,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Head{j}armor made from Hypnocatrice materials. It has a unique imposing presence, reminiscent of the Sleeping Bird's{j}glare."
+257,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare."
 258,ヒプノックの素材を用いた頭{j}用装備。雄雄しく逆立った緋{j}色の毛が狩人に勇気を与える。,Head armor made from Hypnocatrice{j}materials. The valiantly bristling scarlet{j}feathers give the Hunter courage.
-259,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Head{j}armor made from Hypnocatrice materials. It has a unique imposing presence, reminiscent of the Sleeping Bird's{j}glare."
+259,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare."
 260,ヒプノックの素材を用いた頭{j}用装備。雄雄しく逆立った緋{j}色の毛が狩人に勇気を与える。,Head armor made from Hypnocatrice{j}materials. The valiantly bristling scarlet{j}feathers give the Hunter courage.
 261,溶岩竜の素材を用いた頭用装{j}備。軽量さ、頑丈さに長ける{j}石化部位をふんだんに使用。,Head armor made from Lavasioth materials.{j}It uses plenty of petrified parts that{j}excel in lightness and durability.
 262,軽量な溶岩石と強靭な鱗、両{j}方の性質を併せ持つ溶岩竜の{j}石化素材を用いた頭用装備。,"Head armor made from petrified Lavasioth{j}parts, combining the lightness of lava{j}rock and the toughness of scales."
@@ -275,7 +275,7 @@ index,source,target
 273,所属する猟団の団結の証。額{j}当ての裏には《絆は永久に》{j}と書かれている。,"Proof of your Hunting Guild's unity. The{j}back of the brow plate reads ""Bonds are{j}forever."""
 274,とても高い強度を誇る狩猟用の{j}頭用装備。{j}見た目で侮ってはいけない。,Hunting Head armor that boasts extremely{j}high strength. Do not underestimate it by{j}its looks.
 275,勇壮に輝く頭用装備。無駄の{j}一切無い機能的な作りが、狩{j}人のポテンシャルを引き出す。,Gallantly shining head armor. A functional{j}design with absolutely no waste draws out{j}a Hunter's potential.
-276,気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,"Head armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series."
+276,気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,Elegant head armor. Male and female{j}versions are commonly called the Dandy and{j}Elegant series.
 277,伝説の興行ハンターになりき{j}れる頭用装備。華麗な技に{j}黒髪がなびく！,Head armor that lets you become a{j}legendary showman Hunter. Black hair{j}streams with every dazzling move!
 278,良質な素材を使用した頭装備。{j}優しい萌黄色が、{j}若葉ハンターに勇気を与える。,Head armor made from quality materials.{j}Its gentle yellow-green gives{j}even rookie Hunters courage.
 279,良質な素材を使用した頭装備。{j}幸運を呼ぶという色合いが{j}ハンターに運気を授ける。,Head armor made from quality materials.{j}Its luck-bringing hue{j}bestows good fortune on Hunters.
@@ -309,9 +309,9 @@ index,source,target
 307,魚鱗から作られた頭部をスッ{j}ポリと覆う頭巾。桜色の美し{j}い鱗には不思議な力がある。,A hood made from fish scales that snug{j}ly covers the head. The beauti{j}ful cherry-colored scales have a mysterious power.
 308,一流のシェフを目指す者が{j}頭にかぶるキッチンでの正装。{j}≪料理は真心≫と刺繍がある。,Formal kitchen wear{j}worn on the head by an aspiring top chef.{j}Embroidered with ≪Cooking is Devotion≫.
 309,昆虫の素材を使った頭用装備。{j}硬く勇ましいツノは、{j}昆虫たちの王の証となる。,"Head equipment made from insect materials.{j}The hard, brave horn becomes proof of the{j}king of insects."
-310,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Head equipment made from insect materials.{j}The surging insect power is enough to scatter even small Bird Wyverns with a headbutt{j}.
+310,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.
 311,昆虫の素材を使った頭用装備。{j}硬く勇ましいツノは、{j}昆虫たちの王の証となる。,"Head equipment made from insect materials.{j}The hard, brave horn becomes proof of the{j}king of insects."
-312,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Head equipment made from insect materials.{j}The surging insect power is enough to scatter even small Bird Wyverns with a headbutt{j}.
+312,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.
 313,死を運ぶ、呪われた頭用装備。{j}装備中、時折殺めた者の{j}断末魔が聞こえる…。,"Cursed head armor that brings death.{j}While equipped, you occasionally hear the{j}death throes of those you have slain..."
 314,死神をかたどる頭用装備。{j}死神に見初められた者は、{j}あらゆる命を刈り取って行く。,Head armor modeled after the Grim Reaper.{j}Those the Reaper takes a liking to{j}go on to reap every life before them.
 315,死を運ぶ、呪われた頭用装備。{j}装備中、時折殺めた者の{j}断末魔が聞こえる…。,"Cursed head armor that brings death.{j}While equipped, you occasionally hear the{j}death throes of those you have slain..."
@@ -717,7 +717,7 @@ index,source,target
 715,堅硬な甲殻を贅沢に使用した{j}頭防具。傷つける事は困難。{j}{c07}ＳＰ防具：青{/c},{j}head armor that lavishly uses a hard carapace. Nearly impossible to damage.{j}{c07}SP Armor: Blue{/c}
 716,堅硬な甲殻を贅沢に使用した{j}頭防具。傷つける事は困難。{j}{c07}ＳＰ防具：白{/c},{j}head armor that lavishly uses a hard carapace. Nearly impossible to damage.{j}{c07}SP Armor: White{/c}
 717,堅硬な甲殻を贅沢に使用した{j}頭防具。傷つける事は困難。{j}{c07}ＳＰ防具：紫{/c},{j}head armor that lavishly uses a hard carapace. Nearly impossible to damage.{j}{c07}SP Armor: Purple{/c}
-718,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.
+718,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.
 719,ゲリョスの皮で覆われた頭用{j}装備。皮がゴム質のため、{j}物理攻撃には強い。,"Head armor covered in Gypceros hide. Since{j}the hide is rubbery, it is strong against{j}physical attacks."
 720,上質なイーオス素材で作られ{j}た頭用装備。ランポス系では{j}最強クラスの防具。,"Head armor made from high-quality Ios{j}materials. For the Velociprey series, it{j}is the strongest class of armor."
 721,女王の気品、そして華麗さと{j}力強さ。すべてが凝縮された、{j}美しくも恐るべき頭用装備。,"The Queen's grace, splendor, and{j}strength. All condensed into this{j}beautiful yet fearsome head armor."
@@ -744,7 +744,7 @@ index,source,target
 742,厄災が降りかかるといわれた赤{j}い頭防具。異様な雰囲気が消え{j}た今でも、夜に出会うと怖い。,"Red head armor once said to bring{j}disaster. Its eerie aura has faded, yet{j}meeting it at night is still frightening."
 743,特別な素材を使用した頭装備。{j}上品な紺色が、ひとあじ違う{j}こだわりハンターの証。,Head armor made from special materials.{j}The elegant navy blue sets it apart--{j}a mark of the discerning Hunter.
 744,虫の素材を使った頭用装備。{j}質感はふわふわしているが、{j}衝撃を吸収する優れもの。,"Head armor made from insect materials. The{j}texture is fluffy, but it's excellent at{j}absorbing impact."
-745,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Head{j}armor made from Hypnocatrice materials. It has a unique imposing presence, reminiscent of the Sleeping Bird's{j}glare."
+745,ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。,"Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare."
 746,安らぎに満ちた冥暗の頭防具。{j}これを得た者には安息を与え、{j}進化させるという噂がある。,"Head Armor of gloom filled with tranquility.{j}It is said to grant repose to those who obtain it, and{j}to cause them to evolve."
 747,安らぎに満ちた冥暗の頭防具。{j}一部分を捨てる事により、{j}新たな強さを手に入れた。,"A tranquil, dark Head armor. By discarding{j}a part, it gained{j}new strength."
 748,安らぎに満ちた冥暗の頭防具。{j}大部分を捨てる事により、{j}無二の強さを手に入れた。,"A tranquil, dark Head armor. By discarding{j}most of it, it gained{j}unmatched strength."
@@ -896,7 +896,7 @@ index,source,target
 894,破れた書物を解読し、武具工{j}房で再現してもらうことで完{j}成した特別なピアス。,A special piercing completed by{j}deciphering a torn book and having the{j}equipment smithy reproduce it.
 895,破れた書物を解読し、武具工{j}房で再現してもらうことで完{j}成した特別なピアス。,A special piercing completed by{j}deciphering a torn book and having the{j}equipment smithy reproduce it.
 896,ハンター用に作られた頭用{j}装備。頑丈で通気性も良く{j}多くのハンターが愛用する。,"Head equipment made for Hunters. Sturdy{j}and well-ventilated, loved by many{j}Hunters."
-897,百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million roaring thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.
+897,百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million roars.{j}Its face guard makes all who see it kneel{j}in fear.
 898,モノブロスの角が見るものを{j}畏怖させる、猛々しい頭装備。{j}これをかぶる者は英雄と同義。,Fierce head armor whose Monoblos horn{j}strikes awe into all who behold it.{j}One who dons it is a hero by definition.
 899,ディアブロスの象徴である{j}角が周囲を威嚇する頭用装備。{j}砂漠の覇者の証でもある。,"Head armor with horns, the symbol of{j}Diablos, that intimidate the surroundings.{j}It is also proof of the desert's ruler."
 900,グラビモスの素材で作られた{j}頭用装備。岩の如き装甲が{j}モンスターの攻撃を防ぐ。,Made from Gravios materials{j}Head equipment. Armor like rock{j}Blocks monster attacks.
@@ -1253,7 +1253,7 @@ index,source,target
 1251,動きやすさで評判となっている{j}鱗でできた頭用の装備。{j}{c07}ＳＰ防具：青{/c},"Head armor made from{j}scales, reputed for its ease of movement.{j}{c07}SP Armor: Blue{/c}"
 1252,動きやすさで評判となっている{j}鱗でできた頭用の装備。{j}{c07}ＳＰ防具：黒{/c},"Head armor made from{j}scales, reputed for its ease of movement.{j}{c07}SP Armor: Black{/c}"
 1253,今にも黒龍の断末魔が聞こえ{j}て来そうな頭用の装備。肉体{j}の限界を超えた力をもたらす。,Head armor that seems to echo the Black{j}Dragon's death cry. Grants strength beyond{j}the body's limits.
-1254,雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。,A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that its wearer{j}learns the laws of heaven and earth.
+1254,雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。,A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to learn heaven and earth's laws.
 1255,盾蟹の素材を使用した頭装備。{j}厳ついマスクは視界を狭める{j}が、逆に集中力は上がる。,"Head armor made from Shield Crab{j}materials. The imposing mask narrows your{j}field of view, but heightens focus."
 1256,頭骨になぞの装飾をあしらっ{j}た頭用装備。ここぞという{j}ときに装備したい一着。,Head gear adorned with mysterious{j}ornaments on a skull. A piece you will{j}want to equip when it truly counts.
 1257,ランゴスタの素材で覆われた{j}頭用装備。元が昆虫の甲殻だ{j}とは信じられないほど。,Head equipment covered in Vespoid{j}materials. It's hard to believe it was{j}originally an insect's shell.
@@ -1415,7 +1415,7 @@ index,source,target
 1413,黒龍の唸りを思い起こさせる{j}頭用装備。いもしない黒龍の{j}視線に怯え狂死した使用者も。,"Head armor recalling the Black Dragon's{j}growl. Some wearers died mad with fear of{j}its gaze, though it was not there."
 1414,ランポスの素材で作られた{j}頭用装備。{j}機能面でも実に優秀。,Head equipment made from Velociprey{j}materials. It is also truly excellent in{j}functionality.
 1415,ランゴスタの素材で覆われた{j}頭用装備。火と水には極端に{j}弱いが、硬い外殻により強固。,"Head armor covered in Vespoid parts.{j}Extremely weak to fire and water, but{j}sturdy thanks to its hard shell."
-1416,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.
+1416,イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。,High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.
 1417,尾晶蠍を狩りし者の証たる{j}頭装備。絶命時の体色が{j}そのまま沈着している。,Head armor proving its wearer hunted a{j}Tail Crystal Scorpion. It retains the{j}beast's color at death.
 1418,尾晶蠍を屠りし者の証たる{j}頭装備。素材の体液の色で{j}仕上がり時の色が異なる。,Head armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 1419,尾晶蠍を狩りし者の証たる{j}頭装備。絶命時の体色が{j}そのまま沈着している。,Head armor proving its wearer hunted a{j}Tail Crystal Scorpion. It retains the{j}beast's color at death.
@@ -1978,7 +1978,7 @@ index,source,target
 1976,モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}ＳＰ防具：白{/c},"Head armor modeled after a Mosswine's head.{j}Mosswine spirits anytime, anywhere!{j}{c07}SP Armor: White{/c}"
 1977,モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}ＳＰ防具：黄{/c},"Head armor modeled after a Mosswine's head.{j}Mosswine spirits anytime, anywhere!{j}{c07}SP Armor: Yellow{/c}"
 1978,モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}ＳＰ防具：青{/c},"Head armor modeled after a Mosswine's head.{j}Mosswine spirits anytime, anywhere!{j}{c07}SP Armor: Blue{/c}"
-1979,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Head equipment made from insect materials.{j}The surging insect power is enough to scatter even small Bird Wyverns with a headbutt{j}.
+1979,昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。,Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.
 1980,非常に貴重な白いヒプノックの{j}素材で作成された頭用装備。{j}まぶしい白さが魅力。,Head armor crafted from the extremely rare{j}white Hypnoc material. Its dazzling{j}whiteness is captivating.
 1981,ババコンガの素材で作られた{j}頭用装備。逆立つたてがみは{j}野性の現れ。,Head armor made from Congalala materials.{j}The bristling mane is the embodiment of{j}wildness.
 1982,鉱石で作られた頭用装備。{j}これまで多くのハンターを{j}守ってきた由緒ある装備。,Head equipment made from ore.{j}A venerable piece of equipment that has{j}protected many hunters.
@@ -4512,8 +4512,8 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 4508,質感や光沢にこだわり過ぎた{j}親方の趣味の極み。何もかも{j}見通せるかも。{c11}≪Ｇ級狩護≫{/c},"The extreme of the{j}master's hobby, who was too particular about texture and luster. You might see through{j}everything.{c11}≪G-Rank Hunting Guard≫{/c}"
 4509,その外見とは裏腹に{j}恐るべき爆発力を秘める。{j}狙った獲物は逃さない。,"Despite its appearance, it hides{j}a fearsome explosive power.{j}It never lets its prey escape."
 4510,その外見とは裏腹に{j}恐るべき爆発力を秘める。{j}狙った獲物は逃さない。,"Despite its appearance, it hides{j}a fearsome explosive power.{j}It never lets its prey escape."
-4511,気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,"Head armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series."
-4512,気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,"Head armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series."
+4511,気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,Elegant head armor. Male and female{j}versions are commonly called the Dandy and{j}Elegant series.
+4512,気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,Elegant head armor. Male and female{j}versions are commonly called the Dandy and{j}Elegant series.
 4513,気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪ＨＣ防具≫{/c},"Head armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪HC Armor≫{/c}"
 4514,赤と青の牙獣種の柔らかい{j}素材で作った頭防具。{j}野生を感じさせる髪型でしょ？,"Head armor made from the soft material of{j}a red-and-blue Fanged Beast. The hairstyle{j}gives it a wild feel, doesn't it?"
 4515,赤と青の牙獣種の柔らかい{j}素材で作った頭防具。{j}野生を感じさせる髪型でしょ？,"Head armor made from the soft material of{j}a red-and-blue Fanged Beast. The hairstyle{j}gives it a wild feel, doesn't it?"
@@ -28335,7 +28335,7 @@ Felyne partner, meow!{j}To the sea!"
 28307,精巧な細工の施された腕装備。{j}籠手の漆黒と装飾の金の色彩{j}が独特の魅力をかもし出す。,Intricately crafted arm armor. Jet-black{j}gauntlets and golden ornaments create a{j}unique charm.
 28308,精巧な細工の施された腕装備。{j}籠手の漆黒と装飾の金の色彩{j}が独特の魅力をかもし出す。,Intricately crafted arm armor. Jet-black{j}gauntlets and golden ornaments create a{j}unique charm.
 28309,精巧な細工の施された腕装備。{j}籠手の漆黒と装飾の金の色彩{j}が独特の魅力をかもし出す。,Intricately crafted arm armor. Jet-black{j}gauntlets and golden ornaments create a{j}unique charm.
-28310,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The li{j}ning is embroidered with ""Hands that protect comrades, hands that{j}slay wyverns."""
+28310,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The{j}lining bears, ""Hands that protect{j}comrades, hands that slay wyverns."""
 28311,とても高い強度を誇る狩猟用の{j}腕用装備。{j}見た目で侮ってはいけない。,Hunting Arms armor that boasts extremely{j}high strength. Do not underestimate it by{j}its looks.
 28312,勇壮に輝く腕用装備。奇跡的{j}な軽量化によって、鋭敏な立{j}ち回りが可能に。,Gallantly shining arm armor. A miraculous{j}weight reduction enables agile{j}maneuvering.
 28313,気品溢れる腕用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。,"Arms armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series."
@@ -28875,9 +28875,9 @@ Felyne partner, meow!{j}To the sea!"
 28847,高貴な雰囲気を放つ腕防具。{j}一般的な狩猟用防具とは異な{j}る意匠が随所に見られる。,Arms armor that exudes a noble aura. A{j}design different from ordinary hunting{j}armor can be seen throughout.
 28848,高貴な雰囲気を放つ腕防具。{j}一般的な狩猟用防具とは異な{j}る意匠が随所に見られる。,Arms armor that exudes a noble aura. A{j}design different from ordinary hunting{j}armor can be seen throughout.
 28849,高貴な雰囲気を放つ腕防具。{j}一般的な狩猟用防具とは異な{j}る意匠が随所に見られる。,Arms armor that exudes a noble aura. A{j}design different from ordinary hunting{j}armor can be seen throughout.
-28850,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The li{j}ning is embroidered with ""Hands that protect comrades, hands that{j}slay wyverns."""
-28851,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The li{j}ning is embroidered with ""Hands that protect comrades, hands that{j}slay wyverns."""
-28852,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The li{j}ning is embroidered with ""Hands that protect comrades, hands that{j}slay wyverns."""
+28850,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The{j}lining bears, ""Hands that protect{j}comrades, hands that slay wyverns."""
+28851,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The{j}lining bears, ""Hands that protect{j}comrades, hands that slay wyverns."""
+28852,所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。,"Proof of your Hunting Guild's unity. The{j}lining bears, ""Hands that protect{j}comrades, hands that slay wyverns."""
 28853,素材と金属との絶妙な合成で{j}隙のない構造にした腕防具。{j}{c07}ＳＰ防具：赤{/c},Arms Armor crafted into a flawless structure{j}by an exquisite fusion of material and metal.{j}{c07}SP Armor: Red{/c}
 28854,素材と金属との絶妙な合成で{j}隙のない構造にした腕防具。{j}{c07}ＳＰ防具：黒{/c},Arms Armor crafted into a flawless structure{j}by an exquisite fusion of material and metal.{j}{c07}SP Armor: Black{/c}
 28855,素材と金属との絶妙な合成で{j}隙のない構造にした腕防具。{j}{c07}ＳＰ防具：黄{/c},Arms Armor crafted into a flawless structure{j}by an exquisite fusion of material and metal.{j}{c07}SP Armor: Yellow{/c}

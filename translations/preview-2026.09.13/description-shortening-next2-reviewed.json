@@ -1,0 +1,299 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 147,
+      "source": "イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。",
+      "previous": "Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.",
+      "target": "High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 255,
+      "source": "イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。",
+      "previous": "Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.",
+      "target": "High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 718,
+      "source": "イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。",
+      "previous": "Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.",
+      "target": "High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1416,
+      "source": "イャンクックの、特に良質な{j}素材で作られた頭用装備。{j}怪鳥のイメージを覆す強さ。",
+      "previous": "Head armor made from especially high-quality{j}Yian Kut-Ku materials.{j}Strength that overturns the image of the Bird Wyvern.",
+      "target": "High-quality Yian Kut-Ku head armor.{j}Strong enough to overturn the Bird Wyvern{j}image.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28310,
+      "source": "所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。",
+      "previous": "Proof of your Hunting Guild's unity. The li{j}ning is embroidered with \"Hands that protect comrades, hands that{j}slay wyverns.\"",
+      "target": "Proof of your Hunting Guild's unity. The{j}lining bears, \"Hands that protect{j}comrades, hands that slay wyverns.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28850,
+      "source": "所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。",
+      "previous": "Proof of your Hunting Guild's unity. The li{j}ning is embroidered with \"Hands that protect comrades, hands that{j}slay wyverns.\"",
+      "target": "Proof of your Hunting Guild's unity. The{j}lining bears, \"Hands that protect{j}comrades, hands that slay wyverns.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28851,
+      "source": "所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。",
+      "previous": "Proof of your Hunting Guild's unity. The li{j}ning is embroidered with \"Hands that protect comrades, hands that{j}slay wyverns.\"",
+      "target": "Proof of your Hunting Guild's unity. The{j}lining bears, \"Hands that protect{j}comrades, hands that slay wyverns.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28852,
+      "source": "所属する猟団の団結の証。裏{j}地には《仲間を守る手、飛竜{j}を狩る手》と刺繍されている。",
+      "previous": "Proof of your Hunting Guild's unity. The li{j}ning is embroidered with \"Hands that protect comrades, hands that{j}slay wyverns.\"",
+      "target": "Proof of your Hunting Guild's unity. The{j}lining bears, \"Hands that protect{j}comrades, hands that slay wyverns.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 68,
+      "source": "老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。",
+      "previous": "A helm for male{j}made from Lao-Shan Lung materials. With the ultimate material, techniques brought from the East{j}reach their pinnacle here.",
+      "target": "Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 120,
+      "source": "老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。",
+      "previous": "A helm for male{j}made from Lao-Shan Lung materials. With the ultimate material, techniques brought from the East{j}reach their pinnacle here.",
+      "target": "Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 178,
+      "source": "老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。",
+      "previous": "A helm for male{j}made from Lao-Shan Lung materials. With the ultimate material, techniques brought from the East{j}reach their pinnacle here.",
+      "target": "Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 69,
+      "source": "老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。",
+      "previous": "Head armor for female{j}made from Lao-Shan Lung materials. Its gallant yet divine{j}bearing is the ultimate form of a Blademaster.",
+      "target": "Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 121,
+      "source": "老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。",
+      "previous": "Head armor for female{j}made from Lao-Shan Lung materials. Its gallant yet divine{j}bearing is the ultimate form of a Blademaster.",
+      "target": "Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 179,
+      "source": "老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。",
+      "previous": "Head armor for female{j}made from Lao-Shan Lung materials. Its gallant yet divine{j}bearing is the ultimate form of a Blademaster.",
+      "target": "Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 70,
+      "source": "老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。",
+      "previous": "Head armor for female{j}made from Lao-Shan Lung materials. The dragon's material gives off the ultimate luster through{j}craftsmanship.",
+      "target": "Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 122,
+      "source": "老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。",
+      "previous": "Head armor for female{j}made from Lao-Shan Lung materials. The dragon's material gives off the ultimate luster through{j}craftsmanship.",
+      "target": "Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 180,
+      "source": "老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。",
+      "previous": "Head armor for female{j}made from Lao-Shan Lung materials. The dragon's material gives off the ultimate luster through{j}craftsmanship.",
+      "target": "Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 207,
+      "source": "百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。",
+      "previous": "A Thunder Horn to rival a million roaring thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.",
+      "target": "A Thunder Horn to rival a million roars.{j}Its face guard makes all who see it kneel{j}in fear.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 209,
+      "source": "百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。",
+      "previous": "A Thunder Horn to rival a million roaring thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.",
+      "target": "A Thunder Horn to rival a million roars.{j}Its face guard makes all who see it kneel{j}in fear.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 897,
+      "source": "百万の轟雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。",
+      "previous": "A Thunder Horn to rival a million roaring thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.",
+      "target": "A Thunder Horn to rival a million roars.{j}Its face guard makes all who see it kneel{j}in fear.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 208,
+      "source": "雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。",
+      "previous": "A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that its wearer{j}learns the laws of heaven and earth.",
+      "target": "A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to learn heaven and earth's laws.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 210,
+      "source": "雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。",
+      "previous": "A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that its wearer{j}learns the laws of heaven and earth.",
+      "target": "A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to learn heaven and earth's laws.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1254,
+      "source": "雷獣そのものとさえ思える迫{j}力をもった頭冠。擁した者は{j}天地の理を知るという。",
+      "previous": "A crown with a presence{j}so intense it seems to be the Thunder Beast itself. It is said that its wearer{j}learns the laws of heaven and earth.",
+      "target": "A crown so imposing it seems to be the{j}Thunder Beast itself. Its wearer is said{j}to learn heaven and earth's laws.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 257,
+      "source": "ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。",
+      "previous": "Head{j}armor made from Hypnocatrice materials. It has a unique imposing presence, reminiscent of the Sleeping Bird's{j}glare.",
+      "target": "Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 259,
+      "source": "ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。",
+      "previous": "Head{j}armor made from Hypnocatrice materials. It has a unique imposing presence, reminiscent of the Sleeping Bird's{j}glare.",
+      "target": "Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 745,
+      "source": "ヒプノックの素材を用いた頭{j}用装備。眠鳥の睨みを思わせ{j}る、独特な威圧感を持つ。",
+      "previous": "Head{j}armor made from Hypnocatrice materials. It has a unique imposing presence, reminiscent of the Sleeping Bird's{j}glare.",
+      "target": "Hypnocatrice head armor with a unique{j}imposing presence, like the Sleeping{j}Bird's glare.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 276,
+      "source": "気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Head armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant head armor. Male and female{j}versions are commonly called the Dandy and{j}Elegant series.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4511,
+      "source": "気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Head armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant head armor. Male and female{j}versions are commonly called the Dandy and{j}Elegant series.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4512,
+      "source": "気品溢れる頭用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Head armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant head armor. Male and female{j}versions are commonly called the Dandy and{j}Elegant series.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 310,
+      "source": "昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。",
+      "previous": "Head equipment made from insect materials.{j}The surging insect power is enough to scatter even small Bird Wyverns with a headbutt{j}.",
+      "target": "Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 312,
+      "source": "昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。",
+      "previous": "Head equipment made from insect materials.{j}The surging insect power is enough to scatter even small Bird Wyverns with a headbutt{j}.",
+      "target": "Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1979,
+      "source": "昆虫の素材を使った頭用装備。{j}湧き出る昆虫の力は、頭突き{j}で小型の鳥竜すら蹴散らす程。",
+      "previous": "Head equipment made from insect materials.{j}The surging insect power is enough to scatter even small Bird Wyverns with a headbutt{j}.",
+      "target": "Insect-material head armor. Surging insect{j}power can scatter even small Bird Wyverns{j}with a headbutt.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source equipment description patterns; concise wording preserves the source claims."
+}

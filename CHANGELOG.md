@@ -26,3 +26,8 @@ checked in-game; other dialogue branches and all server quests were not.
 - Add 36 source-reviewed equipment and melee-weapon description entries.
 - Reduce the remaining reviewed shortening queue to 963 entries.
 - Keep runtime status explicitly pending; the stable release is unchanged.
+
+## 2026.09.13-preview.3 (experimental)
+
+- Add 32 more source-reviewed equipment descriptions.
+- Reduce the remaining reviewed shortening queue to 931 entries.
