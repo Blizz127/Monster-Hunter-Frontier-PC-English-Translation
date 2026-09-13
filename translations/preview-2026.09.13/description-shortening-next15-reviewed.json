@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47905,
+      "source": "圧倒的な存在感と圧力を感じる{j}腰防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Waist Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Waist armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47906,
+      "source": "圧倒的な存在感と圧力を感じる{j}腰防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Waist Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Waist armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47907,
+      "source": "圧倒的な存在感と圧力を感じる{j}腰防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Waist Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Waist armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 48578,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた腰防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Waist armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Waist armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 48579,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた腰防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Waist armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Waist armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 48580,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた腰防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Waist armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Waist armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49078,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる腰防具。意外と軽量。",
+      "previous": "Waist armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Waist armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49079,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる腰防具。意外と軽量。",
+      "previous": "Waist armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Waist armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49080,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる腰防具。意外と軽量。",
+      "previous": "Waist armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Waist armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49457,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた腰防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Waist armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite waist armor made from every{j}scrap of Sound-Creating Dragon material. A{j}faint \"sound\" dwells within.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49458,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた腰防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Waist armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite waist armor made from every{j}scrap of Sound-Creating Dragon material. A{j}faint \"sound\" dwells within.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49459,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた腰防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Waist armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite waist armor made from every{j}scrap of Sound-Creating Dragon material. A{j}faint \"sound\" dwells within.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49766,
+      "source": "遠方で流行しているという{j}腰防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}waist armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land waist armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49767,
+      "source": "遠方で流行しているという{j}腰防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}waist armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land waist armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 49768,
+      "source": "遠方で流行しているという{j}腰防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}waist armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land waist armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 50905,
+      "source": "大巌竜の素材を用いた腰防具。{j}姿変わってもなお、脈打つ{j}鼓動が所有者に力を与える。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}Even if its form changes, the pulsing{j}heartbeat grants power to its owner.",
+      "target": "Great Boulder Dragon waist armor whose{j}pulsing heartbeat grants power even when{j}its form changes.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 50906,
+      "source": "大巌竜の素材を用いた腰防具。{j}姿変わってもなお、脈打つ{j}鼓動が所有者に力を与える。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}Even if its form changes, the pulsing{j}heartbeat grants power to its owner.",
+      "target": "Great Boulder Dragon waist armor whose{j}pulsing heartbeat grants power even when{j}its form changes.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 50907,
+      "source": "大巌竜の素材を用いた腰防具。{j}姿変わってもなお、脈打つ{j}鼓動が所有者に力を与える。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}Even if its form changes, the pulsing{j}heartbeat grants power to its owner.",
+      "target": "Great Boulder Dragon waist armor whose{j}pulsing heartbeat grants power even when{j}its form changes.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 50908,
+      "source": "大巌竜の素材を用いた腰防具。{j}体の一部となったかのような{j}身軽さ、軽快さを感じられる。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}As if it had become a part of the body,{j}you can feel its lightness and nimbleness.",
+      "target": "Great Boulder Dragon waist armor that{j}feels light and nimble, as if part of the{j}body.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 50909,
+      "source": "大巌竜の素材を用いた腰防具。{j}体の一部となったかのような{j}身軽さ、軽快さを感じられる。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}As if it had become a part of the body,{j}you can feel its lightness and nimbleness.",
+      "target": "Great Boulder Dragon waist armor that{j}feels light and nimble, as if part of the{j}body.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 50910,
+      "source": "大巌竜の素材を用いた腰防具。{j}体の一部となったかのような{j}身軽さ、軽快さを感じられる。",
+      "previous": "Waist armor made from Great Boulder Dragon materials.{j}As if it had become a part of the body,{j}you can feel its lightness and nimbleness.",
+      "target": "Great Boulder Dragon waist armor that{j}feels light and nimble, as if part of the{j}body.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51662,
+      "source": "極龍の力を具現する腰鎧。開{j}放された極龍の力が、無限に{j}も等しい力を与えるという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon. The released{j}power of the Extreme Dragon grants a power{j}all but equal to infinity, they say.",
+      "target": "Extreme Dragon waist armor whose released{j}power is said to approach infinity.{j}",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51663,
+      "source": "極龍の力を具現する腰鎧。開{j}放された極龍の力が、無限に{j}も等しい力を与えるという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon. The released{j}power of the Extreme Dragon grants a power{j}all but equal to infinity, they say.",
+      "target": "Extreme Dragon waist armor whose released{j}power is said to approach infinity.{j}",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51664,
+      "source": "極龍の力を具現する腰鎧。開{j}放された極龍の力が、無限に{j}も等しい力を与えるという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon. The released{j}power of the Extreme Dragon grants a power{j}all but equal to infinity, they say.",
+      "target": "Extreme Dragon waist armor whose released{j}power is said to approach infinity.{j}",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51665,
+      "source": "極龍の力を具現する腰鎧。殺{j}気を放ち、獲物へ強烈な{j}威圧をかけるという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon. It gives off a killing{j}aura,{j}subjecting its prey to intense intimidation, they say.",
+      "target": "Extreme Dragon waist armor that radiates{j}killing intent and intensely intimidates{j}prey.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51666,
+      "source": "極龍の力を具現する腰鎧。殺{j}気を放ち、獲物へ強烈な{j}威圧をかけるという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon. It gives off a killing{j}aura,{j}subjecting its prey to intense intimidation, they say.",
+      "target": "Extreme Dragon waist armor that radiates{j}killing intent and intensely intimidates{j}prey.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51667,
+      "source": "極龍の力を具現する腰鎧。殺{j}気を放ち、獲物へ強烈な{j}威圧をかけるという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon. It gives off a killing{j}aura,{j}subjecting its prey to intense intimidation, they say.",
+      "target": "Extreme Dragon waist armor that radiates{j}killing intent and intensely intimidates{j}prey.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51668,
+      "source": "雷帝の腰巻。腰に纏えば、丹{j}田に氣を集め、持てる力を数{j}千倍にも高めるという。",
+      "previous": "A Thunder Emperor's waist wrap. Worn about the waist, it{j}gathers energy in the core and raises one's{j}power thousands of times over.",
+      "target": "Thunder Emperor's waist wrap. It gathers{j}core energy and multiplies one's power{j}thousands of times.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51669,
+      "source": "雷帝の腰巻。腰に纏えば、丹{j}田に氣を集め、持てる力を数{j}千倍にも高めるという。",
+      "previous": "A Thunder Emperor's waist wrap. Worn about the waist, it{j}gathers energy in the core and raises one's{j}power thousands of times over.",
+      "target": "Thunder Emperor's waist wrap. It gathers{j}core energy and multiplies one's power{j}thousands of times.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 51670,
+      "source": "雷帝の腰巻。腰に纏えば、丹{j}田に氣を集め、持てる力を数{j}千倍にも高めるという。",
+      "previous": "A Thunder Emperor's waist wrap. Worn about the waist, it{j}gathers energy in the core and raises one's{j}power thousands of times over.",
+      "target": "Thunder Emperor's waist wrap. It gathers{j}core energy and multiplies one's power{j}thousands of times.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist-armor description patterns."
+}
