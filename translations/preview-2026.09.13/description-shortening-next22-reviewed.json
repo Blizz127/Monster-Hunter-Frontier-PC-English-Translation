@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57,
+      "source": "忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。",
+      "previous": "A weapon modeled after the mask{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.",
+      "target": "A mask-shaped weapon granted to those who{j}endure. Its true worth is tested when{j}they overcome a trial.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 58,
+      "source": "忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。",
+      "previous": "A weapon modeled after the mask{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.",
+      "target": "A mask-shaped weapon granted to those who{j}endure. Its true worth is tested when{j}they overcome a trial.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 321,
+      "source": "鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Head armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.",
+      "target": "Head armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 337,
+      "source": "鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Head armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.",
+      "target": "Head armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 335,
+      "source": "黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Head equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "target": "Head armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 351,
+      "source": "黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Head equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "target": "Head armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 427,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Head equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies head armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1550,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Head equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies head armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 792,
+      "source": "百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。",
+      "previous": "A Thunder Horn to rival a million fierce thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.",
+      "target": "A Thunder Horn rivaling a million fierce{j}thunders. Its face guard makes all who{j}see it kneel in fear.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 793,
+      "source": "百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。",
+      "previous": "A Thunder Horn to rival a million fierce thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.",
+      "target": "A Thunder Horn rivaling a million fierce{j}thunders. Its face guard makes all who{j}see it kneel in fear.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1136,
+      "source": "山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。",
+      "previous": "Based on cold-weather gear from mountainous regions,{j}a masterpiece that withstands hunting is complete.{j}The secret lies in the knitting method.",
+      "target": "Cold-weather gear from the mountains{j}made fit for hunting. Its secret lies in{j}the knitting.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1137,
+      "source": "山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。",
+      "previous": "Based on cold-weather gear from mountainous regions,{j}a masterpiece that withstands hunting is complete.{j}The secret lies in the knitting method.",
+      "target": "Cold-weather gear from the mountains{j}made fit for hunting. Its secret lies in{j}the knitting.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1991,
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。",
+      "previous": "Head armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "target": "Head armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1992,
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。",
+      "previous": "Head armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "target": "Head armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2560,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Head armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Head armor of Violent Dragon materials,{j}designed for mobility. It is light and{j}never hinders movement.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2563,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Head armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Head armor of Violent Dragon materials,{j}designed for mobility. It is light and{j}never hinders movement.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6298,
+      "source": "とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。",
+      "previous": "Head armor secretly produced by a female craftswoman of a weapon{j}craft workshop, influenced by a certain book, without{j}borrowing anyone's help.",
+      "target": "Head armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6305,
+      "source": "とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。",
+      "previous": "Head armor secretly produced by a female craftswoman of a weapon{j}craft workshop, influenced by a certain book, without{j}borrowing anyone's help.",
+      "target": "Head armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6299,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。",
+      "previous": "The craftswoman who made this head armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "target": "Head armor improved through trial and{j}error by the craftsman who inherited it{j}after its maker vanished.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6306,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。",
+      "previous": "The craftswoman who made this head armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "target": "Head armor improved through trial and{j}error by the craftsman who inherited it{j}after its maker vanished.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source head-armor description patterns."
+}

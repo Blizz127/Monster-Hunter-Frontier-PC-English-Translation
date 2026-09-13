@@ -56,8 +56,8 @@ index,source,target
 54,おしゃれさん御用達、{j}青色のクールなピアス。{j}水属性の攻撃に強い。,A favorite of the stylish:{j}cool blue earrings.{j}Strong against Water attacks.
 55,おしゃれさん御用達、{j}黄色のキュートなピアス。{j}雷属性の攻撃に強い。,A favorite of the stylish:{j}cute yellow earrings.{j}Strong against Thunder attacks.
 56,おしゃれさん御用達、{j}黒のシックなピアス。{j}龍属性の攻撃に強い。,A favorite of the stylish:{j}chic black earrings.{j}Strong against Dragon attacks.
-57,忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。,A weapon modeled after the mask{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.
-58,忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。,A weapon modeled after the mask{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.
+57,忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。,A mask-shaped weapon granted to those who{j}endure. Its true worth is tested when{j}they overcome a trial.
+58,忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。,A mask-shaped weapon granted to those who{j}endure. Its true worth is tested when{j}they overcome a trial.
 59,街を守護するという騎士の、{j}頭装備の廉価版。防御力は{j}高いが男性専用。,"A budget version of the head gear worn by{j}knights sworn to guard the city. Defense{j}is high, but it is for male Hunters only."
 60,街を守護するという騎士の、{j}頭装備の廉価版。羽飾りと特{j}徴的な面頬が人気の一品。,"A budget version of the{j}head gear worn by knights sworn to guard the city. A popular piece, thanks to its feather plume and distinctive{j}face guard."
 61,お店の看板娘の制服。その{j}頭装備の同型品。特徴的な頭{j}飾りがキュート。,The uniform of the shop's poster girl. A{j}same-model version of that head equipment.{j}The distinctive head ornament is cute.
@@ -320,7 +320,7 @@ index,source,target
 318,とある村の特産品、頭用装備。{j}厳しい寒さの雪山での{j}活動には欠かせない。,"A specialty of a certain village, head{j}equipment. Essential for activities in the{j}harsh cold of snowy mountains."
 319,覇竜の素材を使った頭用装備。{j}漆黒の装甲は、見る者の魂を{j}凍り付かせる威圧感を持つ。,Head armor made from Akantor materials.{j}Its jet-black armor has an intimidating presence that{j}freezes the souls of those who see it.
 320,覇竜の素材を使った頭用装備。{j}生命の息吹を残す黒炎の装甲{j}は、畏怖されし強者の証。,Head armor made from Akantor materials.{j}Black flame armor that retains the breath{j}of life is proof of a feared champion.
-321,鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。,Head armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.
+321,鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。,Head armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.
 322,鋼龍の素材を用いた頭用装備。{j}風を纏いし龍の気高き心が{j}宿っている。,Head armor made from Kushala Daora{j}materials. The noble heart of the dragon{j}that cloaks itself in wind resides within.
 323,炎王龍の素材を用いた頭装備。{j}素材に染み込んだ爆煙の臭い{j}は、永久に消えることはない。,Head armor made from Teostra materials.{j}The smell of gunpowder smoke soaked into{j}the material will never disappear.
 324,炎王龍の素材を用いた頭装備。{j}灼熱の赤に燃ゆる厳格な{j}デザインは、正に王者の風格。,"Head armor made from Teostra materials.{j}Its stern design, burning with scorching{j}red, is truly the dignity of a king."
@@ -334,9 +334,9 @@ index,source,target
 332,炎妃龍の素材を用いた頭装備。{j}美しき高貴な青は、見る者{j}すべてを魅了する。,Head equipment made from Lunastra{j}materials. Its beautiful noble blue{j}captivates all who behold it.
 333,金獅子の素材を用いた頭装備。{j}豪胆な金獅子の魂が、細部に{j}まで宿っている。,Head armor made from Gold Lion materials.{j}The bold spirit of the Gold Lion dwells{j}in every last detail.
 334,金獅子の素材を用いた頭装備。{j}怒れる黄金髪の獅子を討ち{j}取った証。,Head armor made from Gold Lion materials.{j}Proof of slaying{j}the raging golden-maned lion.
-335,黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。,Head equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.
+335,黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。,Head armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.
 336,黒狼鳥の素材を用いた頭装備。{j}禍禍しい形状をした素材は{j}常に不穏な空気を纏っている。,Head equipment made from Yian Garuga{j}materials. The sinisterly shaped material{j}is forever wrapped in an unsettling air.
-337,鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。,Head armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.
+337,鋼龍の素材を用いた頭用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。,Head armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.
 338,鋼龍の素材を用いた頭用装備。{j}風を纏いし龍の気高き心が{j}宿っている。,Head armor made from Kushala Daora{j}materials. The noble heart of the dragon{j}that cloaks itself in wind resides within.
 339,炎王龍の素材を用いた頭装備。{j}素材に染み込んだ爆煙の臭い{j}は、永久に消えることはない。,Head armor made from Teostra materials.{j}The smell of gunpowder smoke soaked into{j}the material will never disappear.
 340,炎王龍の素材を用いた頭装備。{j}灼熱の赤に燃ゆる厳格な{j}デザインは、正に王者の風格。,"Head armor made from Teostra materials.{j}Its stern design, burning with scorching{j}red, is truly the dignity of a king."
@@ -350,7 +350,7 @@ index,source,target
 348,炎妃龍の素材を用いた頭装備。{j}美しき高貴な青は、見る者{j}すべてを魅了する。,Head equipment made from Lunastra{j}materials. Its beautiful noble blue{j}captivates all who behold it.
 349,金獅子の素材を用いた頭装備。{j}豪胆な金獅子の魂が、細部に{j}まで宿っている。,Head armor made from Gold Lion materials.{j}The bold spirit of the Gold Lion dwells{j}in every last detail.
 350,金獅子の素材を用いた頭装備。{j}怒れる黄金髪の獅子を討ち{j}取った証。,Head armor made from Gold Lion materials.{j}Proof of slaying{j}the raging golden-maned lion.
-351,黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。,Head equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.
+351,黒狼鳥の素材を用いた頭装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。,Head armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.
 352,黒狼鳥の素材を用いた頭装備。{j}禍禍しい形状をした素材は{j}常に不穏な空気を纏っている。,Head equipment made from Yian Garuga{j}materials. The sinisterly shaped material{j}is forever wrapped in an unsettling air.
 353,溶岩竜の素材を用いた頭用装{j}備。軽量さ、頑丈さに長ける{j}石化部位をふんだんに使用。,Head armor made from Lavasioth materials.{j}It uses plenty of petrified parts that{j}excel in lightness and durability.
 354,軽量な溶岩石と強靭な鱗、両{j}方の性質を併せ持つ溶岩竜の{j}石化素材を用いた頭用装備。,"Head armor made from petrified Lavasioth{j}parts, combining the lightness of lava{j}rock and the toughness of scales."
@@ -426,7 +426,7 @@ index,source,target
 424,厳格な雰囲気の頭用装備。{j}装備すると背筋がビシッと{j}引き締まる。,Head armor with a stern air.{j}Equipping it straightens{j}your back with a snap.
 425,厳格な雰囲気の頭用装備。{j}装備すると慈しみの気持ちが{j}自然と沸いてくる。,Head armor with a stern air.{j}Equipping it brings{j}a natural welling of tender affection.
 426,棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}狩人の全身に力が漲る。,Head armor evolved further with Espinas{j}Subspecies materials. Power surges through{j}the Hunter's body.
-427,棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。,Head equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.
+427,棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。,"Espinas Subspecies head armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees."
 428,雪獅子の素材を用いた頭装備。{j}美しい毛並みは芸術品。{j}{c07}ＳＰ防具：黄{/c},Head equipment using Blangonga materials.{j}Its beautiful coat is a work of art.{j}{c07}SP Armor: Yellow{/c}
 429,雪獅子の素材を用いた頭装備。{j}美しい毛並みは芸術品。{j}{c07}ＳＰ防具：青{/c},Head equipment using Blangonga materials.{j}Its beautiful coat is a work of art.{j}{c07}SP Armor: Blue{/c}
 430,雪獅子の素材を用いた頭装備。{j}美しい毛並みは芸術品。{j}{c07}ＳＰ防具：黒{/c},Head equipment using Blangonga materials.{j}Its beautiful coat is a work of art.{j}{c07}SP Armor: Black{/c}
@@ -791,8 +791,8 @@ index,source,target
 789,紫の鱗が美しい防具。{j}厳選したイーオス素材を、繋{j}ぎ合わせて作られた頭用装備。,Armor with beautiful purple scales.{j}Head gear made by stitching together{j}carefully selected Ioprey material.
 790,猟団から支給されるピアス。{j}不思議な力が働き、ハンター{j}の足腰を強靭にする。,Piercings issued by the Hunting Guild.{j}Their mysterious power strengthens a{j}Hunter's legs and lower back.
 791,猟団から支給されるピアス。{j}不思議な力がハンターの技量{j}を引き上げ、狩猟を助ける。,Earrings provided by the Hunting Guild.{j}A mysterious power raises the Hunter's{j}skill and aids in the hunt.
-792,百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million fierce thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.
-793,百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn to rival a million fierce thunders.{j}The face guard that gained its power{j}makes all who behold it fall to their knees in fear.
+792,百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn rivaling a million fierce{j}thunders. Its face guard makes all who{j}see it kneel in fear.
+793,百万の剛雷に匹敵する雷角。{j}その力を得た面当ては見る者{j}全てを畏怖させ膝を折らせる。,A Thunder Horn rivaling a million fierce{j}thunders. Its face guard makes all who{j}see it kneel in fear.
 794,ギルドナイトの頭防具。{j}色で役割が異なるらしい。{j}{c07}ＳＰ防具：黒{/c},"Guild Knight head armor. One's role differs by{j}color, it seems.{j}{c07}SP Armor: Black{/c}"
 795,ギルドナイトの頭防具。{j}色で役割が異なるらしい。{j}{c07}ＳＰ防具：白{/c},"Guild Knight head armor. One's role differs by{j}color, it seems.{j}{c07}SP Armor: White{/c}"
 796,ギルドナイトの頭防具。{j}色で役割が異なるらしい。{j}{c07}ＳＰ防具：紫{/c},"Guild Knight head armor. One's role differs by{j}color, it seems.{j}{c07}SP Armor: Purple{/c}"
@@ -1135,8 +1135,8 @@ index,source,target
 1133,オルガロンの素材をあしらい{j}髪飾りとしてまとめたもの。{j}とても軽く付け心地が良い。,A piece assembled from Olgaron materials{j}and worn as a hair ornament.{j}Very light and comfortable to wear.
 1134,猟団から支給されるピアス。{j}不思議な力がハンターの{j}狩猟本能を引き出す。,Earrings provided by the Hunting Guild.{j}A mysterious power draws out{j}the Hunter's hunting instincts.
 1135,猟団から支給されるピアス。{j}不思議な力がハンターの{j}感覚を研ぎ澄ます。,Earrings provided by the Hunting Guild.{j}A mysterious power sharpens{j}the Hunter's senses.
-1136,山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。,"Based on cold-weather gear from mountainous regions,{j}a masterpiece that withstands hunting is complete.{j}The secret lies in the knitting method."
-1137,山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。,"Based on cold-weather gear from mountainous regions,{j}a masterpiece that withstands hunting is complete.{j}The secret lies in the knitting method."
+1136,山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。,Cold-weather gear from the mountains{j}made fit for hunting. Its secret lies in{j}the knitting.
+1137,山岳地方の防寒具を元に{j}狩猟にも耐える逸品が完成。{j}編み方に秘密がある。,Cold-weather gear from the mountains{j}made fit for hunting. Its secret lies in{j}the knitting.
 1138,先手を取るために、素早い{j}動作が求められる{j}巡回警備向けの頭防具。,Head armor for patrol duty that calls for{j}quick movement to seize the initiative{j}.
 1139,先手を取るために、素早い{j}動作が求められる{j}巡回警備向けの頭防具。,Head armor for patrol duty that calls for{j}quick movement to seize the initiative{j}.
 1140,急所を狙い、迅速な{j}無力化が求められる{j}巡回警備向けの頭防具。,"Aim for the weak spot, swift{j}Incapacitation required{j}Head armor designed for patrol duty."
@@ -1549,7 +1549,7 @@ index,source,target
 1547,ごく一部分からしか取れない{j}怪鳥の堅牢な甲殻を使った、{j}最上位の頭用装備。,"Top-tier head gear made from the sturdy{j}shell of a Yian Kut-Ku, obtainable from{j}only a tiny portion of it."
 1548,雲一つ無い澄みきった空の{j}ように心を無にできた者のみ{j}付けることが許された面。,"A mask that only one who can empty{j}their mind like a cloudless, clear sky{j}is permitted to wear."
 1549,軽い素材で作られた頭用装備。{j}使い手を選ばない堅実な{j}作りが安心。,"Head armor made from lightweight{j}materials. Its dependable, user-friendly{j}construction gives peace of mind."
-1550,棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。,Head equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.
+1550,棘茶竜の素材を使用することで{j}さらなる進化を遂げた頭装備。{j}樹海の主を屠りし者の証。,"Espinas Subspecies head armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees."
 1551,一流のシェフを目指す者が{j}頭にかぶるキッチンでの正装。{j}≪料理は真心≫と刺繍がある。,Formal kitchen wear{j}worn on the head by an aspiring top chef.{j}Embroidered with ≪Cooking is Devotion≫.
 1552,灰晶蠍の丈夫な殻を加工して{j}作られた頭装備。仕上がりの{j}色は素材次第。,Head armor made by processing the sturdy{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
 1553,灰晶蠍の丈夫な殻を加工して{j}作られた頭装備。仕上がりの{j}色は素材次第。,Head armor made by processing the sturdy{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
@@ -1990,8 +1990,8 @@ index,source,target
 1988,厳格な雰囲気の頭用装備。{j}装備すると背筋がビシッと{j}引き締まる。,Head armor with a stern air.{j}Equipping it straightens{j}your back with a snap.
 1989,厳格な雰囲気の頭用装備。{j}装備すると慈しみの気持ちが{j}自然と沸いてくる。,Head armor with a stern air.{j}Equipping it brings{j}a natural welling of tender affection.
 1990,冒険屋に配置した店番アイルー{j}が体を張り、手に入れた素材で{j}生産が可能となった頭用装備。,Head armor made possible by materials the{j}Adventurer's Shop Felyne risked its life{j}to obtain.
-1991,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。,Head armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.
-1992,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。,Head armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.
+1991,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。,Head armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.
+1992,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。,Head armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.
 1993,呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な頭防具。,An excellent head armor created by{j}carefully removing the slime from Plesioth{j}materials and applying special processing.
 1994,加工に手間のかかる呑竜素材を{j}大量に用いた頭防具。注文の{j}際に嫌な顔をされることも…。,Head armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...
 1995,蛮竜素材の頭防具。装備する{j}者の闘志を奮い立たせ、対峙{j}する者に鋭い威圧感を与える。,Head armor made from Berserk Dragon parts.{j}Rouses the wearer's fighting spirit and{j}sharply intimidates foes.
@@ -2561,10 +2561,10 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2557,多殻蟹素材をふんだんに{j}使用して作られた頭防具。{j}着用者に幸運を招くという。,Head armor made using an abundance of{j}Carapaceon materials. It is said to bring{j}good fortune to its wearer.
 2558,多殻蟹素材をより強靭に{j}鍛え上げた頭防具。より{j}幸運を招きやすいらしい。,Head armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
 2559,多殻蟹素材をより強靭に{j}鍛え上げた頭防具。より{j}幸運を招きやすいらしい。,Head armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
-2560,動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。,"Head armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement."
+2560,動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。,"Head armor of Violent Dragon materials,{j}designed for mobility. It is light and{j}never hinders movement."
 2561,動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。,"Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
 2562,動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。,"Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
-2563,動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。,"Head armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement."
+2563,動き易さを重視して、設計{j}された獰竜素材の頭防具。{j}軽くて動きの邪魔にならない。,"Head armor of Violent Dragon materials,{j}designed for mobility. It is light and{j}never hinders movement."
 2564,動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。,"Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
 2565,動き易さを極限まで追求した{j}獰竜素材の頭防具。{j}鋭い動きが身に付くという。,"Head armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
 2566,道場の卒業者に贈られる、{j}魂のこもった頭用装備。{j}{c07}ＳＰ防具：白{/c},"Head Armor imbued with the soul of{j}, awarded to dojo graduates.{j}{c07}SP Armor: White{/c}"
@@ -6299,15 +6299,15 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 6295,不思議な力が宿る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪烈種防具≫{/c},Head armor imbued with mysterious power.{j}Enhances the wearer's abilities.{j}{c02}≪Burst Armor≫{/c}
 6296,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪烈種防具≫{/c},"{j}Head armor depicting the ravenous Devouring Dragon. At times, the starving are{j}the strongest.{c02}≪Burst Armor≫{/c}"
 6297,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪烈種防具≫{/c},"{j}Head armor depicting the ravenous Devouring Dragon. At times, the starving are{j}the strongest.{c02}≪Burst Armor≫{/c}"
-6298,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。,"Head armor secretly produced by a female craftswoman of a weapon{j}craft workshop, influenced by a certain book, without{j}borrowing anyone's help."
-6299,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。,"The craftswoman who made this head armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error."
+6298,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。,"Head armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help."
+6299,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。,Head armor improved through trial and{j}error by the craftsman who inherited it{j}after its maker vanished.
 6300,さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した頭防具。,"Head armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman."
 6301,口数が減り、やつれ果てた職{j}人が工房の一室に籠もって強{j}化した頭防具。{c11}≪狩護防具≫{/c},"{j}A craftsman of few words, worn to the bone, shut himself in a room{j}of the workshop to strengthen this head armor.{c11}≪Hunting Guard Armor≫{/c}"
 6302,とある書物の噂を耳にした職{j}人が、その内容を調べて革新{j}的な強化に成功した頭防具。,"A craftsman heard of a book and studied{j}it, achieving an innovative upgrade to{j}this head armor."
 6303,ふと目覚めた時、窓の外に失{j}踪した女職人の姿を見たと主{j}張する職人が強化した頭防具。,Head armor upgraded by a craftsman who{j}claims he suddenly awoke to see a missing{j}craftswoman outside the window.
 6304,ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた頭防具。,"One day, the craftsman vanished. When his{j}room was searched, this Head armor was found left behind{j}along with a certain document."
-6305,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。,"Head armor secretly produced by a female craftswoman of a weapon{j}craft workshop, influenced by a certain book, without{j}borrowing anyone's help."
-6306,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。,"The craftswoman who made this head armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error."
+6305,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した頭防具。,"Head armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help."
+6306,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した頭防具。,Head armor improved through trial and{j}error by the craftsman who inherited it{j}after its maker vanished.
 6307,さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した頭防具。,"Head armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman."
 6308,口数が減り、やつれ果てた職{j}人が工房の一室に籠もって強{j}化した頭防具。{c11}≪狩護防具≫{/c},"{j}A craftsman of few words, worn to the bone, shut himself in a room{j}of the workshop to strengthen this head armor.{c11}≪Hunting Guard Armor≫{/c}"
 6309,とある書物の噂を耳にした職{j}人が、その内容を調べて革新{j}的な強化に成功した頭防具。,"A craftsman heard of a book and studied{j}it, achieving an innovative upgrade to{j}this head armor."
