@@ -1,0 +1,285 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 63029,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた脚防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Leg armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite leg armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 63030,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた脚防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Leg armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite leg armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 63031,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた脚防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Leg armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite leg armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 63338,
+      "source": "遠方で流行しているという{j}脚防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}leg armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land leg armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 63339,
+      "source": "遠方で流行しているという{j}脚防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}leg armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land leg armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 63340,
+      "source": "遠方で流行しているという{j}脚防具。随所の綺麗な装飾に{j}思わず目を奪われてしまう。",
+      "previous": "{j}leg armor said to be popular in distant lands. The beautiful decorations throughout{j}will unintentionally catch your eye.",
+      "target": "{j}Distant-land leg armor with beautiful{j}decorations.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 64929,
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた脚防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Leg{j}Armor was created. It has a mysterious texture.",
+      "target": "Leg armor recreating legendary ancient{j}gunner attire. It has a mysterious{j}texture.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 64930,
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた脚防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Leg{j}Armor was created. It has a mysterious texture.",
+      "target": "Leg armor recreating legendary ancient{j}gunner attire. It has a mysterious{j}texture.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 64931,
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた脚防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Leg{j}Armor was created. It has a mysterious texture.",
+      "target": "Leg armor recreating legendary ancient{j}gunner attire. It has a mysterious{j}texture.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65172,
+      "source": "極龍の力を具現する脚鎧。力{j}は破壊を呼び、辺り一帯を{j}荒廃させるという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon. Its power{j}brings destruction,{j}laying waste to all around, they say.",
+      "target": "Extreme Dragon leg armor whose power{j}brings destruction and lays waste to all{j}around.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65173,
+      "source": "極龍の力を具現する脚鎧。力{j}は破壊を呼び、辺り一帯を{j}荒廃させるという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon. Its power{j}brings destruction,{j}laying waste to all around, they say.",
+      "target": "Extreme Dragon leg armor whose power{j}brings destruction and lays waste to all{j}around.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65174,
+      "source": "極龍の力を具現する脚鎧。力{j}は破壊を呼び、辺り一帯を{j}荒廃させるという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon. Its power{j}brings destruction,{j}laying waste to all around, they say.",
+      "target": "Extreme Dragon leg armor whose power{j}brings destruction and lays waste to all{j}around.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65175,
+      "source": "極龍の力を具現する脚鎧。{j}獲物が地の果てまで行こう{j}とも逃がすことはないという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}No prey escapes,{j}even if it flees to the ends of the earth, they say.",
+      "target": "Extreme Dragon leg armor that never lets{j}prey escape, even to the ends of the{j}earth.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65176,
+      "source": "極龍の力を具現する脚鎧。{j}獲物が地の果てまで行こう{j}とも逃がすことはないという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}No prey escapes,{j}even if it flees to the ends of the earth, they say.",
+      "target": "Extreme Dragon leg armor that never lets{j}prey escape, even to the ends of the{j}earth.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65177,
+      "source": "極龍の力を具現する脚鎧。{j}獲物が地の果てまで行こう{j}とも逃がすことはないという。",
+      "previous": "Leg armor that embodies the power of the Extreme Dragon.{j}No prey escapes,{j}even if it flees to the ends of the earth, they say.",
+      "target": "Extreme Dragon leg armor that never lets{j}prey escape, even to the ends of the{j}earth.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65178,
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が狩人の身を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that protects the Hunter's body.",
+      "target": "Mystical leg armor lighter than a feather.{j}Its magnetic field protects the Hunter.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65179,
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が狩人の身を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that protects the Hunter's body.",
+      "target": "Mystical leg armor lighter than a feather.{j}Its magnetic field protects the Hunter.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 65180,
+      "source": "羽より軽い神秘の脚装。周囲{j}を取巻く雷から発せられた磁{j}場が狩人の身を護る。",
+      "previous": "Mystical leg armor lighter than a feather. The{j}lightning that surrounds it gives off a magnetic{j}field that protects the Hunter's body.",
+      "target": "Mystical leg armor lighter than a feather.{j}Its magnetic field protects the Hunter.{j}",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 97,
+      "source": "鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。",
+      "previous": "An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.",
+      "target": "Ice-cold hammer forged from Kushala Daora{j}materials and an ancient hammer, modeled{j}after a gem-holding snake.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 433,
+      "source": "鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。",
+      "previous": "An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.",
+      "target": "Ice-cold hammer forged from Kushala Daora{j}materials and an ancient hammer, modeled{j}after a gem-holding snake.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1041,
+      "source": "鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。",
+      "previous": "An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.",
+      "target": "Ice-cold hammer forged from Kushala Daora{j}materials and an ancient hammer, modeled{j}after a gem-holding snake.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 164,
+      "source": "目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。",
+      "previous": "A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade.",
+      "target": "A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 356,
+      "source": "目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。",
+      "previous": "A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade.",
+      "target": "A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 1089,
+      "source": "目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。",
+      "previous": "A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade.",
+      "target": "A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 281,
+      "source": "桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。",
+      "previous": "A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow.",
+      "target": "Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 367,
+      "source": "桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。",
+      "previous": "A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow.",
+      "target": "Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 4919,
+      "source": "桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。",
+      "previous": "A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow.",
+      "target": "Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 346,
+      "source": "紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。",
+      "previous": "Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood.",
+      "target": "Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 460,
+      "source": "紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。",
+      "previous": "Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood.",
+      "target": "Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 4397,
+      "source": "紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。",
+      "previous": "Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood.",
+      "target": "Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    },
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Six exact-source leg-armor and four melee-description patterns."
+}

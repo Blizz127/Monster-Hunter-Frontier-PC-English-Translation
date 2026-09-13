@@ -96,7 +96,7 @@ index,source,target
 94,竜人の最新技術を流用して{j}開発した機械鎚。工房の最高{j}傑作といえる武器である。,A mechanical Hammer developed using the latest{j}Wyverian technology. It is the Workshop's finest{j}masterpiece.
 95,ハンマーとしての機能は果た{j}していない錆びた武器。{j}結晶研磨加工していくと…。,A rusted weapon that no longer{j}functions as a Hammer.{j}Keep crystal polishing it and...
 96,ハンマーとしての機能は果た{j}していない錆びた武器。{j}結晶研磨加工していくと…。,A rusted weapon that no longer{j}functions as a Hammer.{j}Keep crystal polishing it and...
-97,鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。,An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.
+97,鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。,"Ice-cold hammer forged from Kushala Daora{j}materials and an ancient hammer, modeled{j}after a gem-holding snake."
 98,本来の姿を現した古代の軍鎚。{j}打突面に刺さった龍のブレス{j}の芯は、今もなお燃えている。,An ancient war hammer that has revealed its true{j}form. The core of the dragon's breath stuck in its{j}striking surface still burns even now.
 99,なぞの骨の塊。{j}練習用のハンマー。{j},A mysterious clump of bone.{j}A Hammer for practice.{j}
 100,なぞの骨の塊。{j}練習用のハンマー。{j},A mysterious clump of bone.{j}A Hammer for practice.{j}
@@ -163,7 +163,7 @@ index,source,target
 161,雷獣キリンの角を武器に利用{j}したもの。ゲリョスの皮膚で{j}柄部分を保護する必要がある。,A weapon made by using the horn of the Thunder{j}Beast Kirin. The grip must be protected with{j}Gypceros hide.
 162,紫電１次強化版。{j}キリンのたてがみは電気を{j}増幅させる効果がある。,First upgrade of Violet Lightning.{j}Kirin's mane has the property{j}of amplifying electricity.
 163,遠方の村で発掘されたとい{j}う剣のレプリカモデル。{j}可能な限り、性能を再現。,A replica model of a sword said{j}to have been excavated in a distant village.{j}Reproduces its performance as much as possible.
-164,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,"A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade."
+164,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.
 165,ランポスの牙を利用して加工{j}された蛇鉈。強化していくと{j}属性武器に派生する。,A serpent blade crafted{j}using Velociprey fangs. Upgrading it{j}branches into an elemental weapon.
 166,これまで規格外品扱いだった{j}素材も、技術の進歩で次々と{j}加工可能に。強力な片手剣。,"Materials once deemed substandard can now, thanks{j}to technological progress, be processed one after{j}another. A powerful Sword & Shield."
 167,ゲネポスの素材で強化された{j}蛇鉈。刃に使用されたゲネポ{j}スの牙が麻痺毒を注入する。,A Serpent Machete reinforced with Genprey{j}materials. The Genprey fangs used in its blade{j}inject paralytic poison.
@@ -280,7 +280,7 @@ index,source,target
 278,ある革命に用いられ、歴史の{j}闇の中で活躍した大斧。長く{j}置いた場所には血の跡がつく。,A great axe used in a certain revolution and{j}wielded in the darkness of history. Bloodstains{j}form on any spot where it is left for long.
 279,刃そのものではなく、斬撃の{j}瞬間に噴出する超高圧水流で{j}対象を裂く。加工技術の結晶。,"A super-high-pressure water jet erupts at{j}the instant of the slash, cutting the{j}target. A processing marvel."
 280,刀そのものが龍を憎んでいる{j}と言われる妖刀。大型の飛竜{j}をも一太刀で斬り捨てる。,A cursed blade said to hate{j}dragons itself. It cuts down even a large{j}wyvern with a single stroke.
-281,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,"A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow."
+281,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.
 282,闇夜を映したような蒼色の剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,A blue sword that seems to reflect the dark night.{j}A giant weapon of one-hit kills that boasts immense{j}attack power proportional to its weight.
 283,鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}鋭い凍気を、その刀身に纏う。,A steel Great Sword forged by combining Kushala{j}Daora's materials with an ancient Great Sword. Its{j}blade is cloaked in a biting chill.
 284,鋼龍の素材を古の大剣に組み{j}合わせ、打ち上げた鋼大剣。{j}鋭い凍気を、その刀身に纏う。,A steel Great Sword forged by combining Kushala{j}Daora's materials with an ancient Great Sword. Its{j}blade is cloaked in a biting chill.
@@ -345,7 +345,7 @@ index,source,target
 343,龍を討ち祓う力を秘めた双刀。{j}一対の刃は、互いにその力を{j}高めあい更なる力を引き出す。,"Dual Blades holding the power to slay and purge{j}dragons. The paired blades amplify each other's{j}strength, drawing out even greater power."
 344,黒きを滅ぼすという名の龍剣。{j}龍の唸りに呼応して振動し、{j}その威力を数倍に増すという。,"A dragon sword named for the destruction of blackness. It vibrates in answer to{j}a dragon's roar,{j}and is said to multiply its power severalfold."
 345,角竜の怨念が宿ると言われる{j}棍棒。常に角竜がそばにいる{j}かのような気配を漂わせる。,A club made from a horn said to harbor Diablos's{j}grudge. It gives off a presence as if Diablos is{j}always at your side.
-346,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,"Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood."
+346,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.
 347,大きな爪を使った赤き双剣。{j}両手に携え、獲物を狩る姿{j}はドスランポスそのもの。,"Crimson Dual Blades crafted using great claws.{j}Wielded in both hands, their prey-hunting form{j}is a Velocidrome itself."
 348,わずかながらも毒の属性を{j}持つ双剣。攻撃の際は{j}鋸を引くように斬るのがコツ。,"Dual Blades that have a slight{j}poison attribute. When attacking,{j}the trick is to slash as if drawing a saw."
 349,黄金に輝く竜の貴重な鱗を惜{j}しまず使った剣。古代の王の{j}墓にも同じものが眠るという。,A sword that uses precious scales of a gold-shining{j}dragon without stint. The same blade is said to{j}sleep in an ancient king's tomb.
@@ -355,7 +355,7 @@ index,source,target
 353,訓練所で流した血と汗の結晶。{j}あの熱き日々が胸に去来する。{j}流した涙も無駄にはならない。,The crystallized blood and sweat shed at the Training School.{j}Those passionate days come flooding back.{j}Even the tears shed were not in vain.
 354,訓練所で優秀な結果を残した{j}者に贈られる片手剣。なぜか{j}≪がんばれよ≫と彫ってある。,A Sword & Shield awarded to{j}those who earned excellent results at the training grounds. For some reason it is engraved with{j}≪Keep It Up≫.
 355,刃渡りは短く刀身も細身なが{j}ら、そのあまりの斬れ味ゆえ{j}に飛竜戦でも活躍する小刀。,"Though its blade is short and slender,{j}its edge is so keen that{j}it proves its worth even in wyvern battles."
-356,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,"A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade."
+356,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.
 357,巨大な龍でさえ、近づくこと{j}を恐れるという究極の剣。{j}この剣の怒りは天地の怒り。,"The ultimate sword, said to make
 even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of heaven and earth."
 358,工房で金属の切断に使われて{j}いる道具が、そのまま武器に。{j}工房の精神がうかがえる一品。,"A tool used for cutting metal in the Workshop,{j}turned directly into a weapon. A piece that reveals{j}the spirit of the Workshop."
@@ -367,7 +367,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 364,わずかながらも毒の属性を{j}持つ双剣。攻撃の際は{j}鋸を引くように斬るのがコツ。,"Dual Blades that have a slight{j}poison attribute. When attacking,{j}the trick is to slash as if drawing a saw."
 365,最強の封龍剣をさらに超える{j}絶一門の最終兵器。全てが謎{j}の素材は太古の文明の名残か。,Surpassing even the strongest Dragon Seal Sword{j}The ultimate weapon of the Absolute. Everything is a mystery.{j}Are these materials vestiges of an ancient civilization?
 366,闇夜を映したような蒼色の剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,A blue sword that seems to reflect the dark night.{j}A giant weapon of one-hit kills that boasts immense{j}attack power proportional to its weight.
-367,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,"A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow."
+367,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.
 368,飛竜の血をどれだけ浴びても{j}汚れることのない純白の角槍。{j}槍身には常に霜が降りている。,"No matter how much Wyvern blood it bathes in,{j}a pure white horn lance that never gets dirty.{j}The shaft is always covered in frost."
 369,毒の怪物と呼ばれ恐れられる、{j}異形の鎚。使用される毒物は、{j}通常の規格から外れた特注品。,A grotesque Hammer feared as a poison monster.{j}The poison used is a custom-made item{j}that falls outside normal specifications.
 370,辺境の村の英雄が使った剣の{j}レプリカモデル、双剣{j}バージョン。マニア垂涎の品。,"A replica model of the sword used by the hero of a{j}frontier village, Dual Blades version. An item{j}enthusiasts covet."
@@ -433,7 +433,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 430,漆黒の角と真紅の角の競演。{j}この迫力は角竜の突進を思わ{j}せる。この破壊力の前には…。,A duel between jet-black horns and crimson horns.{j}This force calls to mind a Horned{j}Wyvern's charge. Before such destructive power...
 431,大型の甲殻種が宿としていた、{j}飛竜の頭骨で作られた骨鎚。{j}装飾品との相性は抜群。,A bone hammer made from the skull of a Flying{j}Wyvern that a large Carapaceon once called home.{j}Its compatibility with decorations is superb.
 432,バサルモスが成体になる前の{j}一番固い顔の甲殻を使用。{j}ベルトで無骨に止めている。,Uses the hardest facial carapace of a{j}Basarios before it reaches adulthood.{j}Held together by a rugged belt.
-433,鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。,An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.
+433,鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。,"Ice-cold hammer forged from Kushala Daora{j}materials and an ancient hammer, modeled{j}after a gem-holding snake."
 434,アイルーの頭を模った白い猫{j}槌。痺れるほどの愛らしさで{j}人気爆発中の売れ筋商品。,A white cat hammer modeled after a Felyne's head.{j}So adorable it numbs the senses -- a bestseller{j}with exploding popularity.
 435,ニヒルな笑顔が魅力の黒い猫{j}槌。希少色のためマニアの間{j}では高額で取引されている品。,"A black cat hammer with a charming cynical smile.{j}Due to its rare color, it is traded at high prices{j}among enthusiasts."
 436,滅多に見ることができない{j}金色に輝くねこハンマー。{j}王侯貴族でさえ垂涎の品。,A golden Felyne Hammer that{j}is rarely seen.{j}An item even kings and nobles covet.
@@ -460,7 +460,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 457,鎌蟹の爪を利用した斬れ味{j}鋭い武器。二刀六刃の{j}ブレードが獲物に襲いかかる。,A sharp weapon made from the claws of a Shogun{j}Ceanataur. Its six-edged twin blades assail the{j}prey.
 458,イャンガルルガの素材から作{j}られた黒き扇。一度振るえば{j}瞬く間に周囲一切を切り刻む。,A black fan made{j}from Yian Garuga materials. A single swing{j}shreds everything around it in an instant.
 459,龍を討ち祓う力を秘めた双刀。{j}一対の刃は、互いにその力を{j}高めあい更なる力を引き出す。,"Dual Blades holding the power to slay and purge{j}dragons. The paired blades amplify each other's{j}strength, drawing out even greater power."
-460,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,"Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood."
+460,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.
 461,大きな爪を使った赤き双剣。{j}両手に携え、獲物を狩る姿{j}はドスランポスそのもの。,"Crimson Dual Blades crafted using great claws.{j}Wielded in both hands, their prey-hunting form{j}is a Velocidrome itself."
 462,喜びの食卓を約束する年季の{j}入った調理器具。飛竜を{j}引っくり返すのもお手のもの。,A well-worn cooking utensil that promises a joyful{j}dining table. Flipping over a Flying Wyvern is a{j}piece of cake.
 463,悠久の時を経て甦った双剣。{j}太古に作られたフォーマット{j}が脈々と受け継がれてきた証。,Dual Blades revived after ages untold.{j}Proof that a format{j}crafted in ancient times was passed down unbroken.
@@ -1041,7 +1041,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 1038,ハンマーはその重量の為{j}長柄は困難であるが、威力を{j}犠牲にしてリーチを獲得。,"Because of its weight, a long-handled Hammer is{j}difficult to make, but it gains reach{j}at the cost of power."
 1039,ハンマーはその重量の為{j}長柄は困難であるが、威力を{j}犠牲にしてリーチを獲得。,"Because of its weight, a long-handled Hammer is{j}difficult to make, but it gains reach{j}at the cost of power."
 1040,刺で砕き、噴出する超水圧で{j}肉を抉り、吹き飛ばす。{j}まさに水爆弾。,"It crushes with a thrust, then with a jet of{j}ultra-high water pressure gouges out flesh and{j}blows it away. A true water bomb."
-1041,鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。,An ice-cold hammer created{j}through the fusion of Kushala Daora's materials and an ancient hammer. It is modeled after a snake{j}holding a gem in its mouth.
+1041,鋼龍の素材と古き槌との融合{j}により作られた氷冷槌。珠を{j}くわえた蛇が模されている。,"Ice-cold hammer forged from Kushala Daora{j}materials and an ancient hammer, modeled{j}after a gem-holding snake."
 1042,本来の姿を現した古代の軍鎚。{j}打突面に刺さった龍のブレス{j}の芯は、今もなお燃えている。,An ancient war hammer that has revealed its true{j}form. The core of the dragon's breath stuck in its{j}striking surface still burns even now.
 1043,褐色の棘竜の咆哮が聞こえて{j}きそうな大迫力のハンマー。{j}その一撃は大地も軋む。,A Hammer with the sheer force to make you{j}almost hear the brown Thorn Wyvern's roar.{j}A single blow makes the very earth groan.
 1044,褐色の棘竜の咆哮が聞こえて{j}きそうな大迫力のハンマー。{j}その一撃は大地も軋む。,A Hammer with the sheer force to make you{j}almost hear the brown Thorn Wyvern's roar.{j}A single blow makes the very earth groan.
@@ -1089,7 +1089,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 1086,東方の技術を取り込むことで{j}威力を犠牲にすることなく{j}刀身を長く鍛えることに成功。,"By incorporating Eastern techniques,{j}it succeeded in forging a longer blade without{j}sacrificing power."
 1087,東方の技術を取り込むことで{j}威力を犠牲にすることなく{j}刀身を長く鍛えることに成功。,"By incorporating Eastern techniques,{j}it succeeded in forging a longer blade without{j}sacrificing power."
 1088,東方の技術を取り込むことで{j}威力を犠牲にすることなく{j}刀身を長く鍛えることに成功。,"By incorporating Eastern techniques,{j}it succeeded in forging a longer blade without{j}sacrificing power."
-1089,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,"A sword made from the materials of{j}the phantom beast Kirin, of which only rumors of sightings had spread.{j}Lightning constantly crawls along its blade."
+1089,目撃の噂だけが流れていた、{j}幻獣キリンの素材でできた剣。{j}刀身を常に電撃が這いまわる。,A sword made from phantom Kirin materials.{j}Lightning constantly crawls along its{j}blade.
 1090,水剣オデッセイの改良型。{j}最新の研究技術の粋を注ぎ{j}脅威の仕上がりに。,"An improved Water Sword Odyssey.{j}Forged with the finest modern research,{j}it makes for a fearsome finish."
 1091,古くなった家具材を使用。{j}鬼面の『盾』と、棍『棒』の{j}セット。略して、メンボウ。,Made using aged furniture wood.{j}A set of an oni-faced 'Shield' and a staff 'Stick'.{j}Short for Mask-Stick.
 1092,不気味な赤に染まった、鬼面{j}の『盾』と棍『棒』のセット。{j}アメンボウと読む。,"A set of a demon mask{j}'shield' and rod 'staff', stained an eerie red.{j}Read as Amembou."
@@ -4397,7 +4397,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 4394,古代の王の墓に埋められていた{j}剣を模した双剣。{j}{c02}≪剛種武器≫{/c},Dual Blades modeled after a{j}sword buried in an ancient king's tomb.{j}{c02}≪Gou Weapon≫{/c}
 4395,古代の王の墓に埋められていた{j}剣を模した双剣。{j}{c02}≪剛種武器≫{/c},Dual Blades modeled after a{j}sword buried in an ancient king's tomb.{j}{c02}≪Gou Weapon≫{/c}
 4396,大幅に改良を加えた斧状双剣。{j}かなりの重量のため、扱うには{j}相応の腕力を要する。,Axe-shaped Dual Blades that have received major{j}improvements. Their considerable weight means they{j}require matching strength to handle.
-4397,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,"Dual Blades concealing deadly poison in their crimson blades.{j}Prey that is slashed loses{j}strength without realizing it, then sinks into a swamp of its own blood."
+4397,紅き刃に猛毒を秘めし双剣。{j}斬られた獲物は気づかぬ内に{j}力を失い、自らの血沼に沈む。,Crimson Dual Blades hiding deadly poison.{j}Slashed prey loses strength and sinks into{j}its own blood.
 4398,掘削技術の先駆者が追い求め{j}た夢の採掘ツールの理想形。{j}一度持てば採掘人の血が騒ぐ。,"The ideal form of the dream mining tool{j}that a pioneer of excavation pursued.{j}Once held, a miner's blood stirs."
 4399,工房で金属の切断に使われて{j}いる道具に改良を加えた武器。{j}工房の魂を込めた一品。,A weapon that improves upon a tool used{j}for cutting metal in the Workshop.{j}A piece imbued with the Workshop's soul.
 4400,イャンクックの耳を薬品で{j}固め刃として加工。怪鳥の{j}怒りを込めた双剣。,Yian Kut-Ku ears hardened with chemicals and{j}processed into blades. Dual Blades filled with the{j}Angry Bird's rage.
@@ -4919,7 +4919,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 4916,一振りであらゆるものを冥界送{j}りにできると言われる龍大剣。{j}{c02}≪剛種武器≫{/c},A Dragon Great Sword said to send{j}anything to the underworld in one swing.{j}{c02}≪Gou Weapon≫{/c}
 4917,一振りであらゆるものを冥界送{j}りにできると言われる龍大剣。{j}{c02}≪剛種武器≫{/c},A Dragon Great Sword said to send{j}anything to the underworld in one swing.{j}{c02}≪Gou Weapon≫{/c}
 4918,闇夜を映したような蒼色の剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,A blue sword that seems to reflect the dark night.{j}A giant weapon of one-hit kills that boasts immense{j}attack power proportional to its weight.
-4919,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,"A Great Sword in a pale pink that resembles cherry blossoms.{j}It boasts immense Attack{j}in proportion to its weight, a giant weapon that fells foes in one blow."
+4919,桜花にも似た淡い桃色の大剣。{j}重量に比例した多大な攻撃力{j}を誇る、一撃必殺の巨大武器。,Pale pink Great Sword like cherry{j}blossoms. Its immense weight-proportional{j}power fells foes in one blow.
 4920,遠方の街の工房で開発された{j}機械鋸の技術を応用し、製作{j}した大剣。,"A Great Sword that applied the technology of a{j}mechanical saw developed at a workshop in a distant{j}city, crafted."
 4921,通常の機械鋸と違い、雷属性{j}の他に、睡眠属性を付加して{j}実用性を重視している。,"Unlike an ordinary machine saw, it adds a Sleep{j}element on top of the Thunder element, putting{j}practicality first."
 4922,通常の機械鋸と違い、雷属性{j}の他に、睡眠属性を付加して{j}実用性を重視している。,"Unlike an ordinary machine saw, it adds a Sleep{j}element on top of the Thunder element, putting{j}practicality first."
