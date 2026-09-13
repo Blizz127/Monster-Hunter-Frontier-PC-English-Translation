@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24544,
+      "source": "闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷の{j}慈悲なき裁きが下る。",
+      "previous": "A robe of light that flickers faint white even in the dark of night.{j}Those who carelessly approach will face the{j}merciless judgment of lightning.",
+      "target": "A robe of light flickering in darkness.{j}Careless intruders face lightning's{j}merciless judgment.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24545,
+      "source": "闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷の{j}慈悲なき裁きが下る。",
+      "previous": "A robe of light that flickers faint white even in the dark of night.{j}Those who carelessly approach will face the{j}merciless judgment of lightning.",
+      "target": "A robe of light flickering in darkness.{j}Careless intruders face lightning's{j}merciless judgment.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24546,
+      "source": "闇夜でも仄白く明滅する光衣。{j}不用意に近づく者は万雷の{j}慈悲なき裁きが下る。",
+      "previous": "A robe of light that flickers faint white even in the dark of night.{j}Those who carelessly approach will face the{j}merciless judgment of lightning.",
+      "target": "A robe of light flickering in darkness.{j}Careless intruders face lightning's{j}merciless judgment.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28089,
+      "source": "飛竜の王の力を備えた腕装備。{j}逆巻き唸る雷雲を、腕の動き{j}ひとつでたやすく沈黙させる。",
+      "previous": "Arm armor imbued with the power of the wyvern king.{j}A single movement{j}of the arm easily silences the churning, roaring thunderclouds.",
+      "target": "Arm armor with the wyvern king's power.{j}One arm movement silences roaring{j}thunderclouds.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28213,
+      "source": "飛竜の王の力を備えた腕装備。{j}逆巻き唸る雷雲を、腕の動き{j}ひとつでたやすく沈黙させる。",
+      "previous": "Arm armor imbued with the power of the wyvern king.{j}A single movement{j}of the arm easily silences the churning, roaring thunderclouds.",
+      "target": "Arm armor with the wyvern king's power.{j}One arm movement silences roaring{j}thunderclouds.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28637,
+      "source": "飛竜の王の力を備えた腕装備。{j}逆巻き唸る雷雲を、腕の動き{j}ひとつでたやすく沈黙させる。",
+      "previous": "Arm armor imbued with the power of the wyvern king.{j}A single movement{j}of the arm easily silences the churning, roaring thunderclouds.",
+      "target": "Arm armor with the wyvern king's power.{j}One arm movement silences roaring{j}thunderclouds.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28116,
+      "source": "老山龍の素材で作られた男性{j}用篭手。究極の素材と匠の業{j}が、覇王の風格を作り出す。",
+      "previous": "Gauntlets for male{j}made from Lao-Shan Lung materials. The ultimate material and{j}craftsmanship create the dignity of a supreme ruler.",
+      "target": "Male gauntlets made from Lao-Shan Lung{j}materials. Ultimate material and craft{j}create a ruler's dignity.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28171,
+      "source": "老山龍の素材で作られた男性{j}用篭手。究極の素材と匠の業{j}が、覇王の風格を作り出す。",
+      "previous": "Gauntlets for male{j}made from Lao-Shan Lung materials. The ultimate material and{j}craftsmanship create the dignity of a supreme ruler.",
+      "target": "Male gauntlets made from Lao-Shan Lung{j}materials. Ultimate material and craft{j}create a ruler's dignity.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28230,
+      "source": "老山龍の素材で作られた男性{j}用篭手。究極の素材と匠の業{j}が、覇王の風格を作り出す。",
+      "previous": "Gauntlets for male{j}made from Lao-Shan Lung materials. The ultimate material and{j}craftsmanship create the dignity of a supreme ruler.",
+      "target": "Male gauntlets made from Lao-Shan Lung{j}materials. Ultimate material and craft{j}create a ruler's dignity.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28313,
+      "source": "気品溢れる腕用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Arms armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant arm armor. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32007,
+      "source": "気品溢れる腕用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Arms armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant arm armor. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32008,
+      "source": "気品溢れる腕用装備。俗に男{j}用をダンディシリーズ。女用{j}をエレガントシリーズと呼ぶ。",
+      "previous": "Arms armor brimming with elegance. The male{j}version is commonly called the Dandy series, and the female{j}version the Elegant series.",
+      "target": "Elegant arm armor. Male and female{j}versions are called the Dandy and Elegant{j}series.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28328,
+      "source": "轟竜の素材を使った腕用装備。{j}荒ぶる暴君を制した証であり、{j}心すら砕く恐怖の防具。",
+      "previous": "Arms equipment made from Tigrex materials.{j}Proof of conquering the raging tyrant,{j}and armor of fear that shatters even the heart.",
+      "target": "Tigrex arm armor: proof of conquering the{j}raging tyrant, and armor of fear that{j}shatters hearts.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28330,
+      "source": "轟竜の素材を使った腕用装備。{j}荒ぶる暴君を制した証であり、{j}心すら砕く恐怖の防具。",
+      "previous": "Arms equipment made from Tigrex materials.{j}Proof of conquering the raging tyrant,{j}and armor of fear that shatters even the heart.",
+      "target": "Tigrex arm armor: proof of conquering the{j}raging tyrant, and armor of fear that{j}shatters hearts.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28777,
+      "source": "轟竜の素材を使った腕用装備。{j}荒ぶる暴君を制した証であり、{j}心すら砕く恐怖の防具。",
+      "previous": "Arms equipment made from Tigrex materials.{j}Proof of conquering the raging tyrant,{j}and armor of fear that shatters even the heart.",
+      "target": "Tigrex arm armor: proof of conquering the{j}raging tyrant, and armor of fear that{j}shatters hearts.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28342,
+      "source": "昆虫の素材を使った腕用装備。{j}人々の夢と願いが、昆虫の王{j}の力を持つ鎧を誕生させた。",
+      "previous": "Arm equipment made from insect materials.{j}The dreams and wishes of people gave birth to armor possessing the power of the Insect King{j}.",
+      "target": "Insect arm armor born from people's dreams{j}and wishes, carrying the Insect King's{j}power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28344,
+      "source": "昆虫の素材を使った腕用装備。{j}人々の夢と願いが、昆虫の王{j}の力を持つ鎧を誕生させた。",
+      "previous": "Arm equipment made from insect materials.{j}The dreams and wishes of people gave birth to armor possessing the power of the Insect King{j}.",
+      "target": "Insect arm armor born from people's dreams{j}and wishes, carrying the Insect King's{j}power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29367,
+      "source": "昆虫の素材を使った腕用装備。{j}人々の夢と願いが、昆虫の王{j}の力を持つ鎧を誕生させた。",
+      "previous": "Arm equipment made from insect materials.{j}The dreams and wishes of people gave birth to armor possessing the power of the Insect King{j}.",
+      "target": "Insect arm armor born from people's dreams{j}and wishes, carrying the Insect King's{j}power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28350,
+      "source": "とある村の特産品、腕用装備。{j}厚手のミトンながら、{j}扱いやすいと評判の品。",
+      "previous": "A specialty of a certain village, arms equipment.{j}Even though they are thick mittens,{j}they are reputed to be easy to handle.",
+      "target": "Arm equipment from a village specialty.{j}Thick mittens, yet reputedly easy to{j}handle.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28351,
+      "source": "とある村の特産品、腕用装備。{j}厚手のミトンながら、{j}扱いやすいと評判の品。",
+      "previous": "A specialty of a certain village, arms equipment.{j}Even though they are thick mittens,{j}they are reputed to be easy to handle.",
+      "target": "Arm equipment from a village specialty.{j}Thick mittens, yet reputedly easy to{j}handle.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28585,
+      "source": "とある村の特産品、腕用装備。{j}厚手のミトンながら、{j}扱いやすいと評判の品。",
+      "previous": "A specialty of a certain village, arms equipment.{j}Even though they are thick mittens,{j}they are reputed to be easy to handle.",
+      "target": "Arm equipment from a village specialty.{j}Thick mittens, yet reputedly easy to{j}handle.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28448,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腕装備。{j}狩人の全身に力が漲る。",
+      "previous": "Arms equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Arm equipment evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28776,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腕装備。{j}狩人の全身に力が漲る。",
+      "previous": "Arms equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Arm equipment evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30484,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腕装備。{j}狩人の全身に力が漲る。",
+      "previous": "Arms equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Power courses through the Hunter's entire body.",
+      "target": "Arm equipment evolved further with Espinas{j}Subspecies materials. Power courses{j}through the Hunter.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28680,
+      "source": "メゼポルタで流行の腕用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the arms, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta arm dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28682,
+      "source": "メゼポルタで流行の腕用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the arms, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta arm dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30586,
+      "source": "メゼポルタで流行の腕用礼服。{j}さまざまな儀式等で使用され、{j}一流の性能も兼ねている。",
+      "previous": "A formal dress for the arms, popular in Mezepolta.{j}It is used in various ceremonies,{j}and also boasts first-class performance.",
+      "target": "A formal Mezepolta arm dress used for{j}ceremonies, with first-class performance.{j}",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28716,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた腕防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Hard-to-process Gluttonous Dragon material{j}Arms armor used in large quantities. The order's{j}Sometimes you'll get a dirty look when...",
+      "target": "Arm armor made with large amounts of{j}hard-to-process Glutton Dragon material.{j}The order may draw a dirty look...",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28717,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた腕防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Hard-to-process Gluttonous Dragon material{j}Arms armor used in large quantities. The order's{j}Sometimes you'll get a dirty look when...",
+      "target": "Arm armor made with large amounts of{j}hard-to-process Glutton Dragon material.{j}The order may draw a dirty look...",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29696,
+      "source": "加工に手間のかかる呑竜素材を{j}大量に用いた腕防具。注文の{j}際に嫌な顔をされることも…。",
+      "previous": "Hard-to-process Gluttonous Dragon material{j}Arms armor used in large quantities. The order's{j}Sometimes you'll get a dirty look when...",
+      "target": "Arm armor made with large amounts of{j}hard-to-process Glutton Dragon material.{j}The order may draw a dirty look...",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source arm-armor description patterns."
+}
