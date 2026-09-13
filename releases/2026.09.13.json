@@ -1,0 +1,57 @@
+{
+  "version": "2026.09.13",
+  "status": "CLIENT_NUMERIC_REPAIR_VERIFIED",
+  "unit_tests": 73,
+  "client": {
+    "files": 102,
+    "unique_deltas": 102,
+    "bytes": 13203792,
+    "sha256": "278782e32e81ce4f36f1b2ec43d26ae9d91a63514422f15fa5b79fd08ce66e37",
+    "asset": "client-english-2026.09.13.zip"
+  },
+  "upgrade": {
+    "files": 1,
+    "unique_deltas": 1,
+    "bytes": 1225677,
+    "sha256": "532f554408981ee1d6d580ffab1ada831595c054fce9d2b27bc026f760392225",
+    "asset": "client-repair-from-2026.09.12.zip"
+  },
+  "verification": {
+    "fresh_install": "PASS",
+    "fresh_idempotence": "PASS",
+    "fresh_rollback": "PASS",
+    "legacy_install_then_upgrade": "PASS",
+    "upgrade_idempotence": "PASS",
+    "upgrade_rollback_to_legacy": "PASS",
+    "legacy_rollback_to_original": "PASS",
+    "files": 102,
+    "repair_files": 1,
+    "isolated_copy": true,
+    "installed_game_writes": false,
+    "bundles": {
+      "client-english-2026.09.13.zip": "278782e32e81ce4f36f1b2ec43d26ae9d91a63514422f15fa5b79fd08ce66e37",
+      "client-repair-from-2026.09.12.zip": "532f554408981ee1d6d580ffab1ada831595c054fce9d2b27bc026f760392225"
+    }
+  },
+  "runtime_acceptance": {
+    "Mezeporta": "PASS_USER_REPORTED",
+    "equipment_skills_menus": "PASS_USER_REPORTED",
+    "user_report": "Town and menus work normally",
+    "exhaustive_gameplay": "NOT_TESTED"
+  },
+  "changed_target_files": [
+    "mhfpac.bin"
+  ],
+  "unchanged_target_files": 101,
+  "known_limitations": [
+    "Some NPC dialogue wraps inside words; the separate layout correction is not included.",
+    "This is a partial translation release, not complete English coverage.",
+    "New area, tutorial, launcher and 972 withheld quest translations remain staged and untested."
+  ],
+  "server": {
+    "changed": false,
+    "version": "2026.09.12",
+    "catalog": "2026.09.12.json",
+    "withheld_oversized_quests": 972
+  }
+}

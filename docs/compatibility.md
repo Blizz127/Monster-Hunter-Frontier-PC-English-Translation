@@ -8,19 +8,27 @@ backup when another translation or mod conflicts.
 
 ## Client
 
-The `2026.09.12` client bundle has a confirmed inherited numeric-table
-corruption in `mhfpac.bin`. Defer new client installations until the repair
-passes its pending in-game test and a corrected bundle is released. See
+The `2026.09.13` client bundle corrects the inherited numeric-table corruption
+in `mhfpac.bin`. Mezeporta and the equipment/skills menus passed user testing
+with that repair installed. Use the full bundle for matching originals or the
+one-file repair for the affected `2026.09.12` translation. See
 [diagnosis and recovery](client-numeric-table.md).
 
 The initial release reproduces the locally accepted set of 102 changed files:
 seven root data files, 91 `load` scripts, `extend/mazpac.bin`,
 `my_gallery/mhf_bin.bin`, and `stage/st200.pac` plus `stage/st397.pac`.
+The correction changes only `mhfpac.bin`; the other 101 target hashes are
+identical to the first release. It restores numeric records from the original
+while preserving the English text and all other plaintext bytes.
 
 User-observed acceptance: normal launch, successful Mezeporta entry, English
 general-store clerk dialogue, and Felyne dialogue. All dialogue branches, quests,
 and areas have not been walked. This is an incremental translation release;
 additional area translations are still being prepared and tested.
+
+Known layout issue: some town NPC lines wrap in the middle of words, leaving
+isolated letters on the next line. A separate layout correction is being tested;
+it is not included in this numeric-table repair release.
 
 The Mezeporta checksum repair is explained in [format-fixes.md](format-fixes.md).
 The package contains differences, not a complete client or launcher.
