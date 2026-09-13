@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28180,
+      "source": "銀色をしたリオレウスの防具。{j}一撃を防いだ腕に散る火花は、{j}空に散りばめられた銀砂の様。",
+      "previous": "Armor made from a silver Rathalos.{j}The sparks that scatter from the arms that blocked a blow are like silver sand{j}scattered across the sky.",
+      "target": "Silver Rathalos armor.{j}Sparks from a blocked blow scatter like{j}silver sand across the sky.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29520,
+      "source": "銀色をしたリオレウスの防具。{j}一撃を防いだ腕に散る火花は、{j}空に散りばめられた銀砂の様。",
+      "previous": "Armor made from a silver Rathalos.{j}The sparks that scatter from the arms that blocked a blow are like silver sand{j}scattered across the sky.",
+      "target": "Silver Rathalos armor.{j}Sparks from a blocked blow scatter like{j}silver sand across the sky.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28352,
+      "source": "鋼龍の素材を用いた腕用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Arm armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "target": "Arm armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may wear it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28368,
+      "source": "鋼龍の素材を用いた腕用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Arm armor made using Kushala Daora's materials.{j}Only those who truly see through{j}the raging dragon's wind are permitted to wear it.",
+      "target": "Arm armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may wear it.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28353,
+      "source": "鋼龍の素材を用いた腕用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Arm armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "target": "Arm armor made from Kushala Daora{j}materials. It holds the noble heart of the{j}dragon cloaked in wind.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28369,
+      "source": "鋼龍の素材を用いた腕用装備。{j}風を纏いし龍の気高き心が{j}宿っている。",
+      "previous": "Arm armor made using Kushala Daora's materials.{j}Within it dwells the noble heart{j}of the dragon that cloaks itself in wind.",
+      "target": "Arm armor made from Kushala Daora{j}materials. It holds the noble heart of the{j}dragon cloaked in wind.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28366,
+      "source": "黒狼鳥の素材を用いた腕装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Arms equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "target": "Arm armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28382,
+      "source": "黒狼鳥の素材を用いた腕装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Arms equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "target": "Arm armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28449,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腕装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Arms equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies arm armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29361,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腕装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Arms equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies arm armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29305,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腕防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Pellet{j}attack.",
+      "target": "Arm armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29306,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腕防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this arm armor is for Gunners specialized in Pellet{j}attack.",
+      "target": "Arm armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29693,
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腕防具。至高の逸品。",
+      "previous": "Arms armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "target": "Arm armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29694,
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腕防具。至高の逸品。",
+      "previous": "Arms armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "target": "Arm armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29699,
+      "source": "極龍の力を具現する篭手。{j}素手で岩を砕き、振るう{j}武器の力を高めるという。",
+      "previous": "Arms that embody the power of the Extreme Dragon.{j}They smash rocks bare-handed, and are said to increase the power of the{j}weapon you wield.",
+      "target": "Arms embodying Extreme Dragon power.{j}They smash rocks bare-handed and enhance{j}the weapon you wield.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29701,
+      "source": "極龍の力を具現する篭手。{j}素手で岩を砕き、振るう{j}武器の力を高めるという。",
+      "previous": "Arms that embody the power of the Extreme Dragon.{j}They smash rocks bare-handed, and are said to increase the power of the{j}weapon you wield.",
+      "target": "Arms embodying Extreme Dragon power.{j}They smash rocks bare-handed and enhance{j}the weapon you wield.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30148,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の腕防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Arm armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon arm armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30151,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の腕防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Arm armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon arm armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33689,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腕防具。",
+      "previous": "The craftswoman who made these arm armor pieces mysteriously vanished,{j}and the craftsman who inherited the work improved them through trial{j}and error.",
+      "target": "Arm armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33696,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腕防具。",
+      "previous": "The craftswoman who made these arm armor pieces mysteriously vanished,{j}and the craftsman who inherited the work improved them through trial{j}and error.",
+      "target": "Arm armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source arm-armor description patterns."
+}

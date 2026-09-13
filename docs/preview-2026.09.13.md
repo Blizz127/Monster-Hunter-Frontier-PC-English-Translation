@@ -8,8 +8,8 @@ previously tested Mezeporta and equipment/skills-menu repair.
 
 Apply this three-file upgrade only after the stable 2026.09.13 client patch.
 It contains cumulative weapon/equipment text work in `mhfdat.bin`, plus the
-two Mezeporta archives. The latest description pass adds 20 reviewed entries to the cumulative 831-entry description pass;
-304 entries remain in the current plain-text shortening queue. Other review
+two Mezeporta archives. The latest description pass adds 20 reviewed entries to the cumulative 851-entry description pass;
+284 entries remain in the current plain-text shortening queue. Other review
 queues, artwork and runtime checks also remain.
 
 Town changes reflow 574 distinct plain-text passages, two previously tested
