@@ -419,8 +419,8 @@ index,source,target
 417,素朴な味わいのある頭用装備。{j}通気性が良いため、蒸れない。{j}{c07}ＳＰ防具：黄{/c},Head armor with a rustic feel.{j}Good ventilation prevents stuffiness.{j}{c07}SP Armor: Yellow{/c}
 418,素朴な味わいのある頭用装備。{j}通気性が良いため、蒸れない。{j}{c07}ＳＰ防具：紫{/c},Head armor with a rustic feel.{j}Good ventilation prevents stuffiness.{j}{c07}SP Armor: Purple{/c}
 419,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：赤{/c},Head armor showing the material's nature.{j}Cicada sounds seep through with ease.{j}{c07}SP Armor: Red{/c}
-420,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黒{/c},Head equipment that makes the most of the material's character.{j}Cicada cries easily soak into it.{j}{c07}SP Armor: Black{/c}
-421,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黄{/c},Head armor that makes the most of the material's flavor.{j}The sound of cicadas easily seeps in.{j}{c07}SP Armor: Yellow{/c}
+420,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黒{/c},Black head armor showing its nature.{j}Cicada cries seep through easily.{j}{c07}SP Armor: Black{/c}
+421,素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黄{/c},Head armor showing the material's flavor.{j}Cicada sounds seep through easily.{j}{c07}SP Armor: Yellow{/c}
 422,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}強力な水圧にも耐えうる。,Head armor made from Carapaceon and{j}Piscine Wyvern materials. It withstands{j}even powerful water pressure.
 423,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}雨の日も安心の防水性。,"Head armor made from Carapaceon and{j}Piscine Wyvern materials. Waterproof, so{j}you are safe even on rainy days."
 424,厳格な雰囲気の頭用装備。{j}装備すると背筋がビシッと{j}引き締まる。,Head armor with a stern air.{j}Equipping it straightens{j}your back with a snap.
@@ -433,15 +433,15 @@ index,source,target
 431,金獅子の素材を用いた頭装備。{j}豪奢な造りは威厳に溢れる。{j}{c07}ＳＰ防具：白{/c},Head armor made from Gold Lion materials.{j}Its lavish make brims with dignity.{j}{c07}SP Armor: White{/c}
 432,金獅子の素材を用いた頭装備。{j}豪奢な造りは威厳に溢れる。{j}{c07}ＳＰ防具：紫{/c},Head armor made from Gold Lion materials.{j}Its lavish make brims with dignity.{j}{c07}SP Armor: Purple{/c}
 433,金獅子の素材を用いた頭装備。{j}豪奢な造りは威厳に溢れる。{j}{c07}ＳＰ防具：緑{/c},Head armor made from Gold Lion materials.{j}Its lavish make brims with dignity.{j}{c07}SP Armor: Green{/c}
-434,鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：緑{/c},"Head equipment using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Green{/c}"
-435,鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：紫{/c},"Head equipment using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Purple{/c}"
-436,鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：赤{/c},"Head equipment using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Red{/c}"
+434,鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：緑{/c},Gravios head gear.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Green{/c}
+435,鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：紫{/c},Gravios head gear.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Purple{/c}
+436,鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：赤{/c},Gravios head gear.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Red{/c}
 437,異国の船乗りが伝えた帽子。{j}船上で結束を増す、仲間との{j}深い絆を象徴するという。,A hat passed down by foreign sailors. It{j}symbolizes deep bonds and strengthens{j}unity aboard ship.
-438,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+438,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 439,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-440,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+440,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 441,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-442,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+442,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 443,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
 444,尾晶蠍を狩りし者の証たる{j}頭装備。絶命時の体色が{j}そのまま沈着している。,Head armor proving its wearer hunted a{j}Tail Crystal Scorpion. It retains the{j}beast's color at death.
 445,尾晶蠍を狩りし者の証たる{j}頭装備。絶命時の体色が{j}そのまま沈着している。,Head armor proving its wearer hunted a{j}Tail Crystal Scorpion. It retains the{j}beast's color at death.
@@ -459,12 +459,12 @@ index,source,target
 457,尾晶蠍を屠りし者の証たる{j}頭装備。素材の体液の色で{j}仕上がり時の色が異なる。,Head armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 458,尾晶蠍を屠りし者の証たる{j}頭装備。素材の体液の色で{j}仕上がり時の色が異なる。,Head armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 459,尾晶蠍を屠りし者の証たる{j}頭装備。素材の体液の色で{j}仕上がり時の色が異なる。,Head armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
-460,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-461,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-462,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-463,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-464,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-465,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+460,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+461,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+462,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+463,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+464,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+465,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 466,東方伝来の面。{j}意匠と機能を兼ね備えた、{j}ロマンティックな頭防具。,"A mask of Eastern origin.{j}Combining design and function, a{j}romantic head armor."
 467,東方伝来の面。{j}意匠と機能を兼ね備えた、{j}ロマンティックな頭防具。,"A mask of Eastern origin.{j}Combining design and function, a{j}romantic head armor."
 468,東方伝来の面。{j}意匠と機能を兼ね備えた、{j}ロマンティックな頭防具。,"A mask of Eastern origin.{j}Combining design and function, a{j}romantic head armor."
@@ -492,9 +492,9 @@ index,source,target
 490,鉱石が主成分の頭防具。{j}精錬時の加工で着色が可能に。{j}{c07}ＳＰ防具：黒{/c},Head armor made mainly of ore.{j}Can be colored during refinement.{j}{c07}SP Armor: Black{/c}
 491,鉱石が主成分の頭防具。{j}精錬時の加工で着色が可能に。{j}{c07}ＳＰ防具：青{/c},Head armor made mainly of ore.{j}Can be colored during refinement.{j}{c07}SP Armor: Blue{/c}
 492,鉱石が主成分の頭防具。{j}精錬時の加工で着色が可能に。{j}{c07}ＳＰ防具：黄{/c},Head armor made mainly of ore.{j}Can be colored during refinement.{j}{c07}SP Armor: Yellow{/c}
-493,銀火竜素材を元にした頭防具。{j}夕暮れの陽の色を再現。{j}{c07}ＳＰ防具：赤{/c},Head Armor made from Silver Rathalos materials.{j}Reproduces the color of the setting sun.{j}{c07}SP Armor: Red{/c}
-494,銀火竜素材を元にした頭防具。{j}宵闇の空の色を再現。{j}{c07}ＳＰ防具：紫{/c},Head armor made from Silver Rathalos materials.{j}Reproduces the color of the twilight sky.{j}{c07}SP Armor: Purple{/c}
-495,銀火竜素材を元にした頭防具。{j}一筋の光も届かない闇を再現。{j}{c07}ＳＰ防具：黒{/c},Head Armor made from Silver Rathalos materials.{j}Reproduces a darkness untouched by a single ray of light.{j}{c07}SP Armor: Black{/c}
+493,銀火竜素材を元にした頭防具。{j}夕暮れの陽の色を再現。{j}{c07}ＳＰ防具：赤{/c},Silver Rathalos head armor.{j}Reproduces the sunset's color.{j}{c07}SP Armor: Red{/c}
+494,銀火竜素材を元にした頭防具。{j}宵闇の空の色を再現。{j}{c07}ＳＰ防具：紫{/c},Silver Rathalos head armor.{j}Reproduces the twilight sky's color.{j}{c07}SP Armor: Purple{/c}
+495,銀火竜素材を元にした頭防具。{j}一筋の光も届かない闇を再現。{j}{c07}ＳＰ防具：黒{/c},Silver Rathalos head armor.{j}Reproduces darkness untouched by light.{j}{c07}SP Armor: Black{/c}
 496,雪山での迷彩効果を狙い、{j}白く染め上げられた頭防具。{j}{c07}ＳＰ防具：白{/c},"Aiming for camouflage on snowy mountains,{j}Head Armor dyed white.{j}{c07}SP Armor: White{/c}"
 497,樹海での迷彩効果を狙い、{j}緑に染め上げられた頭防具。{j}{c07}ＳＰ防具：緑{/c},Head armor{j}dyed green for camouflage in the Deep Woods.{j}{c07}SP Armor: Green{/c}
 498,火山での迷彩効果を狙い、{j}赤く染め上げられた頭防具。{j}{c07}ＳＰ防具：赤{/c},"For camouflage in a volcano,{j}red-dyed Head armor.{j}{c07}SP Armor: Red{/c}"
@@ -503,29 +503,29 @@ index,source,target
 501,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor prepared for rookie Hunters.{j}Its ≪A Small Perk≫ performance is the appeal?
 502,非常に貴重な白いヒプノックの{j}素材で作成された頭用装備。{j}まぶしい白さが魅力。,Head armor crafted from the extremely rare{j}white Hypnoc material. Its dazzling{j}whiteness is captivating.
 503,白いヒプノックの素材で作成{j}された頭用装備。泥や返り血を{j}浴びても白さは損なわれない。,"Head armor crafted from white Hypnoc{j}materials. Even covered in mud or blood,{j}it never loses its whiteness."
-504,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+504,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 505,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-506,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+506,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 507,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-508,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+508,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 509,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-510,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+510,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 511,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-512,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+512,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 513,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-514,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+514,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 515,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-516,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+516,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 517,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-518,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+518,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 519,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-520,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+520,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 521,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-522,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+522,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 523,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-524,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+524,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 525,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-526,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+526,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 527,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
 528,東方伝来の面。{j}意匠と機能を兼ね備えた、{j}ロマンティックなスペア面。,"A mask of Eastern origin.{j}Combining design and function, a{j}romantic spare mask."
 529,東方伝来の面。{j}意匠と機能を兼ね備えた、{j}ロマンティックなスペア面。,"A mask of Eastern origin.{j}Combining design and function, a{j}romantic spare mask."
@@ -599,12 +599,12 @@ index,source,target
 597,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：赤{/c},The hoofbeats of a phantom beast that commands lightning{j}Head equipment that you can almost hear.{j}{c07}SP Armor: Red{/c}
 598,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：紫{/c},The hoofbeats of a phantom beast that commands lightning{j}Head armor that seems to let you hear something.{j}{c07}SP Armor: Purple{/c}
 599,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな頭用装備。{j}{c07}ＳＰ防具：黒{/c},The hoofbeats of the phantom beast that commands lightning{j}Head armor that seems like you can almost hear it speak.{j}{c07}SP Armor: Black{/c}
-600,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-601,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-602,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-603,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-604,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-605,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+600,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+601,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+602,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+603,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+604,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+605,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 606,フルフルの皮で覆われた頭用{j}装備。いろいろな意味で{j}怪しい雰囲気がただよう…。,"Head armor covered in Khezu hide. In many{j}ways, it gives off a suspicious air...{j}"
 607,ガレオスの素材で作られた{j}頭用装備。大きなヒレの飾り{j}が誇らしげに輝く。,Head armor made from Gareos materials. The{j}large fin ornament shines proudly.{j}
 608,ショウグンギザミの素材で{j}作られた頭用装備。鉄を切り{j}裂くほど堅固な殻が頭を護る。,"Head armor crafted from Shogun Ceanataur{j}materials. Its shell is so sturdy it{j}slices through iron, guarding the head."
@@ -625,65 +625,65 @@ index,source,target
 623,涼しげな水色の頭装備。暑い{j}場所でも快適に狩りが出来る。{j}温暖期には重宝する。,Cool light-blue head armor. Allows you to{j}hunt comfortably even in hot places. A{j}must-have in the warm season.
 624,ギルドを守護するナイトの、{j}正式な頭装備。金色の兜は{j}選ばれし者の証。,Official head armor of the knight who{j}guards the guild. The golden helm is proof{j}of the chosen one.
 625,ギルドスタッフの正式な制服。{j}ギルドに貢献した女性のみ、{j}その着用が許される。,Official uniform of the guild staff. Only{j}women who have contributed to the guild{j}are permitted to wear it.
-626,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+626,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 627,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-628,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+628,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 629,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-630,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+630,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 631,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-632,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+632,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 633,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-634,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+634,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 635,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-636,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+636,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 637,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-638,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+638,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 639,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-640,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+640,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 641,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-642,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+642,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 643,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-644,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+644,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 645,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-646,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+646,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 647,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-648,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+648,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 649,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-650,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+650,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 651,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-652,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+652,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 653,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-654,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+654,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 655,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-656,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+656,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 657,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-658,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+658,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 659,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-660,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+660,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 661,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-662,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+662,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 663,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-664,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+664,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 665,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-666,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+666,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 667,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-668,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+668,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 669,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-670,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+670,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 671,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-672,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+672,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 673,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-674,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+674,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 675,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-676,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+676,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 677,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-678,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+678,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 679,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-680,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+680,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 681,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-682,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+682,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 683,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-684,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+684,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 685,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
 686,勇壮に輝く頭用装備。無駄の{j}一切無い機能的な作りが、狩{j}人のポテンシャルを引き出す。,Gallantly shining head armor. A functional{j}design with absolutely no waste draws out{j}a Hunter's potential.
 687,勇壮に輝く頭用装備。無駄の{j}一切無い機能的な作りが、狩{j}人のポテンシャルを引き出す。,Gallantly shining head armor. A functional{j}design with absolutely no waste draws out{j}a Hunter's potential.
@@ -929,12 +929,12 @@ index,source,target
 927,勇壮に輝く頭用装備。無駄の{j}一切無い機能的な作りが、狩{j}人のポテンシャルを引き出す。,Gallantly shining head armor. A functional{j}design with absolutely no waste draws out{j}a Hunter's potential.
 928,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった頭防具。,"Head armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
 929,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった頭防具。,"Head armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
-930,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-931,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-932,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-933,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-934,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-935,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+930,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+931,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+932,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+933,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+934,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+935,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 936,遠方の工房より伝来した頭用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,"Head{j}Equipment from a distant workshop, made{j}with insulating material; very versatile."
 937,遠方の工房より伝来した頭用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,"Head equipment passed down from a distant{j}workshop, strengthened to specialize in{j}attack. It is said that power wells up."
 938,遠方の工房より伝来した頭用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,"Head equipment from a distant workshop,{j}strengthened for defense. Excellent in{j}both attack and defense."
@@ -1564,8 +1564,8 @@ index,source,target
 1562,灰晶蠍の分厚い殻を加工して{j}作られた頭装備。仕上がりの{j}色は素材次第。,Head armor made by processing the thick{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
 1563,遙か遠方の国で祭事の際に{j}着用される物を模している。{j}とてもイカした頭防具。,Modeled after what is worn at festivals in{j}a faraway land. A very cool head armor.{j}
 1564,どこかとぼけたその面は装備{j}するだけで陽気な気分になる。{j}すごくイカした頭防具。,"Just by equipping it, that somewhat goofy{j}face makes you feel cheerful. A really{j}cool head armor."
-1565,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-1566,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+1565,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+1566,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 1567,漆黒の防具に合わせて作られた{j}特殊なピアス。妖艶な魅力に溢{j}れる。,A special piercing made to match{j}jet-black armor. Overflowing with{j}bewitching allure.
 1568,ダミー,Dummy
 1569,遠方の工房より伝来した頭用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,"Head equipment passed down from a distant{j}workshop, strengthened to specialize in{j}attack. It is said that power wells up."
@@ -1723,85 +1723,85 @@ index,source,target
 1721,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：赤{/c},"Head armor made from Gypceros materials.{j}The more it is used, the more character it gains.{j}{c07}SP Armor: Red{/c}"
 1722,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：黄{/c},"Head armor made from Gypceros materials.{j}The more it is used, the more character it gains.{j}{c07}SP Armor: Yellow{/c}"
 1723,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：緑{/c},Head armor made from Gypceros materials.{j}Gains character the more it is used.{j}{c07}SP Armor: Green{/c}
-1724,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1724,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1725,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1726,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1726,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1727,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1728,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1728,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1729,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1730,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1730,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1731,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1732,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1732,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1733,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1734,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1734,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1735,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1736,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1736,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1737,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1738,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1738,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1739,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1740,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1740,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1741,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1742,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1742,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1743,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1744,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1744,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1745,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1746,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1746,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1747,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1748,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1748,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1749,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1750,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1750,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1751,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1752,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1752,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1753,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1754,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1754,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1755,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1756,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1756,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1757,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1758,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1758,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1759,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1760,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1760,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1761,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1762,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1762,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1763,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1764,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1764,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1765,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1766,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1766,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1767,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1768,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1768,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1769,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1770,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1770,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1771,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1772,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1772,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1773,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1774,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1774,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1775,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1776,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1776,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1777,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1778,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1778,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1779,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1780,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1780,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1781,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1782,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1782,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1783,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1784,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1784,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1785,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1786,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1786,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1787,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1788,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1788,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1789,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1790,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1790,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1791,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1792,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1792,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1793,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1794,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1794,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1795,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1796,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1796,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1797,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1798,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1798,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1799,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1800,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1800,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1801,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-1802,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+1802,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1803,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
 1804,ダミー,Dummy
 1805,ダミー,Dummy
@@ -2343,8 +2343,8 @@ index,source,target
 2341,熟練の武具職人が丹精込めて{j}仕上げた最高品質の頭装備。{j}狩猟技術の研鑽に役立つ。,"Head armor of the highest quality,{j}finished with utmost care by a master{j}smith. Helps hone your hunting skills."
 2342,神々しいまでの威厳に満ちた{j}純白の頭用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white head armor. It{j}cleanses the wearer's heart as well."
 2343,神々しいまでの威厳に満ちた{j}純白の頭用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white head armor. It{j}cleanses the wearer's heart as well."
-2344,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2345,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+2344,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2345,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 2346,その美しさは見る者を魅了し、{j}感銘すら与えるという女王の{j}頭用装備。鉄壁の防御力。,"Its beauty captivates all who behold it,{j}Of the queen who even inspires awe{j}Head armor. Ironclad defense."
 2347,女王の気品、そして華麗さと{j}力強さ。すべてが凝縮された、{j}美しくも恐るべき頭用装備。,"The Queen's grace, splendor, and{j}strength. All condensed into this{j}beautiful yet fearsome head armor."
 2348,ランゴスタの素材で覆われた{j}頭用装備。元が昆虫の甲殻だ{j}とは信じられないほど。,Head equipment covered in Vespoid{j}materials. It's hard to believe it was{j}originally an insect's shell.
@@ -2529,8 +2529,8 @@ index,source,target
 2527,古くから儀式などで用いられ{j}てきた伝統的な頭防具。現代{j}風にアレンジされている。,Traditional Head armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 2528,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の頭防具。,Head armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
 2529,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の頭防具。,Head armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
-2530,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2531,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+2530,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2531,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 2532,勇猛果敢な剣士が好んで{j}装備する頭防具。,Brave and daring swordsmen prefer{j}to equip head armor.
 2533,勇猛果敢な射撃手が好んで{j}装備する頭防具。,Brave and daring gunners prefer{j}to equip head armor.
 2534,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,Head armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
@@ -2587,8 +2587,8 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2583,「ゆかた」や「がうん」と{j}いった珍しい衣類をイメージ{j}して作られた頭防具。,Head armor{j}patterned after{j}unusual garments such as kimono and gowns.
 2584,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
 2585,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
-2586,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2587,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+2586,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2587,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 2588,黒鎧竜の素材を用いて新たに{j}作成された頭防具。従来より{j}もスリムにデザインされた。,A head armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 2589,黒鎧竜の素材を用いて新たに{j}作成された頭防具。従来より{j}もスリムにデザインされた。,A head armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 2590,深淵の光牙と呼ばれた民族が{j}かつて使用していた頭防具。{j}近年、製法の解明に成功した。,Head armor once used by the Abyssal Light{j}Fang tribe. Its crafting method has only{j}recently been deciphered.
@@ -2882,16 +2882,16 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2878,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 2879,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 2880,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全を約束する。{c11}≪ＨＣ防具≫{/c},Armor passed down in Mezepolta since ancient times.{j}Its ornamental jewel promises{j}safety in the hunt.{c11}≪HC Armor≫{/c}
-2881,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2882,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2883,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+2881,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2882,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2883,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 2884,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-2885,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2886,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2887,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+2885,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2886,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2887,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 2888,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-2889,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-2890,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+2889,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+2890,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 2891,遠方の工房で開発された{j}新技術による頭用装備。{j}苛烈な性能を秘めている。,Head armor made using new technology{j}developed at a distant workshop. Harbors{j}fierce performance.
 2892,遠方の工房で開発された{j}新技術による頭用装備。{j}壮烈な性能を秘めている。,Head armor made using new technology{j}developed at a distant workshop. Harbors{j}magnificent performance.
 2893,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
@@ -4356,12 +4356,12 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 4352,新たな未開の地を踏破し、{j}採集を極めたハンターのみに{j}着用が許される頭防具。,Head Armor that only Hunters who have{j}conquered new unexplored lands and{j}mastered gathering are permitted to wear.
 4353,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
 4354,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
-4355,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-4356,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-4357,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-4358,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-4359,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-4360,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+4355,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+4356,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+4357,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+4358,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+4359,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+4360,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 4361,童話上の種族をモチーフとし{j}た頭防具。神秘的な装飾品が{j}施されている。,Head armor themed after a fairy-tale race.{j}Mysterious decorations adorn it.{j}
 4362,童話上の種族をモチーフとし{j}た頭防具。神秘的な装飾品が{j}施されている。,Head armor themed after a fairy-tale race.{j}Mysterious decorations adorn it.{j}
 4363,童話上の種族をモチーフとし{j}た頭防具。神秘的な装飾品が{j}施されている。,Head armor themed after a fairy-tale race.{j}Mysterious decorations adorn it.{j}
@@ -10446,65 +10446,65 @@ Felyne partner, meow!{j}To the sea!"
 10430,爆鎚竜の外殻で作られた{j}頭用装備。{j}{c04}≪遷悠防具：最大数弾生産≫{/c},{j}Head armor made from Uragaan's outer shell.{j}{c04}≪Exotic Armor: Maximum Bullets≫{/c}
 10431,爆鎚竜の外殻で作られた{j}頭用装備。{j}{c04}≪遷悠防具：最大数弾生産≫{/c},{j}Head armor made from Uragaan's outer shell.{j}{c04}≪Exotic Armor: Maximum Bullets≫{/c}
 10432,爆鎚竜の外殻で作られた{j}頭用装備。{j}{c04}≪遷悠防具：最大数弾生産≫{/c},{j}Head armor made from Uragaan's outer shell.{j}{c04}≪Exotic Armor: Maximum Bullets≫{/c}
-10433,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10433,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10434,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10435,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10435,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10436,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10437,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10437,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10438,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10439,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10439,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10440,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10441,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10441,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10442,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10443,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10443,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10444,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10445,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10445,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10446,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10447,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10447,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10448,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10449,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10449,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10450,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10451,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10451,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10452,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10453,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10453,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10454,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10455,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10455,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10456,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10457,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10457,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10458,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10459,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10459,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10460,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10461,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10461,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10462,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10463,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10463,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10464,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10465,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10465,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10466,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10467,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10467,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10468,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10469,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10469,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10470,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10471,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10471,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10472,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10473,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10473,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10474,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10475,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10475,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10476,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10477,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10477,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10478,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10479,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10479,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10480,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10481,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10481,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10482,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10483,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10483,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10484,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10485,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10485,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10486,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10487,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10487,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10488,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10489,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10489,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10490,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-10491,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+10491,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 10492,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
 10493,剣斧技を極めた者だけが身{j}に付けることを許された至極{j}の頭防具。,"Permitted to be worn only by those who{j}have mastered Switch Axe techniques, this{j}is the utmost Head armor."
 10494,剣斧技を極めた者だけが身{j}に付けることを許された至極{j}の頭防具。,"Permitted to be worn only by those who{j}have mastered Switch Axe techniques, this{j}is the utmost Head armor."
@@ -13250,45 +13250,45 @@ Felyne partner, meow!{j}To the sea!"
 13234,遠国の服装を模した頭防具。{j}ワンポイントが決め手の逸品。{j}{c28}≪辿異狩護≫{/c},Head armor styled after the dress of a distant land.{j}A masterpiece defined by its accent.{j}{c28}≪Zenith Hunting Guard≫{/c}
 13235,底知れぬ妖しさと、{j}高貴さが合わさった{j}奇特な頭防具。{c28}≪辿異狩護≫{/c},A bizarre head armor where unfathomable allure and{j}nobility are combined{j}.{c28}≪Zenith Hunting Guard≫{/c}
 13236,底知れぬ妖しさと、{j}高貴さが合わさった{j}奇特な頭防具。{c28}≪辿異狩護≫{/c},A bizarre head armor where unfathomable allure and{j}nobility are combined{j}.{c28}≪Zenith Hunting Guard≫{/c}
-13237,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13237,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13238,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13239,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13239,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13240,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13241,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13241,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13242,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13243,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13243,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13244,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13245,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13245,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13246,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13247,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13247,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13248,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13249,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13249,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13250,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13251,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13251,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13252,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13253,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13253,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13254,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13255,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13255,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13256,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13257,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13257,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13258,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13259,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13259,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13260,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13261,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13261,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13262,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13263,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13263,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13264,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13265,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13265,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13266,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13267,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13267,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13268,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13269,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13269,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13270,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13271,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13271,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13272,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13273,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13273,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13274,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
-13275,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent."
+13275,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 13276,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
 13277,0,
 13278,0,
@@ -15031,12 +15031,12 @@ Felyne partner, meow!{j}To the sea!"
 15015,尾晶蠍を屠りし者の証たる{j}胴装備。素材の体液の色で{j}仕上がり時の色が異なる。,Body armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 15016,尾晶蠍を屠りし者の証たる{j}胴装備。素材の体液の色で{j}仕上がり時の色が異なる。,Body armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 15017,尾晶蠍を屠りし者の証たる{j}胴装備。素材の体液の色で{j}仕上がり時の色が異なる。,Body armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
-15018,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15019,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15020,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15021,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15022,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15023,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+15018,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15019,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15020,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15021,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15022,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15023,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 15024,東方伝来の装束。{j}意匠と機能を兼ね備えた、{j}ロマンティックな胴防具。,"Attire of Eastern origin.{j}Combining design and function,{j}romantic Body armor."
 15025,東方伝来の装束。{j}意匠と機能を兼ね備えた、{j}ロマンティックな胴防具。,"Attire of Eastern origin.{j}Combining design and function,{j}romantic Body armor."
 15026,東方伝来の装束。{j}意匠と機能を兼ね備えた、{j}ロマンティックな胴防具。,"Attire of Eastern origin.{j}Combining design and function,{j}romantic Body armor."
@@ -15131,12 +15131,12 @@ Felyne partner, meow!{j}To the sea!"
 15115,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな胴用装備。{j}{c07}ＳＰ防具：赤{/c},The hoofbeats of the phantom beast that commands lightning{j}Body equipment that you can almost hear.{j}{c07}SP Armor: Red{/c}
 15116,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな胴用装備。{j}{c07}ＳＰ防具：紫{/c},The hoofbeats of the phantom beast that commands lightning...{j}Body armor that you can almost hear.{j}{c07}SP Armor: Purple{/c}
 15117,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな胴用装備。{j}{c07}ＳＰ防具：黒{/c},The hoofbeats of a mythical beast that commands lightning{j}Body equipment that seems to whisper.{j}{c07}SP Armor: Black{/c}
-15118,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15119,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15120,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15121,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15122,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15123,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+15118,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15119,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15120,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15121,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15122,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15123,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 15124,フルフルの皮で覆われた胴用{j}装備。着用したときの一体感{j}が魅力？の一品。,Body equipment covered in Khezu hide.{j}The sense of unity when worn{j}is its questionable appeal.
 15125,ガレオスの素材で作られた{j}胴用装備。その鱗は、高い{j}防御力を持つ反面、雷に弱い。,"Body equipment made from Cephadrome{j}materials. Its scales grant high Defense,{j}but they are weak to Thunder."
 15126,鎌蟹の堅固なブレード部分を{j}多用した胴用装備。うかつに{j}触れれば無傷ではすまない。,Body armor made with many of the Sickle{j}Crab's sturdy blades. Touch it carelessly{j}and you will not escape unscathed.
@@ -15347,12 +15347,12 @@ Felyne partner, meow!{j}To the sea!"
 15331,勇壮に輝く胴用装備。革新的{j}な技術によって従来では不可{j}能だった円滑な動作が可能に。,"Valiant, gleaming body armor. Innovative{j}technology enables smooth movements that{j}were previously impossible."
 15332,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった胴防具。,"Body armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
 15333,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった胴防具。,"Body armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
-15334,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15335,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15336,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15337,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15338,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15339,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+15334,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15335,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15336,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15337,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15338,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15339,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 15340,遠方の工房より伝来した胴用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,{j}Body armor from a distant workshop.{j}Insulating material makes it versatile.
 15341,遠方の工房より伝来した胴用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,{j}Attack-specialized body armor from a{j}distant workshop. Power wells up.
 15342,遠方の工房より伝来した胴用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,{j}Defense body armor from a distant{j}workshop. Excellent in attack and defense.
@@ -15936,8 +15936,8 @@ Felyne partner, meow!{j}To the sea!"
 15920,灰晶蠍の分厚い殻を加工して{j}作られた胴装備。仕上がりの{j}色は素材次第。,Body armor made by processing the thick{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
 15921,遙か遠方の国で祭事の際に{j}着用される物を模している。{j}とてもイカした胴防具。,Modeled after what is worn at festivals in{j}a faraway land. A very cool body armor.{j}
 15922,どこかとぼけたその姿は装備{j}するだけで陽気な気分になる。{j}すごくイカした胴防具。,"Just by equipping it, that somewhat goofy{j}appearance makes you feel cheerful. A{j}really cool body armor."
-15923,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-15924,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+15923,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+15924,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 15925,非常に手の込んだ造りの極上の{j}胴用装備。堅牢なその装甲は、{j}吸い込まれそうな闇の色。,Exquisite body armor of elaborate{j}craftsmanship. Its sturdy plating is a{j}darkness that seems to swallow you whole.
 15926,遠方の工房より伝来した胴用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,{j}Attack-specialized body armor from a{j}distant workshop. Power wells up.
 15927,遠方の工房より伝来した胴用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,{j}Defense body armor from a distant{j}workshop. Excellent in attack and defense.
@@ -16528,8 +16528,8 @@ Felyne partner, meow!{j}To the sea!"
 16512,熟練の武具職人が丹精込めて{j}仕上げた最高品質の胴装備。{j}狩猟技術の研鑽に役立つ。,Top-quality Body armor finished with great{j}care by a skilled armorer. Aids in honing{j}your hunting skills.
 16513,神々しいまでの威厳に満ちた{j}純白の胴用防具。着用者の{j}心も洗われる。,Pure white body armor filled with{j}awe-inspiring majesty. It even purifies{j}the wearer's heart.
 16514,神々しいまでの威厳に満ちた{j}純白の胴用防具。着用者の{j}心も洗われる。,Pure white body armor filled with{j}awe-inspiring majesty. It even purifies{j}the wearer's heart.
-16515,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16516,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+16515,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16516,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 16517,夜空を焦がすかがり火を思わ{j}せる、桃色の胴装備。温かさ{j}と同時に力強さを感じさせる。,Pink body armor reminiscent of a bonfire{j}burning the night sky. It gives a sense of{j}warmth and strength at the same time.
 16518,大地を支配する女王にふさわ{j}しい胴用装備。並の金属では{j}傷もつかない鱗が全身を覆う。,Body armor befitting a queen who rules the{j}earth. Scales that no ordinary metal can{j}so much as scratch cover the whole body.
 16519,ランゴスタの素材で覆われた{j}胴用装備。雷を通さないとい{j}う甲殻の特性を利用している。,Body equipment covered in Vespoid{j}materials. It utilizes the shell's{j}property of not conducting electricity.
@@ -16692,8 +16692,8 @@ Felyne partner, meow!{j}To the sea!"
 16676,古くから儀式などで用いられ{j}てきた伝統的な胴防具。現代{j}風にアレンジされている。,Traditional Body armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 16677,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の胴防具。,Body armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
 16678,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の胴防具。,Body armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
-16679,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16680,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+16679,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16680,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 16681,勇猛果敢な剣士が好んで{j}装備する胴防具。,Body Armor that valiant swordsmen prefer{j}to equip.
 16682,勇猛果敢な射撃手が好んで{j}装備する胴防具。,Brave and daring gunners prefer{j}to equip body armor.
 16683,ギルドへの貢献度に応じて{j}贈られる胴防具。高度な{j}狩猟技術を持つ狩人の証。,Body armor awarded for contributions to{j}the Guild. Proof of a Hunter with advanced{j}hunting skills.
@@ -16738,8 +16738,8 @@ Felyne partner, meow!{j}To the sea!"
 16722,「ゆかた」や「がうん」と{j}いった珍しい衣類をイメージ{j}して作られた胴防具。,Body armor{j}patterned after{j}unusual garments such as kimono and gowns.
 16723,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
 16724,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
-16725,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16726,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+16725,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16726,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 16727,黒鎧竜の素材を用いて新たに{j}作成された胴防具。従来より{j}もスリムにデザインされた。,A body armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 16728,黒鎧竜の素材を用いて新たに{j}作成された胴防具。従来より{j}もスリムにデザインされた。,A body armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 16729,深淵の光牙と呼ばれた民族が{j}かつて使用していた胴防具。{j}近年、製法の解明に成功した。,Body armor once used by the Abyssal Light{j}Fang tribe. Its crafting method has only{j}recently been deciphered.
@@ -17003,16 +17003,16 @@ Felyne partner, meow!{j}To the sea!"
 16987,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 16988,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 16989,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全を約束する。{c11}≪ＨＣ防具≫{/c},Armor passed down in Mezepolta since ancient times.{j}Its ornamental jewel promises{j}safety in the hunt.{c11}≪HC Armor≫{/c}
-16990,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16991,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16992,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+16990,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16991,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16992,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 16993,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-16994,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16995,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16996,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+16994,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16995,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16996,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 16997,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-16998,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-16999,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+16998,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+16999,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 17000,遠方の工房で開発された{j}新技術による胴用装備。{j}苛烈な性能を秘めている。,Body armor made with new technology{j}developed in a distant workshop. It{j}possesses severe performance.
 17001,遠方の工房で開発された{j}新技術による胴用装備。{j}壮烈な性能を秘めている。,Body armor made with new technology{j}developed in a distant workshop. It{j}possesses magnificent performance.
 17002,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
@@ -18409,12 +18409,12 @@ Felyne partner, meow!{j}To the sea!"
 18393,新たな未開の地を踏破し、{j}採集を極めたハンターのみに{j}着用が許される胴防具。,Body Armor that only Hunters who have{j}conquered new unexplored lands and{j}mastered gathering are permitted to wear.
 18394,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
 18395,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
-18396,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-18397,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-18398,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-18399,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-18400,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-18401,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+18396,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+18397,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+18398,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+18399,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+18400,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+18401,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 18402,童話上の種族をモチーフとし{j}た胴防具。神秘的な装飾品が{j}施されている。,Body armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 18403,童話上の種族をモチーフとし{j}た胴防具。神秘的な装飾品が{j}施されている。,Body armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 18404,童話上の種族をモチーフとし{j}た胴防具。神秘的な装飾品が{j}施されている。,Body armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
@@ -28500,12 +28500,12 @@ Felyne partner, meow!{j}To the sea!"
 28472,尾晶蠍を屠りし者の証たる{j}腕装備。素材の体液の色で{j}仕上がり時の色が異なる。,Arm armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 28473,尾晶蠍を屠りし者の証たる{j}腕装備。素材の体液の色で{j}仕上がり時の色が異なる。,Arm armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 28474,尾晶蠍を屠りし者の証たる{j}腕装備。素材の体液の色で{j}仕上がり時の色が異なる。,Arm armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
-28475,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28476,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28477,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28478,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28479,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28480,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+28475,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28476,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28477,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28478,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28479,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28480,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 28481,東方伝来の籠手。{j}意匠と機能を兼ね備えた、{j}ロマンティックな腕防具。,"Gauntlets of Eastern origin.{j}Combining design and function,{j}romantic Arms armor."
 28482,東方伝来の籠手。{j}意匠と機能を兼ね備えた、{j}ロマンティックな腕防具。,"Gauntlets of Eastern origin.{j}Combining design and function,{j}romantic Arms armor."
 28483,東方伝来の籠手。{j}意匠と機能を兼ね備えた、{j}ロマンティックな腕防具。,"Gauntlets of Eastern origin.{j}Combining design and function,{j}romantic Arms armor."
@@ -28600,12 +28600,12 @@ Felyne partner, meow!{j}To the sea!"
 28572,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな腕用装備。{j}{c07}ＳＰ防具：赤{/c},The hoofbeats of the phantom beast that commands lightning{j}Arm equipment that seems to make a sound.{j}{c07}SP Armor: Red{/c}
 28573,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな腕用装備。{j}{c07}ＳＰ防具：紫{/c},The hoofbeats of the phantom beast that commands lightning{j}Arm gear that you can almost hear.{j}{c07}SP Armor: Purple{/c}
 28574,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな腕用装備。{j}{c07}ＳＰ防具：黒{/c},The hoofbeats of the phantom beast that commands lightning{j}Arms equipment you can almost hear.{j}{c07}SP Armor: Black{/c}
-28575,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28576,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28577,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28578,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28579,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28580,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+28575,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28576,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28577,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28578,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28579,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28580,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 28581,フルフルの皮で覆われた腕用{j}装備。ヒンヤリした素材が{j}案外心地よい…。,Arm equipment covered in Khezu hide.{j}The cool material is{j}surprisingly comfortable...
 28582,良質なガレオスの素材を{j}使った腕用装備。通気性が{j}よく炎天下の使用に便利。,Arm armor made with quality Galeos{j}materials. Breathable and handy under the{j}blazing sun.
 28583,鎌蟹の素材で作られた腕装備。{j}鋭利なブレードが、ダメージ{j}を上乗せしていく。,Arm armor made from Sickle Crab materials.{j}Its sharp blade piles on{j}extra damage.
@@ -28817,12 +28817,12 @@ Felyne partner, meow!{j}To the sea!"
 28789,勇壮に輝く腕用装備。奇跡的{j}な軽量化によって、鋭敏な立{j}ち回りが可能に。,Gallantly shining arm armor. A miraculous{j}weight reduction enables agile{j}maneuvering.
 28790,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった腕防具。,"Arm armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
 28791,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった腕防具。,"Arm armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
-28792,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28793,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28794,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28795,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28796,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-28797,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+28792,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28793,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28794,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28795,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28796,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+28797,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 28798,遠方の工房より伝来した腕用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,{j}Arm gear from a distant workshop.{j}Insulating material makes it versatile.
 28799,遠方の工房より伝来した腕用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,{j}Attack-specialized arm armor from a{j}distant workshop. Power wells up.
 28800,遠方の工房より伝来した腕用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,{j}Defense arm armor from a distant workshop.{j}Excellent in attack and defense.
@@ -29401,8 +29401,8 @@ Felyne partner, meow!{j}To the sea!"
 29373,灰晶蠍の分厚い殻を加工して{j}作られた腕装備。仕上がりの{j}色は素材次第。,Arm armor made by processing the thick{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
 29374,遙か遠方の国で祭事の際に{j}着用される物を模している。{j}とてもイカした腕防具。,Modeled after what is worn at festivals in{j}a faraway land. A very cool arms armor.{j}
 29375,どこかとぼけたその姿は装備{j}するだけで陽気な気分になる。{j}すごくイカした腕防具。,"Just by equipping it, that somewhat goofy{j}appearance makes you feel cheerful. Really{j}cool arm armor."
-29376,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-29377,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+29376,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+29377,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 29378,闇に溶け込むほど黒く、妖しい{j}腕用装備。しなやかなその造り{j}は、持つ武器を選ばない。,Arm gear so black and eerie it blends into{j}the dark. Its supple make suits any weapon{j}you wield.
 29379,遠方の工房より伝来した腕用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,{j}Attack-specialized arm armor from a{j}distant workshop. Power wells up.
 29380,遠方の工房より伝来した腕用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,{j}Defense arm armor from a distant workshop.{j}Excellent in attack and defense.
@@ -29989,8 +29989,8 @@ Felyne partner, meow!{j}To the sea!"
 29961,熟練の武具職人が丹精込めて{j}仕上げた最高品質の腕装備。{j}狩猟技術の研鑽に役立つ。,Top-quality Arms armor finished with great{j}care by a skilled armorer. Aids in honing{j}your hunting skills.
 29962,神々しいまでの威厳に満ちた{j}純白の腕用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white arms armor. It{j}cleanses the wearer's heart as well."
 29963,神々しいまでの威厳に満ちた{j}純白の腕用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white arms armor. It{j}cleanses the wearer's heart as well."
-29964,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-29965,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+29964,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+29965,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 29966,夕刻のはかない光を放つ桃色{j}の防具。これに歯向かう者は、{j}陽が沈む如くその命を終える。,Pink armor that gives off the fleeting{j}light of dusk. Those who defy it end their{j}lives like the setting sun.
 29967,神秘的な緑の鱗に覆われた腕{j}装備。陸を統べる者の覇気が{j}随所から強く伝わってくる。,Arms gear covered in mysterious green{j}scales. The aura of the one who rules the{j}land radiates strongly from every part.
 29968,ランゴスタの素材で覆われた{j}腕用装備。昆虫素材特有の{j}光沢が魅力。,Arm equipment covered in Vespoid{j}materials. Its charm is the luster unique{j}to insect materials.
@@ -30153,8 +30153,8 @@ Felyne partner, meow!{j}To the sea!"
 30125,古くから儀式などで用いられ{j}てきた伝統的な腕防具。現代{j}風にアレンジされている。,Traditional Arms armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 30126,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の腕防具。,Arm armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
 30127,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の腕防具。,Arm armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
-30128,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30129,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+30128,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30129,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 30130,勇猛果敢な剣士が好んで{j}装備する腕防具。,Arms Armor that valiant swordsmen prefer{j}to equip.
 30131,勇猛果敢な射撃手が好んで{j}装備する腕防具。,Brave and daring gunners prefer{j}to equip arm armor.
 30132,ギルドへの貢献度に応じて{j}贈られる腕防具。高度な{j}狩猟技術を持つ狩人の証。,Arm armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
@@ -30199,8 +30199,8 @@ Felyne partner, meow!{j}To the sea!"
 30171,「ゆかた」や「がうん」と{j}いった珍しい衣類をイメージ{j}して作られた腕防具。,Arm armor{j}patterned after{j}unusual garments such as kimono and gowns.
 30172,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
 30173,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
-30174,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30175,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+30174,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30175,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 30176,黒鎧竜の素材を用いて新たに{j}作成された腕防具。従来より{j}もスリムにデザインされた。,An arm armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 30177,黒鎧竜の素材を用いて新たに{j}作成された腕防具。従来より{j}もスリムにデザインされた。,An arm armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 30178,深淵の光牙と呼ばれた民族が{j}かつて使用していた腕防具。{j}近年、製法の解明に成功した。,Arm armor once used by the Abyssal Light{j}Fang tribe. Its crafting method has only{j}recently been deciphered.
@@ -30464,16 +30464,16 @@ Felyne partner, meow!{j}To the sea!"
 30436,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 30437,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 30438,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全を約束する。{c11}≪ＨＣ防具≫{/c},Armor passed down in Mezepolta since ancient times.{j}Its ornamental jewel promises{j}safety in the hunt.{c11}≪HC Armor≫{/c}
-30439,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30440,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30441,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+30439,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30440,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30441,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 30442,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-30443,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30444,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30445,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+30443,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30444,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30445,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 30446,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-30447,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-30448,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+30447,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+30448,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 30449,遠方の工房で開発された{j}新技術による腕用装備。{j}苛烈な性能を秘めている。,Arms armor made using new technology{j}developed at a distant workshop. Harbors{j}fierce performance.
 30450,遠方の工房で開発された{j}新技術による腕用装備。{j}壮烈な性能を秘めている。,Arms armor made using new technology{j}developed at a distant workshop. Harbors{j}magnificent performance.
 30451,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
@@ -31876,12 +31876,12 @@ Felyne partner, meow!{j}To the sea!"
 31848,新たな未開の地を踏破し、{j}採集を極めたハンターのみに{j}着用が許される腕防具。,Arms Armor that only Hunters who have{j}conquered new unexplored lands and{j}mastered gathering are permitted to wear.
 31849,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
 31850,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
-31851,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-31852,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-31853,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-31854,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-31855,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-31856,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+31851,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+31852,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+31853,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+31854,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+31855,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+31856,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 31857,童話上の種族をモチーフとし{j}た腕防具。神秘的な装飾品が{j}施されている。,Arms armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 31858,童話上の種族をモチーフとし{j}た腕防具。神秘的な装飾品が{j}施されている。,Arms armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 31859,童話上の種族をモチーフとし{j}た腕防具。神秘的な装飾品が{j}施されている。,Arms armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
@@ -41971,12 +41971,12 @@ Felyne partner, meow!{j}To the sea!"
 41931,尾晶蠍を屠りし者の証たる{j}腰装備。素材の体液の色で{j}仕上がり時の色が異なる。,Waist armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 41932,尾晶蠍を屠りし者の証たる{j}腰装備。素材の体液の色で{j}仕上がり時の色が異なる。,Waist armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 41933,尾晶蠍を屠りし者の証たる{j}腰装備。素材の体液の色で{j}仕上がり時の色が異なる。,Waist armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
-41934,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-41935,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-41936,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-41937,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-41938,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-41939,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+41934,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+41935,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+41936,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+41937,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+41938,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+41939,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 41940,東方伝来の帯。{j}意匠と機能を兼ね備えた、{j}ロマンティックな腰防具。,"A sash from the East.{j}Both stylish and functional,{j}a romantic piece of Waist armor."
 41941,東方伝来の帯。{j}意匠と機能を兼ね備えた、{j}ロマンティックな腰防具。,"A sash from the East.{j}Both stylish and functional,{j}a romantic piece of Waist armor."
 41942,東方伝来の帯。{j}意匠と機能を兼ね備えた、{j}ロマンティックな腰防具。,"A sash from the East.{j}Both stylish and functional,{j}a romantic piece of Waist armor."
@@ -42095,12 +42095,12 @@ Felyne partner, meow!{j}To the sea!"
 42055,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな腰用装備。{j}{c07}ＳＰ防具：赤{/c},The hoofbeats of the phantom beast that commands lightning{j}Waist armor that seems to whisper to you.{j}{c07}SP Armor: Red{/c}
 42056,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな腰用装備。{j}{c07}ＳＰ防具：紫{/c},The hoofbeats of the phantom beast that commands thunder{j}Waist equipment that you can almost hear.{j}{c07}SP Armor: Purple{/c}
 42057,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな腰用装備。{j}{c07}ＳＰ防具：黒{/c},The hoofbeats of the lightning-clad phantom beast{j}Waist equipment that you can almost hear.{j}{c07}SP Armor: Black{/c}
-42058,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42059,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42060,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42061,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42062,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42063,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+42058,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42059,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42060,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42061,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42062,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42063,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 42064,フルフルの皮で覆われた腰用{j}装備。着用したときの一体感{j}が魅力？の一品。,Waist armor{j}covered in Khezu hide. Its charm? That{j}sense of oneness when worn.
 42065,ガレオスの素材で作られた{j}腰用装備。強固な鱗は物理{j}防御に優れる反面、雷に弱い。,"Waist armor made from Gareos materials.{j}Its sturdy scales are excellent for{j}physical defense, but weak to Thunder."
 42066,ショウグンギザミの堅固な殻{j}が腰を護る。刃引きされてい{j}ないので、取り扱いには注意。,"The Shogun Ceanataur's{j}sturdy shell guards the waist. It has not{j}been blunted, so handle it with care."
@@ -42371,12 +42371,12 @@ Felyne partner, meow!{j}To the sea!"
 42331,勇壮に輝く腰用装備。空気抵{j}抗を考慮した作りによって、{j}敏捷な狩猟が可能に。,Gallantly shining waist armor. A design{j}that considers air resistance enables{j}agile hunting.
 42332,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった腰防具。,"Waist armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
 42333,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった腰防具。,"Waist armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
-42334,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42335,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42336,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42337,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42338,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42339,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+42334,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42335,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42336,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42337,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42338,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42339,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 42340,遠方の工房より伝来した腰用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,{j}Waist gear from a distant workshop.{j}Insulating material makes it versatile.
 42341,遠方の工房より伝来した腰用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,"Waist equipment passed down from a distant{j}workshop, strengthened to specialize in{j}attack. It is said that power wells up."
 42342,遠方の工房より伝来した腰用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,Defense waist equipment from a distant{j}workshop. Excellent in attack and defense.{j}
@@ -42959,8 +42959,8 @@ Felyne partner, meow!{j}To the sea!"
 42919,灰晶蠍の分厚い殻を加工して{j}作られた腰装備。仕上がりの{j}色は素材次第。,Waist armor made by processing the thick{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
 42920,遙か遠方の国で祭事の際に{j}着用される物を模している。{j}とてもイカした腰防具。,Modeled after what is worn at festivals in{j}a faraway land. A very cool waist armor.{j}
 42921,どこかとぼけたその姿は装備{j}するだけで陽気な気分になる。{j}すごくイカした腰防具。,"Just by equipping it, that somewhat goofy{j}appearance makes you feel cheerful. Really{j}cool waist armor."
-42922,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-42923,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+42922,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+42923,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 42924,遥か古の様式美をみごとに再現{j}した漆黒の腰用装備。実用性に{j}於いても折り紙付き。,Jet-black waist armor beautifully{j}recreating an ancient aesthetic. Its{j}practicality is assured as well.
 42925,遠方の工房より伝来した腰用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,"Waist equipment passed down from a distant{j}workshop, strengthened to specialize in{j}attack. It is said that power wells up."
 42926,遠方の工房より伝来した腰用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,Defense waist equipment from a distant{j}workshop. Excellent in attack and defense.{j}
@@ -43612,8 +43612,8 @@ Felyne partner, meow!{j}To the sea!"
 43572,熟練の武具職人が丹精込めて{j}仕上げた最高品質の腰装備。{j}狩猟技術の研鑽に役立つ。,"Waist armor of the highest quality,{j}finished with utmost care by a master{j}smith. Helps hone your hunting skills."
 43573,神々しいまでの威厳に満ちた{j}純白の腰用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white waist armor. It{j}cleanses the wearer's heart as well."
 43574,神々しいまでの威厳に満ちた{j}純白の腰用防具。着用者の{j}心も洗われる。,"Filled with a dignity that borders on the{j}divine, this pure white waist armor. It{j}cleanses the wearer's heart as well."
-43575,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-43576,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+43575,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+43576,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 43577,華麗な美を全身から放つ桃色{j}の腰用装備。強度に重量の{j}均整と、どれを取っても一級。,Pink waist armor radiating beauty. Its{j}strength and weight are balanced to the{j}highest standard.
 43578,緑色の聡明な光をまとう女王{j}の腰装備。凶暴なモンスター{j}たちが恐れをなすほどの防御。,Waist armor of a queen clad in a wise{j}green light. Defense enough to make{j}ferocious monsters cower in fear.
 43579,巨大虫の素材を使用した腰用{j}装備。複雑な加工を施し、{j}比較的高い龍耐性が実現。,Waist gear made from giant insect{j}materials. Complex processing has{j}produced fairly high Dragon resistance.
@@ -43776,8 +43776,8 @@ Felyne partner, meow!{j}To the sea!"
 43736,古くから儀式などで用いられ{j}てきた伝統的な腰防具。現代{j}風にアレンジされている。,Traditional Waist armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 43737,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の腰防具。,Waist armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
 43738,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の腰防具。,Waist armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
-43739,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-43740,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+43739,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+43740,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 43741,勇猛果敢な剣士が好んで{j}装備する腰防具。,Waist Armor that valiant swordsmen prefer{j}to equip.
 43742,勇猛果敢な射撃手が好んで{j}装備する腰防具。,Brave and daring gunners prefer{j}to equip waist armor.
 43743,ギルドへの貢献度に応じて{j}贈られる腰防具。高度な{j}狩猟技術を持つ狩人の証。,Waist armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
@@ -43822,8 +43822,8 @@ Felyne partner, meow!{j}To the sea!"
 43782,「ゆかた」や「がうん」と{j}いった珍しい衣類をイメージ{j}して作られた腰防具。,Waist armor{j}patterned after{j}unusual garments such as kimono and gowns.
 43783,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
 43784,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
-43785,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-43786,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+43785,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+43786,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 43787,黒鎧竜の素材を用いて新たに{j}作成された腰防具。従来より{j}もスリムにデザインされた。,A waist armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 43788,黒鎧竜の素材を用いて新たに{j}作成された腰防具。従来より{j}もスリムにデザインされた。,A waist armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 43789,深淵の光牙と呼ばれた民族が{j}かつて使用していた腰防具。{j}近年、製法の解明に成功した。,Waist armor once used by the Abyssal Light{j}Fang tribe. Its crafting method has only{j}recently been deciphered.
@@ -44086,16 +44086,16 @@ Felyne partner, meow!{j}To the sea!"
 44046,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 44047,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 44048,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全を約束する。{c11}≪ＨＣ防具≫{/c},Armor passed down in Mezepolta since ancient times.{j}Its ornamental jewel promises{j}safety in the hunt.{c11}≪HC Armor≫{/c}
-44049,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-44050,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-44051,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+44049,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+44050,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+44051,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 44052,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-44053,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-44054,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-44055,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+44053,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+44054,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+44055,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 44056,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-44057,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-44058,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+44057,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+44058,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 44059,遠方の工房で開発された{j}新技術による腰用装備。{j}苛烈な性能を秘めている。,Waist armor made using new technology{j}developed at a distant workshop. Harbors{j}fierce performance.
 44060,遠方の工房で開発された{j}新技術による腰用装備。{j}壮烈な性能を秘めている。,Waist armor made using new technology{j}developed at a distant workshop. Harbors{j}magnificent performance.
 44061,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
@@ -45494,12 +45494,12 @@ Felyne partner, meow!{j}To the sea!"
 45454,新たな未開の地を踏破し、{j}採集を極めたハンターのみに{j}着用が許される腰防具。,Waist Armor that only Hunters who have{j}conquered new unexplored lands and{j}mastered gathering are permitted to wear.
 45455,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
 45456,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
-45457,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-45458,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-45459,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-45460,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-45461,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-45462,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+45457,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+45458,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+45459,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+45460,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+45461,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+45462,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 45463,童話上の種族をモチーフとし{j}た腰防具。神秘的な装飾品が{j}施されている。,Waist armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 45464,童話上の種族をモチーフとし{j}た腰防具。神秘的な装飾品が{j}施されている。,Waist armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 45465,童話上の種族をモチーフとし{j}た腰防具。神秘的な装飾品が{j}施されている。,Waist armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
@@ -55690,12 +55690,12 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 55635,尾晶蠍を屠りし者の証たる{j}脚装備。素材の体液の色で{j}仕上がり時の色が異なる。,Leg armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 55636,尾晶蠍を屠りし者の証たる{j}脚装備。素材の体液の色で{j}仕上がり時の色が異なる。,Leg armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
 55637,尾晶蠍を屠りし者の証たる{j}脚装備。素材の体液の色で{j}仕上がり時の色が異なる。,Leg armor proving its wearer slew a Tail{j}Crystal Scorpion. Its final color varies{j}with the material's body fluids.
-55638,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55639,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55640,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55641,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55642,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55643,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+55638,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55639,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55640,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55641,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55642,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55643,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 55644,東方伝来の足袋。{j}意匠と機能を兼ね備えた、{j}ロマンティックな脚防具。,"Split-toe footwear of Eastern origin.{j}Combining design and function, a{j}romantic leg armor."
 55645,東方伝来の足袋。{j}意匠と機能を兼ね備えた、{j}ロマンティックな脚防具。,"Split-toe footwear of Eastern origin.{j}Combining design and function, a{j}romantic leg armor."
 55646,東方伝来の足袋。{j}意匠と機能を兼ね備えた、{j}ロマンティックな脚防具。,"Split-toe footwear of Eastern origin.{j}Combining design and function, a{j}romantic leg armor."
@@ -55790,12 +55790,12 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 55735,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな脚用装備。{j}{c07}ＳＰ防具：赤{/c},The hoofbeats of the phantom beast that wields lightning{j}Leg armor that you can almost hear coming.{j}{c07}SP Armor: Red{/c}
 55736,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな脚用装備。{j}{c07}ＳＰ防具：紫{/c},The hoofbeats of a phantom beast that commands thunder{j}Leg armor that seems to make a sound.{j}{c07}SP Armor: Purple{/c}
 55737,雷を侍らす幻獣の蹄音が{j}聞こえてきそうな脚用装備。{j}{c07}ＳＰ防具：黒{/c},The hoofbeats of a phantom beast that commands thunder{j}Leg armor that you can almost hear.{j}{c07}SP Armor: Black{/c}
-55738,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55739,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55740,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55741,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55742,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55743,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+55738,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55739,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55740,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55741,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55742,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55743,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 55744,フルフルの皮で覆われた脚用{j}装備。ヒンヤリした素材が{j}案外心地よい…。,Leg equipment covered in Khezu hide.{j}The cool material is{j}surprisingly comfortable...
 55745,ガレオスの鱗を隙間なくつな{j}いで作った脚用の装備。安定{j}性が高くどんな場所でも活躍。,"Leg armor made by joining Gareos scales{j}with no gaps. Highly stable, it performs{j}well anywhere."
 55746,ショウグンギザミの素材で{j}作られた脚用装備。堅固な殻{j}の加工には最新の技術を使用。,Legs armor crafted from Shogun Ceanataur{j}materials. The latest technology is used{j}to work its sturdy shell.
@@ -56008,12 +56008,12 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 55952,勇壮に輝く脚用装備。狩人の{j}動きを研究し尽くしたデザイ{j}ンで、疾風の素早さを約束。,"Valiant, gleaming leg armor. Its design{j}thoroughly accounts for Hunters'{j}movements, promising the speed of a gale."
 55953,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった脚防具。,"Leg armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
 55954,狩人祭の勝利を願って生産さ{j}れたという、荘厳な雰囲気を{j}まとった脚防具。,"Leg armor said to be made in hope of{j}victory at the Hunter's Festival, wrapped{j}in a majestic air."
-55955,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55956,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55957,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55958,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55959,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-55960,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+55955,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55956,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55957,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55958,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55959,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+55960,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 55961,遠方の工房より伝来した脚用{j}装備。断熱性に優れた特殊な{j}素材が使用され汎用性が高い。,{j}Leg gear from a distant workshop.{j}Insulating material makes it versatile.
 55962,遠方の工房より伝来した脚用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,{j}Attack-specialized leg armor from a{j}distant workshop. Power wells up.
 55963,遠方の工房より伝来した脚用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,{j}Defense leg armor from a distant workshop.{j}Excellent in attack and defense.
@@ -56591,8 +56591,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 56534,灰晶蠍の分厚い殻を加工して{j}作られた脚装備。仕上がりの{j}色は素材次第。,Leg armor made by processing the thick{j}shell of an Ash Crystal Scorpion. The{j}finished color depends on the material.
 56535,遙か遠方の国で祭事の際に{j}着用される物を模している。{j}とてもイカした脚防具。,Modeled after what is worn at festivals in{j}a faraway land. A very cool leg armor.{j}
 56536,どこかとぼけたその姿は装備{j}するだけで陽気な気分になる。{j}すごくイカした脚防具。,"Just by equipping it, that somewhat goofy{j}appearance makes you feel cheerful. Really{j}cool leg armor."
-56537,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-56538,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+56537,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+56538,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 56539,見るものに畏怖の念を抱かせる{j}黒い脚用装備。重厚な見た目と{j}は異なり、非常に動きやすい。,"Black leg armor that strikes awe{j}into all who behold it. Though it looks{j}heavy, it is remarkably easy to move in."
 56540,遠方の工房より伝来した脚用{j}装備を攻撃に特化して強化し{j}たもの。力が湧き出るという。,{j}Attack-specialized leg armor from a{j}distant workshop. Power wells up.
 56541,遠方の工房より伝来した脚用{j}装備を防御に特化して強化し{j}たもの。攻守に優れている。,{j}Defense leg armor from a distant workshop.{j}Excellent in attack and defense.
@@ -57183,8 +57183,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 57126,熟練の武具職人が丹精込めて{j}仕上げた最高品質の脚装備。{j}狩猟技術の研鑽に役立つ。,Top-quality Legs armor finished with great{j}care by a skilled armorer. Aids in honing{j}your hunting skills.
 57127,神々しいまでの威厳に満ちた{j}純白の脚用防具。着用者の{j}心も洗われる。,Pure white leg armor filled with{j}awe-inspiring majesty. It even purifies{j}the wearer's heart.
 57128,神々しいまでの威厳に満ちた{j}純白の脚用防具。着用者の{j}心も洗われる。,Pure white leg armor filled with{j}awe-inspiring majesty. It even purifies{j}the wearer's heart.
-57129,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57130,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+57129,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57130,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 57131,桃色の竜が力を授けた脚装備。{j}武器を手に乱舞する姿は、水{j}面に映る炎の揺らめきのよう。,"Leg armor granted power by a pink dragon.{j}Dancing with a weapon, one resembles{j}flames on water."
 57132,地の女王の猛烈な脚力を宿し{j}た防具。踏みしめる大地まで{j}が味方についたような心強さ。,Armor imbued with the fierce leg strength{j}of the Queen of the Earth. Even the ground{j}feels like an ally.
 57133,ランゴスタの素材で覆われた{j}脚用装備。強力な物理攻撃{j}から脚を護る。,Leg equipment covered in Vespoid{j}materials. It protects the legs from{j}powerful physical attacks.
@@ -57347,8 +57347,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 57290,古くから儀式などで用いられ{j}てきた伝統的な脚防具。現代{j}風にアレンジされている。,Traditional Legs armor used in ceremonies{j}since ancient times. Arranged in a modern{j}style.
 57291,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の脚防具。,Leg armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
 57292,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の脚防具。,Leg armor made of Gogomoa material that{j}makes your body light and your movements{j}sharp just by equipping it.
-57293,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57294,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+57293,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57294,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 57295,勇猛果敢な剣士が好んで{j}装備する脚防具。,Legs Armor that valiant swordsmen prefer{j}to equip.
 57296,勇猛果敢な射撃手が好んで{j}装備する脚防具。,Brave and daring gunners prefer{j}to equip leg armor.
 57297,ギルドへの貢献度に応じて{j}贈られる脚防具。高度な{j}狩猟技術を持つ狩人の証。,Legs armor awarded for contributions to{j}the Guild. Proof of a Hunter with advanced{j}hunting skills.
@@ -57393,8 +57393,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 57336,「ゆかた」や「がうん」と{j}いった珍しい衣類をイメージ{j}して作られた脚防具。,Leg armor{j}patterned after{j}unusual garments such as kimono and gowns.
 57337,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
 57338,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Hunting gear with a Yian Kut-Ku Subspecies{j}motif. Its appearance{j}is gaining popularity among the young.
-57339,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57340,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+57339,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57340,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 57341,黒鎧竜の素材を用いて新たに{j}作成された脚防具。従来より{j}もスリムにデザインされた。,A leg armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 57342,黒鎧竜の素材を用いて新たに{j}作成された脚防具。従来より{j}もスリムにデザインされた。,A leg armor newly crafted from{j}black-shelled wyvern materials. It is{j}designed even slimmer than before.
 57343,深淵の光牙と呼ばれた民族が{j}かつて使用していた脚防具。{j}近年、製法の解明に成功した。,Leg armor once used by the Abyssal Light{j}Fang tribe. Its crafting method has only{j}recently been deciphered.
@@ -57657,16 +57657,16 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 57600,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 57601,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全と成功の象徴。,Armor passed down in Mezepolta since{j}ancient times. Its ornamental jewel{j}symbolizes safety and success in the hunt.
 57602,古来よりメゼポルタに伝わる{j}防具。装飾品の宝石は狩りの{j}安全を約束する。{c11}≪ＨＣ防具≫{/c},Armor passed down in Mezepolta since ancient times.{j}Its ornamental jewel promises{j}safety in the hunt.{c11}≪HC Armor≫{/c}
-57603,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57604,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57605,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+57603,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57604,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57605,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 57606,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-57607,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57608,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57609,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+57607,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57608,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57609,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 57610,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
-57611,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-57612,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+57611,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+57612,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 57613,遠方の工房で開発された{j}新技術による脚用装備。{j}苛烈な性能を秘めている。,Leg armor made with new technology{j}developed in a distant workshop. It{j}possesses severe performance.
 57614,遠方の工房で開発された{j}新技術による脚用装備。{j}壮烈な性能を秘めている。,Leg armor made with new technology{j}developed in a distant workshop. It{j}possesses magnificent performance.
 57615,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
@@ -59065,12 +59065,12 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 59008,新たな未開の地を踏破し、{j}採集を極めたハンターのみに{j}着用が許される脚防具。,Legs Armor that only Hunters who have{j}conquered new unexplored lands and{j}mastered gathering are permitted to wear.
 59009,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
 59010,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
-59011,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-59012,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-59013,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-59014,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-59015,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
-59016,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.
+59011,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+59012,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+59013,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+59014,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+59015,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
+59016,狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。,Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.
 59017,童話上の種族をモチーフとし{j}た脚防具。神秘的な装飾品が{j}施されている。,Legs armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 59018,童話上の種族をモチーフとし{j}た脚防具。神秘的な装飾品が{j}施されている。,Legs armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}
 59019,童話上の種族をモチーフとし{j}た脚防具。神秘的な装飾品が{j}施されている。,Legs armor modeled after a fairy-tale{j}race. Mysterious ornaments are applied.{j}

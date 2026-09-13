@@ -1,0 +1,3098 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 420,
+      "source": "素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head equipment that makes the most of the material's character.{j}Cicada cries easily soak into it.{j}{c07}SP Armor: Black{/c}",
+      "target": "Black head armor showing its nature.{j}Cicada cries seep through easily.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 421,
+      "source": "素材の味を生かした頭用装備。{j}蝉の声が染み入りやすい。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor that makes the most of the material's flavor.{j}The sound of cicadas easily seeps in.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Head armor showing the material's flavor.{j}Cicada sounds seep through easily.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 434,
+      "source": "鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head equipment using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Green{/c}",
+      "target": "Gravios head gear.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 435,
+      "source": "鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Head equipment using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Gravios head gear.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 436,
+      "source": "鎧竜の素材を使用した頭装備。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head equipment using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Red{/c}",
+      "target": "Gravios head gear.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 438,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 440,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 442,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 504,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 506,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 508,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 510,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 512,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 514,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 516,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 518,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 520,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 522,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 524,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 526,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 626,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 628,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 630,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 632,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 634,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 636,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 638,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 640,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 642,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 644,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 646,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 648,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 650,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 652,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 654,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 656,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 658,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 660,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 662,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 664,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 666,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 668,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 670,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 672,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 674,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 676,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 678,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 680,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 682,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 684,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1724,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1726,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1728,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1730,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1732,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1734,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1736,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1738,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1740,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1742,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1744,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1746,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1748,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1750,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1752,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1754,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1756,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1758,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1760,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1762,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1764,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1766,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1768,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1770,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1772,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1774,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1776,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1778,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1780,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1782,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1784,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1786,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1788,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1790,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1792,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1794,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1796,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1798,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1800,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1802,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10433,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10435,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10437,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10439,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10441,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10443,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10445,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10447,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10449,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10451,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10453,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10455,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10457,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10459,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10461,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10463,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10465,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10467,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10469,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10471,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10473,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10475,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10477,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10479,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10481,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10483,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10485,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10487,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10489,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10491,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13237,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13239,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13241,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13243,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13245,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13247,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13249,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13251,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13253,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13255,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13257,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13259,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13261,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13263,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13265,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13267,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13269,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13271,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13273,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13275,
+      "source": "狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。",
+      "previous": "Hunter Festival ≪Winners' Group≫ reward equipment.{j}Once the ≪Reward Festival≫ period ends,{j}performance degrades to a pitiful extent.",
+      "target": "Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 460,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 461,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 462,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 463,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 464,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 465,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 600,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 601,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 602,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 603,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 604,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 605,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 930,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 931,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 932,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 933,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 934,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 935,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1565,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1566,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2344,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2345,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2530,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2531,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2586,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2587,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2881,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2882,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2883,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2885,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2886,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2887,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2889,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2890,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4355,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4356,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4357,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4358,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4359,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4360,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15018,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15019,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15020,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15021,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15022,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15023,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15118,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15119,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15120,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15121,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15122,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15123,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15334,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15335,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15336,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15337,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15338,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15339,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15923,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 15924,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16515,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16516,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16679,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16680,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16725,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16726,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16990,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16991,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16992,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16994,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16995,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16996,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16998,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16999,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18396,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18397,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18398,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18399,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18400,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18401,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28475,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28476,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28477,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28478,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28479,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28480,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28575,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28576,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28577,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28578,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28579,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28580,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28792,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28793,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28794,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28795,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28796,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28797,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29376,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29377,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29964,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29965,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30128,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30129,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30174,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30175,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30439,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30440,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30441,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30443,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30444,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30445,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30447,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30448,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31851,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31852,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31853,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31854,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31855,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31856,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41934,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41935,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41936,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41937,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41938,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41939,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42058,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42059,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42060,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42061,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42062,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42063,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42334,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42335,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42336,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42337,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42338,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42339,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42922,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42923,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43575,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43576,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43739,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43740,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43785,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43786,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44049,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44050,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44051,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44053,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44054,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44055,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44057,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 44058,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45457,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45458,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45459,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45460,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45461,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45462,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55638,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55639,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55640,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55641,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55642,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55643,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55738,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55739,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55740,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55741,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55742,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55743,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55955,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55956,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55957,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55958,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55959,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 55960,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56537,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 56538,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57129,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57130,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57293,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57294,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57339,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57340,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57603,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57604,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57605,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57607,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57608,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57609,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57611,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 57612,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59011,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59012,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59013,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59014,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59015,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59016,
+      "source": "狩人祭の≪勝ち組≫用クエスト{j}で得るアイテムで生産する。{j}その姿は入魂した魂の数の証。",
+      "previous": "Produced from items obtained{j}in the Hunter's Festival's ≪Victors≫ quests.{j}Its form is proof of the number of souls imbued.",
+      "target": "Made from Festival victory-quest items.{j}Its form proves how many souls{j}have been imbued.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 493,
+      "source": "銀火竜素材を元にした頭防具。{j}夕暮れの陽の色を再現。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head Armor made from Silver Rathalos materials.{j}Reproduces the color of the setting sun.{j}{c07}SP Armor: Red{/c}",
+      "target": "Silver Rathalos head armor.{j}Reproduces the sunset's color.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 494,
+      "source": "銀火竜素材を元にした頭防具。{j}宵闇の空の色を再現。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Head armor made from Silver Rathalos materials.{j}Reproduces the color of the twilight sky.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Silver Rathalos head armor.{j}Reproduces the twilight sky's color.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 495,
+      "source": "銀火竜素材を元にした頭防具。{j}一筋の光も届かない闇を再現。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head Armor made from Silver Rathalos materials.{j}Reproduces a darkness untouched by a single ray of light.{j}{c07}SP Armor: Black{/c}",
+      "target": "Silver Rathalos head armor.{j}Reproduces darkness untouched by light.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
