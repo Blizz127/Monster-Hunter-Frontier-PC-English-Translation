@@ -3,25 +3,27 @@
 English client and Erupe server patches, with exact file-version checks,
 automatic backups and rollback.
 
-**Client issue found after release:** the `2026.09.12` client bundle inherits
-a numeric-table corruption in `mhfpac.bin` from an earlier translation tool.
-Please defer new client installations while its repair is tested. Existing
-users can restore their installation using the saved patcher backup described
-below. See [the diagnosis and repair status](docs/client-numeric-table.md).
-This finding concerns the client bundle; the server bundle is separate.
+**Use the corrected `2026.09.13` client bundle.** The first client release
+inherited a numeric-table corruption in `mhfpac.bin`; the correction passed
+Mezeporta and equipment/skills-menu testing. Existing `2026.09.12` users can
+apply the one-file repair below. See [diagnosis and repair details](docs/client-numeric-table.md).
 
 The first supported client set contains 102 changed files: seven main data
 files, 91 scene scripts, two pointer-table files, and the two Mezeporta town
 files. Mezeporta loads successfully, and the general-store clerk and Felyne
 dialogue have been checked in-game. Translation of the other areas is ongoing.
+Some town dialogue still wraps words incorrectly; that layout fix is being tested
+separately and is not included in this numeric-table repair.
 
 Download the patcher source and bundles from the
+[2026.09.13 release](https://github.com/Blizz127/Monster-Hunter-Frontier-PC-English-Translation/releases/tag/v2026.09.13).
+Download `mhf-translation-patcher-2026.09.13.zip` and the client bundle for your
+game. Erupe operators can use the unchanged server bundle from the
 [2026.09.12 release](https://github.com/Blizz127/Monster-Hunter-Frontier-PC-English-Translation/releases/tag/v2026.09.12).
-Download `mhf-translation-patcher-2026.09.12.zip` and the client bundle for your
-game. Download the server bundle as well if you operate Erupe. Extract the
+Extract the
 patcher, then place the bundle ZIP files in its folder without extracting them.
 See [compatibility and coverage](docs/compatibility.md) and the
-[release catalog](releases/2026.09.12.json) for exact counts, hashes and limits.
+[release catalog](releases/2026.09.13.json) for exact counts, hashes and limits.
 
 ## Requirements
 
@@ -64,8 +66,8 @@ Point `--target` at the client's **dat** folder, not its saves or Wine prefix.
 Replace the example paths and bundle filename with your actual locations.
 
 ```console
-python patch.py check client-english-2026.09.12.zip --target "C:\Games\MHF\dat"
-python patch.py apply client-english-2026.09.12.zip --target "C:\Games\MHF\dat"
+python patch.py check client-english-2026.09.13.zip --target "C:\Games\MHF\dat"
+python patch.py apply client-english-2026.09.13.zip --target "C:\Games\MHF\dat"
 ```
 
 `check` is read-only. `apply` verifies and prepares every output before the first
@@ -75,6 +77,24 @@ Applying the same bundle again leaves already-patched files alone.
 
 After applying, launch normally, enter Mezeporta, and test the clerk and Felyne
 dialogue. Other scenes and dialogue branches have not all been observed.
+
+### Updating the first client release
+
+If you already installed `client-english-2026.09.12.zip`, close Monster Hunter
+and use the one-file repair bundle. It accepts only the affected `mhfpac.bin`
+or its corrected version and preserves all other files.
+
+```console
+python patch.py check client-repair-from-2026.09.12.zip --target "C:\Games\MHF\dat"
+python patch.py apply client-repair-from-2026.09.12.zip --target "C:\Games\MHF\dat"
+```
+
+The full corrected bundle is for matching original client files; it rejects
+the affected old `mhfpac.bin`. After the repair, checking the full bundle can
+verify that the complete 102-file set is current. Keep both installation
+backups. To undo both installations, restore the repair backup first, then
+the original translation backup. The repair backup by itself restores the
+affected first-release file.
 
 ## Erupe server patch
 
@@ -110,7 +130,7 @@ already translated beforehand. A backup also covers an interrupted installation.
 Maintainers can generate a bundle from original and verified translated trees:
 
 ```console
-python patch.py build --kind client --source /path/to/original/dat --translated /path/to/translated/dat --output dist/client-english-2026.09.12.zip
+python patch.py build --kind client --source /path/to/original/dat --translated /path/to/translated/dat --output dist/client-english-2026.09.13.zip
 python patch.py build --kind server --source /path/to/original/bin --translated /path/to/translated/bin --output dist/server-english-2026.09.12.zip
 python -m unittest discover -s tests -v
 ```
