@@ -20,3 +20,9 @@ checked in-game; other dialogue branches and all server quests were not.
 - Publish cumulative client text and town wrapping candidates for testing.
 - Add a separate 972-quest server preview with reviewed dialogue and bounded event entries.
 - Preserve stable 2026.09.13 as the in-game-tested client release.
+
+## 2026.09.13-preview.2 (experimental)
+
+- Add 36 source-reviewed equipment and melee-weapon description entries.
+- Reduce the remaining reviewed shortening queue to 963 entries.
+- Keep runtime status explicitly pending; the stable release is unchanged.
