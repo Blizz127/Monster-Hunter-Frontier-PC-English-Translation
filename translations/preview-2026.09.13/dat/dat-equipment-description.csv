@@ -10,7 +10,7 @@ index,source,target
 8,ランポスの素材を繋ぎ合わせ{j}て作られた頭用装備。{j}乱戦にも耐えうる防御力。,Head gear made by joining Velociprey{j}materials together.{j}Defense that endures a brawl.
 9,ハンター用に作られた頭用{j}装備。かけだしのハンターに{j}は手の届かない品。,Head{j}equipment made for Hunters. An item{j}beyond the reach of novice Hunters.
 10,ハンター用に作られた頭用{j}装備。これを着用することは、{j}一流ハンターの証。,Head equipment made for Hunters. Wearing{j}this marks you as a first-class Hunter.{j}
-11,ランゴスタの素材で覆われた{j}頭用装備。火と氷には極端に{j}弱いが、硬い外殻により強固。,"{j}Head equipment covered in Vespoid materials. It is extremely{j}weak to Fire and Ice, but its hard outer shell makes it sturdy."
+11,ランゴスタの素材で覆われた{j}頭用装備。火と氷には極端に{j}弱いが、硬い外殻により強固。,{j}Vespoid head gear; weak to Fire and Ice.{j}Its hard shell still makes it sturdy.
 12,ランゴスタの素材で覆われた{j}頭用装備。元が昆虫の甲殻だ{j}とは信じられないほど。,Head equipment covered in Vespoid{j}materials. It's hard to believe it was{j}originally an insect's shell.
 13,強固なカンタロスの素材で{j}覆われた頭用装備。その光沢{j}は、金属と見まごうばかり。,Head armor covered in{j}hard Kantharos material. Its luster{j}could easily be mistaken for metal.
 14,強固なカンタロスの素材で{j}覆われた頭用装備。龍耐性に{j}特化した貴重な防具。,Head armor covered in hard Kantharos{j}material. A precious piece of Armor{j}specialized for dragon resistance.
@@ -59,7 +59,7 @@ index,source,target
 57,忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。,A mask-shaped weapon granted to those who{j}endure. Its true worth is tested when{j}they overcome a trial.
 58,忍ぶ者へ授けられるという面{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。,A mask-shaped weapon granted to those who{j}endure. Its true worth is tested when{j}they overcome a trial.
 59,街を守護するという騎士の、{j}頭装備の廉価版。防御力は{j}高いが男性専用。,"A budget version of the head gear worn by{j}knights sworn to guard the city. Defense{j}is high, but it is for male Hunters only."
-60,街を守護するという騎士の、{j}頭装備の廉価版。羽飾りと特{j}徴的な面頬が人気の一品。,"A budget version of the{j}head gear worn by knights sworn to guard the city. A popular piece, thanks to its feather plume and distinctive{j}face guard."
+60,街を守護するという騎士の、{j}頭装備の廉価版。羽飾りと特{j}徴的な面頬が人気の一品。,Budget knight's headpiece for city guards.{j}Its plume and distinctive face guard{j}makes it popular.
 61,お店の看板娘の制服。その{j}頭装備の同型品。特徴的な頭{j}飾りがキュート。,The uniform of the shop's poster girl. A{j}same-model version of that head equipment.{j}The distinctive head ornament is cute.
 62,お店の女性スタッフ用の制服{j}の市販版。清潔感のある{j}頭飾りとメガネがポイント。,A retail version of the shop's female{j}staff uniform. The clean headpiece and{j}glasses are the key points.
 63,名だたる使い手の遺骨を加工{j}した頭用防具。全身に覇気が{j}みなぎり、感覚が鋭敏になる。,"Head armor crafted from the remains of a{j}renowned wielder. A dominating aura fills{j}the body, sharpening the senses."
@@ -122,9 +122,9 @@ index,source,target
 120,老山龍の素材で作られた男性{j}用兜。究極の素材により、東{j}方伝来の技術はここに極まる。,Male helm made from Lao-Shan Lung{j}materials. Eastern techniques reach their{j}pinnacle with this ultimate material.
 121,老山龍の素材で作られた女性{j}用頭装備。凛々しくも神々{j}しい出で立ちは剣士究極の姿。,"Female head armor made from Lao-Shan Lung{j}materials. Its gallant, divine bearing is{j}the Blademaster's ultimate form."
 122,老山龍の素材で作られた女性{j}用頭装備。龍の素材は匠の技{j}により究極の艶を放つ。,Female head armor made from Lao-Shan Lung{j}materials. Dragon material gains ultimate{j}luster through craftsmanship.
-123,古い壁画に残る、龍をも凌ぐ{j}力を持つ人々の防具に酷似し{j}た頭装備。羽毛のように軽い。,"Head armor closely resembling the armor of the people in ancient murals, whose power{j}surpassed even dragons.{j}Light as a feather."
-124,かぶると雑念が消え去り、目{j}の前の敵を殲滅することしか{j}考えられなくなる恐怖の防具。,"Armor of fear that, when worn, clears your mind of distracting thoughts, so that you can only{j}think of annihilating the enemy before your{j}eyes."
-125,黄金の月の欠片で作られたか{j}と思わせる、壮麗なる女王の{j}頭装備。光こそが最たる装飾。,Is it made from a fragment of the golden moon?{j}making you think so--the magnificent queen's{j}Head equipment. Light is the ultimate adornment.
+123,古い壁画に残る、龍をも凌ぐ{j}力を持つ人々の防具に酷似し{j}た頭装備。羽毛のように軽い。,"Head armor resembling ancient mural armor,{j}worn by people who surpassed dragons.{j}Light as a feather."
+124,かぶると雑念が消え去り、目{j}の前の敵を殲滅することしか{j}考えられなくなる恐怖の防具。,"Fearsome armor that clears the mind,{j}leaving only thoughts of annihilating the{j}enemy before your eyes."
+125,黄金の月の欠片で作られたか{j}と思わせる、壮麗なる女王の{j}頭装備。光こそが最たる装飾。,A queen's headpiece seemingly made from a{j}golden moon fragment. Light is its finest{j}adornment.
 126,夜空から舞い降りた月の女王{j}の頭用装備。その美しさは{j}モンスターたちをも虜にする。,Head armor of the Moon Queen who descended{j}from the night sky. Its beauty captivates{j}even monsters.
 127,氷のように冷たい金属質の輝{j}きと、炎のような荒々しさを{j}併せ持つ銀竜を体現した防具。,"Armor embodying the Silver Dragon, which{j}possesses both an ice-cold metallic gleam{j}and a fiery ferocity."
 128,銀色の太陽から注ぐ、剣より{j}鋭い光をまとった頭用の装備。{j}放つ弾丸はすべてを貫く。,"Head gear clad in light pouring from a{j}silver sun, sharper than any blade. The{j}bullets it fires pierce all."
@@ -217,7 +217,7 @@ index,source,target
 215,青き炎の冠の如き頭装備。特{j}殊な技術で作り出されたそれ{j}は焔の女王の魂が宿るという。,"Head armor like a crown of blue flame.{j}Made with special techniques, it is said{j}to house the soul of the Flame Queen."
 216,炎妃龍の素材を練り上げた頭{j}装備。特徴的な頭飾りには、{j}青き炎がゆらめくという。,Head equipment forged from Lunastra{j}materials. A blue flame is said to flicker{j}on its distinctive headdress.
 217,古の巨神をかたどった頭装備。{j}砦蟹の年経た素材には神が{j}宿るという。,Head armor modeled after an ancient giant{j}deity. A god is said to dwell within the{j}aged materials of a Fortress Crab.
-218,往古の神具を模した頭用装備。{j}数多の星霜を経た砦蟹素材は、{j}神への供物にふさわしい。,Head gear modeled after ancient sacred implements.{j}Fortress Crab materials that have weathered countless years{j}are worthy offerings to the gods.
+218,往古の神具を模した頭用装備。{j}数多の星霜を経た砦蟹素材は、{j}神への供物にふさわしい。,Head gear modeled after ancient sacred{j}implements. Aged Fortress Crab materials{j}make worthy offerings to the gods.
 219,赤き炎の冠の如き頭装備。破{j}格な素材から作られたそれは、{j}紅蓮の王の魂が宿るという。,"Head equipment like a crown of crimson flame.{j}Made from extraordinary materials, it is said to{j}house the soul of the Crimson King."
 220,炎王龍の素材を練り上げた頭{j}装備。王冠の如き頭飾りには、{j}赤き炎が燃えさかるという。,Head armor refined from Teostra materials.{j}They say a red flame blazes in its{j}crown-like headpiece.
 221,浮岳龍の素材に宿るという東{j}方の神を削りだした頭用装備。{j}その背後には後光すら感じる。,Head equipment carved from the eastern god{j}said to dwell in Yama Tsukami's materials.{j}You can even feel a halo behind it.

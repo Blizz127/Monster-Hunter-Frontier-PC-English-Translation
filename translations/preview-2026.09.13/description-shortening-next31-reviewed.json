@@ -1,0 +1,141 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14759,
+      "source": "古の装飾が施された黒い双剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Dual Blades adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "Black Dual Blades with ancient decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14760,
+      "source": "古の装飾が施された黒い双剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Dual Blades adorned with ancient decorations.{j}Though ceremonial, it also possesses practicality{j}, a masterpiece crafted by a master artisan.",
+      "target": "Black Dual Blades with ancient decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14836,
+      "source": "芸術肌の職人が相棒の姿を{j}武器にした渾身の迷作。{j}「そこに山があるからニャ」",
+      "previous": "A dubious masterpiece turned into a weapon in the image of its partner{j}by a craftsman with an artistic flair.{j}\"Because there's a mountain there, meow.\"",
+      "target": "A strange masterpiece weapon modeled{j}after its artisan's partner.{j}\"Because there's a mountain there, meow.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14843,
+      "source": "芸術肌の職人が相棒の姿を{j}武器にした渾身の迷作。{j}「そこに山があるからニャ」",
+      "previous": "A dubious masterpiece turned into a weapon in the image of its partner{j}by a craftsman with an artistic flair.{j}\"Because there's a mountain there, meow.\"",
+      "target": "A strange masterpiece weapon modeled{j}after its artisan's partner.{j}\"Because there's a mountain there, meow.\"",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14092,
+      "source": "緑の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with green ornamentation.{j}A ceremonial blade, yet{j}a masterpiece of master craftsmanship that also boasts practical use.",
+      "target": "Black Great Sword with green decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14093,
+      "source": "緑の装飾が施された黒い大剣。{j}儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Great Sword adorned with green ornamentation.{j}A ceremonial blade, yet{j}a masterpiece of master craftsmanship that also boasts practical use.",
+      "target": "Black Great Sword with green decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14102,
+      "source": "緑の装飾が施された黒い狩猟{j}笛。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Hunting{j}Horn adorned with green ornamentation. A ceremonial instrument, yet{j}a masterpiece of master craftsmanship that also boasts practical use.",
+      "target": "Black Hunting Horn with green decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 14103,
+      "source": "緑の装飾が施された黒い狩猟{j}笛。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Hunting{j}Horn adorned with green ornamentation. A ceremonial instrument, yet{j}a masterpiece of master craftsmanship that also boasts practical use.",
+      "target": "Black Hunting Horn with green decor.{j}Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11,
+      "source": "ランゴスタの素材で覆われた{j}頭用装備。火と氷には極端に{j}弱いが、硬い外殻により強固。",
+      "previous": "{j}Head equipment covered in Vespoid materials. It is extremely{j}weak to Fire and Ice, but its hard outer shell makes it sturdy.",
+      "target": "{j}Vespoid head gear; weak to Fire and Ice.{j}Its hard shell still makes it sturdy.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60,
+      "source": "街を守護するという騎士の、{j}頭装備の廉価版。羽飾りと特{j}徴的な面頬が人気の一品。",
+      "previous": "A budget version of the{j}head gear worn by knights sworn to guard the city. A popular piece, thanks to its feather plume and distinctive{j}face guard.",
+      "target": "Budget knight's headpiece for city guards.{j}Its plume and distinctive face guard{j}makes it popular.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 123,
+      "source": "古い壁画に残る、龍をも凌ぐ{j}力を持つ人々の防具に酷似し{j}た頭装備。羽毛のように軽い。",
+      "previous": "Head armor closely resembling the armor of the people in ancient murals, whose power{j}surpassed even dragons.{j}Light as a feather.",
+      "target": "Head armor resembling ancient mural armor,{j}worn by people who surpassed dragons.{j}Light as a feather.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 124,
+      "source": "かぶると雑念が消え去り、目{j}の前の敵を殲滅することしか{j}考えられなくなる恐怖の防具。",
+      "previous": "Armor of fear that, when worn, clears your mind of distracting thoughts, so that you can only{j}think of annihilating the enemy before your{j}eyes.",
+      "target": "Fearsome armor that clears the mind,{j}leaving only thoughts of annihilating the{j}enemy before your eyes.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 125,
+      "source": "黄金の月の欠片で作られたか{j}と思わせる、壮麗なる女王の{j}頭装備。光こそが最たる装飾。",
+      "previous": "Is it made from a fragment of the golden moon?{j}making you think so--the magnificent queen's{j}Head equipment. Light is the ultimate adornment.",
+      "target": "A queen's headpiece seemingly made from a{j}golden moon fragment. Light is its finest{j}adornment.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 218,
+      "source": "往古の神具を模した頭用装備。{j}数多の星霜を経た砦蟹素材は、{j}神への供物にふさわしい。",
+      "previous": "Head gear modeled after ancient sacred implements.{j}Fortress Crab materials that have weathered countless years{j}are worthy offerings to the gods.",
+      "target": "Head gear modeled after ancient sacred{j}implements. Aged Fortress Crab materials{j}make worthy offerings to the gods.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    },
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Six exact-source melee and four head-armor description patterns."
+}
