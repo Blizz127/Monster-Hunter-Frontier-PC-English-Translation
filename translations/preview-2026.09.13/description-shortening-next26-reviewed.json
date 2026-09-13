@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33690,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腕防具。",
+      "previous": "Arms armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Arm armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33697,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腕防具。",
+      "previous": "Arms armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Arm armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33694,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた腕防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Arms armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This arm{j}armor was found in his room beside a{j}certain document.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 33701,
+      "source": "ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた腕防具。",
+      "previous": "One day, the craftsman vanished. When his{j}room was searched, this Arms armor was found left behind{j}along with a certain document.",
+      "target": "The craftsman vanished one day. This arm{j}armor was found in his room beside a{j}certain document.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 38851,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ腕防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Arm armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon arm armor from the East.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 38852,
+      "source": "東ノ国ヨリ古クカラ伝ワル{j}焔嶽龍ノ腕防具。祭事二モ{j}使用サレルトイウ。",
+      "previous": "Arm armor of the Flame Peak Dragon,{j}passed down in the Eastern lands since ancient times. It is{j}said to be used in rites as well.",
+      "target": "Flame Peak Dragon arm armor from the East.{j}Passed down since ancient times and used{j}in rites.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41558,
+      "source": "忍ぶ者へ授けられるという帯{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。",
+      "previous": "A weapon modeled after the obi{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.",
+      "target": "A sash-shaped weapon said to be granted{j}to those who endure. Its true worth is{j}tested when they overcome a trial.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41559,
+      "source": "忍ぶ者へ授けられるという帯{j}を模った武具。試練を乗り越{j}えた時その真価が問われる。",
+      "previous": "A weapon modeled after the obi{j}said to be granted to those who endure. Its true worth is tested when they overcome{j}a trial.",
+      "target": "A sash-shaped weapon said to be granted{j}to those who endure. Its true worth is{j}tested when they overcome a trial.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41606,
+      "source": "炎と水を下僕とする、飛竜の{j}王の腰装備。物理的な攻撃に{j}加え、様々な属性攻撃も防ぐ。",
+      "previous": "Waist armor of the{j}King of Wyverns, who keeps fire and water as his servants.{j}In addition to physical attacks, it also blocks attacks of various elements.",
+      "target": "Waist armor of the Wyvern King, master of{j}fire and water. It blocks physical and{j}elemental attacks.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42655,
+      "source": "炎と水を下僕とする、飛竜の{j}王の腰装備。物理的な攻撃に{j}加え、様々な属性攻撃も防ぐ。",
+      "previous": "Waist armor of the{j}King of Wyverns, who keeps fire and water as his servants.{j}In addition to physical attacks, it also blocks attacks of various elements.",
+      "target": "Waist armor of the Wyvern King, master of{j}fire and water. It blocks physical and{j}elemental attacks.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41804,
+      "source": "鋼龍の素材を用いた腰用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Waist armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.",
+      "target": "Waist armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41820,
+      "source": "鋼龍の素材を用いた腰用装備。{j}荒ぶる龍の風を真に見切りし{j}者のみ装備する事を許される。",
+      "previous": "Waist armor made from Kushala Daora materials.{j}Only those who truly see through the raging dragon's wind{j}are permitted to equip it.",
+      "target": "Waist armor made from Kushala Daora{j}materials. Only those who see through the{j}raging dragon's wind may equip it.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41818,
+      "source": "黒狼鳥の素材を用いた腰装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Waist equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "target": "Waist armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41834,
+      "source": "黒狼鳥の素材を用いた腰装備。{j}闇夜の空をそのまま切り取っ{j}た様な不気味な色をしている。",
+      "previous": "Waist equipment made from Yian Garuga materials.{j}Its eerie hue looks as though the{j}dark night sky itself had been cut out.",
+      "target": "Waist armor made from Yian Garuga{j}materials. Its eerie hue resembles a piece{j}of the dark night sky.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41848,
+      "source": "棘竜の素材を用いた腰用装備。{j}樹海の主の領域は、何人たり{j}とも侵すことはできない。",
+      "previous": "Waist equipment made from Espinas materials.{j}The territory of the Lord of the Sea of Trees cannot be trespassed{j}by anyone.",
+      "target": "Waist armor made from Espinas materials.{j}The Lord of the Sea of Trees guards its{j}territory from all intruders.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41850,
+      "source": "棘竜の素材を用いた腰用装備。{j}樹海の主の領域は、何人たり{j}とも侵すことはできない。",
+      "previous": "Waist equipment made from Espinas materials.{j}The territory of the Lord of the Sea of Trees cannot be trespassed{j}by anyone.",
+      "target": "Waist armor made from Espinas materials.{j}The Lord of the Sea of Trees guards its{j}territory from all intruders.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41897,
+      "source": "甲殻種、魚竜種、生息域が近い{j}２種の素材を用いた腰用装備。{j}相性の良さは抜群。",
+      "previous": "Waist armor made from the materials of two{j}species with similar habitats, Carapaceon and Piscine Wyvern.{j}Their compatibility is outstanding.",
+      "target": "Waist armor using Carapaceon and Piscine{j}Wyvern materials from nearby habitats.{j}Their compatibility is outstanding.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42970,
+      "source": "甲殻種、魚竜種、生息域が近い{j}２種の素材を用いた腰用装備。{j}相性の良さは抜群。",
+      "previous": "Waist armor made from the materials of two{j}species with similar habitats, Carapaceon and Piscine Wyvern.{j}Their compatibility is outstanding.",
+      "target": "Waist armor using Carapaceon and Piscine{j}Wyvern materials from nearby habitats.{j}Their compatibility is outstanding.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 41901,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腰装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Waist equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies waist armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42906,
+      "source": "棘茶竜の素材を使用することで{j}さらなる進化を遂げた腰装備。{j}樹海の主を屠りし者の証。",
+      "previous": "Waist equipment that has achieved{j}further evolution by using Espinas Subspecies materials.{j}Proof of one who slew the Lord of the Sea of Trees.",
+      "target": "Espinas Subspecies waist armor, further{j}evolved. Proof of one who slew the{j}Lord of the Sea of Trees.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist-armor description patterns."
+}
