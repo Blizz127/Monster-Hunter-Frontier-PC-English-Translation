@@ -251,3 +251,9 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add the final 30 source-reviewed equipment-description records in the current shortening queue.
 - The current reviewed shortening queue is now empty.
+
+## 2026.09.13-preview.48 (experimental)
+
+- Package the cumulative `mhfdat.bin` work together with both Mezeporta archive reflows.
+- The downloadable client delta now contains all three files documented by the preview.
+- Town runtime verification remains pending.

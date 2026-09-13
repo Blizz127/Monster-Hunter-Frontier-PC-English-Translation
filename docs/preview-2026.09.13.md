@@ -1,4 +1,4 @@
-# Experimental translation update: 2026.09.13-preview.1
+# Experimental translation update: 2026.09.13-preview.48
 
 This preview is **not in-game verified** and is not the stable release. It does
 not claim 100% English coverage. Use the stable 2026.09.13 release for the
@@ -7,8 +7,9 @@ previously tested Mezeporta and equipment/skills-menu repair.
 ## Client
 
 Apply this three-file upgrade only after the stable 2026.09.13 client patch.
-It contains cumulative weapon/equipment text work in `mhfdat.bin`, plus the
-two Mezeporta archives. The latest description pass adds 10 reviewed entries to the cumulative 1135-entry description pass;
+It contains the cumulative weapon/equipment text work in `mhfdat.bin`, plus
+the two Mezeporta archives. The reviewed shortening queue is now empty after
+1135 source-reviewed description records;
 0 entries remain in the current plain-text shortening queue. Other review
 queues, artwork and runtime checks also remain.
 
