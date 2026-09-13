@@ -42859,7 +42859,7 @@ Felyne partner, meow!{j}To the sea!"
 42819,0,
 42820,0,
 42821,0,
-42822,ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。,Waist{j}armor made from Doragyuros materials. Its sturdy construction is said to even repel the{j}attacks of Flying Wyverns.
+42822,ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。,Waist armor made from Doragyuros.{j}Its sturdy construction can repel even{j}Flying Wyvern attacks.
 42823,ドラギュロスの素材を使用した{j}腰装備。非常に硬く、ハンター{j}の腰部をしっかりと守る。,"Waist equipment made from Doragyuros{j}materials. Extremely hard, it firmly{j}protects the Hunter's waist."
 42824,遠方の工房で開発された{j}新技術による腰用装備。{j}苛烈な性能を秘めている。,Waist armor made using new technology{j}developed at a distant workshop. Harbors{j}fierce performance.
 42825,遠方の工房で開発された{j}新技術による腰用装備。{j}苛烈な性能を秘めている。,Waist armor made using new technology{j}developed at a distant workshop. Harbors{j}fierce performance.
@@ -42887,8 +42887,8 @@ Felyne partner, meow!{j}To the sea!"
 42847,エスピナス亜種の特徴を参考{j}にして作成された、貫通攻撃{j}に特化したガンナー用腰防具。,"Created by referencing the traits of the{j}Espinas Subspecies, this Gunner's waist{j}armor specializes in piercing attacks."
 42848,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
 42849,エスピナス希少種の特徴を{j}参考にした剣士用の腰防具。{j}装備する者に炎の力を与える。,Waist armor for Blademasters modeled after{j}an Espinas Rare Species. It grants the{j}wearer the power of fire.
-42850,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack."
-42851,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。,"Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack."
+42850,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。,Waist armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.
+42851,エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。,Waist armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.
 42852,装備者の身守り優先で設計{j}された遠方大陸製の剣士用腰{j}装備。,"Designed with priority on protecting the{j}wearer, this Blademaster waist armor is{j}made on a distant continent."
 42853,竜の狩猟目的を想定して設計{j}された遠方大陸製の剣士用腰{j}装備。,"Blademaster waist armor made on a distant{j}continent, designed for dragon hunting.{j}"
 42854,装備者の身守り優先で設計{j}された遠方大陸製のガンナー{j}用腰装備。,"Waist armor made on a distant continent,{j}designed with priority on protecting the{j}wearer, for Gunners."
@@ -43341,16 +43341,16 @@ Felyne partner, meow!{j}To the sea!"
 43301,裾が長く、優雅な印象を受ける{j}腰用装備。　防具としても{j}非常に優秀。,Waist armor with a long hem that gives an{j}elegant impression. It is also extremely{j}effective as armor.
 43302,裾が長く、優雅な印象を受ける{j}腰用装備。　長い裾は意外と{j}動きを妨げることは無い。,"Waist armor with a long hem that gives an{j}elegant impression. The long hem,{j}surprisingly, does not hinder movement."
 43303,冒険屋に配置した店番アイルー{j}が体を張り、手に入れた素材で{j}生産が可能となった腰用装備。,Waist armor made possible by materials the{j}Adventurer's Shop Felyne risked its life{j}to obtain.
-43304,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。,Waist armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.
-43305,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。,Waist armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.
+43304,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。,Waist armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.
+43305,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。,Waist armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.
 43306,呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な腰防具。,An excellent waist armor created by{j}carefully removing the slime from Plesioth{j}materials and applying special processing.
 43307,加工に手間のかかる呑竜素材を{j}大量に用いた腰防具。注文の{j}際に嫌な顔をされることも…。,Waist armor made with large amounts of{j}hard-to-process Pariapuria materials. The{j}order may draw a dirty look...
 43308,蛮竜素材の腰防具。装備する{j}者の闘志を奮い立たせ、対峙{j}する者に鋭い威圧感を与える。,Waist armor made from Berserk Dragon{j}parts. Rouses the wearer's fighting spirit{j}and sharply intimidates foes.
 43309,蛮竜素材の腰防具。装備する{j}者の闘志を奮い立たせ、対峙{j}する者に鋭い威圧感を与える。,Waist armor made from Berserk Dragon{j}parts. Rouses the wearer's fighting spirit{j}and sharply intimidates foes.
-43310,極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。,"Waist armor that embodies the power of the Extreme Dragon.{j}It seals the power of the Extreme Dragon, which{j}intimidates all around it even when spent."
-43311,極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。,Waist armor that embodies the power of the Extreme Dragon.{j}The released power of the Extreme Dragon{j}grants the wearer a dragon's power.
-43312,極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。,"Waist armor that embodies the power of the Extreme Dragon.{j}It seals the power of the Extreme Dragon, which{j}intimidates all around it even when spent."
-43313,極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。,"Waist armor that embodies the power of the Extreme Dragon.{j}The released power gives off a murderous aura{j}that cows its prey, they say."
+43310,極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。,"Waist armor of Extreme Dragon power.{j}It seals power that intimidates all{j}around it, even when spent."
+43311,極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。,Waist armor of Extreme Dragon power.{j}Its released power grants the wearer{j}a dragon's strength.
+43312,極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。,"Waist armor of Extreme Dragon power.{j}It seals power that intimidates all{j}around it, even when spent."
+43313,極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。,Waist armor of Extreme Dragon power.{j}Its released power gives off a murderous{j}aura that cows its prey.
 43314,仄白い雷光を纏った腰巻。{j}主に未知なる力と精神力を{j}与える。{c02}≪剛種防具≫{/c},A waist wrap clad in pale white lightning.{j}Chiefly grants unknown power and spiritual strength.{j}{c02}≪Gou Armor≫{/c}
 43315,仄白い雷光を纏った腰巻。{j}主に未知なる力と精神力を{j}与える。{c02}≪剛種防具≫{/c},A waist wrap clad in pale white lightning.{j}Chiefly grants unknown power and spiritual strength.{j}{c02}≪Gou Armor≫{/c}
 43316,飛竜の素材を余すことなく{j}使いきって作られた腰防具。{j}よく体に馴染む。{c02}≪剛種防具≫{/c},Using every last bit of Wyvern material{j}Waist armor made by using it all.{j}It fits the body well.{c02}≪Gou Armor≫{/c}
@@ -43527,7 +43527,7 @@ Felyne partner, meow!{j}To the sea!"
 43487,貴重な鉱石が主成分の腰用{j}装備。並みの飛竜をものとも{j}しない強度。,Waist armor made mainly of precious ore.{j}Strength that shrugs off an ordinary{j}Flying Wyvern.
 43488,カンタロス素材を用いた腰用{j}装備。龍耐性が高く、ドラゴ{j}ンと戦う者には必須の防具。,Waist armor made from Hornetaur parts.{j}High Dragon Resistance makes it essential{j}for those who fight dragons.
 43489,カンタロス素材を用いた腰用{j}装備。龍耐性が高く、ドラゴ{j}ンと戦う者には必須の防具。,Waist armor made from Hornetaur parts.{j}High Dragon Resistance makes it essential{j}for those who fight dragons.
-43490,ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。,Waist{j}armor made from Doragyuros materials. Its sturdy construction is said to even repel the{j}attacks of Flying Wyverns.
+43490,ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。,Waist armor made from Doragyuros.{j}Its sturdy construction can repel even{j}Flying Wyvern attacks.
 43491,ドラギュロスの素材を使用した{j}腰装備。非常に硬く、ハンター{j}の腰部をしっかりと守る。,"Waist equipment made from Doragyuros{j}materials. Extremely hard, it firmly{j}protects the Hunter's waist."
 43492,爆炎の如き力を得る腰防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Waist armor that grants power like a blazing flame.{j}Enhances the abilities of the wearer.{j}{c02}≪Gou Armor≫{/c}
 43493,爆炎の如き力を得る腰防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Waist armor that grants power like a blazing flame.{j}Enhances the abilities of the wearer.{j}{c02}≪Gou Armor≫{/c}
@@ -43788,18 +43788,18 @@ Felyne partner, meow!{j}To the sea!"
 43748,ギルドへの貢献度に応じて{j}贈られる腰防具。高度な{j}狩猟技術を持つ狩人の証。,Waist armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
 43749,ギルドへの貢献度に応じて{j}贈られる腰防具。高度な{j}狩猟技術を持つ狩人の証。,Waist armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
 43750,ギルドへの貢献度に応じて{j}贈られる腰防具。高度な{j}狩猟技術を持つ狩人の証。,Waist armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
-43751,極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。,Waist armor that embodies the power of the Extreme Dragon.{j}The released power of the Extreme Dragon{j}grants the wearer a dragon's power.
-43752,極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。,"Waist armor that embodies the power of the Extreme Dragon.{j}The released power gives off a murderous aura{j}that cows its prey, they say."
+43751,極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。,Waist armor of Extreme Dragon power.{j}Its released power grants the wearer{j}a dragon's strength.
+43752,極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。,Waist armor of Extreme Dragon power.{j}Its released power gives off a murderous{j}aura that cows its prey.
 43753,多殻蟹素材をふんだんに{j}使用して作られた腰防具。{j}着用者に幸運を招くという。,Waist armor made using Carapaceon{j}materials in abundance. It is said to{j}bring good fortune to the wearer.
 43754,多殻蟹素材をより強靭に{j}鍛え上げた腰防具。より{j}幸運を招きやすいらしい。,Waist armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
 43755,多殻蟹素材をより強靭に{j}鍛え上げた腰防具。より{j}幸運を招きやすいらしい。,Waist armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
 43756,多殻蟹素材をふんだんに{j}使用して作られた腰防具。{j}着用者に幸運を招くという。,Waist armor made using Carapaceon{j}materials in abundance. It is said to{j}bring good fortune to the wearer.
 43757,多殻蟹素材をより強靭に{j}鍛え上げた腰防具。より{j}幸運を招きやすいらしい。,Waist armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
 43758,多殻蟹素材をより強靭に{j}鍛え上げた腰防具。より{j}幸運を招きやすいらしい。,Waist armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
-43759,動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。,"Waist armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement."
+43759,動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。,Violent Dragon waist armor designed for{j}mobility. It is light and never hinders{j}movement.
 43760,動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。,"Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
 43761,動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。,"Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
-43762,動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。,"Waist armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement."
+43762,動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。,Violent Dragon waist armor designed for{j}mobility. It is light and never hinders{j}movement.
 43763,動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。,"Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
 43764,動き易さを極限まで追求した{j}獰竜素材の腰防具。{j}鋭い動きが身に付くという。,"Waist armor of Fierce Wyvern parts,{j}designed for the utmost mobility. Said to{j}give the wearer sharp movements."
 43765,道場の卒業者に贈られる、{j}魂のこもった腰用装備。{j}{c07}ＳＰ防具：白{/c},"Waist Armor imbued with the soul of{j}, awarded to dojo graduates.{j}{c07}SP Armor: White{/c}"
@@ -47331,16 +47331,16 @@ Felyne partner, meow!{j}To the sea!"
 47291,不思議な力が宿る腰防具。{j}身に纏う者の能力を高める。{j}{c02}≪烈種防具≫{/c},Waist armor imbued with mysterious power.{j}Enhances the wearer's abilities.{j}{c02}≪Burst Armor≫{/c}
 47292,獲物を貪る呑竜を表現した{j}腰防具。時には、餓えた者が{j}一番強いのだ。{c02}≪烈種防具≫{/c},"{j}Waist Armor that depicts the prey-devouring wyvern. At times, it is the starving who are{j}the strongest.{c02}≪Burst Armor≫{/c}"
 47293,獲物を貪る呑竜を表現した{j}腰防具。時には、餓えた者が{j}一番強いのだ。{c02}≪烈種防具≫{/c},"{j}Waist Armor that depicts the prey-devouring wyvern. At times, it is the starving who are{j}the strongest.{c02}≪Burst Armor≫{/c}"
-47294,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。,"Waist armor secretly produced by the female smith of a{j}weapons workshop, inspired by a certain book,{j}with no help from anyone."
-47295,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。,"The craftswoman who made this waist armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error."
-47296,さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。,"Waist armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman."
+47294,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。,"Waist armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help."
+47295,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。,Armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.
+47296,さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。,Waist armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.
 47297,口数が減り、やつれ果てた職{j}人が工房の一室に籠もって強{j}化した腰防具。{c11}≪狩護防具≫{/c},"{j}A craftsman of few words, worn to the bone, shut himself in a room{j}of the workshop to strengthen this waist armor.{c11}≪Hunting Guard Armor≫{/c}"
 47298,とある書物の噂を耳にした職{j}人が、その内容を調べて革新{j}的な強化に成功した腰防具。,"A craftsman heard of a book and studied{j}it, achieving an innovative upgrade to{j}this waist armor."
 47299,ふと目覚めた時、窓の外に失{j}踪した女職人の姿を見たと主{j}張する職人が強化した腰防具。,Waist armor upgraded by a craftsman who{j}claims he suddenly awoke to see a missing{j}craftswoman outside the window.
 47300,ある日、職人の姿が消え、そ{j}の自室を調べると、とある書{j}物と共に残されていた腰防具。,"One day, the craftsman vanished. When his{j}room was searched, this Waist armor was found left behind{j}along with a certain document."
-47301,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。,"Waist armor secretly produced by the female smith of a{j}weapons workshop, inspired by a certain book,{j}with no help from anyone."
-47302,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。,"The craftswoman who made this waist armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error."
-47303,さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。,"Waist armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman."
+47301,とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。,"Waist armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help."
+47302,生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。,Armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.
+47303,さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。,Waist armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.
 47304,口数が減り、やつれ果てた職{j}人が工房の一室に籠もって強{j}化した腰防具。{c11}≪狩護防具≫{/c},"{j}A craftsman of few words, worn to the bone, shut himself in a room{j}of the workshop to strengthen this waist armor.{c11}≪Hunting Guard Armor≫{/c}"
 47305,とある書物の噂を耳にした職{j}人が、その内容を調べて革新{j}的な強化に成功した腰防具。,"A craftsman heard of a book and studied{j}it, achieving an innovative upgrade to{j}this waist armor."
 47306,ふと目覚めた時、窓の外に失{j}踪した女職人の姿を見たと主{j}張する職人が強化した腰防具。,Waist armor upgraded by a craftsman who{j}claims he suddenly awoke to see a missing{j}craftswoman outside the window.

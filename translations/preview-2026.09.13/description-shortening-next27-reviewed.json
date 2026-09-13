@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42822,
+      "source": "ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。",
+      "previous": "Waist{j}armor made from Doragyuros materials. Its sturdy construction is said to even repel the{j}attacks of Flying Wyverns.",
+      "target": "Waist armor made from Doragyuros.{j}Its sturdy construction can repel even{j}Flying Wyvern attacks.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43490,
+      "source": "ドラギュロスの素材を使った腰{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。",
+      "previous": "Waist{j}armor made from Doragyuros materials. Its sturdy construction is said to even repel the{j}attacks of Flying Wyverns.",
+      "target": "Waist armor made from Doragyuros.{j}Its sturdy construction can repel even{j}Flying Wyvern attacks.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42850,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack.",
+      "target": "Waist armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 42851,
+      "source": "エスピナス希少種の特徴を参{j}考にして作成された、散弾攻{j}撃特化ガンナー用腰防具。",
+      "previous": "Created with reference{j}to the traits of the Espinas Rare Species, this waist armor is for Gunners specialized in Pellet{j}attack.",
+      "target": "Waist armor for Pellet-focused Gunners{j}based on Espinas Rare Species traits.{j}Built for specialized Pellet attacks.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43304,
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。",
+      "previous": "Waist armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "target": "Waist armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43305,
+      "source": "採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる腰防具。至高の逸品。",
+      "previous": "Waist armor that only a Hunter who has mastered gathering and reached even greater heights{j}is permitted to equip.{j}A supreme masterpiece.",
+      "target": "Waist armor for Hunters who mastered{j}gathering and reached greater heights. A{j}supreme masterpiece.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43310,
+      "source": "極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}It seals the power of the Extreme Dragon, which{j}intimidates all around it even when spent.",
+      "target": "Waist armor of Extreme Dragon power.{j}It seals power that intimidates all{j}around it, even when spent.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43312,
+      "source": "極龍の力を具現する腰鎧。{j}力尽きてなお、周囲を威圧{j}する極龍の力を封じ込めた。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}It seals the power of the Extreme Dragon, which{j}intimidates all around it even when spent.",
+      "target": "Waist armor of Extreme Dragon power.{j}It seals power that intimidates all{j}around it, even when spent.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43311,
+      "source": "極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}The released power of the Extreme Dragon{j}grants the wearer a dragon's power.",
+      "target": "Waist armor of Extreme Dragon power.{j}Its released power grants the wearer{j}a dragon's strength.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43751,
+      "source": "極龍の力を具現する腰鎧。{j}開放された極龍の力が、{j}持ち主に龍の力を与える。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}The released power of the Extreme Dragon{j}grants the wearer a dragon's power.",
+      "target": "Waist armor of Extreme Dragon power.{j}Its released power grants the wearer{j}a dragon's strength.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43313,
+      "source": "極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}The released power gives off a murderous aura{j}that cows its prey, they say.",
+      "target": "Waist armor of Extreme Dragon power.{j}Its released power gives off a murderous{j}aura that cows its prey.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43752,
+      "source": "極龍の力を具現する腰鎧。{j}開放された力が殺気を放ち{j}獲物を威圧するという。",
+      "previous": "Waist armor that embodies the power of the Extreme Dragon.{j}The released power gives off a murderous aura{j}that cows its prey, they say.",
+      "target": "Waist armor of Extreme Dragon power.{j}Its released power gives off a murderous{j}aura that cows its prey.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43759,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Waist armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon waist armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 43762,
+      "source": "動き易さを重視して、設計{j}された獰竜素材の腰防具。{j}軽くて動きの邪魔にならない。",
+      "previous": "Waist armor made from Violent Dragon materials, designed{j}with a focus on mobility.{j}Light and does not hinder movement.",
+      "target": "Violent Dragon waist armor designed for{j}mobility. It is light and never hinders{j}movement.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47294,
+      "source": "とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。",
+      "previous": "Waist armor secretly produced by the female smith of a{j}weapons workshop, inspired by a certain book,{j}with no help from anyone.",
+      "target": "Waist armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47301,
+      "source": "とある書物に影響を受けた武{j}具工房の女職人が、誰の力も{j}借りず密かに生産した腰防具。",
+      "previous": "Waist armor secretly produced by the female smith of a{j}weapons workshop, inspired by a certain book,{j}with no help from anyone.",
+      "target": "Waist armor secretly made by a weapon-{j}workshop craftswoman inspired by a book,{j}without anyone's help.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47295,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。",
+      "previous": "The craftswoman who made this waist armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "target": "Armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47302,
+      "source": "生産した女職人が謎の失踪を{j}遂げ、引き継いだ職人が試行{j}錯誤しながら強化した腰防具。",
+      "previous": "The craftswoman who made this waist armor mysteriously vanished,{j}and the craftsman who inherited the work improved it through trial{j}and error.",
+      "target": "Armor improved through trial and error{j}by the craftsman who inherited it after{j}its maker mysteriously vanished.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47296,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。",
+      "previous": "Waist armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Waist armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47303,
+      "source": "さらなる強化に悩んだ職人が、{j}失踪した女職人の手記を見つ{j}け、なんとか強化した腰防具。",
+      "previous": "Waist armor that a craftsman, fretting over further upgrades,{j}managed to improve after finding the{j}notes of a vanished craftswoman.",
+      "target": "Waist armor improved after finding{j}the vanished craftswoman's notes while{j}seeking further upgrades.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source waist-armor description patterns."
+}
