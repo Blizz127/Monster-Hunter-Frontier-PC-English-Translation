@@ -238,8 +238,8 @@ index,source,target
 236,肉を裂くことを徹底して突き{j}詰め、特異な形状に進化した{j}双剣。左右でバランスが違う。,"Dual Blades honed to perfection for rending flesh,{j}evolved into a bizarre shape. Their left and right{j}differ in balance."
 237,高い攻撃力を誇る双剣。重量{j}に任せて振り回せば遠心力で{j}強力な攻撃を行うことが可能。,Dual Blades boasting high Attack. Swinging them{j}with their full weight allows centrifugal force to{j}deliver powerful attacks.
 238,肉を裂くことを徹底して突き{j}詰め、特異な形状に進化した{j}双剣。左右でバランスが違う。,"Dual Blades honed to perfection for rending flesh,{j}evolved into a bizarre shape. Their left and right{j}differ in balance."
-239,片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。,"Dual Blades that fight by wielding two{j}one-handed weapons, one in each hand. Since they cannot defend at all{j}, they overwhelm with sheer number of attacks."
-240,片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。,"Dual Blades that fight by wielding two{j}one-handed weapons, one in each hand. Since they cannot defend at all{j}, they overwhelm with sheer number of attacks."
+239,片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。,"Dual Blades wielding two one-handed{j}weapons, one in each hand. Unable to{j}guard, they overwhelm with attacks."
+240,片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。,"Dual Blades wielding two one-handed{j}weapons, one in each hand. Unable to{j}guard, they overwhelm with attacks."
 241,街を守護する騎士の儀礼用装{j}備。儀礼用と侮る無かれ、そ{j}の切っ先は飛竜の甲殻を穿つ。,"Ceremonial gear of the knights who guard the city.{j}Do not scorn it as ceremonial, for its tip pierces{j}Flying Wyvern carapace."
 242,イャンガルルガの素材から作{j}られた黒き扇。一度振るえば{j}瞬く間に周囲一切を切り刻む。,A black fan made{j}from Yian Garuga materials. A single swing{j}shreds everything around it in an instant.
 243,街を守護する騎士の儀礼用装{j}備。儀礼用と侮る無かれ、そ{j}の切っ先は飛竜の甲殻を穿つ。,"Ceremonial gear of the knights who guard the city.{j}Do not scorn it as ceremonial, for its tip pierces{j}Flying Wyvern carapace."
@@ -268,7 +268,7 @@ index,source,target
 266,一角竜の誇りとも言うべき{j}真紅の角を加工した大鎌。{j}誇りは二度と折れはしない。,A great scythe crafted from the crimson horn said{j}to be the very pride of the Monoblos. Its pride{j}will never break again.
 267,心すら凍てつかせる白き大鎌。{j}白銀の角を用いた一刃であり、{j}その強度は鋼鉄すら軽く凌ぐ。,"A white scythe that chills even the heart.{j}A single blade forged from silver horns,{j}its strength easily surpasses even steel."
 268,イャンガルルガの素材から作{j}られた黒き曲刀。孤高の刃は{j}近寄る者全てを両断する。,A black curved sword made{j}from Yian Garuga materials. Its proud{j}blade severs all who draw near.
-269,炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。,"A crimson Great Sword imbued with the power of the Flame Dragon.{j}Despite its graceful form, a single swing{j}turns a league in every direction to scorched earth."
+269,炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。,Crimson Great Sword imbued with Flame{j}Dragon power. One swing scorches a league{j}in every direction.
 270,工房の職人会心の作。刃には{j}特別な装飾が施され、優秀な{j}ハンターにのみ手渡される。,A masterpiece by the workshop artisan. The blade{j}bears special ornamentation and is given only to{j}the most skilled Hunters.
 271,炎妃龍の力を秘めた蒼き麗刀。{j}斬られた相手は、蒼白き炎に{j}包まれ、瞬きの間に塵と化す。,A beautiful blue blade hiding Lunastra's power.{j}Those it cuts are wrapped in pale-blue flames and{j}turn to dust in an instant.
 272,炎妃龍の力を秘めた蒼き麗刀。{j}斬られた相手は、蒼白き炎に{j}包まれ、瞬きの間に塵と化す。,A beautiful blue blade hiding Lunastra's power.{j}Those it cuts are wrapped in pale-blue flames and{j}turn to dust in an instant.
@@ -379,7 +379,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 376,金色の雷棍。表面に巻かれた{j}金獅子の体毛に宿りし雷は、{j}触れたものを遍く斬り裂く。,A golden thunder rod. The lightning dwelling in{j}the Golden Lion's fur wound around its surface{j}cuts apart all it touches.
 377,稲妻を纏いし八支刀。刃に{j}蓄積された雷は斬撃と同時に{j}獲物の体内を駆け巡る。,"Eight swords clad in lightning. Upon the blade The{j}built-up lightning, at the same moment as the slash{j}Courses through the prey's body."
 378,禍々しいオーラを放つ龍大剣。{j}この剣を持つ者は古龍との{j}永遠の闘いを宿命づけられる。,A dragon Great Sword that radiates an ominous aura.{j}Whoever wields this blade is{j}destined for an eternal battle with Elder Dragons.
-379,天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。,Dual Blades that seem to hold{j}a lightning pillar joining heaven and earth{j}right in your hand. A phantom weapon worthy of the King of Phantom Beasts.
+379,天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。,Dual Blades like a lightning pillar{j}joining heaven and earth. A phantom weapon{j}for the King of Phantom Beasts.
 380,白く輝く祖龍剣。{j}白光の刃による力強き一閃は{j}人々の心から闇を祓う。,A Fatalis sword that shines white.{j}The powerful flash of its white-light blade{j}purges darkness from people's hearts.
 381,ギルドの大老から譲り受けた{j}古き刀。曇り一つない刃には、{j}悪龍を祓った武神の魂が宿る。,An ancient blade bequeathed by the Guild Elder. Its{j}flawless edge houses the soul of a war god who{j}purged an evil dragon.
 382,堅甲なる盾蟹の爪を加工して{j}作られた豪快な大鎌。巨爪は{j}獲物の皮を裂き、肉を喰らう。,An impressive scythe crafted from the claws of a{j}Daimyo Hermitaur. Its giant claw tears the hide of{j}prey and devours the flesh.
@@ -420,7 +420,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 417,大怪鳥の翼を彷彿とさせる{j}見事な大剣。翼膜を丹念に{j}加工した素材を刀身に用いた。,A magnificent Great Sword that evokes a Great{j}Bird's wings. The blade uses carefully worked wing{j}membrane.
 418,骨剣に頑強な盾蟹の殻を{j}組み合わせた殻大剣。{j}安定した斬れ味を得た。,A shell Great Sword that pairs a bone blade with{j}the sturdy shell of a Shield Crab. It has gained{j}stable sharpness.
 419,二種類のディアブロスの素材{j}を混ぜた斧大剣。その一撃は、{j}大地を割り、大山を崩す。,An axe-like Great Sword made by mixing materials{j}from two kinds of Diablos. Its single blow{j}splits the earth and crumbles mountains.
-420,炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。,"A crimson Great Sword imbued with the power of the Flame Dragon.{j}Despite its graceful form, a single swing{j}turns a league in every direction to scorched earth."
+420,炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。,Crimson Great Sword imbued with Flame{j}Dragon power. One swing scorches a league{j}in every direction.
 421,禍々しいオーラを放つ龍大剣。{j}この剣を持つ者は古龍との{j}永遠の闘いを宿命づけられる。,A dragon Great Sword that radiates an ominous aura.{j}Whoever wields this blade is{j}destined for an eternal battle with Elder Dragons.
 422,白く輝く祖龍剣。{j}白光の刃による力強き一閃は{j}人々の心から闇を祓う。,A Fatalis sword that shines white.{j}The powerful flash of its white-light blade{j}purges darkness from people's hearts.
 423,顔を持つ大剣。伝説によれば{j}主を救う為に戦ったアイルー{j}の魂が込められているという。,A Great Sword that bears a face. Legend says it{j}holds the soul of the Felyne who fought to save its{j}master.
@@ -473,9 +473,9 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 470,古の文献を元に形作られた鐘。{j}非常に重量があり、殴られた{j}者が原型を保つことは不可能。,A bell shaped from ancient records.{j}So heavy that anyone struck{j}by it cannot keep their original form.
 471,伝説の金竜銀竜の素材を用い{j}た片手剣。装飾品によって{j}最大限の能力を発揮する。,"Sword & Shield made using materials from the{j}legendary Gold Dragon and Silver Dragon. Through{j}decorations, it demonstrates its maximum ability."
 472,ハンターの功績を称え、ギル{j}ドから贈与される太刀。,A Long Sword awarded by the Guild{j}in honor of a Hunter's achievements.
-473,邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜,"A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~"
+473,邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜,"Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the South Gate.~"
 474,蛇竜の素材を伝統的な手法で{j}大剣に加工。禍々しい赤い{j}牙からは毒がしたたる。,Snake Wyvern materials are processed into a Great{j}Sword using traditional methods. Poison drips from{j}its ominous red fangs.
-475,邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜,"A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~"
+475,邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜,"Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the South Gate.~"
 476,祖龍の持つ絶大なる力を具象{j}化した白き巨鎚。強き心を{j}持つ者のみ振うことができる。,A giant white hammer that gives{j}form to White Fatalis's immense power. Only one who{j}possesses a strong heart may wield it.
 477,毒性の性質を持つバサルモス{j}の甲殻を利用し、加工した鎚。{j}たまに獲物を毒状態にする。,"A hammer crafted using the carapace of a Basarios,{j}which has poisonous properties. It occasionally{j}poisons its prey."
 478,雌火竜の素材を用いて作られ{j}た深緑の飛竜刀。高い鋭さと、{j}威力を両立した業物である。,A deep-green wyvern blade forged from Rathian{j}materials. A fine weapon that balances keen{j}sharpness and raw power.
@@ -790,7 +790,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 787,ヒプノックの素材で作られた{j}狩猟笛。眠鳥のいななきを彷{j}彿とさせる甲高い音を奏でる。,A Hunting Horn made from Hypnocatrice materials. It{j}plays a shrill tone that resembles the cry of the{j}sleep bird.
 788,遠方の村で発掘されたとい{j}う剣のレプリカモデル。{j}可能な限り、性能を再現。,A replica model of a sword said{j}to have been excavated in a distant village.{j}Reproduces its performance as much as possible.
 789,盾蟹の素材を使用した双剣。{j}ユニークな見た目からは想像{j}もつかぬ、高い攻撃力を誇る。,Dual Blades made from Shield Crab materials.{j}Their high attack power is unimaginable{j}from their unique appearance.
-790,天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。,Dual Blades that seem to hold{j}a lightning pillar joining heaven and earth{j}right in your hand. A phantom weapon worthy of the King of Phantom Beasts.
+790,天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。,Dual Blades like a lightning pillar{j}joining heaven and earth. A phantom weapon{j}for the King of Phantom Beasts.
 791,ギアノスクロウズ最終強化版。{j}双頭の蛇の名を冠する双刃は、{j}大気を裂き、冷気を振り撒く。,The final upgrade of the Giaprey Claws.{j}The twin blades named for the two-headed serpent{j}cleave the air and scatter cold.
 792,蛇竜の素材を伝統的な手法で{j}大剣に加工。禍々しい赤い{j}牙からは毒がしたたる。,Snake Wyvern materials are processed into a Great{j}Sword using traditional methods. Poison drips from{j}its ominous red fangs.
 793,溶岩竜の素材を用いた大剣。{j}絶え間なく熱を放出する刀身{j}は、大地の躍動そのもの。,A Great Sword made from Lavasioth materials. The{j}blade that endlessly releases heat is the earth's{j}very pulse.
@@ -3699,8 +3699,8 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 3696,鋸状の刀身を持った異形の太{j}刀。その刃は龍の鱗をも斬り裂{j}き、確実に致命傷を負わせる。,"An eerie Long Sword with a saw-like blade.{j}Its edge can even slash through dragon scales,{j}inflicting certain fatal wounds."
 3697,鋸状の刀身を持った異形の太{j}刀。その刃は龍の鱗をも斬り裂{j}き、確実に致命傷を負わせる。,"An eerie Long Sword with a saw-like blade.{j}Its edge can even slash through dragon scales,{j}inflicting certain fatal wounds."
 3698,鋸状の刀身を持った異形の太{j}刀。その刃は龍の鱗をも斬り裂{j}き、確実に致命傷を負わせる。,"An eerie Long Sword with a saw-like blade.{j}Its edge can even slash through dragon scales,{j}inflicting certain fatal wounds."
-3699,ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。,"Dancing Thunder Wyvern materials have{j}long been considered unsuitable for making Hammers, but{j}the discovery of new materials has made production possible."
-3700,ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。,"Dancing Thunder Wyvern materials have{j}long been considered unsuitable for making Hammers, but{j}the discovery of new materials has made production possible."
+3699,ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。,Dancing Thunder Wyvern materials once{j}seemed unsuitable for Hammers. New{j}materials now make production possible.
+3700,ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。,Dancing Thunder Wyvern materials once{j}seemed unsuitable for Hammers. New{j}materials now make production possible.
 3701,峡谷を舞い飛ぶ舞雷竜。{j}そのイメージとは真逆の重厚な{j}剛鎚。{c02}≪剛種武器≫{/c},"A Zinogre that dances through the canyon.{j}A weighty, powerful hammer{j}that belies that image.{c02}≪Gou Weapon≫{/c}"
 3702,峡谷を舞い飛ぶ舞雷竜。{j}そのイメージとは真逆の重厚な{j}剛鎚。{c02}≪剛種武器≫{/c},"A Zinogre that dances through the canyon.{j}A weighty, powerful hammer{j}that belies that image.{c02}≪Gou Weapon≫{/c}"
 3703,異国の舞踊に使用される楽器を{j}模した狩猟笛。{j}荘厳な音色を奏でる。,A Hunting Horn modeled{j}after an instrument used in foreign dances.{j}It plays a solemn melody.
@@ -3743,8 +3743,8 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 3740,百万の想いが宿った片手剣。{j}百万の想いが繰り出す一撃に、{j}砕けぬものは無いと云う。,"A Sword & Shield imbued with a million feelings.{j}No strike unleashed by those million feelings,{j}they say, can fail to shatter."
 3741,百万の想いが宿った片手剣。{j}百万の想いが繰り出す一撃に、{j}砕けぬものは無いと云う。,"A Sword & Shield imbued with a million feelings.{j}No strike unleashed by those million feelings,{j}they say, can fail to shatter."
 3742,百万の想いが宿った片手剣。{j}百万の想いが繰り出す一撃に、{j}砕けぬものは無いと云う。,"A Sword & Shield imbued with a million feelings.{j}No strike unleashed by those million feelings,{j}they say, can fail to shatter."
-3743,呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。,A high-performance water sword with terrifying moisture retention{j}performance thanks to the slime{j}component secreted on the surface of Plesioth materials.
-3744,呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。,A high-performance water sword with terrifying moisture retention{j}performance thanks to the slime{j}component secreted on the surface of Plesioth materials.
+3743,呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。,High-performance water sword with{j}terrifying moisture retention from slime{j}secreted by Plesioth materials.
+3744,呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。,High-performance water sword with{j}terrifying moisture retention from slime{j}secreted by Plesioth materials.
 3745,大食で新陳代謝が活発な呑竜。{j}死してなお脅威の生命力を{j}発揮。{c02}≪剛種武器≫{/c},"A gluttonous Devouring Dragon with an active metabolism.{j}Even in death, it exerts{j}a terrifying life force.{c02}≪Gou Weapon≫{/c}"
 3746,大食で新陳代謝が活発な呑竜。{j}死してなお脅威の生命力を{j}発揮。{c02}≪剛種武器≫{/c},"A gluttonous Devouring Dragon with an active metabolism.{j}Even in death, it exerts{j}a terrifying life force.{c02}≪Gou Weapon≫{/c}"
 3747,刃先に潤いを保ち、尚且つ{j}全く錆びつかない加工技術は{j}工房外不出の奇跡の技。,A processing technique that keeps the blade tip{j}moist and completely rust-free is a miraculous art{j}kept secret by the workshop.
@@ -3837,8 +3837,8 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 3834,星の閃光を秘めた大剣。{j}大空より降り注いだ稀少な{j}鉱物を使用して創られた。,Great Sword that holds within it the flash of a{j}star. Forged using rare minerals that rained down{j}from the heavens.
 3835,星の閃光を秘めた大剣。{j}大空より降り注いだ稀少な{j}鉱物を使用して創られた。,Great Sword that holds within it the flash of a{j}star. Forged using rare minerals that rained down{j}from the heavens.
 3836,星の閃光を秘めた大剣。{j}大空より降り注いだ稀少な{j}鉱物を使用して創られた。,Great Sword that holds within it the flash of a{j}star. Forged using rare minerals that rained down{j}from the heavens.
-3837,斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。,"The slimy surface{j}that hinders sharpness has, through advanced processing techniques, been transformed instead{j}into a liquid that improves sharpness."
-3838,斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。,"The slimy surface{j}that hinders sharpness has, through advanced processing techniques, been transformed instead{j}into a liquid that improves sharpness."
+3837,斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。,Advanced processing transforms slimy{j}surface liquid into a substance that{j}improves sharpness.
+3838,斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。,Advanced processing transforms slimy{j}surface liquid into a substance that{j}improves sharpness.
 3839,長い刀身は常に清涼な水を湛え{j}一振り毎に空気がさわやかに。{j}{c02}≪剛種武器≫{/c},"Its long blade always brims with cool, clear water,{j}freshening the air with every swing.{j}{c02}≪Gou Weapon≫{/c}"
 3840,長い刀身は常に清涼な水を湛え{j}一振り毎に空気がさわやかに。{j}{c02}≪剛種武器≫{/c},"Its long blade always brims with cool, clear water,{j}freshening the air with every swing.{j}{c02}≪Gou Weapon≫{/c}"
 3841,刀そのものが龍を憎んでいる{j}と言われる妖刀。大型の飛竜{j}をも一太刀で斬り捨てる。,A cursed blade said to hate{j}dragons itself. It cuts down even a large{j}wyvern with a single stroke.
@@ -3854,7 +3854,7 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 3851,精霊を宿すとされる太古の壺を{j}模した強力無比な大槌。{j}{c02}≪剛種武器≫{/c},A supremely powerful Hammer{j}modeled after an ancient urn said to house a spirit.{j}{c02}≪Gou Weapon≫{/c}
 3852,精霊を宿すとされる太古の壺を{j}模した強力無比な大槌。{j}{c02}≪剛種武器≫{/c},A supremely powerful Hammer{j}modeled after an ancient urn said to house a spirit.{j}{c02}≪Gou Weapon≫{/c}
 3853,工房が趣味で考案した大鎚。{j}ちくちくしたさぼてんが刺す。,A Hammer devised by the Workshop as a hobby.{j}A prickly cactus pricks.
-3854,「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。,"A poison hammer that further evolved{j}the virulent venom once praised as the most vicious of the ""Poison Monster"".{j}Its entire body is a mass of poison."
+3854,「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。,"Poison hammer evolving the ""Poison{j}Monster's"" most vicious venom. Its entire{j}body is a mass of poison."
 3855,装飾の施された白い鎚。{j}儀礼用だが実用性も兼ね備えた{j}名工謹製の逸品。,A white Hammer adorned with decorations.{j}A ceremonial piece that also boasts practicality--{j}a masterpiece by a master craftsman.
 3856,装飾の施された白い鎚。{j}儀礼用だが実用性も兼ね備えた{j}名工謹製の逸品。,A white Hammer adorned with decorations.{j}A ceremonial piece that also boasts practicality--{j}a masterpiece by a master craftsman.
 3857,装飾の施された白い鎚。{j}儀礼用だが実用性も兼ね備えた{j}名工謹製の逸品。,A white Hammer adorned with decorations.{j}A ceremonial piece that also boasts practicality--{j}a masterpiece by a master craftsman.
@@ -4175,8 +4175,8 @@ even giant dragons fear{j}coming near.{j}The wrath of this sword is the wrath of
 4172,スティールスワロウの設計図{j}を元に、異なる金属で新たに{j}開発された双剣。,"Dual Blades newly developed{j}using a different metal, based on the blueprint{j}for the Steel Swallow."
 4173,スティールスワロウの設計図{j}を元に、異なる金属で新たに{j}開発された双剣。,"Dual Blades newly developed{j}using a different metal, based on the blueprint{j}for the Steel Swallow."
 4174,ハンターの功績を称え、ギル{j}ドから贈与される双剣。,Dual Blades awarded by the{j}Guild in honor of a Hunter's achievements.
-4175,万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。,"The{j}roar of the Echoing Wolf, said to reach ten thousand miles. Any{j}who sees the Great Sword that houses its power trembles from the depths of their heart."
-4176,万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。,"The{j}roar of the Echoing Wolf, said to reach ten thousand miles. Any{j}who sees the Great Sword that houses its power trembles from the depths of their heart."
+4175,万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。,The{j}Echoing Wolf's roar reaches far beyond.{j}Its Great Sword makes viewers tremble.
+4176,万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。,The{j}Echoing Wolf's roar reaches far beyond.{j}Its Great Sword makes viewers tremble.
 4177,響狼の巨大な牙が無差別に{j}恐怖と絶望を周囲に放つ。{j}{c02}≪剛種武器≫{/c},The giant fangs of the Roaring Wolf{j}spread fear and despair indiscriminately around them.{j}{c02}≪Gou Weapon≫{/c}
 4178,響狼の巨大な牙が無差別に{j}恐怖と絶望を周囲に放つ。{j}{c02}≪剛種武器≫{/c},The giant fangs of the Roaring Wolf{j}spread fear and despair indiscriminately around them.{j}{c02}≪Gou Weapon≫{/c}
 4179,すでに限界まで強化を果たした{j}大剣が、加工の技術革新により{j}さらなる力を得る。,A{j}Great Sword already strengthened to its limit gains{j}even greater power through advances in crafting.
@@ -7451,7 +7451,7 @@ but devised to further improve{j}its attack power."
 7444,脅威の超重量ハンマー。{j}この世に潰せない物は無い。{j}{c11}≪ＨＣ武器≫{/c},A fearsome ultra-heavy Hammer.{j}There is nothing in this world it cannot crush.{j}{c11}≪HC Weapon≫{/c}
 7445,アイルーっぽいぬいぐるみ。{j}抱きつくだけで意識を失う。{j}{c11}≪ＨＣ武器≫{/c},A plush toy that looks like a Felyne.{j}Just hugging it makes you lose consciousness.{j}{c11}≪HC Weapon≫{/c}
 7446,龍を倒すたび、その色がより{j}濃い群青に染まっていく棍棒。{j}龍殺しに特化した属性は脅威。,A club that becomes a deeper ultramarine blue each{j}time it defeats a dragon. Its element specialized{j}in dragon slaying is a threat.
-7447,「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。,"A poison hammer that further evolved{j}the virulent venom once praised as the most vicious of the ""Poison Monster"".{j}Its entire body is a mass of poison."
+7447,「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。,"Poison hammer evolving the ""Poison{j}Monster's"" most vicious venom. Its entire{j}body is a mass of poison."
 7448,エビの殻を用いて作成され{j}たハンマー。わずかにではあ{j}るが水属性を持つ。,"A Hammer made from shrimp shells. Has a Water{j}element, albeit slight.{j}"
 7449,ベテランハンターの証とされ、{j}万物を粉砕する圧倒的な攻撃{j}力を誇るという特注ハンマー。,Proof of a veteran Hunter: a custom Hammer said to{j}boast overwhelming Attack power that crushes all{j}things.
 7450,最新技術と、晶竜素材により{j}実現した狩猟笛。その斬新な{j}旋律は聴く者を奮い立たせる。,A Hunting Horn realized through the latest{j}technology and Crystal Wyvern materials. Its novel{j}melody stirs the hearts of all who hear it.
@@ -13200,8 +13200,8 @@ polished{j}magnificently.{c03}Shelling Lv4{/c}."
 13190,恐れ知らずの者のみ所持する{j}ことを許された、闘志が燃え{j}上がる双剣。{c16}≪親方印≫{/c},"Dual Blades that only the fearless are permitted to{j}, their fighting spirit burning{j}bright.{c16}≪Master Mark≫{/c}"
 13191,恐れ知らずの者のみが所持を{j}許された、不屈の闘志が燃え{j}上がる双剣。{c11}≪ＨＣ武器≫{/c},"Dual Blades{j}permitted only to the fearless, in which an unyielding fighting spirit{j}blazes.{c11}≪HC Weapon≫{/c}"
 13192,勇敢な闘志を刀身に封じ込め{j}た双剣。一振りするごとに{j}アツい気持ちが込み上げる。,"Dual Blades that seal a brave fighting spirit{j}within their blades. With every swing, passionate{j}feelings surge up."
-13193,銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman that, while for ceremonies, also{j}possesses practicality."
-13194,銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman that, while for ceremonies, also{j}possesses practicality."
+13193,銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword & Shield with silver{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith."
+13194,銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。,"A black Sword & Shield with silver{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith."
 13195,銀の装飾が施された黒い片手{j}剣。名工謹製の逸品。{j}{c16}≪親方印≫{/c},A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman.{j}{c16}≪Master Mark≫{/c}
 13196,銀の装飾が施された黒い片手{j}剣。名工謹製の逸品。{j}{c11}≪ＨＣ武器≫{/c},A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman.{j}{c11}≪HC Weapon≫{/c}
 13197,銀の装飾が施された黒い片手{j}剣。儀礼用であったものを鍛{j}え、至高の逸品へと昇華した。,"A black Sword & Shield adorned with silver{j}ornaments. Forged from a ceremonial piece, it has{j}been elevated to a supreme masterpiece."

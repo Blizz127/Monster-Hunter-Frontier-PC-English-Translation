@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 239,
+      "source": "片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。",
+      "previous": "Dual Blades that fight by wielding two{j}one-handed weapons, one in each hand. Since they cannot defend at all{j}, they overwhelm with sheer number of attacks.",
+      "target": "Dual Blades wielding two one-handed{j}weapons, one in each hand. Unable to{j}guard, they overwhelm with attacks.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 240,
+      "source": "片手用の武器を、両手に２つ{j}持って戦う双剣。防御が一切{j}できない分、手数で圧倒する。",
+      "previous": "Dual Blades that fight by wielding two{j}one-handed weapons, one in each hand. Since they cannot defend at all{j}, they overwhelm with sheer number of attacks.",
+      "target": "Dual Blades wielding two one-handed{j}weapons, one in each hand. Unable to{j}guard, they overwhelm with attacks.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 269,
+      "source": "炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。",
+      "previous": "A crimson Great Sword imbued with the power of the Flame Dragon.{j}Despite its graceful form, a single swing{j}turns a league in every direction to scorched earth.",
+      "target": "Crimson Great Sword imbued with Flame{j}Dragon power. One swing scorches a league{j}in every direction.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 420,
+      "source": "炎龍の力を秘めた紅蓮の大剣。{j}気品ある姿とは裏腹に、一度{j}振れば四方一里は焦土と化す。",
+      "previous": "A crimson Great Sword imbued with the power of the Flame Dragon.{j}Despite its graceful form, a single swing{j}turns a league in every direction to scorched earth.",
+      "target": "Crimson Great Sword imbued with Flame{j}Dragon power. One swing scorches a league{j}in every direction.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 379,
+      "source": "天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。",
+      "previous": "Dual Blades that seem to hold{j}a lightning pillar joining heaven and earth{j}right in your hand. A phantom weapon worthy of the King of Phantom Beasts.",
+      "target": "Dual Blades like a lightning pillar{j}joining heaven and earth. A phantom weapon{j}for the King of Phantom Beasts.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 790,
+      "source": "天地を結ぶ雷の柱がそのまま{j}手に収まったかのような双剣。{j}幻獣の王が持つべき幻の武器。",
+      "previous": "Dual Blades that seem to hold{j}a lightning pillar joining heaven and earth{j}right in your hand. A phantom weapon worthy of the King of Phantom Beasts.",
+      "target": "Dual Blades like a lightning pillar{j}joining heaven and earth. A phantom weapon{j}for the King of Phantom Beasts.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 473,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the South Gate.~",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 475,
+      "source": "邪龍ミラボレアスを祀る神器。{j}〜大地の龍脈より命を受け　{j}　御神体の南門へ注ぐ者也〜",
+      "previous": "A sacred treasure enshrining the Evil Dragon Fatalis.{j}~Granted its mission by the earth's dragon veins,{j}it pours into the South Gate of the divine body~",
+      "target": "Sacred treasure enshrining Evil Fatalis.{j}~By earth's dragon veins ordained,{j}it flows to the South Gate.~",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3699,
+      "source": "ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。",
+      "previous": "Dancing Thunder Wyvern materials have{j}long been considered unsuitable for making Hammers, but{j}the discovery of new materials has made production possible.",
+      "target": "Dancing Thunder Wyvern materials once{j}seemed unsuitable for Hammers. New{j}materials now make production possible.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3700,
+      "source": "ハンマーの製作には不向きと{j}されてきた舞雷竜の素材だが、{j}新素材の発見で生産可能に。",
+      "previous": "Dancing Thunder Wyvern materials have{j}long been considered unsuitable for making Hammers, but{j}the discovery of new materials has made production possible.",
+      "target": "Dancing Thunder Wyvern materials once{j}seemed unsuitable for Hammers. New{j}materials now make production possible.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3743,
+      "source": "呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。",
+      "previous": "A high-performance water sword with terrifying moisture retention{j}performance thanks to the slime{j}component secreted on the surface of Plesioth materials.",
+      "target": "High-performance water sword with{j}terrifying moisture retention from slime{j}secreted by Plesioth materials.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3744,
+      "source": "呑竜素材の表面に分泌している{j}ヌメリ成分により脅威の保湿{j}性能を持つ、高性能水剣。",
+      "previous": "A high-performance water sword with terrifying moisture retention{j}performance thanks to the slime{j}component secreted on the surface of Plesioth materials.",
+      "target": "High-performance water sword with{j}terrifying moisture retention from slime{j}secreted by Plesioth materials.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3837,
+      "source": "斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。",
+      "previous": "The slimy surface{j}that hinders sharpness has, through advanced processing techniques, been transformed instead{j}into a liquid that improves sharpness.",
+      "target": "Advanced processing transforms slimy{j}surface liquid into a substance that{j}improves sharpness.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3838,
+      "source": "斬れ味を阻害する表面のヌメリ{j}を高度な加工技術により、逆に{j}斬れ味を上げる液として昇華。",
+      "previous": "The slimy surface{j}that hinders sharpness has, through advanced processing techniques, been transformed instead{j}into a liquid that improves sharpness.",
+      "target": "Advanced processing transforms slimy{j}surface liquid into a substance that{j}improves sharpness.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 3854,
+      "source": "「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。",
+      "previous": "A poison hammer that further evolved{j}the virulent venom once praised as the most vicious of the \"Poison Monster\".{j}Its entire body is a mass of poison.",
+      "target": "Poison hammer evolving the \"Poison{j}Monster's\" most vicious venom. Its entire{j}body is a mass of poison.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 7447,
+      "source": "「毒の怪物」の最凶と謳われた{j}猛毒をさらに進化させた毒槌。{j}全身が毒の塊。",
+      "previous": "A poison hammer that further evolved{j}the virulent venom once praised as the most vicious of the \"Poison Monster\".{j}Its entire body is a mass of poison.",
+      "target": "Poison hammer evolving the \"Poison{j}Monster's\" most vicious venom. Its entire{j}body is a mass of poison.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 4175,
+      "source": "万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。",
+      "previous": "The{j}roar of the Echoing Wolf, said to reach ten thousand miles. Any{j}who sees the Great Sword that houses its power trembles from the depths of their heart.",
+      "target": "The{j}Echoing Wolf's roar reaches far beyond.{j}Its Great Sword makes viewers tremble.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 4176,
+      "source": "万里先まで届くとされる響狼の{j}咆哮。その力を宿す大剣を見た{j}者は、心の底から竦み上がる。",
+      "previous": "The{j}roar of the Echoing Wolf, said to reach ten thousand miles. Any{j}who sees the Great Sword that houses its power trembles from the depths of their heart.",
+      "target": "The{j}Echoing Wolf's roar reaches far beyond.{j}Its Great Sword makes viewers tremble.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 13193,
+      "source": "銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman that, while for ceremonies, also{j}possesses practicality.",
+      "target": "A black Sword & Shield with silver{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-weapons-melee-description.csv",
+      "index": 13194,
+      "source": "銀の装飾が施された黒い片手{j}剣。儀礼用だが実用性も{j}兼ね備えた名工謹製の逸品。",
+      "previous": "A black Sword{j}& Shield adorned with silver ornaments. A masterpiece by a master craftsman that, while for ceremonies, also{j}possesses practicality.",
+      "target": "A black Sword & Shield with silver{j}ornamentation. Ceremonial yet practical,{j}crafted by a master smith.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-weapons-melee-description.csv": {
+      "offset": 140,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source melee-description patterns."
+}
