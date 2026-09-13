@@ -246,3 +246,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 10 more source-reviewed descriptions across ranged, equipment, and melee records.
 - Reduce the remaining reviewed shortening queue to 30 entries.
+
+## 2026.09.13-preview.47 (experimental)
+
+- Add the final 30 source-reviewed equipment-description records in the current shortening queue.
+- The current reviewed shortening queue is now empty.

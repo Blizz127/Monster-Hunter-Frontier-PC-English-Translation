@@ -840,9 +840,9 @@ index,source,target
 838,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な頭防具。荒野を{j}旅するハンターに人気の一品。,Luxurious head armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 839,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な頭防具。荒野を{j}旅するハンターに人気の一品。,Luxurious head armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 840,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な頭防具。荒野を{j}旅するハンターに人気の一品。,Luxurious head armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
-841,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+841,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 842,0,
-843,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+843,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 844,0,
 845,古来より伝わる製法を用いた{j}頭防具。素材や装飾等の細部{j}まで忠実に再現している。,Head armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
 846,古来より伝わる製法を用いた{j}頭防具。素材や装飾等の細部{j}まで忠実に再現している。,Head armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
@@ -2214,8 +2214,8 @@ index,source,target
 2212,白星鉄から制作した頭防具を{j}さらに加工することに成功。{j}その純白は永遠に輝き続ける。,Successfully further refined the Head{j}armor crafted from White Star Iron. Its{j}pure white will shine forever.
 2213,多人数での狩猟用に{j}考案された頭防具。{j}特に罠類の扱いに長ける。,Head armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
 2214,多人数での狩猟用に{j}考案された頭防具。{j}特に罠類の扱いに長ける。,Head armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
-2215,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
-2216,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+2215,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
+2216,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 2217,数多の依頼をこなし、全幅の{j}信頼を勝ち取った者のみが{j}手にすることのできる頭防具。,Head Armor that only those who have{j}completed countless requests and won{j}complete trust can obtain.
 2218,数多の依頼をこなし、絶大な{j}感謝の意を表された者のみが{j}手にすることのできる頭防具。,Head armor that only those who have{j}completed many requests and been shown{j}immense gratitude can obtain.
 2219,良質な素材を使用した頭装備。{j}優しい萌黄色が、{j}熟練狩人にも勇気を与える。,Head armor made from quality materials.{j}Its gentle yellow-green gives{j}even veteran Hunters courage.
@@ -2898,9 +2898,9 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2894,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
 2895,勇猛果敢な剣士が好んで{j}装備する頭防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring swordsmen prefer{j}to equip head armor.{j}{c11}≪HC Armor≫{/c}
 2896,勇猛果敢な射撃手が好んで{j}装備する頭防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring gunners prefer{j}to equip head armor.{j}{c11}≪HC Armor≫{/c}
-2897,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+2897,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 2898,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
-2899,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+2899,金獅子の素材と鬼憑鉄の{j}結合により完成した頭防具。{j}飛竜をも戦慄させるド迫力。,Head armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 2900,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
 2901,ランポスの素材を用いた頭{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,Head armor made from Velociprey materials.{j}Made lighter while also boosting Defense.{j}
 2902,ランポスの素材を用いた頭{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,Head armor made from Velociprey materials.{j}Made lighter while also boosting Defense.{j}
@@ -15277,9 +15277,9 @@ Felyne partner, meow!{j}To the sea!"
 15261,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な胴防具。荒野を{j}旅するハンターに人気の一品。,Luxurious body armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 15262,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な胴防具。荒野を{j}旅するハンターに人気の一品。,Luxurious body armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 15263,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な胴防具。荒野を{j}旅するハンターに人気の一品。,Luxurious body armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
-15264,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+15264,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 15265,0,
-15266,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+15266,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 15267,0,
 15268,古来より伝わる製法を用いた{j}胴防具。素材や装飾等の細部{j}まで忠実に再現している。,Body armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
 15269,古来より伝わる製法を用いた{j}胴防具。素材や装飾等の細部{j}まで忠実に再現している。,Body armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
@@ -16427,8 +16427,8 @@ Felyne partner, meow!{j}To the sea!"
 16411,白星鉄から制作した胴防具を{j}さらに加工することに成功。{j}その純白は永遠に輝き続ける。,Successfully further refined the Body{j}armor crafted from White Star Iron. Its{j}pure white will shine forever.
 16412,多人数での狩猟用に{j}考案された胴防具。{j}特に罠類の扱いに長ける。,Body Armor{j}designed for group hunting.{j}Especially skilled with traps.
 16413,多人数での狩猟用に{j}考案された胴防具。{j}特に罠類の扱いに長ける。,Body Armor{j}designed for group hunting.{j}Especially skilled with traps.
-16414,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
-16415,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+16414,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
+16415,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 16416,数多の依頼をこなし、全幅の{j}信頼を勝ち取った者のみが{j}手にすることのできる胴防具。,Body Armor that only those who have{j}completed countless requests and won{j}complete trust can obtain.
 16417,数多の依頼をこなし、絶大な{j}感謝の意を表された者のみが{j}手にすることのできる胴防具。,Body Armor that only those who have{j}completed countless requests and been{j}shown immense gratitude can obtain.
 16418,良質な素材を使用した胴装備。{j}優しい萌黄色が、{j}熟練狩人にも勇気を与える。,Body armor made from quality materials.{j}Its gentle yellow-green gives{j}even veteran Hunters courage.
@@ -17019,9 +17019,9 @@ Felyne partner, meow!{j}To the sea!"
 17003,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
 17004,勇猛果敢な剣士が好んで{j}装備する胴防具。{j}{c11}≪ＨＣ防具≫{/c},Body Armor that valiant swordsmen prefer{j}to equip.{j}{c11}≪HC Armor≫{/c}
 17005,勇猛果敢な射撃手が好んで{j}装備する胴防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring gunners prefer{j}to equip body armor.{j}{c11}≪HC Armor≫{/c}
-17006,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+17006,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 17007,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
-17008,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+17008,金獅子の素材と鬼憑鉄の{j}結合により完成した胴防具。{j}飛竜をも戦慄させるド迫力。,Body armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 17009,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
 17010,ランポスの素材を用いた胴{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,"Body armor using Velociprey materials.{j}While aiming for weight reduction, defense{j}is also strengthened at the same time."
 17011,ランポスの素材を用いた胴{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,"Body armor using Velociprey materials.{j}While aiming for weight reduction, defense{j}is also strengthened at the same time."
@@ -28747,9 +28747,9 @@ Felyne partner, meow!{j}To the sea!"
 28719,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な腕防具。荒野を{j}旅するハンターに人気の一品。,Luxurious arm armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 28720,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な腕防具。荒野を{j}旅するハンターに人気の一品。,Luxurious arm armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 28721,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な腕防具。荒野を{j}旅するハンターに人気の一品。,Luxurious arm armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
-28722,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+28722,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 28723,0,
-28724,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+28724,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 28725,0,
 28726,古来より伝わる製法を用いた{j}腕防具。素材や装飾等の細部{j}まで忠実に再現している。,Arm armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
 28727,古来より伝わる製法を用いた{j}腕防具。素材や装飾等の細部{j}まで忠実に再現している。,Arm armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
@@ -29888,8 +29888,8 @@ Felyne partner, meow!{j}To the sea!"
 29860,白星鉄から制作した腕防具を{j}さらに加工することに成功。{j}その純白は永遠に輝き続ける。,Successfully further refined the Arms{j}armor crafted from White Star Iron. Its{j}pure white will shine forever.
 29861,多人数での狩猟用に{j}考案された腕防具。{j}特に罠類の扱いに長ける。,Arms armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
 29862,多人数での狩猟用に{j}考案された腕防具。{j}特に罠類の扱いに長ける。,Arms armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
-29863,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
-29864,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+29863,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
+29864,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 29865,数多の依頼をこなし、全幅の{j}信頼を勝ち取った者のみが{j}手にすることのできる腕防具。,Arms Armor that only those who have{j}completed countless requests and won{j}complete trust can obtain.
 29866,数多の依頼をこなし、絶大な{j}感謝の意を表された者のみが{j}手にすることのできる腕防具。,Arm armor that only those who have{j}completed many requests and been shown{j}immense gratitude can obtain.
 29867,良質な素材を使用した腕装備。{j}優しい萌黄色が、{j}熟練狩人にも勇気を与える。,Arm armor made from quality materials.{j}Its gentle yellow-green gives{j}even veteran Hunters courage.
@@ -30480,9 +30480,9 @@ Felyne partner, meow!{j}To the sea!"
 30452,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
 30453,勇猛果敢な剣士が好んで{j}装備する腕防具。{j}{c11}≪ＨＣ防具≫{/c},Arms Armor that valiant swordsmen prefer{j}to equip.{j}{c11}≪HC Armor≫{/c}
 30454,勇猛果敢な射撃手が好んで{j}装備する腕防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring gunners prefer{j}to equip arm armor.{j}{c11}≪HC Armor≫{/c}
-30455,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+30455,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 30456,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
-30457,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+30457,金獅子の素材と鬼憑鉄の{j}結合により完成した腕防具。{j}飛竜をも戦慄させるド迫力。,Arm armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 30458,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
 30459,ランポスの素材を用いた腕{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,"Arm armor using Velociprey materials.{j}While aiming for weight reduction, defense{j}is also strengthened at the same time."
 30460,ランポスの素材を用いた腕{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,"Arm armor using Velociprey materials.{j}While aiming for weight reduction, defense{j}is also strengthened at the same time."
@@ -42301,9 +42301,9 @@ Felyne partner, meow!{j}To the sea!"
 42261,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な腰防具。荒野を{j}旅するハンターに人気の一品。,Luxurious waist armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 42262,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な腰防具。荒野を{j}旅するハンターに人気の一品。,Luxurious waist armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
 42263,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な腰防具。荒野を{j}旅するハンターに人気の一品。,Luxurious waist armor with roughly worked{j}rare Bird Wyvern parts. Popular with{j}Hunters who travel the wilds.
-42264,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+42264,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 42265,0,
-42266,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+42266,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 42267,0,
 42268,古来より伝わる製法を用いた{j}腰防具。素材や装飾等の細部{j}まで忠実に再現している。,Waist armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
 42269,古来より伝わる製法を用いた{j}腰防具。素材や装飾等の細部{j}まで忠実に再現している。,Waist armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
@@ -43511,8 +43511,8 @@ Felyne partner, meow!{j}To the sea!"
 43471,白星鉄から制作した腰防具を{j}さらに加工することに成功。{j}その純白は永遠に輝き続ける。,Successfully further refined the Waist{j}armor crafted from White Star Iron. Its{j}pure white will shine forever.
 43472,多人数での狩猟用に{j}考案された腰防具。{j}特に罠類の扱いに長ける。,Waist armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
 43473,多人数での狩猟用に{j}考案された腰防具。{j}特に罠類の扱いに長ける。,Waist armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
-43474,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
-43475,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+43474,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
+43475,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 43476,数多の依頼をこなし、全幅の{j}信頼を勝ち取った者のみが{j}手にすることのできる腰防具。,Waist Armor that only those who have{j}completed countless requests and won{j}complete trust can obtain.
 43477,数多の依頼をこなし、絶大な{j}感謝の意を表された者のみが{j}手にすることのできる腰防具。,Waist armor that only those who have{j}completed many requests and been shown{j}immense gratitude can obtain.
 43478,良質な素材を使用した腰装備。{j}優しい萌黄色が、{j}熟練狩人にも勇気を与える。,Waist armor made from quality materials.{j}Its gentle yellow-green gives{j}even veteran Hunters courage.
@@ -44102,9 +44102,9 @@ Felyne partner, meow!{j}To the sea!"
 44062,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
 44063,勇猛果敢な剣士が好んで{j}装備する腰防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring swordsmen prefer{j}to equip waist armor.{j}{c11}≪HC Armor≫{/c}
 44064,勇猛果敢な射撃手が好んで{j}装備する腰防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring gunners prefer{j}to equip waist armor.{j}{c11}≪HC Armor≫{/c}
-44065,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+44065,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 44066,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
-44067,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+44067,金獅子の素材と鬼憑鉄の{j}結合により完成した腰防具。{j}飛竜をも戦慄させるド迫力。,Waist armor from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 44068,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
 44069,ランポスの素材を用いた腰{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,Waist armor made from Velociprey{j}materials. Made lighter while also{j}boosting Defense.
 44070,ランポスの素材を用いた腰{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,Waist armor made from Velociprey{j}materials. Made lighter while also{j}boosting Defense.
@@ -55937,9 +55937,9 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 55882,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な脚防具。荒野を{j}旅するハンターに人気の一品。,Luxurious Leg Armor made with rough use of{j}rare Bird Wyvern materials. A popular item{j}among Hunters who journey the wilderness.
 55883,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な脚防具。荒野を{j}旅するハンターに人気の一品。,Luxurious Leg Armor made with rough use of{j}rare Bird Wyvern materials. A popular item{j}among Hunters who journey the wilderness.
 55884,稀少な鳥竜の素材を荒々しく{j}使用した贅沢な脚防具。荒野を{j}旅するハンターに人気の一品。,Luxurious Leg Armor made with rough use of{j}rare Bird Wyvern materials. A popular item{j}among Hunters who journey the wilderness.
-55885,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+55885,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 55886,0,
-55887,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+55887,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 55888,0,
 55889,古来より伝わる製法を用いた{j}脚防具。素材や装飾等の細部{j}まで忠実に再現している。,Leg armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
 55890,古来より伝わる製法を用いた{j}脚防具。素材や装飾等の細部{j}まで忠実に再現している。,Leg armor made by ancient methods.{j}Materials and ornaments are faithfully{j}reproduced down to the finest detail.
@@ -57082,8 +57082,8 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 57025,白星鉄から制作した脚防具を{j}さらに加工することに成功。{j}その純白は永遠に輝き続ける。,Successfully further refined the Legs{j}armor crafted from White Star Iron. Its{j}pure white will shine forever.
 57026,多人数での狩猟用に{j}考案された脚防具。{j}特に罠類の扱いに長ける。,Leg armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
 57027,多人数での狩猟用に{j}考案された脚防具。{j}特に罠類の扱いに長ける。,Leg armor designed{j}for hunting in groups.{j}Especially adept at handling traps.
-57028,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
-57029,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+57028,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
+57029,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 57030,数多の依頼をこなし、全幅の{j}信頼を勝ち取った者のみが{j}手にすることのできる脚防具。,Legs Armor that only those who have{j}completed countless requests and won{j}complete trust can obtain.
 57031,数多の依頼をこなし、絶大な{j}感謝の意を表された者のみが{j}手にすることのできる脚防具。,Legs Armor that only those who have{j}completed countless requests and been{j}shown immense gratitude can obtain.
 57032,良質な素材を使用した脚装備。{j}優しい萌黄色が、{j}熟練狩人にも勇気を与える。,Leg armor made from quality materials.{j}Its gentle yellow-green gives{j}even veteran Hunters courage.
@@ -57673,9 +57673,9 @@ giant insect materials to raise{j}Defense. Boasts a hardness{j}beyond its appear
 57616,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Produced{j}with items obtained from the Hunter Festival. Its form is proof of the number of infused souls{j}.{c11}≪HC Armor≫{/c}
 57617,勇猛果敢な剣士が好んで{j}装備する脚防具。{j}{c11}≪ＨＣ防具≫{/c},Legs Armor that valiant swordsmen prefer{j}to equip.{j}{c11}≪HC Armor≫{/c}
 57618,勇猛果敢な射撃手が好んで{j}装備する脚防具。{j}{c11}≪ＨＣ防具≫{/c},Brave and daring gunners prefer{j}to equip leg armor.{j}{c11}≪HC Armor≫{/c}
-57619,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+57619,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 57620,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
-57621,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor completed through the{j}fusion of Rajang materials and Onyx Iron. An overwhelming presence that{j}makes even wyverns tremble.
+57621,金獅子の素材と鬼憑鉄の{j}結合により完成した脚防具。{j}飛竜をも戦慄させるド迫力。,Leg armor made from Rajang and Onyx Iron.{j}A fearsome fusion that makes{j}even wyverns tremble.
 57622,数多の試練を凌いだ証の防具。{j}羅刹の如き膂力と生命力が{j}全身に漲る。{c11}≪ＨＣ防具≫{/c},Armor that is proof of having overcome many trials.{j}The strength and vitality of a Rakshasa fill{j}the entire body.{c11}≪HC Armor≫{/c}
 57623,ランポスの素材を用いた脚{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,"Leg armor using Velociprey materials.{j}While aiming for weight reduction, defense{j}is also strengthened at the same time."
 57624,ランポスの素材を用いた脚{j}防具。軽量化を図りつつ{j}同時に防御力も強化。,"Leg armor using Velociprey materials.{j}While aiming for weight reduction, defense{j}is also strengthened at the same time."
