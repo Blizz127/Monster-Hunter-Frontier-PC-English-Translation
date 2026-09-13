@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18223,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した胴装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Body armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight body armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18224,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した胴装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Body armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight body armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18225,
+      "source": "溶岩竜の、石化部位の素材を{j}見事に利用した胴装備。見た目{j}とは裏腹に、非常に軽量。",
+      "previous": "Body armor that{j}makes superb use of materials from a Lavasioth's petrified parts. Contrary to its appearance{j}, it is extremely light.",
+      "target": "Lightweight body armor made from petrified{j}Lavasioth parts, despite its heavy{j}appearance.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18232,
+      "source": "金獅子の、壮麗な素材を利用{j}した胴装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Body armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Body armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18233,
+      "source": "金獅子の、壮麗な素材を利用{j}した胴装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Body armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Body armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18234,
+      "source": "金獅子の、壮麗な素材を利用{j}した胴装備。着用者には強者の{j}魂、風格、そして怒りが宿る。",
+      "previous": "Body armor{j}made using the magnificent materials of the Gold Lion. The{j}soul, dignity, and rage of a mighty beast dwell within the wearer.",
+      "target": "Body armor made from magnificent Rajang{j}materials. It fills the wearer with a{j}mighty beast's soul, dignity and rage.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18250,
+      "source": "尾晶蠍を狩りし者の証たる{j}胴装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Body Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion body armor: its hardness{j}hurts attackers.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18251,
+      "source": "尾晶蠍を狩りし者の証たる{j}胴装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Body Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion body armor: its hardness{j}hurts attackers.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18252,
+      "source": "尾晶蠍を狩りし者の証たる{j}胴装備。その硬さ、鋭さは{j}叩いた手が痛くなるほど。",
+      "previous": "{j}Body Armor that is proof of one who hunted the Crystal-Tailed Scorpion. Its hardness and sharpness are{j}enough to make the striking hand hurt.",
+      "target": "{j}Crystal Scorpion body armor: its hardness{j}hurts attackers.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18817,
+      "source": "帯電する舞雷竜の素材を{j}使用した胴装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Body Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Body armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18818,
+      "source": "帯電する舞雷竜の素材を{j}使用した胴装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Body Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Body armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18819,
+      "source": "帯電する舞雷竜の素材を{j}使用した胴装備。雷の力が{j}装着者に力を与えるという。",
+      "previous": "Body Armor made using{j}materials from the electrified Dancing Thunder Dragon. It is said that the power of lightning{j}gives power to the wearer.",
+      "target": "Body armor made from electrified Dancing{j}Thunder Wyvern materials. Its lightning{j}grants the wearer power.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20844,
+      "source": "圧倒的な存在感と圧力を感じる{j}胴防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Body Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Body armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20845,
+      "source": "圧倒的な存在感と圧力を感じる{j}胴防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Body Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Body armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20846,
+      "source": "圧倒的な存在感と圧力を感じる{j}胴防具。身に着けた者の破壊衝{j}動を引出すと言う危険な代物。",
+      "previous": "{j}Body Armor that radiates an overwhelming presence and pressure. A dangerous piece, said to draw out the destructive{j}impulses of its wearer.",
+      "target": "{j}Body armor that draws out destructive{j}impulses.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21517,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた胴防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Body armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Body armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21518,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた胴防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Body armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Body armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21519,
+      "source": "雅翁龍の黒鱗をふんだんに{j}散りばめて作られた胴防具。{j}黒鱗に宿る覇気が力を与える。",
+      "previous": "Body armor lavishly inlaid{j}with black scales of the Elegant Elder Dragon.{j}The dominance dwelling in its black scales grants power.",
+      "target": "Body armor lavishly inlaid with Elegant{j}Elder Dragon black scales. Their dominance{j}grants power.",
+      "width": 42,
+      "family": 10
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22017,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる胴防具。意外と軽量。",
+      "previous": "Body armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Body armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22018,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる胴防具。意外と軽量。",
+      "previous": "Body armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Body armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22019,
+      "source": "人の汗を吸収し、守りの力に{j}転ずる事で相手を圧倒すると{j}言われる胴防具。意外と軽量。",
+      "previous": "Body armor said to absorb human sweat and, by{j}converting it into protective power,{j}overwhelm the foe. Surprisingly lightweight.",
+      "target": "Body armor that turns absorbed sweat into{j}protective power and overwhelms foes.{j}Surprisingly lightweight.",
+      "width": 42,
+      "family": 11
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22396,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた胴防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Body armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite body armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22397,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた胴防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Body armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite body armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22398,
+      "source": "創音竜の素材を余すとこなく{j}使用し精巧に作られた胴防具。{j}微かに「音」の宿りを感じる。",
+      "previous": "Body armor crafted with exquisite skill, using{j}every last scrap of Sound-Creating Dragon material.{j}A faint sense of \"sound\" dwells within.",
+      "target": "Exquisite body armor made from every scrap{j}of Sound-Creating Dragon material. A faint{j}\"sound\" dwells within.",
+      "width": 42,
+      "family": 12
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23849,
+      "source": "大巌竜の素材を用いた胴防具。{j}千を超える職人の知恵と技術{j}が生み出した究極の逸品。",
+      "previous": "Body Armor made from Great Boulder Dragon materials.{j}The ultimate masterpiece, born of the wisdom{j}and skill of over a thousand artisans.",
+      "target": "Body armor made from Great Boulder Dragon{j}materials. Wisdom and skill from over a{j}thousand artisans made this masterpiece.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23850,
+      "source": "大巌竜の素材を用いた胴防具。{j}千を超える職人の知恵と技術{j}が生み出した究極の逸品。",
+      "previous": "Body Armor made from Great Boulder Dragon materials.{j}The ultimate masterpiece, born of the wisdom{j}and skill of over a thousand artisans.",
+      "target": "Body armor made from Great Boulder Dragon{j}materials. Wisdom and skill from over a{j}thousand artisans made this masterpiece.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23851,
+      "source": "大巌竜の素材を用いた胴防具。{j}千を超える職人の知恵と技術{j}が生み出した究極の逸品。",
+      "previous": "Body Armor made from Great Boulder Dragon materials.{j}The ultimate masterpiece, born of the wisdom{j}and skill of over a thousand artisans.",
+      "target": "Body armor made from Great Boulder Dragon{j}materials. Wisdom and skill from over a{j}thousand artisans made this masterpiece.",
+      "width": 42,
+      "family": 13
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24298,
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた胴防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Body{j}Armor was created. It has a mysterious texture.",
+      "target": "Body armor recreating legendary ancient{j}gunner attire. It has a mysterious{j}texture.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24299,
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた胴防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Body{j}Armor was created. It has a mysterious texture.",
+      "target": "Body armor recreating legendary ancient{j}gunner attire. It has a mysterious{j}texture.",
+      "width": 42,
+      "family": 14
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24300,
+      "source": "古より伝わる幻のガンナーの{j}装束を再現して作られた胴防{j}具。不思議な肌触りがする。",
+      "previous": "Reproducing the attire{j}of a legendary gunner handed down from ancient times, this Body{j}Armor was created. It has a mysterious texture.",
+      "target": "Body armor recreating legendary ancient{j}gunner attire. It has a mysterious{j}texture.",
+      "width": 42,
+      "family": 14
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source body-armor description patterns."
+}
