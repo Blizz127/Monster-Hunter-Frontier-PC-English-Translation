@@ -1,0 +1,1154 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4327,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Dyuragaua helm.{j}Feared as the Scarlet Mountain.{j}Ferocious aura.{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4328,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Dyuragaua helm.{j}Feared as the Scarlet Mountain.{j}Ferocious aura.{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4335,
+      "source": "巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor that{j}combines the strength and sturdiness of a Giant Dragon. Grants an unshakable heart to the{j}wearer.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Giant Dragon head armor.{j}Strong and sturdy; grants resolve.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4336,
+      "source": "巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor that{j}combines the strength and sturdiness of a Giant Dragon. Grants an unshakable heart to the{j}wearer.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Giant Dragon head armor.{j}Strong and sturdy; grants resolve.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4340,
+      "source": "様々な飛竜の素材を複雑な技法{j}で組み合わせた頭防具。動きの{j}邪魔をしない。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor made by combining the materials of various Flying Wyverns with intricate techniques{j}. It does not{j}hinder your movement.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Flying Wyvern head armor.{j}Intricately combined; easy to move in.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4343,
+      "source": "冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4344,
+      "source": "冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4349,
+      "source": "採集を極めたハンターのみに{j}着用が許される頭防具。{j}その腕前は神技。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that only Hunters who have mastered gathering are{j}permitted to wear.{j}Their skill is godlike.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Master gatherer's head armor.{j}Godlike skill.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4351,
+      "source": "採集を極めたハンターのみに{j}着用が許される頭防具。{j}その腕前は神技。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that only Hunters who have mastered gathering are{j}permitted to wear.{j}Their skill is godlike.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Master gatherer's head armor.{j}Godlike skill.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4424,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4430,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18465,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18471,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31920,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31926,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45526,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45532,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59080,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59086,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4425,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4431,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18466,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18472,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31921,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31927,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45527,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45533,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59081,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59087,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4426,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4432,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 5496,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 5497,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18467,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18473,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19485,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19486,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31922,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31928,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32940,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32941,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45528,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45534,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 46546,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 46547,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59082,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59088,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60100,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60101,
+      "source": "狂暴な竜の素材を用いた防具。{j}巨竜の持つ強大な力が宿る{j}破戒の一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Imbued with the mighty power of the giant dragon,{j}a forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Mighty Giant Dragon power.{j}Forbidden piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4436,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4442,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18477,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18483,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31932,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31938,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45538,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45544,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59092,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59098,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪HC Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4437,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4443,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18478,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18484,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31933,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31939,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45539,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45545,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59093,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59099,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4438,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4444,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 5498,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 5499,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18479,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18485,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19487,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19488,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31934,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 31940,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32942,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 32943,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45540,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 45546,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 46548,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 46549,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59094,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 59100,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60102,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 60103,
+      "source": "狂暴な竜の素材を用いた防具。{j}特殊加工により汎用化された{j}画期的な一品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor made from the materials of a rampant dragon.{j}Made versatile through special processing,{j}a groundbreaking piece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rampant Dragon armor.{j}Specially treated for versatility.{j}Groundbreaking gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4447,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4451,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4523,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4526,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4544,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4548,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4552,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4556,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4560,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4564,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4448,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4452,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4524,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4527,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4545,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4549,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4553,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4557,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4561,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4565,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6014,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6015,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6016,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6017,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6018,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6019,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6020,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6021,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7567,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7568,
+      "source": "高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble head armor.{j}Distinctive design.{j}Masterpiece.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4485,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4662,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4668,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4674,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4486,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4663,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4669,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 4675,
+      "source": "信義と忠節の証たる頭防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor that is proof of faith and loyalty.{j}Holding all the power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Faithful head armor.{j}Attack, defense, and recovery power.{j}Wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-04"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated head-armor patterns."
+}
