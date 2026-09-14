@@ -308,3 +308,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 8 exact-source equipment-description records across Hyujikiki, Howling Wolf, and Mosswine head armor.
 - Reduce the current over-width census to 23770 records.
+
+## 2026.09.13-preview.59 (experimental)
+
+- Reflow 12 exact-source equipment-description records across Gou armor, King Lobster, and Hypnocatrice families.
+- Reduce the current over-width census to 23758 records.

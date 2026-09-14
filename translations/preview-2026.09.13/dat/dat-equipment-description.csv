@@ -2023,11 +2023,11 @@ index,source,target
 2021,極龍の力を具現する兜。{j}双眸が見つめる先に{j}獲物の末路が映るという。,A helm that embodies the Extreme Dragon's{j}power. The fate of its prey is said to be{j}reflected in the gaze of its eyes.
 2022,極龍の素材を使った髪飾り。{j}磁力により髪をきれいに{j}まとめることができる。,A hair ornament made from Disufiroa{j}materials. Its magnetic force can neatly{j}arrange your hair.
 2023,極龍の素材を使った髪飾り。{j}磁力により髪をきれいに{j}まとめることができる。,A hair ornament made from Disufiroa{j}materials. Its magnetic force can neatly{j}arrange your hair.
-2024,雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪剛種防具≫{/c},A noble crown whose horn is imbued with the{j}Thunder Beast's mysterious power.{j}{c02}≪Gou Armor≫{/c}
-2025,雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪剛種防具≫{/c},A noble crown whose horn is imbued with the{j}Thunder Beast's mysterious power.{j}{c02}≪Gou Armor≫{/c}
+2024,雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪剛種防具≫{/c},Noble crown with Thunder Beast power.{j}Its horn holds mysterious power.{j}{c02}Gou Armor{/c}
+2025,雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪剛種防具≫{/c},Noble crown with Thunder Beast power.{j}Its horn holds mysterious power.{j}{c02}Gou Armor{/c}
 2026,飛竜の素材を余すことなく{j}使いきって作られた頭防具。{j}よく体に馴染む。{c02}≪剛種防具≫{/c},Using every last bit of Wyvern material{j}Head armor made by using it all.{j}It fits the body well.{c02}≪Gou Armor≫{/c}
 2027,ダミー,Dummy
-2028,様々な飛竜の素材を複雑な技法{j}で組み合わせた頭防具。動きの{j}邪魔をしない。{c02}≪剛種防具≫{/c},Head armor made by combining the materials of various Flying Wyverns with intricate techniques{j}. It does not{j}hinder your movement.{c02}≪Gou Armor≫{/c}
+2028,様々な飛竜の素材を複雑な技法{j}で組み合わせた頭防具。動きの{j}邪魔をしない。{c02}≪剛種防具≫{/c},Head armor from many Flying Wyverns.{j}Intricately made for free movement.{j}Free movement.{c02}Gou Armor{/c}
 2029,ダミー,Dummy
 2030,荒々しくもしなやかな響狼。{j}その雰囲気を一切損わず{j}趣深く仕上げた頭防具。,"Head armor that loses none of the air of{j}the fierce yet supple Howling Wolf,{j}finished with refined taste."
 2031,不思議な力が宿るとされる{j}響狼素材。これを用い丁寧に{j}仕上げられた頭防具。,Echo Wolf material said to harbor{j}mysterious power. Head armor carefully{j}finished using this.
@@ -2174,9 +2174,9 @@ index,source,target
 2172,試練を乗り越えんとする者の{j}みに与えられるという頭防具。{j}{c07}ＳＰ防具：黄{/c},Head armor said to be granted only{j}to those who would overcome the trial.{j}{c07}SP Armor: Yellow{/c}
 2173,試練を乗り越えんとする者の{j}みに与えられるという頭防具。{j}{c07}ＳＰ防具：赤{/c},Head armor said to be granted only{j}to those who would overcome the trial.{j}{c07}SP Armor: Red{/c}
 2174,試練を乗り越えんとする者の{j}みに与えられるという頭防具。{j}{c07}ＳＰ防具：青{/c},Head armor said to be granted only{j}to those who would overcome the trial.{j}{c07}SP Armor: Blue{/c}
-2175,堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：黒{/c},Armor that recreates the{j}head of a King Lobster with a sturdy shell.{j}{c07}SP Armor: Black{/c}
-2176,堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：緑{/c},Armor that recreates the{j}head of a King Lobster with a sturdy shell.{j}{c07}SP Armor: Green{/c}
-2177,堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：青{/c},Armor that recreates the{j}head of a King Lobster with a sturdy shell.{j}{c07}SP Armor: Blue{/c}
+2175,堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：黒{/c},Armor recreating a King Lobster head.{j}Its shell is sturdy.{j}{c07}SP Armor: Black{/c}
+2176,堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：緑{/c},Armor recreating a King Lobster head.{j}Its shell is sturdy.{j}{c07}SP Armor: Green{/c}
+2177,堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：青{/c},Armor recreating a King Lobster head.{j}Its shell is sturdy.{j}{c07}SP Armor: Blue{/c}
 2178,希少なキングロブスタの殻を{j}ふんだんに使った頭装備。{j}{c07}ＳＰ防具：黒{/c},Head equipment made with an abundance of{j}rare King Lobster shell.{j}{c07}SP Armor: Black{/c}
 2179,希少なキングロブスタの殻を{j}ふんだんに使った頭装備。{j}{c07}ＳＰ防具：緑{/c},Head equipment made with an abundance of{j}rare King Lobster shell.{j}{c07}SP Armor: Green{/c}
 2180,希少なキングロブスタの殻を{j}ふんだんに使った頭装備。{j}{c07}ＳＰ防具：青{/c},Head equipment made with an abundance of{j}rare King Lobster shell.{j}{c07}SP Armor: Blue{/c}
@@ -2240,8 +2240,8 @@ index,source,target
 2238,異国の組織で正式採用されて{j}いる頭防具にハンター向けの{j}改造を施した物。,"Head armor officially adopted by a foreign{j}organization, given a Hunter-oriented{j}modification."
 2239,ドラギュロスの素材を使った頭{j}装備。その頑丈な作りは飛竜の{j}攻撃さえも跳ね返すという。,Head armor made from Doragyuros materials.{j}Its sturdy construction is said to even{j}repel the attacks of Flying Wyverns.
 2240,ドラギュロスの素材を使用した{j}頭装備。非常に硬く、ハンター{j}の頭部をしっかりと守る。,"Head equipment made from Doragyuros{j}materials. Extremely hard, it firmly{j}protects the Hunter's head."
-2241,爆炎の如き力を得る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Head armor that grants power like a blazing flame.{j}Enhances the abilities of the wearer.{j}{c02}≪Gou Armor≫{/c}
-2242,爆炎の如き力を得る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Head armor that grants power like a blazing flame.{j}Enhances the abilities of the wearer.{j}{c02}≪Gou Armor≫{/c}
+2241,爆炎の如き力を得る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Flame-like power-granting head armor.{j}Enhances the wearer's abilities.{j}{c02}Gou Armor{/c}
+2242,爆炎の如き力を得る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Flame-like power-granting head armor.{j}Enhances the wearer's abilities.{j}{c02}Gou Armor{/c}
 2243,しなやかな生地を深紅の染料{j}で染め上げた頭防具。見た目{j}以上に丈夫で着心地が良い。,Head armor made from supple fabric dyed{j}with crimson dye. It is more durable and{j}comfortable than its appearance suggests.
 2244,しなやかな生地を深紅の染料{j}で染め上げた頭防具。見た目{j}以上に丈夫で着心地が良い。,Head armor made from supple fabric dyed{j}with crimson dye. It is more durable and{j}comfortable than its appearance suggests.
 2245,子供たちを喜ばせるために{j}設計された服。身に付けると{j}プーギーの気持ちになれる。,"Clothing designed to delight children.{j}When worn, it lets you feel like a Poogie.{j}"
@@ -2310,10 +2310,10 @@ index,source,target
 2308,武具工房の親方の作業着を{j}極限まで改良。その装着感は{j}餓えた狼の如し、と親方の言。,"The workshop master's work clothes,{j}improved to the absolute limit. The master{j}says the fit is like a starving wolf."
 2309,薄手だが丈夫な新素材で作ら{j}れた最新の頭用装備。狩猟を助{j}ける様々な工夫が施してある。,"The latest head armor, made from{j}a thin yet sturdy new material. It is{j}packed with features to aid the hunt."
 2310,薄手だが丈夫な新素材で作ら{j}れた最新の頭用装備。狩猟を助{j}ける様々な工夫が施してある。,"The latest head armor, made from{j}a thin yet sturdy new material. It is{j}packed with features to aid the hunt."
-2311,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：緑{/c},Head{j}armor made with Hypnocatrice materials. It carries the intimidating presence of the sleep bird.{j}{c07}SP Armor: Green{/c}
-2312,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：赤{/c},Head{j}armor made with Hypnocatrice materials. It carries the intimidating presence of the sleep bird.{j}{c07}SP Armor: Red{/c}
-2313,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：黄{/c},Head{j}armor made with Hypnocatrice materials. It carries the intimidating presence of the sleep bird.{j}{c07}SP Armor: Yellow{/c}
-2314,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：黒{/c},"Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Black{/c}"
+2311,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：緑{/c},Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Green{/c}
+2312,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：赤{/c},Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Red{/c}
+2313,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：黄{/c},Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Yellow{/c}
+2314,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：黒{/c},"Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Black{/c}"
 2315,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：赤{/c},"Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Red{/c}"
 2316,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：紫{/c},"Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Purple{/c}"
 2317,ベルキュロス素材の頭装備。{j}硬度が高く、耐久性に優れて{j}いる。{c07}ＳＰ防具：黒{/c},Head armor made of Berukyros material.{j}Very hard and highly durable{j}.{c07}SP Armor: Black{/c}

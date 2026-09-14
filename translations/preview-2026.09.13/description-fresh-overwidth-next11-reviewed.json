@@ -1,0 +1,119 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2024,
+      "source": "雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪剛種防具≫{/c}",
+      "previous": "A noble crown whose horn is imbued with the{j}Thunder Beast's mysterious power.{j}{c02}≪Gou Armor≫{/c}",
+      "target": "Noble crown with Thunder Beast power.{j}Its horn holds mysterious power.{j}{c02}Gou Armor{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2025,
+      "source": "雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪剛種防具≫{/c}",
+      "previous": "A noble crown whose horn is imbued with the{j}Thunder Beast's mysterious power.{j}{c02}≪Gou Armor≫{/c}",
+      "target": "Noble crown with Thunder Beast power.{j}Its horn holds mysterious power.{j}{c02}Gou Armor{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2028,
+      "source": "様々な飛竜の素材を複雑な技法{j}で組み合わせた頭防具。動きの{j}邪魔をしない。{c02}≪剛種防具≫{/c}",
+      "previous": "Head armor made by combining the materials of various Flying Wyverns with intricate techniques{j}. It does not{j}hinder your movement.{c02}≪Gou Armor≫{/c}",
+      "target": "Head armor from many Flying Wyverns.{j}Intricately made for free movement.{j}Free movement.{c02}Gou Armor{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2175,
+      "source": "堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Armor that recreates the{j}head of a King Lobster with a sturdy shell.{j}{c07}SP Armor: Black{/c}",
+      "target": "Armor recreating a King Lobster head.{j}Its shell is sturdy.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2176,
+      "source": "堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Armor that recreates the{j}head of a King Lobster with a sturdy shell.{j}{c07}SP Armor: Green{/c}",
+      "target": "Armor recreating a King Lobster head.{j}Its shell is sturdy.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2177,
+      "source": "堅牢な殻でキングロブスタの{j}頭部を再現した装備。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Armor that recreates the{j}head of a King Lobster with a sturdy shell.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Armor recreating a King Lobster head.{j}Its shell is sturdy.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2241,
+      "source": "爆炎の如き力を得る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c}",
+      "previous": "Head armor that grants power like a blazing flame.{j}Enhances the abilities of the wearer.{j}{c02}≪Gou Armor≫{/c}",
+      "target": "Flame-like power-granting head armor.{j}Enhances the wearer's abilities.{j}{c02}Gou Armor{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2242,
+      "source": "爆炎の如き力を得る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c}",
+      "previous": "Head armor that grants power like a blazing flame.{j}Enhances the abilities of the wearer.{j}{c02}≪Gou Armor≫{/c}",
+      "target": "Flame-like power-granting head armor.{j}Enhances the wearer's abilities.{j}{c02}Gou Armor{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2311,
+      "source": "ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head{j}armor made with Hypnocatrice materials. It carries the intimidating presence of the sleep bird.{j}{c07}SP Armor: Green{/c}",
+      "target": "Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2312,
+      "source": "ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head{j}armor made with Hypnocatrice materials. It carries the intimidating presence of the sleep bird.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2313,
+      "source": "ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head{j}armor made with Hypnocatrice materials. It carries the intimidating presence of the sleep bird.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2314,
+      "source": "ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Black{/c}",
+      "target": "Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
