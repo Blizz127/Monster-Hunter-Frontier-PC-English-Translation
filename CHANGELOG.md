@@ -303,3 +303,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 24 exact-source equipment-description records across Espinas, Gypceros, and insulation families.
 - Reduce the current over-width census to 23778 records.
+
+## 2026.09.13-preview.58 (experimental)
+
+- Reflow 8 exact-source equipment-description records across Hyujikiki, Howling Wolf, and Mosswine head armor.
+- Reduce the current over-width census to 23770 records.

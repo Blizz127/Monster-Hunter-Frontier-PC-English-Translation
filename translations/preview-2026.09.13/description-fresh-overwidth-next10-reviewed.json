@@ -1,0 +1,83 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1971,
+      "source": "しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor that expresses the supple Hyujikiki aura{j}just as it is.{j}{c07}SP Armor: Black{/c}",
+      "target": "Head armor of supple Hyujikiki aura.{j}Just as supple as the aura itself.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1972,
+      "source": "しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Head armor that expresses the supple Hyujikiki aura{j}just as it is.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Head armor of supple Hyujikiki aura.{j}Just as supple as the aura itself.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1973,
+      "source": "不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor made using{j}Howling Wolf materials, said to grant mysterious power.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head armor using Howling Wolf materials.{j}Said to grant mysterious power.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1974,
+      "source": "不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head armor made using{j}Howling Wolf materials, said to grant mysterious power.{j}{c07}SP Armor: Black{/c}",
+      "target": "Head armor using Howling Wolf materials.{j}Said to grant mysterious power.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1975,
+      "source": "不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}ＳＰ防具：紫{/c}",
+      "previous": "Head armor made using{j}Howling Wolf materials, said to grant mysterious power.{j}{c07}SP Armor: Purple{/c}",
+      "target": "Head armor using Howling Wolf materials.{j}Said to grant mysterious power.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1976,
+      "source": "モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "Head armor modeled after a Mosswine's head.{j}Mosswine spirits anytime, anywhere!{j}{c07}SP Armor: White{/c}",
+      "target": "Mosswine head armor.{j}Mosswine spirit anywhere, anytime!{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1977,
+      "source": "モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor modeled after a Mosswine's head.{j}Mosswine spirits anytime, anywhere!{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Mosswine head armor.{j}Mosswine spirit anywhere, anytime!{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1978,
+      "source": "モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head armor modeled after a Mosswine's head.{j}Mosswine spirits anytime, anywhere!{j}{c07}SP Armor: Blue{/c}",
+      "target": "Mosswine head armor.{j}Mosswine spirit anywhere, anytime!{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 7
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Eight exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
