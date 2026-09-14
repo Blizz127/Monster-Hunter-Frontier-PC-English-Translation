@@ -3580,7 +3580,7 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 3576,異世界の武者が使用していた{j}頭防具。彼は、特殊な構えか{j}ら正確な射撃を行ったという。,Head Armor worn by a warrior from another{j}world. It is said he performed accurate{j}shooting from a special stance.
 3577,異世界の武者が使用していた{j}頭防具。彼は、特殊な構えか{j}ら正確な射撃を行ったという。,Head Armor worn by a warrior from another{j}world. It is said he performed accurate{j}shooting from a special stance.
 3578,異世界の武者が使用していた{j}頭防具。彼は、特殊な構えか{j}ら正確な射撃を行ったという。,Head Armor worn by a warrior from another{j}world. It is said he performed accurate{j}shooting from a special stance.
-3579,異世界の武者が使用していた{j}頭防具。特殊な構えから射撃{j}を行ったという。{c11}≪狩護防具≫{/c},{j}Head Armor worn by a warrior from another world. It is said he performed{j}shooting from a special stance.{c11}≪Hunting Guard Armor≫{/c}
+3579,異世界の武者が使用していた{j}頭防具。特殊な構えから射撃{j}を行ったという。{c11}≪狩護防具≫{/c},Otherworldly warrior head armor.{j}Said to fire from a special stance.{j}{c11}≪Hunting Guard Armor≫{/c}
 3580,異世界の娘が使用していた{j}頭防具。身軽な装備により、{j}俊敏な行動がとれる。,head armor used by a girl from another{j}world. Lightweight equipment allows agile{j}actions.
 3581,異世界の娘が使用していた{j}頭防具。身軽な装備により、{j}俊敏な行動がとれる。,head armor used by a girl from another{j}world. Lightweight equipment allows agile{j}actions.
 3582,異世界の娘が使用していた{j}頭防具。身軽な装備により、{j}俊敏な行動がとれる。,head armor used by a girl from another{j}world. Lightweight equipment allows agile{j}actions.
@@ -3782,12 +3782,12 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 3778,0,
 3779,0,
 3780,期待の新人のためにハンターズ{j}ギルドが用意した頭防具。{j}便利な能力が多く発動する。,Head Armor prepared by the Hunters{j}Guild for promising newcomers.{j}Activates many handy abilities.
-3781,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪剛種防具≫{/c},Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪Gou Armor≫{/c}
-3782,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪天嵐防具≫{/c},Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪Tenran Armor≫{/c}
-3783,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪覇種防具≫{/c},Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪Supremacy Armor≫{/c}
-3784,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪剛種防具≫{/c},Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪Gou Armor≫{/c}
-3785,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪天嵐防具≫{/c},Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪Tenran Armor≫{/c}
-3786,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪覇種防具≫{/c},Head armor imbued with the power of the Dark Thunder Wyvern.{j}Its wearer is said to be able to unleash{j}immense power as well.{c02}≪Supremacy Armor≫{/c}
+3781,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪剛種防具≫{/c},Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪Gou Armor≫{/c}
+3782,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪天嵐防具≫{/c},Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪Tenran Armor≫{/c}
+3783,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪覇種防具≫{/c},Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪Supremacy Armor≫{/c}
+3784,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪剛種防具≫{/c},Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪Gou Armor≫{/c}
+3785,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪天嵐防具≫{/c},Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪Tenran Armor≫{/c}
+3786,冥雷竜の力を宿した頭防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪覇種防具≫{/c},Dark Thunder Wyvern helm.{j}Grants its wearer immense power.{j}{c02}≪Supremacy Armor≫{/c}
 3787,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪剛種防具≫{/c},"Head Armor that depicts the prey-devouring{j}wyvern. At times, it is the starving{j}who are the strongest.≪Gou Armor≫{c02}{/c}"
 3788,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪天嵐防具≫{/c},"Head Armor that depicts the prey-devouring{j}wyvern. At times, it is the starving who{j}are the strongest.≪Tenran Armor≫{c02}{/c}"
 3789,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪覇種防具≫{/c},"Head armor depicting the ravenous{j}Devouring Dragon. At times, the starving{j}are the strongest.≪Supremacy Armor≫{c02}{/c}"
@@ -3907,15 +3907,15 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 3903,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。{j}何でも見通せる気がする。,"The height of the master's personal taste,{j}down to texture and luster. Makes you feel{j}you can see through anything."
 3904,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。{j}何でも見通せる気がする。,"The height of the master's personal taste,{j}down to texture and luster. Makes you feel{j}you can see through anything."
 3905,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。{j}何でも見通せる気がする。,"The height of the master's personal taste,{j}down to texture and luster. Makes you feel{j}you can see through anything."
-3906,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪ＨＣ防具≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪HC Armor≫{/c}"
+3906,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪ＨＣ防具≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪HC Armor≫{/c}
 3907,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。{j}何でも見通せる気がする。,"The height of the master's personal taste,{j}down to texture and luster. Makes you feel{j}you can see through anything."
 3908,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。{j}何でも見通せる気がする。,"The height of the master's personal taste,{j}down to texture and luster. Makes you feel{j}you can see through anything."
 3909,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。{j}何でも見通せる気がする。,"The height of the master's personal taste,{j}down to texture and luster. Makes you feel{j}you can see through anything."
-3910,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪ＨＣ防具≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪HC Armor≫{/c}"
-3911,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪狩護防具≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪Hunting Guard Armor≫{/c}"
-3912,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪G-Rank Hunting Guard≫{/c}"
-3913,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪狩護防具≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪Hunting Guard Armor≫{/c}"
-3914,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪G-Rank Hunting Guard≫{/c}"
+3910,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪ＨＣ防具≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪HC Armor≫{/c}
+3911,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪狩護防具≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪Hunting Guard Armor≫{/c}
+3912,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+3913,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪狩護防具≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪Hunting Guard Armor≫{/c}
+3914,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 3915,その姿は戦場の蒼き稲妻と謳{j}われる、異世界の武将が愛用{j}した具足。{c11}≪Ｇ級狩護≫{/c},"Its form is the blue lightning of the{j}battlefield, armor favored by a warlord{j}of another world. ≪G-Rank Hunting Guard≫{c11}{/c}"
 3916,その姿は戦場の蒼き稲妻と謳{j}われる、異世界の武将が愛用{j}した具足。{c11}≪Ｇ級狩護≫{/c},"Its form is the blue lightning of the{j}battlefield, armor favored by a warlord{j}of another world. ≪G-Rank Hunting Guard≫{c11}{/c}"
 3917,ある凄腕ハンターが、自分に{j}注目を集めるため作った防具。{j}色は派手だが、性能は確か。,"Armor made by a certain ace Hunter to draw{j}attention to himself. The colors are{j}flashy, but the performance is sound."
@@ -3974,14 +3974,14 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 3970,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！,Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!
 3971,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！,Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!
 3972,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪ＨＣ防具≫{/c},Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!≪HC Armor≫{c11}{/c}
-3973,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪狩護防具≫{/c},Head armor said to have been used{j}by a crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!{c11}≪Hunting Guard Armor≫{/c}
-3974,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Head armor said to have been used{j}by a crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
+3973,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪狩護防具≫{/c},Crimson warrior's head armor.{j}From another world; hot-blooded!{j}Great Eruption!!{c11}≪Hunting Guard Armor≫{/c}
+3974,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Crimson warrior's head armor.{j}From another world; hot-blooded!{j}Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
 3975,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！,Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!
 3976,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！,Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!
 3977,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！,Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!
 3978,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪ＨＣ防具≫{/c},Head armor said to have been used by a{j}crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!≪HC Armor≫{c11}{/c}
-3979,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪狩護防具≫{/c},Head armor said to have been used{j}by a crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!{c11}≪Hunting Guard Armor≫{/c}
-3980,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Head armor said to have been used{j}by a crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
+3979,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪狩護防具≫{/c},Crimson warrior's head armor.{j}From another world; hot-blooded!{j}Great Eruption!!{c11}≪Hunting Guard Armor≫{/c}
+3980,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Crimson warrior's head armor.{j}From another world; hot-blooded!{j}Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
 3981,遠い世界の歌姫の、衣装を{j}モチーフに作られた、ポップ{j}でキュートな頭装備。,Pop and cute Head Armor made with a motif{j}from the costume of a songstress from a{j}distant world.
 3982,遠い世界の歌姫の、衣装を{j}モチーフに作られた、ポップ{j}でキュートな頭装備。,Pop and cute Head Armor made with a motif{j}from the costume of a songstress from a{j}distant world.
 3983,遠い世界の歌姫の、衣装を{j}モチーフに作られた、ポップ{j}でキュートな頭装備。,Pop and cute Head Armor made with a motif{j}from the costume of a songstress from a{j}distant world.
@@ -4045,51 +4045,51 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 4041,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4042,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4043,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4044,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4045,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4046,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4044,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4045,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4046,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4047,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4048,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4049,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4050,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4051,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4052,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4050,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4051,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4052,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4053,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4054,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4055,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4056,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4057,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4058,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4056,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4057,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4058,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4059,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4060,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4061,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4062,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4063,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4064,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4062,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4063,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4064,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4065,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4066,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4067,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4068,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4069,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4070,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4068,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4069,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4070,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4071,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4072,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4073,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4074,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4075,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4076,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4074,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4075,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4076,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4077,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4078,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4079,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4080,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4081,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4082,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4080,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4081,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4082,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4083,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4084,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
 4085,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。,Modeled on the hair tie of armor woven and{j}worn by an otherworldly Knight King using{j}their own magic.
-4086,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪HC Armor≫{/c}
-4087,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪Hunting Guard Armor≫{/c}
-4088,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+4086,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪ＨＣ防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪HC Armor≫{/c}
+4087,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪狩護防具≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪Hunting Guard Armor≫{/c}
+4088,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 4089,勇壮に輝く頭用装備。無駄の{j}一切無い機能的な作りが、狩{j}人のポテンシャルを引き出す。,Gallantly shining head armor. A functional{j}design with absolutely no waste draws out{j}a Hunter's potential.
 4090,勇壮に輝く頭用装備。無駄の{j}無い機能的な作りが、狩人の{j}能力を引き出す。{c11}≪ＨＣ防具≫{/c},Gallantly shining head armor. A{j}functional design with no waste draws out{j}a Hunter's abilities.≪HC Armor≫{c11}{/c}
 4091,勇壮に輝く頭用装備。無駄の{j}一切無い機能的な作りが、狩{j}人のポテンシャルを引き出す。,Gallantly shining head armor. A functional{j}design with absolutely no waste draws out{j}a Hunter's potential.
@@ -6003,18 +6003,18 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 5999,別世界の弓兵が身に纏っている{j}服装を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},Head armor modeled after the{j}garb worn by an archer from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 6000,別世界の弓兵が身に纏っている{j}服装を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},Head armor modeled after the{j}garb worn by an archer from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 6001,別世界の弓兵が身に纏っている{j}服装を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},Head armor modeled after the{j}garb worn by an archer from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
-6002,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6003,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6004,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6005,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6006,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6007,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6008,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
-6009,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Armor{j}modeled after the hair ornament of the armor that the Knight King of another world weaves and wears with his own magic power{j}.{c11}≪G-Rank Hunting Guard≫{/c}
+6002,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6003,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6004,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6005,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6006,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6007,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6008,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+6009,別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の髪結を{j}模した防具。{c11}≪Ｇ級狩護≫{/c},Knight King's hair ornament armor.{j}Woven with magic from another world.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 6010,その姿は戦場の蒼き稲妻と謳{j}われる、異世界の武将が愛用{j}した具足。{c11}≪Ｇ級狩護≫{/c},"Its form is the blue lightning of the{j}battlefield, armor favored by a warlord{j}of another world. ≪G-Rank Hunting Guard≫{c11}{/c}"
 6011,その姿は戦場の蒼き稲妻と謳{j}われる、異世界の武将が愛用{j}した具足。{c11}≪Ｇ級狩護≫{/c},"Its form is the blue lightning of the{j}battlefield, armor favored by a warlord{j}of another world. ≪G-Rank Hunting Guard≫{c11}{/c}"
-6012,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Head armor said to have been used{j}by a crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
-6013,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Head armor said to have been used{j}by a crimson young warrior from another world.{j}Hot-blooded! Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
+6012,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Crimson warrior's head armor.{j}From another world; hot-blooded!{j}Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
+6013,異世界の、赤き若武者が使用{j}していたといわれる頭装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c},Crimson warrior's head armor.{j}From another world; hot-blooded!{j}Great Eruption!!{c11}≪G-Rank Hunting Guard≫{/c}
 6014,高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c},Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}
 6015,高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c},Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}
 6016,高貴な雰囲気を放つ頭防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c},Head armor that exudes a noble aura.{j}A distinctive masterpiece different{j}from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}
@@ -8096,8 +8096,8 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 8092,その外見とは裏腹に恐るべき{j}爆発力を秘める。狙った獲物{j}は逃さない。{c11}≪狩護防具≫{/c},"Despite its appearance, it hides a{j}fearsome explosive power. It never lets{j}its prey escape.≪Hunting Guard Armor≫{c11}{/c}"
 8093,その外見とは裏腹に恐るべき{j}爆発力を秘める。狙った獲物{j}は逃さない。{c11}≪Ｇ級狩護≫{/c},"Despite its appearance, it hides a{j}fearsome explosive power. It never lets{j}its prey escape.≪G-Rank Hunting Guard≫{c11}{/c}"
 8094,その外見とは裏腹に恐るべき{j}爆発力を秘める。狙った獲物{j}は逃さない。{c11}≪Ｇ級狩護≫{/c},"Despite its appearance, it hides a{j}fearsome explosive power. It never lets{j}its prey escape.≪G-Rank Hunting Guard≫{c11}{/c}"
-8095,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪G-Rank Hunting Guard≫{/c}"
-8096,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},"The ultimate hobby of Master{j}, who was particular about even texture and luster. It feels like it could see{j}through anything.{c11}≪G-Rank Hunting Guard≫{/c}"
+8095,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+8096,質感や光沢にまで拘りぬいた{j}親方の趣味の極み。何でも見{j}通せる気がする。{c11}≪Ｇ級狩護≫{/c},Master's ultimate craft.{j}Flawless texture and luster.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 8097,質感や光沢にこだわり過ぎた{j}親方の趣味の極み。何もかも{j}見通せるかも。{c11}≪Ｇ級狩護≫{/c},"The extreme of the{j}master's hobby, who was too particular about texture and luster. You might see through{j}everything.{c11}≪G-Rank Hunting Guard≫{/c}"
 8098,質感や光沢にこだわり過ぎた{j}親方の趣味の極み。何もかも{j}見通せるかも。{c11}≪Ｇ級狩護≫{/c},"The extreme of the{j}master's hobby, who was too particular about texture and luster. You might see through{j}everything.{c11}≪G-Rank Hunting Guard≫{/c}"
 8099,ギルドへの貢献度に応じて{j}贈られる頭防具。高技術な{j}狩人の証。{c11}≪狩護防具≫{/c},Head armor awarded for your contributions{j}to the Guild. Proof of a highly skilled{j}Hunter.≪Hunting Guard Armor≫{c11}{/c}

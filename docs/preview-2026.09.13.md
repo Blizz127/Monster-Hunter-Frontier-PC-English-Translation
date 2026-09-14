@@ -1,4 +1,4 @@
-# Experimental translation update: 2026.09.13-preview.65
+# Experimental translation update: 2026.09.13-preview.66
 
 This preview is **not in-game verified** and is not the stable release. It does
 not claim 100% English coverage. Use the stable 2026.09.13 release for the
@@ -9,8 +9,8 @@ previously tested Mezeporta and equipment/skills-menu repair.
 Apply this three-file upgrade only after the stable 2026.09.13 client patch.
 It contains the cumulative weapon/equipment text work in `mhfdat.bin`, plus
 the two Mezeporta archives. The reviewed shortening queue is now empty after
-1135 source-reviewed description records. This preview also reflows 28
-source-reviewed equipment-description records; 5448 records still exceed the
+1135 source-reviewed description records. This preview also reflows 53
+source-reviewed equipment-description records; 5395 records still exceed the
 three-slot visible width and require source review;
 0 entries remain in the current plain-text shortening queue. Other review
 queues, artwork and runtime checks also remain.
@@ -25,8 +25,8 @@ measured font-pixel limit. Long pages and dynamic substitutions still need revie
 Close the game. With the existing patcher environment active:
 
 ```console
-python patch.py check client-english-2026.09.13-preview.65.zip --target "C:\Games\MHF\dat"
-python patch.py apply client-english-2026.09.13-preview.65.zip --target "C:\Games\MHF\dat"
+python patch.py check client-english-2026.09.13-preview.66.zip --target "C:\Games\MHF\dat"
+python patch.py apply client-english-2026.09.13-preview.66.zip --target "C:\Games\MHF\dat"
 ```
 
 Unknown source hashes are rejected. An earlier private spacing test may be
