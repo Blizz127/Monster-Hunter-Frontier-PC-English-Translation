@@ -1,0 +1,713 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19369,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19370,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19377,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19378,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19385,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19386,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19393,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19394,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19441,
+      "source": "猛獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that grants the strength of a savage beast.{j}Crafted with techniques passed down{j}since ancient times.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Savage beast body armor.{j}Made with ancient techniques.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19444,
+      "source": "猛獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that grants the strength of a savage beast.{j}Crafted with techniques passed down{j}since ancient times.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Savage beast body armor.{j}Made with ancient techniques.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19442,
+      "source": "猛獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a savage beast.{j}Crafted with techniques passed down{j}since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Savage beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19443,
+      "source": "猛獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a savage beast.{j}Crafted with techniques passed down{j}since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Savage beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19445,
+      "source": "猛獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a savage beast.{j}Crafted with techniques passed down{j}since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Savage beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19446,
+      "source": "猛獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a savage beast.{j}Crafted with techniques passed down{j}since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Savage beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19447,
+      "source": "牙獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that grants the strength of a Fanged Beast.{j}Crafted using techniques{j}passed down since ancient times.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fanged Beast body armor.{j}Made with ancient techniques.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19450,
+      "source": "牙獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that grants the strength of a Fanged Beast.{j}Crafted using techniques{j}passed down since ancient times.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fanged Beast body armor.{j}Made with ancient techniques.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19448,
+      "source": "牙獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a Fanged Beast.{j}Crafted using techniques{j}passed down since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fanged Beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19449,
+      "source": "牙獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a Fanged Beast.{j}Crafted using techniques{j}passed down since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fanged Beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19451,
+      "source": "牙獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a Fanged Beast.{j}Crafted using techniques{j}passed down since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fanged Beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19452,
+      "source": "牙獣の如き強さを得る胴装備。{j}古来より伝承された技術によ{j}り作成された。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that grants the strength of a Fanged Beast.{j}Crafted using techniques{j}passed down since ancient times.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fanged Beast body armor.{j}Made with ancient techniques.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19465,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19468,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19471,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19474,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19477,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19480,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19466,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19467,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19469,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19470,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19472,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19473,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19475,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19476,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19478,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19479,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19481,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19482,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19506,
+      "source": "語り継がれることなく忘れ去{j}られた狩人が使用していたと{j}いう胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor of uncertain authenticity. It is said that{j}a Hunter who was forgotten{j}without being passed down was using it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor of uncertain authenticity.{j}A forgotten Hunter once wore it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19510,
+      "source": "語り継がれることなく忘れ去{j}られた狩人が使用していたと{j}いう胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor of uncertain authenticity. It is said that{j}a Hunter who was forgotten{j}without being passed down was using it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor of uncertain authenticity.{j}A forgotten Hunter once wore it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19520,
+      "source": "機能性を重視した胴防具。{j}制作時には、守るべき掟{j}があるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor designed with a focus on functionality. When crafting{j}, it is said there is a{j}rule that must be followed.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Functional body armor.{j}Its crafting follows a strict rule.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19524,
+      "source": "機能性を重視した胴防具。{j}制作時には、守るべき掟{j}があるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor designed with a focus on functionality. When crafting{j}, it is said there is a{j}rule that must be followed.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Functional body armor.{j}Its crafting follows a strict rule.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19714,
+      "source": "異世界の「英雄王の末裔」が{j}着用したとされる胴防具。{j}運命を変える！{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to have been{j}worn by the \"Descendant of the Hero King\" from another world.{j}I will change destiny!{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Hero King descendant body armor.{j}From another world: I will change destiny!{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19720,
+      "source": "異世界の「英雄王の末裔」が{j}着用したとされる胴防具。{j}運命を変える！{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to have been{j}worn by the \"Descendant of the Hero King\" from another world.{j}I will change destiny!{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Hero King descendant body armor.{j}From another world: I will change destiny!{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19715,
+      "source": "異世界の「英雄王の末裔」が{j}着用したとされる胴防具。{j}運命を変える！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}worn by the \"Descendant of the Hero King\" from another world.{j}I will change destiny!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero King descendant body armor.{j}From another world: I will change destiny!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19716,
+      "source": "異世界の「英雄王の末裔」が{j}着用したとされる胴防具。{j}運命を変える！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}worn by the \"Descendant of the Hero King\" from another world.{j}I will change destiny!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero King descendant body armor.{j}From another world: I will change destiny!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19721,
+      "source": "異世界の「英雄王の末裔」が{j}着用したとされる胴防具。{j}運命を変える！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}worn by the \"Descendant of the Hero King\" from another world.{j}I will change destiny!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero King descendant body armor.{j}From another world: I will change destiny!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19722,
+      "source": "異世界の「英雄王の末裔」が{j}着用したとされる胴防具。{j}運命を変える！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}worn by the \"Descendant of the Hero King\" from another world.{j}I will change destiny!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero King descendant body armor.{j}From another world: I will change destiny!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19726,
+      "source": "異世界の「英雄王の末裔」が{j}着用した胴防具。お父様は{j}私が守ります！{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor said to have been worn by the 'Descendant of the Hero King' from another world. Father,{j}I will protect you!{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Hero King descendant body armor.{j}Protect you, Father!{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19732,
+      "source": "異世界の「英雄王の末裔」が{j}着用した胴防具。お父様は{j}私が守ります！{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor said to have been worn by the 'Descendant of the Hero King' from another world. Father,{j}I will protect you!{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Hero King descendant body armor.{j}Protect you, Father!{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19727,
+      "source": "異世界の「英雄王の末裔」が{j}着用した胴防具。お父様は{j}私が守ります！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor said to have been worn by the 'Descendant of the Hero King' from another world. Father,{j}I will protect you!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Hero King descendant body armor.{j}Protect you, Father!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19728,
+      "source": "異世界の「英雄王の末裔」が{j}着用した胴防具。お父様は{j}私が守ります！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor said to have been worn by the 'Descendant of the Hero King' from another world. Father,{j}I will protect you!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Hero King descendant body armor.{j}Protect you, Father!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19733,
+      "source": "異世界の「英雄王の末裔」が{j}着用した胴防具。お父様は{j}私が守ります！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor said to have been worn by the 'Descendant of the Hero King' from another world. Father,{j}I will protect you!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Hero King descendant body armor.{j}Protect you, Father!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19734,
+      "source": "異世界の「英雄王の末裔」が{j}着用した胴防具。お父様は{j}私が守ります！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}Body armor said to have been worn by the 'Descendant of the Hero King' from another world. Father,{j}I will protect you!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "{j}Hero King descendant body armor.{j}Protect you, Father!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19819,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19820,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19821,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19825,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19826,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19827,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20141,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20142,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20143,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20147,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20148,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20149,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20165,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20166,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20167,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20171,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20172,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20173,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20189,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20190,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20191,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20195,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20196,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20197,
+      "source": "別世界の英雄王が身に纏う{j}壮麗な甲冑を模した胴防具。",
+      "previous": "Body armor modeled after the{j}magnificent suit of armor worn by the Hero King of another world.",
+      "target": "Hero King armor from another world.{j}A magnificent suit worn by the Hero King.",
+      "width": 42,
+      "family": "source-batch-27"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
