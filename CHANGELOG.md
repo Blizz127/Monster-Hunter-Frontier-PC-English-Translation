@@ -318,3 +318,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 10 exact-source equipment-description records across Berukyros and Hunter Course practice armor.
 - Reduce the current over-width census to 23748 records.
+
+## 2026.09.13-preview.61 (experimental)
+
+- Reflow 42 exact-source equipment-description records across practice, capture, hair-ornament, and Carapaceon/Piscine Wyvern head-armor families.
+- Reduce the current over-width census to 23706 records.

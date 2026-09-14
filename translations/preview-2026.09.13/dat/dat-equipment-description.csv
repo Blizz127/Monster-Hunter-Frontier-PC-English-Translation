@@ -2362,8 +2362,8 @@ index,source,target
 2360,槍技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice Head armor that those{j}who have just begun learning the Lance{j}are permitted to wear.{c11}≪HC Armor≫{/c}
 2361,銃槍技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice head armor{j}for new Gunlance learners.{j}{c11}HC Armor{/c}
 2362,軽銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice armor{j}for new Light Bowgun learners.{j}{c11}HC Armor{/c}
-2363,重銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},"Head armor for practice,{j}permitted for those{j}who have begun learning the Heavy Bowgun arts.{c11}≪HC Armor≫{/c}"
-2364,弓技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},"Training Head armor,{j}worn only by those{j}who have begun to learn the bow.{c11}≪HC Armor≫{/c}"
+2363,重銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Heavy Bowgun practice armor.{j}For new Heavy Bowgun learners.{j}{c11}HC Armor{/c}
+2364,弓技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Bow training head armor.{j}For new bow learners.{j}{c11}HC Armor{/c}
 2365,荒野での狩猟を主目的に設計{j}された頭防具。肌触りの良い{j}ギアノスの素材を贅沢に使用。,Head armor designed with hunting in the{j}wilderness as its main purpose. Lavishly{j}uses soft-to-the-touch Giaprey materials.
 2366,荒野での狩猟を主目的に設計{j}された頭防具。肌触りの良い{j}ギアノスの素材を贅沢に使用。,Head armor designed with hunting in the{j}wilderness as its main purpose. Lavishly{j}uses soft-to-the-touch Giaprey materials.
 2367,荒野での狩猟を主目的に設計{j}された頭防具。肌触りの良い{j}ギアノスの素材を贅沢に使用。,Head armor designed with hunting in the{j}wilderness as its main purpose. Lavishly{j}uses soft-to-the-touch Giaprey materials.
@@ -2510,8 +2510,8 @@ index,source,target
 2508,0,
 2509,0,
 2510,0,
-2511,初心者から熟練者まで幅広く{j}愛用される頭防具。,Head armor widely{j}used by everyone from beginners to experts.
-2512,初心者から熟練者まで幅広く{j}愛用される頭防具。,Head armor widely{j}used by everyone from beginners to experts.
+2511,初心者から熟練者まで幅広く{j}愛用される頭防具。,Head armor for all.{j}Used by beginners and experts alike.
+2512,初心者から熟練者まで幅広く{j}愛用される頭防具。,Head armor for all.{j}Used by beginners and experts alike.
 2513,チカラを求めるハンター達の{j}為に作られた頭装備。その{j}チカラは武器にも伝わる。,Head armor made for the{j}of Hunters seeking power. Its{j}power is also conveyed to weapons.
 2514,チカラを求めるハンター達の{j}為に作られた頭装備。その{j}チカラは武器にも伝わる。,Head armor made for the{j}of Hunters seeking power. Its{j}power is also conveyed to weapons.
 2515,食事もせずに鍛錬を続け{j}己の腕に絶対の自信をつけた{j}剣の達人愛用の防具。,"Armor favored by a master swordsman who{j}trained without even eating, gaining{j}absolute confidence in their skill."
@@ -2520,7 +2520,7 @@ index,source,target
 2518,ある目的を成し遂げるために{j}開発された頭防具。全部位を{j}身に纏うことを想定している。,Head armor developed to achieve a certain{j}purpose. Intended to be worn as a full{j}set.
 2519,鮮やかな蒼の布で覆われた{j}頭防具。感覚を断ち、連続で{j}攻撃することに特化している。,"head armor wrapped in vivid blue cloth.{j}Severs the senses, specializing in{j}consecutive attacks."
 2520,鮮やかな蒼の布で覆われた{j}頭防具。感覚を断ち、精確に{j}攻撃することに特化している。,"head armor wrapped in vivid blue cloth.{j}Severs the senses, specializing in precise{j}attacks."
-2521,モンスターの捕獲用に開発さ{j}れた頭防具。着心地が良い。,Head armor developed for{j}capturing monsters. It's comfortable to wear.
+2521,モンスターの捕獲用に開発さ{j}れた頭防具。着心地が良い。,Head armor for capturing monsters.{j}Comfortable to wear.
 2522,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 2523,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 2524,硬く重いディアブロス素材の{j}性質を加工技術で改良。{j}より硬く軽くなった頭装備。,"Head armor made by improving hard, heavy{j}Diablos parts through processing. Now even{j}harder, yet lighter."
@@ -2550,10 +2550,10 @@ Vashimu materials, arranged
 in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2547,舞雷竜の素材を使った{j}髪飾り。軽くしなやかに{j}髪をまとめあげる。,A hair ornament made from Dancing Thunder{j}Dragon materials. It binds the hair{j}lightly and supplely.
 2548,舞雷竜の素材を使った{j}髪飾り。軽くしなやかに{j}髪をまとめあげる。,A hair ornament made from Dancing Thunder{j}Dragon materials. It binds the hair{j}lightly and supplely.
-2549,舞雷竜の素材を使った髪飾り。{j}軽くしなやかに髪をまとめ{j}あげる。{c07}ＳＰ防具：虹{/c},A{j}hair ornament made from Dancing Thunder Dragon materials. It binds the hair{j}lightly and supplely.{c07}SP Armor: Rainbow{/c}
+2549,舞雷竜の素材を使った髪飾り。{j}軽くしなやかに髪をまとめ{j}あげる。{c07}ＳＰ防具：虹{/c},A{j}Dancing Thunder Dragon hair ornament.{j}{c07}SP Armor: Rainbow{/c}
 2550,見た目とは裏腹に{j}高い性能を誇る{j}不思議な頭防具。,A mysterious head armor that boasts{j}high performance{j}in contrast to its appearance.
 2551,見た目とは裏腹に{j}高い性能を誇る{j}不思議な頭防具。,A mysterious head armor that boasts{j}high performance{j}in contrast to its appearance.
-2552,見た目とは裏腹に高い性能を{j}誇る不思議な頭防具。{j}{c07}ＳＰ防具：虹{/c},A mysterious head armor that boasts high performance{j}in contrast to its appearance.{j}{c07}SP Armor: Rainbow{/c}
+2552,見た目とは裏腹に高い性能を{j}誇る不思議な頭防具。{j}{c07}ＳＰ防具：虹{/c},Mysterious high-performance head armor.{j}Looks belie its performance.{j}{c07}SP Armor: Rainbow{/c}
 2553,新米狩人のために用意された{j}シンプルな頭防具。{j}≪ちょっと得≫な性能が魅力？,{j}Simple head armor for rookie Hunters.{j}Its Small Perk is the appeal?
 2554,多殻蟹素材をふんだんに{j}使用して作られた頭防具。{j}着用者に幸運を招くという。,Head armor made using an abundance of{j}Carapaceon materials. It is said to bring{j}good fortune to its wearer.
 2555,多殻蟹素材をより強靭に{j}鍛え上げた頭防具。より{j}幸運を招きやすいらしい。,Head armor forged even more sturdily from{j}Carapaceon materials. It seems to attract{j}good fortune more readily.
@@ -2570,9 +2570,9 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2566,道場の卒業者に贈られる、{j}魂のこもった頭用装備。{j}{c07}ＳＰ防具：白{/c},"Head Armor imbued with the soul of{j}, awarded to dojo graduates.{j}{c07}SP Armor: White{/c}"
 2567,道場の卒業者に贈られる、{j}魂のこもった頭用装備。{j}{c07}ＳＰ防具：黒{/c},"Head Armor imbued with the soul of{j}, awarded to dojo graduates.{j}{c07}SP Armor: Black{/c}"
 2568,道場の卒業者に贈られる、{j}魂のこもった頭用装備。{j}{c07}ＳＰ防具：青{/c},"Head Armor imbued with the soul of{j}, awarded to dojo graduates.{j}{c07}SP Armor: Blue{/c}"
-2569,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：白{/c},Head armor{j}made from Carapaceon and Piscine Wyvern materials.{j}{c07}SP Armor: White{/c}
-2570,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：緑{/c},Head armor{j}made from Carapaceon and Piscine Wyvern materials.{j}{c07}SP Armor: Green{/c}
-2571,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：黄{/c},Head armor{j}made from Carapaceon and Piscine Wyvern materials.{j}{c07}SP Armor: Yellow{/c}
+2569,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：白{/c},Head armor{j}Made from Carapaceon and Piscine Wyvern.{j}{c07}SP Armor: White{/c}
+2570,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：緑{/c},Head armor{j}Made from Carapaceon and Piscine Wyvern.{j}{c07}SP Armor: Green{/c}
+2571,甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：黄{/c},Head armor{j}Made from Carapaceon and Piscine Wyvern.{j}{c07}SP Armor: Yellow{/c}
 2572,ガレオスの素材で作られた{j}頭用装備。大きなヒレの飾り{j}が誇らしげに輝く。,Head armor made from Gareos materials. The{j}large fin ornament shines proudly.{j}
 2573,ドドブランゴの素材で作られ{j}た頭用装備。異国の神を模し{j}たデザインは威厳が溢れる。,Head armor made from Blangonga materials.{j}The design modeled after a foreign god is{j}full of dignity.
 2574,グラビモスの素材で作られた{j}頭用装備。岩の如き装甲が{j}モンスターの攻撃を防ぐ。,Made from Gravios materials{j}Head equipment. Armor like rock{j}Blocks monster attacks.
@@ -2698,22 +2698,22 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 2694,ブルックの頭部をモチーフに{j}した頭防具。怖れを知らない{j}心を会得できる…気がする。,A head armor modeled after{j}Brook's head. You can acquire a fearless{j}heart... I think.
 2695,跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。,A hair ornament made from Gogomoa parts.{j}Tough thread keeps tied hair in place even{j}through vigorous movement.
 2696,跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。,A hair ornament made from Gogomoa parts.{j}Tough thread keeps tied hair in place even{j}through vigorous movement.
-2697,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2698,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2699,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2700,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2701,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2702,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2703,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2704,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2705,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2706,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2707,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2708,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2709,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2710,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2711,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-2712,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
+2697,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2698,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2699,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2700,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2701,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2702,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2703,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2704,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2705,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2706,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2707,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2708,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2709,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2710,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2711,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+2712,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
 2713,細やかな彫刻の施されたピア{j}ス。高貴さと妖しさの混在し{j}た、不思議な印象を受ける。,Finely engraved piercings. Their blend of{j}nobility and mystery gives them a strange{j}allure.
 2714,相思相愛の狩人が身に付ける{j}ピアス。{j}周囲からの嫉妬は気にしない。,Piercings worn by{j}Hunters who share true love.{j}Pay no mind to the envy of others.
 2715,相思相愛の狩人が身に付ける{j}ピアス。{j}周囲からの嫉妬は気にしない。,Piercings worn by{j}Hunters who share true love.{j}Pay no mind to the envy of others.
@@ -3085,22 +3085,22 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 3081,多殻蟹の素材を使った頭防具。{j}良質なミネラルを含んでおり、{j}装備すると髪がツヤツヤに。,"Head armor made with Carapaceon materials.{j}Rich in quality minerals, wearing it gives{j}your hair a healthy sheen."
 3082,旅人必携の軽量な頭防具。{j}これひとつあれば、世界の{j}果てまでも探索できる。,"A lightweight Head armor that no traveler{j}should be without. With just this, you can{j}explore to the very ends of the world."
 3083,孤高の狩人が愛用する{j}頭防具。,Head Armor{j}beloved by lone Hunters.
-3084,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3085,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3086,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3087,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3088,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3089,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3090,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3091,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3092,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3093,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3094,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3095,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3096,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3097,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3098,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
-3099,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.
+3084,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3085,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3086,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3087,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3088,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3089,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3090,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3091,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3092,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3093,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3094,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3095,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3096,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3097,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3098,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
+3099,神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。,Pierce with mysterious power.{j}Draws out the Hunter's potential.
 3100,希少な白星鉄を用いてさらに{j}加工した頭防具。純白に輝く{j}美しさは永遠である。,Head armor further{j}crafted using rare white Star Iron. The{j}beauty that shines pure white is eternal.
 3101,美しく輝き続ける頭防具。{j}数ある防具の中でも名品と{j}名高い。{c11}≪ＨＣ防具≫{/c},Head armor that continues to shine beautifully.{j}Famed as{j}a masterpiece among all armors.{c11}≪HC Armor≫{/c}
 3102,緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪剛種防具≫{/c},"Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Gou Armor≫{/c}"

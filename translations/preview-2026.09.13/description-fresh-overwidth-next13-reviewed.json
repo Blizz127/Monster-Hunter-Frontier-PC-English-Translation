@@ -1,0 +1,389 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2363,
+      "source": "重銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Head armor for practice,{j}permitted for those{j}who have begun learning the Heavy Bowgun arts.{c11}≪HC Armor≫{/c}",
+      "target": "Heavy Bowgun practice armor.{j}For new Heavy Bowgun learners.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2364,
+      "source": "弓技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Training Head armor,{j}worn only by those{j}who have begun to learn the bow.{c11}≪HC Armor≫{/c}",
+      "target": "Bow training head armor.{j}For new bow learners.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2511,
+      "source": "初心者から熟練者まで幅広く{j}愛用される頭防具。",
+      "previous": "Head armor widely{j}used by everyone from beginners to experts.",
+      "target": "Head armor for all.{j}Used by beginners and experts alike.",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2512,
+      "source": "初心者から熟練者まで幅広く{j}愛用される頭防具。",
+      "previous": "Head armor widely{j}used by everyone from beginners to experts.",
+      "target": "Head armor for all.{j}Used by beginners and experts alike.",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2521,
+      "source": "モンスターの捕獲用に開発さ{j}れた頭防具。着心地が良い。",
+      "previous": "Head armor developed for{j}capturing monsters. It's comfortable to wear.",
+      "target": "Head armor for capturing monsters.{j}Comfortable to wear.",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2549,
+      "source": "舞雷竜の素材を使った髪飾り。{j}軽くしなやかに髪をまとめ{j}あげる。{c07}ＳＰ防具：虹{/c}",
+      "previous": "A{j}hair ornament made from Dancing Thunder Dragon materials. It binds the hair{j}lightly and supplely.{c07}SP Armor: Rainbow{/c}",
+      "target": "A{j}Dancing Thunder Dragon hair ornament.{j}{c07}SP Armor: Rainbow{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2552,
+      "source": "見た目とは裏腹に高い性能を{j}誇る不思議な頭防具。{j}{c07}ＳＰ防具：虹{/c}",
+      "previous": "A mysterious head armor that boasts high performance{j}in contrast to its appearance.{j}{c07}SP Armor: Rainbow{/c}",
+      "target": "Mysterious high-performance head armor.{j}Looks belie its performance.{j}{c07}SP Armor: Rainbow{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2569,
+      "source": "甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "Head armor{j}made from Carapaceon and Piscine Wyvern materials.{j}{c07}SP Armor: White{/c}",
+      "target": "Head armor{j}Made from Carapaceon and Piscine Wyvern.{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2570,
+      "source": "甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head armor{j}made from Carapaceon and Piscine Wyvern materials.{j}{c07}SP Armor: Green{/c}",
+      "target": "Head armor{j}Made from Carapaceon and Piscine Wyvern.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2571,
+      "source": "甲殻種と魚竜種の素材を{j}使用した頭用装備。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor{j}made from Carapaceon and Piscine Wyvern materials.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Head armor{j}Made from Carapaceon and Piscine Wyvern.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2697,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2698,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2699,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2700,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2701,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2702,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2703,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2704,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2705,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2706,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2707,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2708,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2709,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2710,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2711,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2712,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3084,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3085,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3086,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3087,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3088,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3089,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3090,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3091,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3092,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3093,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3094,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3095,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3096,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3097,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3098,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3099,
+      "source": "神秘的な力を宿したピアス。{j}狩人の潜在能力を引き出す。",
+      "previous": "A piercing imbued with mysterious power.{j}It draws out the latent potential of the Hunter.",
+      "target": "Pierce with mysterious power.{j}Draws out the Hunter's potential.",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
