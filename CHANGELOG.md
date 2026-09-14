@@ -353,3 +353,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 127 source-reviewed concise reflows for repeated G-Rank and Hunting Guard armor descriptions.
 - Reduce the visible over-width census to 5268 records.
+
+## 2026.09.13-preview.68 (experimental)
+
+- Add 43 source-reviewed concise reflows for repeated faith, master-craft, and monster-armor descriptions.
+- Reduce the visible over-width census to 5225 records.
