@@ -7627,12 +7627,12 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 7623,ゲリョス亜種の素材を用いた{j}頭用防具。弾力のある{j}ゴム質が攻撃から身を守る。,Head armor made using Gypceros Subspecies{j}materials. Its springy rubbery hide{j}shields the wearer from attacks.
 7624,ゲリョス亜種の素材を用いた{j}頭用防具。弾力のある{j}ゴム質が攻撃から身を守る。,Head armor made using Gypceros Subspecies{j}materials. Its springy rubbery hide{j}shields the wearer from attacks.
 7625,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪剛種防具≫{/c},Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Gou Armor≫{/c}
-7626,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪天嵐防具≫{/c},"Head Armor scattered here and there, with{j}the black scales of the Elegant Elder Dragon giving off an oppressive presence{j}.{c02}≪Tenran Armor≫{/c}"
+7626,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪天嵐防具≫{/c},Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Tenran Armor≫{/c}
 7627,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪覇種防具≫{/c},"A head armor piece studded throughout with{j}Sage Dragon black scales, exuding a sense{j}of crushing pressure.≪Supremacy Armor≫{c02}{/c}"
 7628,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪Ｇ級覇種≫{/c},"A head armor piece studded throughout with{j}Sage Dragon black scales, exuding a sense{j}of crushing pressure.≪G-Rank Supremacy≫{c02}{/c}"
 7629,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪烈種防具≫{/c},"A head armor piece studded throughout{j}with Sage Dragon black scales, exuding a{j}sense of crushing pressure.≪Burst Armor≫{c02}{/c}"
 7630,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪剛種防具≫{/c},Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Gou Armor≫{/c}
-7631,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪天嵐防具≫{/c},"Head Armor scattered here and there, with{j}the black scales of the Elegant Elder Dragon giving off an oppressive presence{j}.{c02}≪Tenran Armor≫{/c}"
+7631,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪天嵐防具≫{/c},Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Tenran Armor≫{/c}
 7632,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪覇種防具≫{/c},"A head armor piece studded throughout with{j}Sage Dragon black scales, exuding a sense{j}of crushing pressure.≪Supremacy Armor≫{c02}{/c}"
 7633,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪Ｇ級覇種≫{/c},"A head armor piece studded throughout with{j}Sage Dragon black scales, exuding a sense{j}of crushing pressure.≪G-Rank Supremacy≫{c02}{/c}"
 7634,随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪烈種防具≫{/c},"A head armor piece studded throughout{j}with Sage Dragon black scales, exuding a{j}sense of crushing pressure.≪Burst Armor≫{c02}{/c}"
@@ -7654,8 +7654,8 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 7650,金塵龍の恍惚たる素材から{j}生み出され、荘厳たる雰囲気{j}を醸す頭防具。{c02}≪烈種防具≫{/c},"Head armor born from the sublime{j}materials of the Gold Dust Dragon, exuding{j}a majestic air.≪Burst Armor≫{c02}{/c}"
 7651,鋼龍の強大な力が宿る頭防具。{j}大気が、風が、装備者に力を{j}与える。{c02}≪烈種防具≫‾C0,Head armor imbued with the mighty power of Kushala Daora.{j}The air and the wind grant power{j}to the wearer.{c02}≪Burst Armor≫ C0
 7652,鋼龍の強大な力が宿る頭防具。{j}大気が、風が、装備者に力を{j}与える。{c02}≪烈種防具≫‾C0,Head armor imbued with the mighty power of Kushala Daora.{j}The air and the wind grant power{j}to the wearer.{c02}≪Burst Armor≫ C0
-7653,巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪烈種防具≫{/c},Head armor that{j}combines the strength and sturdiness of a Giant Dragon. Grants an unshakable heart to the{j}wearer.{c02}≪Burst Armor≫{/c}
-7654,巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪烈種防具≫{/c},Head armor that{j}combines the strength and sturdiness of a Giant Dragon. Grants an unshakable heart to the{j}wearer.{c02}≪Burst Armor≫{/c}
+7653,巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪烈種防具≫{/c},Giant Dragon head armor.{j}Strong and sturdy; grants resolve.{j}{c02}≪Burst Armor≫{/c}
+7654,巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪烈種防具≫{/c},Giant Dragon head armor.{j}Strong and sturdy; grants resolve.{j}{c02}≪Burst Armor≫{/c}
 7655,片手剣技を極めた者だけが{j}身に付けることを許された{j}至極の頭防具。,"The ultimate Head armor,, that only those{j}who have mastered Sword & Shield{j}techniques may equip."
 7656,片手剣技を極めた者だけが{j}身に付けることを許された{j}至極の頭防具。,"The ultimate Head armor,, that only those{j}who have mastered Sword & Shield{j}techniques may equip."
 7657,片手剣技を極めた者だけが{j}身に付けることを許された{j}至極の頭防具。,"The ultimate Head armor,, that only those{j}who have mastered Sword & Shield{j}techniques may equip."
@@ -7875,51 +7875,51 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 7871,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7872,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7873,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7874,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7875,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7876,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7874,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7875,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7876,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7877,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7878,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7879,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7880,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7881,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7882,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7880,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7881,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7882,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7883,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7884,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7885,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7886,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7887,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7888,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7886,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7887,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7888,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7889,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7890,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7891,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7892,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7893,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7894,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7892,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7893,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7894,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7895,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7896,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7897,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7898,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7899,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7900,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7898,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7899,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7900,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7901,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7902,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7903,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7904,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7905,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7906,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7904,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7905,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7906,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7907,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7908,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7909,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7910,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7911,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7912,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7910,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7911,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7912,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7913,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7914,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
 7915,大陸のとある民族に伝わ{j}る頭防具。その地方では正装{j}としても用いられている。,"Head armor passed down among a certain{j}tribe of the continent. In that region, it{j}is also used as formal attire."
-7916,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}
-7917,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
-7918,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}
+7916,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}
+7917,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
+7918,大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c},Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 7919,昔話に登場する水棲生物を{j}イメージして作成された{j}頭用防具。,"head armor, crafted in the image of an{j}aquatic creature from old tales.{j}"
 7920,昔話に登場する水棲生物を{j}イメージして作成された{j}頭用防具。,"head armor, crafted in the image of an{j}aquatic creature from old tales.{j}"
 7921,昔話に登場する水棲生物を{j}イメージして作成された{j}頭用防具。,"head armor, crafted in the image of an{j}aquatic creature from old tales.{j}"
@@ -8172,14 +8172,14 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 8168,華やかな場でも恥じぬように{j}と着流しをもとに考案され{j}作られた、品のある頭防具。,"Elegant head armor based on a kimono,{j}designed to look fitting even in the most{j}glamorous settings."
 8169,華やかな場でも恥じぬように{j}と着流しをもとに考案され{j}作られた、品のある頭防具。,"Elegant head armor based on a kimono,{j}designed to look fitting even in the most{j}glamorous settings."
 8170,華やかな場でも恥じぬように{j}と着流しをもとに考案され{j}作られた、品のある頭防具。,"Elegant head armor based on a kimono,{j}designed to look fitting even in the most{j}glamorous settings."
-8171,華やかな場でも恥じぬように{j}と考案され作られた、気品{j}溢れる頭防具。{c11}≪狩護防具≫{/c},"Head armor brimming with grace{j}, devised and made from{j}so as not to be shamed in even the most glamorous of settings.{c11}≪Hunting Guard Armor≫{/c}"
+8171,華やかな場でも恥じぬように{j}と考案され作られた、気品{j}溢れる頭防具。{c11}≪狩護防具≫{/c},Graceful head armor.{j}Fit for glamorous settings.{j}{c11}≪Hunting Guard Armor≫{/c}
 8172,着流しをもとに考案され、{j}気品纏う華やかな頭防具。{j}狩猟地をも彩る逸品。,"Designed after a kimono robe, a gorgeous{j}Head armor wrapped in grace. A fine piece{j}that adorns even the hunting grounds."
 8173,着流しをもとに考案され、{j}気品纏う華やかな頭防具。{j}狩猟地をも彩る逸品。,"Designed after a kimono robe, a gorgeous{j}Head armor wrapped in grace. A fine piece{j}that adorns even the hunting grounds."
 8174,着流しをもとに考案され、{j}気品纏う華やかな頭防具。{j}狩猟地をも彩る逸品。,"Designed after a kimono robe, a gorgeous{j}Head armor wrapped in grace. A fine piece{j}that adorns even the hunting grounds."
 8175,華やかな場でも恥じぬように{j}と着流しをもとに考案され{j}作られた、品のある頭防具。,"Elegant head armor based on a kimono,{j}designed to look fitting even in the most{j}glamorous settings."
 8176,華やかな場でも恥じぬように{j}と着流しをもとに考案され{j}作られた、品のある頭防具。,"Elegant head armor based on a kimono,{j}designed to look fitting even in the most{j}glamorous settings."
 8177,華やかな場でも恥じぬように{j}と着流しをもとに考案され{j}作られた、品のある頭防具。,"Elegant head armor based on a kimono,{j}designed to look fitting even in the most{j}glamorous settings."
-8178,華やかな場でも恥じぬように{j}と考案され作られた、気品{j}溢れる頭防具。{c11}≪狩護防具≫{/c},"Head armor brimming with grace{j}, devised and made from{j}so as not to be shamed in even the most glamorous of settings.{c11}≪Hunting Guard Armor≫{/c}"
+8178,華やかな場でも恥じぬように{j}と考案され作られた、気品{j}溢れる頭防具。{c11}≪狩護防具≫{/c},Graceful head armor.{j}Fit for glamorous settings.{j}{c11}≪Hunting Guard Armor≫{/c}
 8179,着流しをもとに考案され、{j}気品纏う華やかな頭防具。{j}狩猟地をも彩る逸品。,"Designed after a kimono robe, a gorgeous{j}Head armor wrapped in grace. A fine piece{j}that adorns even the hunting grounds."
 8180,着流しをもとに考案され、{j}気品纏う華やかな頭防具。{j}狩猟地をも彩る逸品。,"Designed after a kimono robe, a gorgeous{j}Head armor wrapped in grace. A fine piece{j}that adorns even the hunting grounds."
 8181,着流しをもとに考案され、{j}気品纏う華やかな頭防具。{j}狩猟地をも彩る逸品。,"Designed after a kimono robe, a gorgeous{j}Head armor wrapped in grace. A fine piece{j}that adorns even the hunting grounds."
@@ -8383,15 +8383,15 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 8379,遠方大陸の技術を応用し、{j}強度を向上させた頭防具。{j}{c11}≪狩護防具≫{/c},Head armor that applies the technology{j}of a distant continent to improve{j}strength. ≪Hunting Guard Armor≫{c11}{/c}
 8380,遠方大陸の技術を応用し、{j}強度を向上させた頭防具。{j}{c11}≪Ｇ級狩護≫{/c},Head armor that applies the technology{j}of a distant continent to improve{j}strength. ≪G-Rank Hunting Guard≫{c11}{/c}
 8381,遠方大陸の技術を応用し、{j}強度を向上させた頭防具。{j}{c11}≪Ｇ級狩護≫{/c},Head armor that applies the technology{j}of a distant continent to improve{j}strength. ≪G-Rank Hunting Guard≫{c11}{/c}
-8382,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,"Head armor{j}with excellent mobility, applying technology from a distant continent."
-8383,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,"Head armor{j}with excellent mobility, applying technology from a distant continent."
-8384,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,"Head armor{j}with excellent mobility, applying technology from a distant continent."
+8382,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,Mobile head armor.{j}Uses technology from a distant continent.
+8383,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,Mobile head armor.{j}Uses technology from a distant continent.
+8384,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,Mobile head armor.{j}Uses technology from a distant continent.
 8385,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。{j}{c11}≪狩護防具≫{/c},"Head armor with excellent mobility,{j}applying technology from a distant{j}continent. ≪Hunting Guard Armor≫{c11}{/c}"
 8386,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。{j}{c11}≪Ｇ級狩護≫{/c},"Head armor with excellent mobility,{j}applying technology from a distant{j}continent. ≪G-Rank Hunting Guard≫{c11}{/c}"
 8387,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。{j}{c11}≪Ｇ級狩護≫{/c},"Head armor with excellent mobility,{j}applying technology from a distant{j}continent. ≪G-Rank Hunting Guard≫{c11}{/c}"
-8388,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,"Head armor{j}with excellent mobility, applying technology from a distant continent."
-8389,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,"Head armor{j}with excellent mobility, applying technology from a distant continent."
-8390,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,"Head armor{j}with excellent mobility, applying technology from a distant continent."
+8388,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,Mobile head armor.{j}Uses technology from a distant continent.
+8389,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,Mobile head armor.{j}Uses technology from a distant continent.
+8390,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。,Mobile head armor.{j}Uses technology from a distant continent.
 8391,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。{j}{c11}≪狩護防具≫{/c},"Head armor with excellent mobility,{j}applying technology from a distant{j}continent. ≪Hunting Guard Armor≫{c11}{/c}"
 8392,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。{j}{c11}≪Ｇ級狩護≫{/c},"Head armor with excellent mobility,{j}applying technology from a distant{j}continent. ≪G-Rank Hunting Guard≫{c11}{/c}"
 8393,遠方大陸の技術を応用し、{j}機動性に優れた頭防具。{j}{c11}≪Ｇ級狩護≫{/c},"Head armor with excellent mobility,{j}applying technology from a distant{j}continent. ≪G-Rank Hunting Guard≫{c11}{/c}"
@@ -9112,8 +9112,8 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 9108,眠鳥の素材を使用した頭防具。{j}羽毛を散りばめられ{j}非常に柔軟な作り。,"Head armor made from Hypnocatrice{j}materials. Strewn with feathers, it has an{j}extremely flexible build."
 9109,雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪始種防具≫{/c},A noble crown whose horn is{j}imbued with the Thunder Beast's{j}mysterious power. ≪Origin Armor≫{c02}{/c}
 9110,雷獣の神秘な力をその角に{j}宿した、高貴な頭冠。{j}{c02}≪始種防具≫{/c},A noble crown whose horn is{j}imbued with the Thunder Beast's{j}mysterious power. ≪Origin Armor≫{c02}{/c}
-9111,喰血竜の素材を使った頭防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c},Head armor made from Blood-Devouring Dragon materials.{j}Wearable only by those with a strong will{j}to endure craving.{c02}≪Origin Armor≫{/c}
-9112,喰血竜の素材を使った頭防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c},Head armor made from Blood-Devouring Dragon materials.{j}Wearable only by those with a strong will{j}to endure craving.{c02}≪Origin Armor≫{/c}
+9111,喰血竜の素材を使った頭防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c},Blood-Devouring Dragon helm.{j}For strong-willed Hunters only.{j}{c02}≪Origin Armor≫{/c}
+9112,喰血竜の素材を使った頭防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c},Blood-Devouring Dragon helm.{j}For strong-willed Hunters only.{j}{c02}≪Origin Armor≫{/c}
 9113,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪始種防具≫{/c},"Head armor depicting the ravenous{j}Devouring Dragon. At times, the starving{j}are the strongest.≪Origin Armor≫{c02}{/c}"
 9114,獲物を貪る呑竜を表現した{j}頭防具。時には、餓えた者が{j}一番強いのだ。{c02}≪始種防具≫{/c},"Head armor depicting the ravenous{j}Devouring Dragon. At times, the starving{j}are the strongest.≪Origin Armor≫{c02}{/c}"
 9115,遠国の由緒ある騎士団が{j}流布していた頭防具。{j}軽く丈夫な作り。,Head armor once circulated by a venerable{j}knight order from a distant land. Light{j}and sturdy construction.
@@ -9216,50 +9216,50 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 9212,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9213,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9214,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9215,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9216,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9215,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9216,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9217,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9218,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9219,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9220,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9221,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9222,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9221,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9222,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9223,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9224,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9225,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9226,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9227,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9228,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9227,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9228,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9229,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9230,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9231,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9232,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9233,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9234,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9233,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9234,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9235,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9236,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9237,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9238,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9239,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9240,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9239,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9240,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9241,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9242,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9243,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9244,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9245,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9246,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9245,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9246,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9247,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9248,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9249,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9250,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9251,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9252,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9251,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9252,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9253,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9254,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9255,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}豪奢な頭防具。,"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor."
 9256,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪狩護防具≫{/c},"A king of a distant land, captivated by{j}gemstones, had his own artisans craft this{j}luxurious Head armor.≪Hunting Guard Armor≫{c11}{/c}"
-9257,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
-9258,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},"{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}"
+9257,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
+9258,宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}
 9259,ケルティックケブラー。{j}別世界の槍兵の髪型を{j}模した頭防具。,Celtic Kevlar. Head armor modeled after{j}the hairstyle of a spearman from another{j}world.
 9260,ケルティックケブラー。{j}別世界の槍兵の髪型を{j}模した頭防具。,Celtic Kevlar. Head armor modeled after{j}the hairstyle of a spearman from another{j}world.
 9261,ケルティックケブラー。{j}別世界の槍兵の髪型を{j}模した頭防具。,Celtic Kevlar. Head armor modeled after{j}the hairstyle of a spearman from another{j}world.
@@ -9535,12 +9535,12 @@ Felyne partner, meow!{j}To the sea!"
 9520,パートニャーとお揃いで{j}着ることが出来るにゃ！{j}いざ海へ！,"You can wear{j}just like your
 Felyne partner, meow!{j}To the sea!"
 9521,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
-9522,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし頭防具。{c11}≪狩護防具≫{/c},Head Armor in which the souls of the male Fire Wyvern that rules the heavens and the female Fire Wyvern that shakes the earth{j}were reincarnated{j}.{c11}≪Hunting Guard Armor≫{/c}
+9522,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし頭防具。{c11}≪狩護防具≫{/c},Fire Wyvern soul helm.{j}Male and female souls reincarnated.{j}{c11}≪Hunting Guard Armor≫{/c}
 9523,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 9524,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 9525,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 9526,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
-9527,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし頭防具。{c11}≪狩護防具≫{/c},Head Armor in which the souls of the male Fire Wyvern that rules the heavens and the female Fire Wyvern that shakes the earth{j}were reincarnated{j}.{c11}≪Hunting Guard Armor≫{/c}
+9527,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし頭防具。{c11}≪狩護防具≫{/c},Fire Wyvern soul helm.{j}Male and female souls reincarnated.{j}{c11}≪Hunting Guard Armor≫{/c}
 9528,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 9529,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
 9530,”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が”人”{j}の手により転生せし頭防具。,Head armor made by human hands to{j}reincarnate the souls of sky-ruling{j}Rathalos and earth-shaking Rathian.
@@ -9629,8 +9629,8 @@ Felyne partner, meow!{j}To the sea!"
 9613,ダミー,Dummy
 9614,ダミー,Dummy
 9615,ダミー,Dummy
-9616,気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪狩護防具≫{/c},"Head armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪Hunting Guard Armor≫{/c}"
-9617,気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪Ｇ級狩護≫{/c},"Head armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪G-Rank Hunting Guard≫{/c}"
+9616,気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪狩護防具≫{/c},Elegant head armor.{j}Male: Dandy; female: Elegant.{j}{c11}≪Hunting Guard Armor≫{/c}
+9617,気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪Ｇ級狩護≫{/c},Elegant head armor.{j}Male: Dandy; female: Elegant.{j}{c11}≪G-Rank Hunting Guard≫{/c}
 9618,凶暴な本性を現した怒貌竜の{j}素材を使用した猛々しい{j}頭防具。{c02}≪剛種防具≫{/c},Fierce Head armor made from materials{j}of a Rage-Faced Dragon that has revealed{j}its savage nature.≪Gou Armor≫{c02}{/c}
 9619,凶暴な本性を現した怒貌竜の{j}素材を使用した猛々しい{j}頭防具。{c02}≪天嵐防具≫{/c},Fierce Head armor made from materials{j}of a Rage-Faced Dragon that has revealed{j}its savage nature.≪Tenran Armor≫{c02}{/c}
 9620,凶暴な本性を現した怒貌竜の{j}素材を使用した猛々しい{j}頭防具。{c02}≪覇種防具≫{/c},Fierce Head armor made from materials of{j}a Rage-Faced Dragon that has revealed its{j}savage nature.≪Supremacy Armor≫{c02}{/c}
@@ -9890,14 +9890,14 @@ Felyne partner, meow!{j}To the sea!"
 9874,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9875,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9876,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
-9877,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}
+9877,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}
 9878,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9879,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9880,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9881,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9882,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9883,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
-9884,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}
+9884,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}
 9885,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9886,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 9887,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
@@ -11135,14 +11135,14 @@ Felyne partner, meow!{j}To the sea!"
 11119,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11120,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11121,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
-11122,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}
+11122,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}
 11123,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11124,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11125,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11126,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11127,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11128,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
-11129,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}
+11129,力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}
 11130,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11131,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."
 11132,力の象徴とされている頭防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,"Head armor said to be a symbol of power.{j}It is said to inspire awe, and also{j}a sense of security in those around."

@@ -388,3 +388,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 76 source-reviewed concise reflows for scholar, merchant, and training armor descriptions.
 - Reduce the visible over-width census to 4477 records.
+
+## 2026.09.13-preview.75 (experimental)
+
+- Add 62 source-reviewed concise reflows for Elder Dragon, workshop, and ceremonial armor descriptions.
+- Reduce the visible over-width census to 4415 records.

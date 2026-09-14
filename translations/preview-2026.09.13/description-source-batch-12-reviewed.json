@@ -1,0 +1,569 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7626,
+      "source": "随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪天嵐防具≫{/c}",
+      "previous": "Head Armor scattered here and there, with{j}the black scales of the Elegant Elder Dragon giving off an oppressive presence{j}.{c02}≪Tenran Armor≫{/c}",
+      "target": "Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7631,
+      "source": "随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪天嵐防具≫{/c}",
+      "previous": "Head Armor scattered here and there, with{j}the black scales of the Elegant Elder Dragon giving off an oppressive presence{j}.{c02}≪Tenran Armor≫{/c}",
+      "target": "Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7653,
+      "source": "巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪烈種防具≫{/c}",
+      "previous": "Head armor that{j}combines the strength and sturdiness of a Giant Dragon. Grants an unshakable heart to the{j}wearer.{c02}≪Burst Armor≫{/c}",
+      "target": "Giant Dragon head armor.{j}Strong and sturdy; grants resolve.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7654,
+      "source": "巨龍の力強さと、堅牢さを{j}兼ね備えた頭防具。揺れぬ心を{j}装備者に与える。{c02}≪烈種防具≫{/c}",
+      "previous": "Head armor that{j}combines the strength and sturdiness of a Giant Dragon. Grants an unshakable heart to the{j}wearer.{c02}≪Burst Armor≫{/c}",
+      "target": "Giant Dragon head armor.{j}Strong and sturdy; grants resolve.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7874,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7880,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7886,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7892,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7898,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7904,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7910,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7916,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7875,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7876,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7881,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7882,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7887,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7888,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7893,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7894,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7899,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7900,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7905,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7906,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7911,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7912,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7917,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7918,
+      "source": "大陸のとある民族に伝わ{j}る頭防具。戦う姿は舞って{j}いるよう。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor passed down{j}among a certain tribe of the continent. Their fighting form looks{j}like a dance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Tribal head armor.{j}Fighting resembles a dance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8171,
+      "source": "華やかな場でも恥じぬように{j}と考案され作られた、気品{j}溢れる頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor brimming with grace{j}, devised and made from{j}so as not to be shamed in even the most glamorous of settings.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Graceful head armor.{j}Fit for glamorous settings.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8178,
+      "source": "華やかな場でも恥じぬように{j}と考案され作られた、気品{j}溢れる頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor brimming with grace{j}, devised and made from{j}so as not to be shamed in even the most glamorous of settings.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Graceful head armor.{j}Fit for glamorous settings.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8382,
+      "source": "遠方大陸の技術を応用し、{j}機動性に優れた頭防具。",
+      "previous": "Head armor{j}with excellent mobility, applying technology from a distant continent.",
+      "target": "Mobile head armor.{j}Uses technology from a distant continent.",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8383,
+      "source": "遠方大陸の技術を応用し、{j}機動性に優れた頭防具。",
+      "previous": "Head armor{j}with excellent mobility, applying technology from a distant continent.",
+      "target": "Mobile head armor.{j}Uses technology from a distant continent.",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8384,
+      "source": "遠方大陸の技術を応用し、{j}機動性に優れた頭防具。",
+      "previous": "Head armor{j}with excellent mobility, applying technology from a distant continent.",
+      "target": "Mobile head armor.{j}Uses technology from a distant continent.",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8388,
+      "source": "遠方大陸の技術を応用し、{j}機動性に優れた頭防具。",
+      "previous": "Head armor{j}with excellent mobility, applying technology from a distant continent.",
+      "target": "Mobile head armor.{j}Uses technology from a distant continent.",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8389,
+      "source": "遠方大陸の技術を応用し、{j}機動性に優れた頭防具。",
+      "previous": "Head armor{j}with excellent mobility, applying technology from a distant continent.",
+      "target": "Mobile head armor.{j}Uses technology from a distant continent.",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 8390,
+      "source": "遠方大陸の技術を応用し、{j}機動性に優れた頭防具。",
+      "previous": "Head armor{j}with excellent mobility, applying technology from a distant continent.",
+      "target": "Mobile head armor.{j}Uses technology from a distant continent.",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9111,
+      "source": "喰血竜の素材を使った頭防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}Wearable only by those with a strong will{j}to endure craving.{c02}≪Origin Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}For strong-willed Hunters only.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9112,
+      "source": "喰血竜の素材を使った頭防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}Wearable only by those with a strong will{j}to endure craving.{c02}≪Origin Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}For strong-willed Hunters only.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9215,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9216,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9221,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9222,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9227,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9228,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9233,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9234,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9239,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9240,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9245,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9246,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9251,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9252,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9257,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9258,
+      "source": "宝石に魅せられた遠国の{j}王が自国の職人に作らせた{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "{j}A king of a distant land, captivated by gemstones, had his own artisans craft{j}this luxurious Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Distant king's jeweled helm.{j}Crafted by royal artisans.{j}Luxurious gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9522,
+      "source": "”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head Armor in which the souls of the male Fire Wyvern that rules the heavens and the female Fire Wyvern that shakes the earth{j}were reincarnated{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fire Wyvern soul helm.{j}Male and female souls reincarnated.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9527,
+      "source": "”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head Armor in which the souls of the male Fire Wyvern that rules the heavens and the female Fire Wyvern that shakes the earth{j}were reincarnated{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fire Wyvern soul helm.{j}Male and female souls reincarnated.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9616,
+      "source": "気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Elegant head armor.{j}Male: Dandy; female: Elegant.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9617,
+      "source": "気品溢れる頭用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant head armor.{j}Male: Dandy; female: Elegant.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9877,
+      "source": "力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9884,
+      "source": "力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11122,
+      "source": "力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 11129,
+      "source": "力の象徴とされている頭防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Power-symbol head armor.{j}Inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-12"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
