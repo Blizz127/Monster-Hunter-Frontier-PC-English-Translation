@@ -323,3 +323,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 42 exact-source equipment-description records across practice, capture, hair-ornament, and Carapaceon/Piscine Wyvern head-armor families.
 - Reduce the current over-width census to 23706 records.
+
+## 2026.09.13-preview.62 (experimental)
+
+- Apply a word-preserving automatic reflow to 13283 feasible equipment-description records while retaining existing wording and color controls.
+- Reduce the current over-width census to 10423 records; 5506 records remain pending because they exceed the available slots or need malformed-control/source review.
