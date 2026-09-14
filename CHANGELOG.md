@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026.09.13-preview.100 (experimental)
+
+- Add 37 source-reviewed arm-armor reflows to the cumulative client preview.
+- Reduce the remaining visible over-width census to 2944 records.
+- Keep static verification passing; runtime verification remains pending.
+
 ## 2026.09.13-preview.99 (experimental)
 
 - Add 48 source-reviewed body-armor reflows to the cumulative client preview.

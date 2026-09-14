@@ -1,0 +1,344 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27906,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Improved by its armor-crafting founder.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27913,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Improved by its armor-crafting founder.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27931,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27938,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27932,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27933,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27939,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27940,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27934,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27941,
+      "source": "「優雅さと激しさの両立」{j}という、ある種の矛盾を模し{j}た胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor modeled{j}after a certain contradiction known as 'The Coexistence of Elegance and Ferocity'{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor of elegant ferocity.{j}A classic contradiction.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27973,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27980,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27974,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27975,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27981,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27982,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27976,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27983,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる胴防具。あらゆる{j}苦難を凌ぐ。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor related to the{j}of the 'Tale of the Unyielding' passed down in a foreign land. It overcomes all{j}hardships.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor from the Unyielding Tale.{j}A legend that overcomes all hardships.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28362,
+      "source": "炎妃龍の素材を用いた腕装備。{j}誇り高き青炎を破りし者の証。",
+      "previous": "Arm equipment made from Lunastra materials.{j}Proof of the one who broke the proud blue flame.",
+      "target": "Lunastra arm equipment.{j}Proof of victory over her blue flame.",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 28378,
+      "source": "炎妃龍の素材を用いた腕装備。{j}誇り高き青炎を破りし者の証。",
+      "previous": "Arm equipment made from Lunastra materials.{j}Proof of the one who broke the proud blue flame.",
+      "target": "Lunastra arm equipment.{j}Proof of victory over her blue flame.",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29703,
+      "source": "雷獣の魂が宿る蒼白の手甲。{j}この手で振るわれし武器、{j}雷光の如し。{c02}≪剛種防具≫{/c}",
+      "previous": "Pale gauntlets that house the soul of the Thunder Beast.{j}The weapon swung by this hand{j}is like a flash of lightning.{c02}≪Gou Armor≫{/c}",
+      "target": "Pale Thunder Beast gauntlets.{j}This hand strikes like lightning.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29704,
+      "source": "雷獣の魂が宿る蒼白の手甲。{j}この手で振るわれし武器、{j}雷光の如し。{c02}≪剛種防具≫{/c}",
+      "previous": "Pale gauntlets that house the soul of the Thunder Beast.{j}The weapon swung by this hand{j}is like a flash of lightning.{c02}≪Gou Armor≫{/c}",
+      "target": "Pale Thunder Beast gauntlets.{j}This hand strikes like lightning.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 29707,
+      "source": "様々な飛竜の素材を複雑な技法{j}で組み合わせた腕防具。動きの{j}邪魔をしない。{c02}≪剛種防具≫{/c}",
+      "previous": "Arm armor made by combining the materials of various Flying Wyverns with intricate techniques{j}. It does not{j}hinder your movement.{c02}≪Gou Armor≫{/c}",
+      "target": "Flying Wyvern arm armor.{j}Fine craft preserves movement.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30315,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30316,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30317,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30318,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30319,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30320,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30321,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30322,
+      "source": "狩人になるための特別訓練を{j}受けた者の腕防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Arm armor for those who underwent{j}the special training to become a Hunter. Places great{j}importance on teamwork.{c11}≪HC Armor≫{/c}",
+      "target": "Arm armor for specially trained hunters.{j}Built for teamwork.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30634,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る腕防具。猛々しい{j}風格が漂う。{c02}≪剛種防具≫{/c}",
+      "previous": "Arms armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Gou Armor≫{/c}",
+      "target": "Dyuragaua arm armor.{j}Scarlet Mountain power; a fierce aura.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30637,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る腕防具。猛々しい{j}風格が漂う。{c02}≪剛種防具≫{/c}",
+      "previous": "Arms armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Gou Armor≫{/c}",
+      "target": "Dyuragaua arm armor.{j}Scarlet Mountain power; a fierce aura.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30635,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る腕防具。猛々しい{j}風格が漂う。{c02}≪天嵐防具≫{/c}",
+      "previous": "Arms armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Tenran Armor≫{/c}",
+      "target": "Dyuragaua arm armor.{j}Scarlet Mountain power; a fierce aura.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30638,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る腕防具。猛々しい{j}風格が漂う。{c02}≪天嵐防具≫{/c}",
+      "previous": "Arms armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Tenran Armor≫{/c}",
+      "target": "Dyuragaua arm armor.{j}Scarlet Mountain power; a fierce aura.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30636,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る腕防具。猛々しい{j}風格が漂う。{c02}≪覇種防具≫{/c}",
+      "previous": "Arms armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Dyuragaua arm armor.{j}Scarlet Mountain power; a fierce aura.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 30639,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る腕防具。猛々しい{j}風格が漂う。{c02}≪覇種防具≫{/c}",
+      "previous": "Arms armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Dyuragaua arm armor.{j}Scarlet Mountain power; a fierce aura.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-37"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
