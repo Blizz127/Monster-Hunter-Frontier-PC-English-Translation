@@ -338,3 +338,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 30 source-reviewed concise reflows for repeated head-armor description patterns.
 - Reduce the visible over-width census to 5476 records.
+
+## 2026.09.13-preview.65 (experimental)
+
+- Add 28 source-reviewed concise reflows for repeated head-armor description patterns.
+- Reduce the visible over-width census to 5448 records.
