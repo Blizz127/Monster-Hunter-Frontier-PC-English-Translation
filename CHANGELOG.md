@@ -408,3 +408,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 29 source-reviewed concise reflows for Knight King, Noble Phantasm, and hero Hunter descriptions.
 - Reduce the visible over-width census to 4308 records.
+
+## 2026.09.13-preview.79 (experimental)
+
+- Add 30 source-reviewed concise reflows for hero Hunter and Knight King armor descriptions.
+- Reduce the visible over-width census to 4278 records.

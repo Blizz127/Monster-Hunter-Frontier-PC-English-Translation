@@ -1,0 +1,281 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12128,
+      "source": "英雄と謳われた狩人の頭防具。{j}太刀を扱う際に、装備して{j}いたとされる。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that when wielding a Long Sword, they equipped{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Long Sword wielders.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12129,
+      "source": "英雄と謳われた狩人の頭防具。{j}太刀を扱う際に、装備して{j}いたとされる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that when wielding a Long Sword, they equipped{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Long Sword wielders.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12130,
+      "source": "英雄と謳われた狩人の頭防具。{j}太刀を扱う際に、装備して{j}いたとされる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that when wielding a Long Sword, they equipped{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Long Sword wielders.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12131,
+      "source": "英雄と謳われた狩人の頭防具。{j}太刀を扱う際に、装備して{j}いたとされる。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that when wielding a Long Sword, they equipped{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Long Sword wielders.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12170,
+      "source": "英雄と謳われた狩人の頭防具。{j}剣斧を扱う際に、装備して{j}いたとされる。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that it was equipped{j}while wielding a Switch Axe.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Switch Axe wielders.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12171,
+      "source": "英雄と謳われた狩人の頭防具。{j}剣斧を扱う際に、装備して{j}いたとされる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that it was equipped{j}while wielding a Switch Axe.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Switch Axe wielders.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12172,
+      "source": "英雄と謳われた狩人の頭防具。{j}剣斧を扱う際に、装備して{j}いたとされる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that it was equipped{j}while wielding a Switch Axe.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Switch Axe wielders.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12173,
+      "source": "英雄と謳われた狩人の頭防具。{j}剣斧を扱う際に、装備して{j}いたとされる。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor of a Hunter hailed as a hero.{j}It is said that it was equipped{j}while wielding a Switch Axe.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Hero Hunter head armor.{j}For Switch Axe wielders.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12198,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12205,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12356,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12363,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12199,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12200,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12206,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12207,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12357,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12358,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12364,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12365,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12201,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12208,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12359,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12366,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}head armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer's head armor.{j}A girl became a craftswoman and made it.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12212,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる頭防具。勇者の{j}魂が宿るという。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor related to{j}of the 'Hero's Tale' passed down in a foreign land. They say the hero's{j}soul dwells within.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "'Hero's Tale' head armor.{j}Foreign legend; the hero's soul within.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12219,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる頭防具。勇者の{j}魂が宿るという。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor related to{j}of the 'Hero's Tale' passed down in a foreign land. They say the hero's{j}soul dwells within.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "'Hero's Tale' head armor.{j}Foreign legend; the hero's soul within.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12213,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる頭防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor related to{j}of the 'Hero's Tale' passed down in a foreign land. They say the hero's{j}soul dwells within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "'Hero's Tale' head armor.{j}Foreign legend; the hero's soul within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12214,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる頭防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor related to{j}of the 'Hero's Tale' passed down in a foreign land. They say the hero's{j}soul dwells within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "'Hero's Tale' head armor.{j}Foreign legend; the hero's soul within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12220,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる頭防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor related to{j}of the 'Hero's Tale' passed down in a foreign land. They say the hero's{j}soul dwells within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "'Hero's Tale' head armor.{j}Foreign legend; the hero's soul within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 12221,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる頭防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor related to{j}of the 'Hero's Tale' passed down in a foreign land. They say the hero's{j}soul dwells within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "'Hero's Tale' head armor.{j}Foreign legend; the hero's soul within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-16"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated hero Hunter armor descriptions."
+}
