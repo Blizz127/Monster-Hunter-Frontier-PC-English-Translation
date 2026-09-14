@@ -1118,7 +1118,7 @@ index,source,target
 1116,女帝が放つ高貴なオーラを{j}纏ったガンナー用頭防具。{j}{c07}ＳＰ防具：紫{/c},Gunner head armor.{j}Clad in the Empress's noble aura.{j}{c07}SP Armor: Purple{/c}
 1117,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黄{/c},Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Yellow{/c}
 1118,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：黒{/c},Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Black{/c}
-1119,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：青{/c},Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Blue{/c}
+1119,軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：青{/c},Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Blue{/c}
 1120,猟団の絆を示す頭用装備。{j}燃えたぎる赤は、決して消え{j}ぬ友情の炎を表す。,Head gear that embodies the bonds of a{j}Hunting Guild. Its searing red speaks of{j}the flame of friendship that never dies.
 1121,猟団の絆を示す頭用装備。{j}澄み切った青は、晴天の如く{j}曇りのない友情を表す。,Head armor showing Hunting Guild bonds.{j}Its clear blue symbolizes friendship as{j}cloudless as a fair sky.
 1122,猟団の絆を示す頭用装備。{j}優しい緑は、清らかな森林の{j}如く深い友愛を表す。,Head gear that embodies the bonds of a{j}Hunting Guild. Its gentle green speaks of{j}fellowship as deep as a pristine forest.
@@ -1391,15 +1391,15 @@ index,source,target
 1389,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,Head armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
 1390,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,Head armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
 1391,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,Head armor awarded for your contributions{j}to the Guild. Proof of a Hunter with{j}advanced hunting skill.
-1392,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：黒{/c},{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Black{/c}
-1393,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：赤{/c},{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Red{/c}
-1394,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：白{/c},{j}Head armor that recreates the menacing presence of Akantor.{j}{c07}SP Armor: White{/c}
-1395,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：黒{/c},{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Black{/c}
-1396,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：赤{/c},{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Red{/c}
-1397,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：白{/c},{j}Head armor that recreates the menacing presence of Akantor.{j}{c07}SP Armor: White{/c}
-1398,鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：黒{/c},"Head Armor using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Black{/c}"
-1399,鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：青{/c},"Head Armor using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Blue{/c}"
-1400,鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：赤{/c},"Head Armor using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Red{/c}"
+1392,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：黒{/c},{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Black{/c}
+1393,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：赤{/c},{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Red{/c}
+1394,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：白{/c},{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: White{/c}
+1395,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：黒{/c},{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Black{/c}
+1396,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：赤{/c},{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Red{/c}
+1397,覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：白{/c},{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: White{/c}
+1398,鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：黒{/c},Gravios head armor.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Black{/c}
+1399,鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：青{/c},Gravios head armor.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Blue{/c}
+1400,鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：赤{/c},Gravios head armor.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Red{/c}
 1401,桃毛獣の素材で作られた頭用{j}装備。その風貌は、見た者に{j}悪という言葉を思い出させる。,head armor made from Congalala materials.{j}Its visage makes all who see it think of{j}the word evil.
 1402,ハンター用に作られた頭用{j}装備。目を覆う部分に{j}スコープを内蔵。,Head{j}equipment made for Hunters.{j}Built-in scope in the eye cover.
 1403,ランポスの素材を繋ぎ合わせ{j}て作られた頭用装備。{j}乱戦にも耐えうる防御力。,Head gear made by joining Velociprey{j}materials together.{j}Defense that endures a brawl.
@@ -1495,22 +1495,22 @@ index,source,target
 1493,エスピナス希少種の特徴を{j}参考にした頭防具。{j}装備する者の真価を引き出す。,Head armor modeled after the traits of the{j}Espinas Rare Species. Draws out the true{j}worth of its wearer.
 1494,エスピナス希少種の特徴を{j}参考にして作成された頭防具。{j}装備する者の底力を引き出す。,Head armor crafted based on the traits of{j}the Espinas Rare Species. Draws out the{j}hidden strength of its wearer.
 1495,エスピナス希少種の特徴を{j}参考にして作成された頭防具。{j}装備する者の底力を引き出す。,Head armor crafted based on the traits of{j}the Espinas Rare Species. Draws out the{j}hidden strength of its wearer.
-1496,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1497,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1498,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1499,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1500,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1501,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1502,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1503,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1504,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1505,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1506,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1507,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1508,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1509,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
-1510,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}with priority on protecting the wearer."
-1511,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+1496,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1497,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1498,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1499,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1500,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1501,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1502,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1503,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1504,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1505,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1506,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1507,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1508,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1509,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
+1510,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed to protect the wearer.
+1511,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 1512,獣人族を模した金色のスーツ。{j}裏地にも高級な生地を使用し{j}ており、着心地も最高。,"A golden suit modeled after beastfolk.{j}Even the lining uses fine fabric, making{j}it supremely comfortable."
 1513,獣人族を模した金色のスーツ。{j}裏地にも高級な生地を使用し{j}ており、着心地も最高。,"A golden suit modeled after beastfolk.{j}Even the lining uses fine fabric, making{j}it supremely comfortable."
 1514,獣人族を模した銀色のスーツ。{j}裏地にも高級な生地を使用し{j}ており、着心地も最高。,"A silver suit modeled after beastfolk.{j}Even the lining uses fine fabric, making{j}it supremely comfortable."
@@ -1535,7 +1535,7 @@ index,source,target
 1533,轟竜の俊敏さを強調した動き{j}やすい頭防具。{j}{c07}ＳＰ防具：黒{/c},"Head armor that emphasizes the Tigrex's{j}agility, making movement easy.{j}{c07}SP Armor: Black{/c}"
 1534,轟竜の俊敏さを強調した動き{j}やすい頭防具。{j}{c07}ＳＰ防具：白{/c},"Head armor that emphasizes the Tigrex's{j}agility, making movement easy.{j}{c07}SP Armor: White{/c}"
 1535,轟竜の俊敏さを強調した動き{j}やすい頭防具。{j}{c07}ＳＰ防具：紫{/c},"Head armor that emphasizes the Tigrex's{j}agility, making movement easy.{j}{c07}SP Armor: Purple{/c}"
-1536,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：黄{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Yellow{/c}
+1536,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：黄{/c},Blademaster armor threatening prey.{j}Its hard shell threatens prey.{j}{c07}SP Armor: Yellow{/c}
 1537,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：緑{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Green{/c}
 1538,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：白{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: White{/c}
 1539,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}
@@ -3363,21 +3363,21 @@ in the shape of a hair ornament.{j}{j}{c07}SP Armor: Rainbow{/c}"
 3359,ギルドへの貢献度に応じて{j}贈られる頭防具。高技術な{j}狩人の証。{c11}≪ＨＣ防具≫{/c},Head armor{j}awarded for your contributions to the Guild. Proof of a highly skilled{j}Hunter.{c11}≪HC Armor≫{/c}
 3360,ギルドへの貢献度に応じて{j}贈られる頭防具。高技術な{j}狩人の証。{c11}≪ＨＣ防具≫{/c},Head armor{j}awarded for your contributions to the Guild. Proof of a highly skilled{j}Hunter.{c11}≪HC Armor≫{/c}
 3361,ギルドへの貢献度に応じて{j}贈られる頭防具。高技術な{j}狩人の証。{c11}≪ＨＣ防具≫{/c},Head armor{j}awarded for your contributions to the Guild. Proof of a highly skilled{j}Hunter.{c11}≪HC Armor≫{/c}
-3362,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3362,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3363,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3364,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3364,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3365,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3366,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3366,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3367,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3368,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3368,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3369,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3370,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3370,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3371,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3372,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3372,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3373,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3374,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3374,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3375,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
-3376,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,"Head armor made on a distant continent, designed{j}for dragon hunting."
+3376,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Head armor made on a distant continent.{j}Designed for dragon hunting.
 3377,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。{j}{c11}≪ＨＣ防具≫{/c},"Head armor made on a distant continent, designed{j}for dragon hunting.{j}{c11}≪HC Armor≫{/c}"
 3378,エスピナスの頭を模した{j}マスク。多くの状態異常に{j}強くなる。,A{j}mask modeled after the Espinas's head.{j}Strong against many status effects.
 3379,エスピナスの頭を模した{j}マスク。多くの状態異常に{j}強くなる。{c11}≪ＨＣ防具≫{/c},A{j}mask modeled after the Espinas's head.{j}Strong against many status effects.{c11}≪HC Armor≫{/c}

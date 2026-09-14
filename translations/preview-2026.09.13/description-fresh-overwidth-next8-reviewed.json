@@ -1,0 +1,326 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1119,
+      "source": "軽さと堅さに定評のある甲虫系{j}素材を用いた頭防具。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head armor made with beetle-type{j}materials known for their lightness and sturdiness.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Beetle-material head armor.{j}Light yet sturdy materials.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1392,
+      "source": "覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Black{/c}",
+      "target": "{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1395,
+      "source": "覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Black{/c}",
+      "target": "{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1393,
+      "source": "覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Red{/c}",
+      "target": "{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1396,
+      "source": "覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "{j}Head Armor that recreates Akantor's intimidating presence.{j}{c07}SP Armor: Red{/c}",
+      "target": "{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1394,
+      "source": "覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "{j}Head armor that recreates the menacing presence of Akantor.{j}{c07}SP Armor: White{/c}",
+      "target": "{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1397,
+      "source": "覇竜の威圧感を再現した{j}頭防具。{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "{j}Head armor that recreates the menacing presence of Akantor.{j}{c07}SP Armor: White{/c}",
+      "target": "{j}Head armor evoking Akantor's menace.{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1398,
+      "source": "鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：黒{/c}",
+      "previous": "Head Armor using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Black{/c}",
+      "target": "Gravios head armor.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Black{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1399,
+      "source": "鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：青{/c}",
+      "previous": "Head Armor using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Blue{/c}",
+      "target": "Gravios head armor.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Blue{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1400,
+      "source": "鎧竜の素材を使用した頭防具。{j}狩人は重く堅牢な要塞と化す。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head Armor using Gravios materials.{j}The Hunter becomes a heavy, sturdy fortress.{j}{c07}SP Armor: Red{/c}",
+      "target": "Gravios head armor.{j}The Hunter becomes a heavy fortress.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1496,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1498,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1500,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1502,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1504,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1506,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1508,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1510,
+      "source": "装備者の身守り優先で設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}with priority on protecting the wearer.",
+      "target": "Head armor made on a distant continent.{j}Designed to protect the wearer.",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1497,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1499,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1501,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1503,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1505,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1507,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1509,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1511,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3362,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3364,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3366,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3368,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3370,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3372,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3374,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 3376,
+      "source": "竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。",
+      "previous": "Head armor made on a distant continent, designed{j}for dragon hunting.",
+      "target": "Head armor made on a distant continent.{j}Designed for dragon hunting.",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1536,
+      "source": "堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Blademaster armor threatening prey.{j}Its hard shell threatens prey.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}
