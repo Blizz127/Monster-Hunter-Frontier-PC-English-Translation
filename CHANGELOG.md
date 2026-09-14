@@ -418,3 +418,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 121 source-reviewed concise reflows for hero Hunter, traveler, and Zenith armor descriptions.
 - Reduce the visible over-width census to 4157 records.
+
+## 2026.09.13-preview.81 (experimental)
+
+- Add 128 source-reviewed concise reflows for Dark Thunder Dragon, Imperial Conquering Dragon, and Saint armor descriptions.
+- Reduce the visible over-width census to 4029 records.
