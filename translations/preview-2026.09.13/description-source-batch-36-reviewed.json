@@ -1,0 +1,443 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27111,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A body armor modeled{j}after a certain classic ideal.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A body armor of classic design.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27118,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A body armor modeled{j}after a certain classic ideal.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A body armor of classic design.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27557,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27558,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27559,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27560,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27561,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27562,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27563,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27564,
+      "source": "喰血竜の素材を使った胴防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}It has a strong bloodsucking desire, so the wearer{j}must be careful.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27678,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27685,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27679,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27680,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27686,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27687,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27681,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27688,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor{j}crafted{j}down to the smallest detail with the beauty and grace of its dance as the foremost concern.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor{j}crafted for graceful beauty.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27725,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27726,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27727,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27728,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27729,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27730,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27731,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27732,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27841,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27848,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27842,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27843,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27849,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27850,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27844,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27851,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に纏った服装を{j}模した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor modeled after{j}the clothing worn by those who made assassination their trade in a foreign land long ago{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Assassin body armor from a foreign land.{j}Modeled on gear worn by old assassins.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27875,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor that recreates the image of a fairy{j}singing and dancing in a silver land{j}blanketed in deep snow.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27882,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor that recreates the image of a fairy{j}singing and dancing in a silver land{j}blanketed in deep snow.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27876,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27877,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27883,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27884,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27878,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27885,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Fairy body armor from a snowy land.{j}Singing and dancing in deep snow.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27903,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor further{j}improved from blueprints left by{j}, the founder of armor crafting in Mezepolta.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Made by its founder.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27910,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor further{j}improved from blueprints left by{j}, the founder of armor crafting in Mezepolta.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Made by its founder.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27904,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor further{j}improved from blueprints left by{j}, the founder of armor crafting in Mezepolta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Made by its founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27905,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor further{j}improved from blueprints left by{j}, the founder of armor crafting in Mezepolta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Made by its founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27911,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor further{j}improved from blueprints left by{j}, the founder of armor crafting in Mezepolta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Made by its founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 27912,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor further{j}improved from blueprints left by{j}, the founder of armor crafting in Mezepolta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Mezepolta blueprint armor.{j}Made by its founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-36"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
