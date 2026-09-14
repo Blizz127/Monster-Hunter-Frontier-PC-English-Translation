@@ -403,3 +403,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 50 source-reviewed concise reflows for Floating Peak Dragon, Gook, and otherworldly armor descriptions.
 - Reduce the visible over-width census to 4337 records.
+
+## 2026.09.13-preview.78 (experimental)
+
+- Add 29 source-reviewed concise reflows for Knight King, Noble Phantasm, and hero Hunter descriptions.
+- Reduce the visible over-width census to 4308 records.
