@@ -2314,8 +2314,8 @@ index,source,target
 2312,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：赤{/c},Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Red{/c}
 2313,ヒプノックの素材を用いた頭{j}用装備。眠鳥の威圧感を持つ。{j}{c07}ＳＰ防具：黄{/c},Head{j}Hypnocatrice armor with sleep-bird menace.{j}{c07}SP Armor: Yellow{/c}
 2314,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：黒{/c},"Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Black{/c}"
-2315,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：赤{/c},"Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Red{/c}"
-2316,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：紫{/c},"Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Purple{/c}"
+2315,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：赤{/c},"Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Red{/c}"
+2316,ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：紫{/c},"Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Purple{/c}"
 2317,ベルキュロス素材の頭装備。{j}硬度が高く、耐久性に優れて{j}いる。{c07}ＳＰ防具：黒{/c},Head armor made of Berukyros material.{j}Very hard and highly durable{j}.{c07}SP Armor: Black{/c}
 2318,ベルキュロス素材の頭装備。{j}硬度が高く、耐久性に優れて{j}いる。{c07}ＳＰ防具：赤{/c},Head armor made of Berukyros material.{j}Very hard and highly durable{j}.{c07}SP Armor: Red{/c}
 2319,ベルキュロス素材の頭装備。{j}硬度が高く、耐久性に優れて{j}いる。{c07}ＳＰ防具：紫{/c},Head armor made of Berukyros material.{j}Very hard and highly durable{j}.{c07}SP Armor: Purple{/c}
@@ -2353,15 +2353,15 @@ index,source,target
 2351,ダイミョウザザミの強固な{j}素材を使用した頭用装備。{j}曲面加工が衝撃を逃がす。,Head armor made using the sturdy{j}materials of a Daimyo Hermitaur.{j}Curved shaping deflects impacts.
 2352,ディアブロスの象徴である{j}角が周囲を威嚇する頭用装備。{j}砂漠の覇者の証でもある。,"Head armor with horns, the symbol of{j}Diablos, that intimidate the surroundings.{j}It is also proof of the desert's ruler."
 2353,ディアブロスの象徴である{j}角が周囲を威嚇する頭用装備。{j}砂漠の覇者の証でもある。,"Head armor with horns, the symbol of{j}Diablos, that intimidate the surroundings.{j}It is also proof of the desert's ruler."
-2354,片手剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},"Head armor for practice,{j}, that those who have just begun to learn Sword & Shield techniques may equip{j}.{c11}≪HC Armor≫{/c}"
-2355,双剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},{j}Practice Head armor that those who have begun to learn Dual Blade techniques are permitted{j}to wear.{c11}≪HC Armor≫{/c}
-2356,大剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Those who have begun learning the art of the Great Sword are permitted{j}to wear this{j}practice Head armor.{c11}≪HC Armor≫{/c}
-2357,太刀技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Training Head armor{j}that those{j}just beginning to learn Long Sword techniques are permitted to wear.{c11}≪HC Armor≫{/c}
-2358,鎚技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},{j}Those who have begun to learn the Hammer may wear this{j}training Head armor.{c11}≪HC Armor≫{/c}
-2359,狩猟笛技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice head armor that those who have begun to learn Hunting Horn techniques{j}are permitted to wear.{j}≪HC Armor≫{c11}{/c}
+2354,片手剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice head armor.{j}For new Sword & Shield learners.{j}{c11}HC Armor{/c}
+2355,双剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},{j}New Dual Blade practice armor.{j}{c11}HC Armor{/c}
+2356,大剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},New Great Sword learners may wear{j}this practice head armor.{j}{c11}HC Armor{/c}
+2357,太刀技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Training head armor{j}for new Long Sword learners.{j}{c11}HC Armor{/c}
+2358,鎚技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},{j}New Hammer learners may wear it.{j}{c11}HC Armor{/c}
+2359,狩猟笛技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},New Hunting Horn learners' practice armor.{j}Training head armor.{j}{c11}HC Armor{/c}
 2360,槍技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice Head armor that those{j}who have just begun learning the Lance{j}are permitted to wear.{c11}≪HC Armor≫{/c}
-2361,銃槍技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice Head armor that those who have begun learning the Gunlance art are permitted{j}to wear{j}.{c11}≪HC Armor≫{/c}
-2362,軽銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Only those who have begun to learn the art of the Light Bowgun{j}are permitted to wear this{j}training Head armor.{c11}≪HC Armor≫{/c}
+2361,銃槍技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice head armor{j}for new Gunlance learners.{j}{c11}HC Armor{/c}
+2362,軽銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},Practice armor{j}for new Light Bowgun learners.{j}{c11}HC Armor{/c}
 2363,重銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},"Head armor for practice,{j}permitted for those{j}who have begun learning the Heavy Bowgun arts.{c11}≪HC Armor≫{/c}"
 2364,弓技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c},"Training Head armor,{j}worn only by those{j}who have begun to learn the bow.{c11}≪HC Armor≫{/c}"
 2365,荒野での狩猟を主目的に設計{j}された頭防具。肌触りの良い{j}ギアノスの素材を贅沢に使用。,Head armor designed with hunting in the{j}wilderness as its main purpose. Lavishly{j}uses soft-to-the-touch Giaprey materials.

@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2315,
+      "source": "ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Red{/c}",
+      "target": "Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2316,
+      "source": "ベルキュロス素材の頭防具。{j}硬度を保ち、表面を滑らかに{j}磨き上げた。{c07}ＳＰ防具：紫{/c}",
+      "previous": "Head armor made of Berukyros material.{j}Retains hardness, and the surface is smoothly{j}polished.{c07}SP Armor: Purple{/c}",
+      "target": "Berukyros head armor.{j}Hard, with a smoothly polished surface.{j}{c07}SP Armor: Purple{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2354,
+      "source": "片手剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Head armor for practice,{j}, that those who have just begun to learn Sword & Shield techniques may equip{j}.{c11}≪HC Armor≫{/c}",
+      "target": "Practice head armor.{j}For new Sword & Shield learners.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2355,
+      "source": "双剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "{j}Practice Head armor that those who have begun to learn Dual Blade techniques are permitted{j}to wear.{c11}≪HC Armor≫{/c}",
+      "target": "{j}New Dual Blade practice armor.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2356,
+      "source": "大剣技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Those who have begun learning the art of the Great Sword are permitted{j}to wear this{j}practice Head armor.{c11}≪HC Armor≫{/c}",
+      "target": "New Great Sword learners may wear{j}this practice head armor.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2357,
+      "source": "太刀技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Training Head armor{j}that those{j}just beginning to learn Long Sword techniques are permitted to wear.{c11}≪HC Armor≫{/c}",
+      "target": "Training head armor{j}for new Long Sword learners.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2358,
+      "source": "鎚技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "{j}Those who have begun to learn the Hammer may wear this{j}training Head armor.{c11}≪HC Armor≫{/c}",
+      "target": "{j}New Hammer learners may wear it.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2359,
+      "source": "狩猟笛技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Practice head armor that those who have begun to learn Hunting Horn techniques{j}are permitted to wear.{j}≪HC Armor≫{c11}{/c}",
+      "target": "New Hunting Horn learners' practice armor.{j}Training head armor.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2361,
+      "source": "銃槍技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Practice Head armor that those who have begun learning the Gunlance art are permitted{j}to wear{j}.{c11}≪HC Armor≫{/c}",
+      "target": "Practice head armor{j}for new Gunlance learners.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 2362,
+      "source": "軽銃技を習得し始めた者が{j}身に付けることを許された{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Only those who have begun to learn the art of the Light Bowgun{j}are permitted to wear this{j}training Head armor.{c11}≪HC Armor≫{/c}",
+      "target": "Practice armor{j}for new Light Bowgun learners.{j}{c11}HC Armor{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}

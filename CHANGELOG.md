@@ -313,3 +313,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 12 exact-source equipment-description records across Gou armor, King Lobster, and Hypnocatrice families.
 - Reduce the current over-width census to 23758 records.
+
+## 2026.09.13-preview.60 (experimental)
+
+- Reflow 10 exact-source equipment-description records across Berukyros and Hunter Course practice armor.
+- Reduce the current over-width census to 23748 records.
