@@ -1,0 +1,317 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13121,
+      "source": "千の勲をあげた金色の軍隊は、{j}旭陽を浴びて凱旋する。{j}{c04}≪遷悠防具：見切り+5≫{/c}",
+      "previous": "A golden army that earned a thousand honors returns in triumph beneath the morning sun.{j}{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "target": "Golden army armor.{j}A thousand honors; triumph beneath dawn.{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13122,
+      "source": "千の勲をあげた金色の軍隊は、{j}旭陽を浴びて凱旋する。{j}{c04}≪遷悠防具：見切り+5≫{/c}",
+      "previous": "A golden army that earned a thousand honors returns in triumph beneath the morning sun.{j}{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "target": "Golden army armor.{j}A thousand honors; triumph beneath dawn.{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13123,
+      "source": "千の勲をあげた金色の軍隊は、{j}旭陽を浴びて凱旋する。{j}{c04}≪遷悠防具：見切り+5≫{/c}",
+      "previous": "A golden army that earned a thousand honors returns in triumph beneath the morning sun.{j}{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "target": "Golden army armor.{j}A thousand honors; triumph beneath dawn.{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13124,
+      "source": "千の勲をあげた金色の軍隊は、{j}旭陽を浴びて凱旋する。{j}{c04}≪遷悠防具：見切り+5≫{/c}",
+      "previous": "A golden army that earned a thousand honors returns in triumph beneath the morning sun.{j}{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "target": "Golden army armor.{j}A thousand honors; triumph beneath dawn.{j}{c04}≪Exotic Armor: Critical Eye +5≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13451,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13452,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13453,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13454,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13455,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13456,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13457,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13458,
+      "source": "極海で猛威を振るった暴鋸竜{j}の頭防具。氷塊をものともし{j}ない頑丈さだ。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor of the Violent Saw Wyvern{j}that wreaked havoc in the Polar Sea. Sturdy enough to shrug off{j}blocks of ice.{c28}≪Zenith Armor≫{/c}",
+      "target": "Violent Saw Wyvern helm.{j}Polar Sea armor, sturdy enough.{j}Shrugs off ice blocks.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13496,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13503,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13497,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13498,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13504,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13505,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13499,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13506,
+      "source": "天から地へと堕ちた者を模し{j}た頭防具。高慢さと嫉妬心が{j}仇をなしたとか。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor modeled{j}after one who fell from heaven to earth. Arrogance and envy{j}are said to have been his undoing.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Fallen angel helm.{j}Arrogance and envy caused his fall.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13510,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13517,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13511,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13512,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13518,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13519,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13513,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13520,
+      "source": "湖を泳ぐ麗しき白鳥のように、{j}華麗に舞い、踊り、狩猟する{j}魅惑の頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Like a beautiful swan swimming in a lake,{j}dancing, twirling, and hunting with grace{j}-- an enchanting Head armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Swanlike head armor.{j}Graceful dance and hunting.{j}Enchanting gear.{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13554,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Guardians' Tale helm.{j}Foreign legend; withstands any attack.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13561,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Guardians' Tale helm.{j}Foreign legend; withstands any attack.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13555,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Guardians' Tale helm.{j}Foreign legend; withstands any attack.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13556,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Guardians' Tale helm.{j}Foreign legend; withstands any attack.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13562,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Guardians' Tale helm.{j}Foreign legend; withstands any attack.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13563,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Guardians' Tale helm.{j}Foreign legend; withstands any attack.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-19"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
