@@ -1,0 +1,641 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25871,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}body armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer turned craftswoman.{j}She created this body armor.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25878,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}body armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer turned craftswoman.{j}She created this body armor.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26021,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}body armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer turned craftswoman.{j}She created this body armor.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26028,
+      "source": "大巌竜に憧れた少女が、いつ{j}しか職人となり、作成した{j}胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "The girl who admired Laviente became a craftswoman before{j}she knew it, and created this{j}body armor.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Laviente admirer turned craftswoman.{j}She created this body armor.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25882,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25889,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25883,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25884,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25890,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25891,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25885,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25892,
+      "source": "異国に伝わる「勇者の物語」{j}にまつわる胴防具。勇者の{j}魂が宿るという。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor tied to the \"Tale of the Hero\"{j}handed down in a foreign land. The hero's{j}soul is said to dwell within.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor from the Tale of the Hero.{j}Hero’s soul dwells within.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25903,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25904,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25905,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25906,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25907,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25908,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25909,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25910,
+      "source": "装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c28}≪辿異狩護≫{/c}",
+      "previous": "When equipped, this body armor grants you a Felyne's{j}insatiable curiosity.{j}Lightweight and easy to move in.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor granting a Felyne’s curiosity.{j}Lightweight and easy to move in.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25917,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25918,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25919,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25920,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25921,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25922,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25923,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25924,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}魅惑的な胴防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this alluring body armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Traveler-inspired body armor.{j}Refined into an alluring form.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26097,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26098,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26099,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26100,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26101,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26102,
+      "source": "ルコディオラ風の胴防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor in the style of Rukodiora.{j}Elder Dragon materials have{j}drawn out the power slumbering in minerals.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Rukodiora body armor.{j}Elder Dragon materials awaken minerals.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26433,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26434,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26435,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26436,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26437,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26438,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26439,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26440,
+      "source": "冥雷竜の素材を使用した胴防{j}具。禍々しさを内に秘めた強{j}靭な防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Body armor crafted from the Dark Thunder Dragon's{j}material. A sturdy, resilient piece that hides{j}an ominous power within.{c28}≪Zenith Armor≫{/c}",
+      "target": "Dark Thunder Dragon body armor.{j}Sturdy armor hiding ominous power.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26503,
+      "source": "調査兵団員に支給される胴用{j}装備。重ね翼の紋章は「自由{j}の翼」と呼ばれる{c28}≪辿異狩護≫{/c}",
+      "previous": "Body{j}equipment issued to Survey Corps members. The overlapping wing emblem is called the \"Wings of Freedom{j}\"{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body{j}gear issued to Survey Corps members.{j}“Wings of Freedom.”{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26504,
+      "source": "調査兵団員に支給される胴用{j}装備。重ね翼の紋章は「自由{j}の翼」と呼ばれる{c28}≪辿異狩護≫{/c}",
+      "previous": "Body{j}equipment issued to Survey Corps members. The overlapping wing emblem is called the \"Wings of Freedom{j}\"{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body{j}gear issued to Survey Corps members.{j}“Wings of Freedom.”{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26505,
+      "source": "訓練兵団員に支給される胴用{j}装備。その使命に命をかける{j}証となる。{c28}≪辿異狩護≫{/c}",
+      "previous": "{j}body gear issued to Training Corps members. It is the{j}proof that one stakes their life on that duty.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "{j}Training Corps body gear.{j}Pledged to duty.{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26506,
+      "source": "訓練兵団員に支給される胴用{j}装備。その使命に命をかける{j}証となる。{c28}≪辿異狩護≫{/c}",
+      "previous": "{j}body gear issued to Training Corps members. It is the{j}proof that one stakes their life on that duty.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "{j}Training Corps body gear.{j}Pledged to duty.{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26681,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26682,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26683,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26684,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26685,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26686,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26687,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26688,
+      "source": "怒貌竜の二面性が垣間見える{j}胴防具。時に激昂し、時に{j}寛容になるとか。{c28}≪辿異防具≫{/c}",
+      "previous": "{j}Body armor that offers a glimpse of the Raging Visage Dragon's dual nature. At times it rages, at times it turns{j}forgiving.{c28}≪Zenith Armor≫{/c}",
+      "target": "{j}Raging Visage Dragon body armor.{j}Rage and mercy dwell within.{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26714,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26721,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26728,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26735,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26715,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26716,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26722,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26723,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26729,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26730,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26736,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26737,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26717,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26724,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26731,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 26738,
+      "source": "創音竜を愛してやまない令嬢{j}が腕利きの職人に作製を依頼{j}した胴防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Body armor{j}crafted by a master artisan at the request of a young lady{j}who adores the Sound-Creating Dragon.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Body armor{j}Made for a Sound-Creating Dragon fan.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-34"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
