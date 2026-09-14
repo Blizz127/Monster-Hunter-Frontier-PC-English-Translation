@@ -1,0 +1,299 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22956,
+      "source": "喰血竜の素材を使った胴防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}Only those with a strong will to resist the craving{j}can wear it.{c02}≪Origin Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}Only strong wills resist its craving.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 22957,
+      "source": "喰血竜の素材を使った胴防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪始種防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}Only those with a strong will to resist the craving{j}can wear it.{c02}≪Origin Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}Only strong wills resist its craving.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23357,
+      "source": "”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor in which the souls of the male Fire Wyvern that rules the heavens and the female Fire Wyvern that shakes the earth{j}were reincarnated{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fire Wyvern soul body armor.{j}Male and female Wyvern souls reborn.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23362,
+      "source": "”天”を統べる雄火竜と”地”{j}を揺るがす雌火竜の魂が転生{j}せし胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor in which the souls of the male Fire Wyvern that rules the heavens and the female Fire Wyvern that shakes the earth{j}were reincarnated{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fire Wyvern soul body armor.{j}Male and female Wyvern souls reborn.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23432,
+      "source": "気品溢れる胴用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Elegant body armor.{j}Men: Dandy; women: Elegant.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23433,
+      "source": "気品溢れる胴用装備。男用は{j}ダンディ、女用はエレガント{j}シリーズ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor brimming with elegance. The male version is the{j}Dandy series, and the female version is the Elegant{j}series.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant body armor.{j}Men: Dandy; women: Elegant.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23458,
+      "source": "大気を震わせる猛き迅雷が形{j}を成した胴用装備。{c04}≪遷悠{j}防具：雷属性攻撃【大】≫{/c}",
+      "previous": "Body armor formed when the fierce lightning that shakes the atmosphere took{j}form.{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "target": "Body armor formed from fierce lightning.{j}{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23459,
+      "source": "大気を震わせる猛き迅雷が形{j}を成した胴用装備。{c04}≪遷悠{j}防具：雷属性攻撃【大】≫{/c}",
+      "previous": "Body armor formed when the fierce lightning that shakes the atmosphere took{j}form.{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "target": "Body armor formed from fierce lightning.{j}{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23460,
+      "source": "大気を震わせる猛き迅雷が形{j}を成した胴用装備。{c04}≪遷悠{j}防具：雷属性攻撃【大】≫{/c}",
+      "previous": "Body armor formed when the fierce lightning that shakes the atmosphere took{j}form.{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "target": "Body armor formed from fierce lightning.{j}{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23461,
+      "source": "大気を震わせる猛き迅雷が形{j}を成した胴用装備。{c04}≪遷悠{j}防具：雷属性攻撃【大】≫{/c}",
+      "previous": "Body armor formed when the fierce lightning that shakes the atmosphere took{j}form.{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "target": "Body armor formed from fierce lightning.{j}{c04}≪Exotic Armor:{j}Thunder Attack (Large)≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23676,
+      "source": "狩り場に咲くどんな花より{j}美しいと賞される逸品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c}",
+      "previous": "More than any flower that blooms in the hunting grounds{j}A masterpiece praised for its beauty.{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "target": "A masterpiece praised for beauty.{j}{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23677,
+      "source": "狩り場に咲くどんな花より{j}美しいと賞される逸品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c}",
+      "previous": "More than any flower that blooms in the hunting grounds{j}A masterpiece praised for its beauty.{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "target": "A masterpiece praised for beauty.{j}{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23678,
+      "source": "狩り場に咲くどんな花より{j}美しいと賞される逸品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c}",
+      "previous": "More than any flower that blooms in the hunting grounds{j}A masterpiece praised for its beauty.{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "target": "A masterpiece praised for beauty.{j}{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23679,
+      "source": "狩り場に咲くどんな花より{j}美しいと賞される逸品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c}",
+      "previous": "More than any flower that blooms in the hunting grounds{j}A masterpiece praised for its beauty.{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "target": "A masterpiece praised for beauty.{j}{c04}≪Exotic Armor:{j}Status Attack Up≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23689,
+      "source": "力の象徴とされている胴防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor symbolizing power.{j}It inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23696,
+      "source": "力の象徴とされている胴防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor symbolizing power.{j}It inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24832,
+      "source": "力の象徴とされている胴防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor symbolizing power.{j}It inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 24839,
+      "source": "力の象徴とされている胴防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to be a symbol of power.{j}It is said to inspire{j}awe and a sense of security in those around.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor symbolizing power.{j}It inspires awe and security.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23742,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪剛種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Gou Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23748,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪剛種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Gou Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23743,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪天嵐防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Tenran Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23749,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪天嵐防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Tenran Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23744,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪覇種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23750,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪覇種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23745,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Crafted{j}by techniques handed down from the Eastern lands, this Body armor{j}exudes the stately presence of the Floating Peak Dragon.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23751,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Crafted{j}by techniques handed down from the Eastern lands, this Body armor{j}exudes the stately presence of the Floating Peak Dragon.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23746,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪烈種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Burst Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23752,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪烈種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Burst Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23747,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪始種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Origin Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23753,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う胴防具。{c02}≪始種防具≫{/c}",
+      "previous": "Body armor{j}made by techniques handed down from the Eastern land,{j}exuding the majestic dignity of a Floating Peak Dragon.{c02}≪Origin Armor≫{/c}",
+      "target": "Eastern-made body armor.{j}It bears Floating Peak Dragon dignity.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23768,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪始種防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Origin Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 23769,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪始種防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Origin Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-32"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
