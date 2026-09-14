@@ -328,3 +328,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Apply a word-preserving automatic reflow to 13283 feasible equipment-description records while retaining existing wording and color controls.
 - Reduce the current over-width census to 10423 records; 5506 records remain pending because they exceed the available slots or need malformed-control/source review.
+
+## 2026.09.13-preview.63 (experimental)
+
+- Reflow 4917 additional equipment-description records using visible text width while retaining wording and color controls.
+- 5506 records remain pending because they exceed the available three slots or need malformed-control/source review.
