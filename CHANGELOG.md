@@ -358,3 +358,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 43 source-reviewed concise reflows for repeated faith, master-craft, and monster-armor descriptions.
 - Reduce the visible over-width census to 5225 records.
+
+## 2026.09.13-preview.69 (experimental)
+
+- Add 206 source-reviewed concise reflows for repeated fighting-spirit, ceremonial, Bird Wyvern, and Fanged Beast descriptions.
+- Reduce the visible over-width census to 5019 records.
