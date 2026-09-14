@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026.09.13-preview.83 (experimental)
+
+- Add 54 source-reviewed repeated armor-description reflows to the cumulative client preview.
+- Reduce the remaining visible over-width census to 3941 records.
+- Keep static verification passing; runtime verification remains pending.
+
 ## 2026.09.13-preview.82 (experimental)
 
 - Add 34 source-reviewed equipment-description reflows to the cumulative client preview.

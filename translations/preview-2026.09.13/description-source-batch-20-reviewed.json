@@ -1,0 +1,497 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13557,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Guardians Tale helm.{j}Foreign legend; withstands all attacks.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13564,
+      "source": "異国に伝わる「守護者の物語」{j}にまつわる頭防具。あらゆる{j}攻撃に耐える。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Guardians\"{j}handed down in a foreign land. Withstands any{j}attack.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Guardians Tale helm.{j}Foreign legend; withstands all attacks.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13582,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13589,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13583,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13584,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13590,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13591,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13585,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13592,
+      "source": "「気品と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor modeled{j}after a certain classic style, called \"The Coexistence of Elegance and Stalwart Strength\"{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Elegance and strength in balance.{j}A classic head armor design.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13596,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13603,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13597,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13598,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13604,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13605,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13599,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 13606,
+      "source": "「品格と逞しい強さの両立」{j}という、ある種の王道を模し{j}た頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "'Dignity and robust strength in equal measure.'{j}A head armor modeled{j}after a certain classic ideal.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Dignity and strength in balance.{j}A classic head armor design.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14081,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14082,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14083,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14084,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14085,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14086,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14087,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14088,
+      "source": "喰血竜の素材を使った頭防具。{j}強い吸血欲を持ち、着た者は{j}注意が必要。{c28}≪辿異防具≫{/c}",
+      "previous": "Head armor made from Blood-Devouring Dragon materials.{j}It harbors a strong craving for blood,{j}so the wearer must take care.{c28}≪Zenith Armor≫{/c}",
+      "target": "Blood-Devouring Dragon helm.{j}It craves blood; the wearer must beware.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14156,
+      "source": "東方で流行している人気の{j}高い頭防具。やや西方を意識{j}したデザインだ。{c11}≪狩護防具≫{/c}",
+      "previous": "A popular{j}high Head Armor that is in fashion in the East. It's a design with a slight Western awareness{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Popular eastern head armor.{j}A design with a slight western touch.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14163,
+      "source": "東方で流行している人気の{j}高い頭防具。やや西方を意識{j}したデザインだ。{c11}≪狩護防具≫{/c}",
+      "previous": "A popular{j}high Head Armor that is in fashion in the East. It's a design with a slight Western awareness{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Popular eastern head armor.{j}A design with a slight western touch.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14202,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14209,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14203,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14204,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14210,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14211,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14205,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14212,
+      "source": "舞う姿の見栄えと優雅さを{j}第一に考え細部にわたって作り{j}込まれた頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor{j}designed with the beauty and elegance of a dancing figure as the foremost priority and crafted{j}down to the finest detail.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Elegant head armor made for dancing.{j}Crafted for graceful movement.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14249,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14250,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14251,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14252,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14253,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14254,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14255,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14256,
+      "source": "とある旅人の衣服を元に、{j}改良に改良を重ねて作られた{j}妖艶な頭防具。{c28}≪辿異防具≫{/c}",
+      "previous": "Based on a certain traveler's clothing,{j}crafted through round after round of refinement{j}into this bewitching head armor.{c28}≪Zenith Armor≫{/c}",
+      "target": "Bewitching traveler head armor.{j}Refined through many improvements.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14351,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14358,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14352,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14353,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14359,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14360,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14354,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14361,
+      "source": "昔、異国で暗殺を生業とする{j}者たちが身に着けた装備を{j}模した頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor modeled after{j}the equipment worn by those who made assassination their trade in a foreign land long ago{j}.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Assassin head armor from a foreign land.{j}Modeled on gear worn long ago.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14399,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Imagined singing and dancing in deep snow.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14406,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Imagined singing and dancing in deep snow.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-20"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
