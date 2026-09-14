@@ -1,0 +1,371 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14400,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Made to evoke singing and dancing.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14401,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Made to evoke singing and dancing.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14407,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Made to evoke singing and dancing.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14408,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Made to evoke singing and dancing.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14402,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Made to evoke singing and dancing.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14409,
+      "source": "深雪積もる白銀の地で、妖精{j}が歌い、踊るイメージを{j}再現した頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head Armor that{j}reproduces the image of a fairy{j}singing and dancing in a silvery-white land of deep snow.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Fairy head armor from a snowy land.{j}Made to evoke singing and dancing.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14427,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14434,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14428,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14429,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14435,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14436,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14430,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14437,
+      "source": "メゼポルタの防具製作創始者{j}が残した設計図から、さらに{j}改良した頭防具。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head Armor further{j}improved from the blueprints left by{j}, founder of armor crafting in Mezeporta.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Improved head armor from Mezeporta plans.{j}Made by the Mezeporta armor founder.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14497,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14504,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14498,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14499,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14505,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14506,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14500,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14507,
+      "source": "異国に伝わる「不倒の物語」{j}にまつわる頭防具。あらゆる{j}苦難を凌ぐ。{c28}≪辿異狩護≫{/c}",
+      "previous": "Head armor tied to the \"Tale of the Unyielding\"{j}handed down in a foreign land. It overcomes all{j}hardships.{c28}≪Zenith Hunting Guard≫{/c}",
+      "target": "Head armor from the Unyielding Tale.{j}A foreign legend built to endure.{j}{c28}≪Zenith Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14905,
+      "source": "炎妃龍の素材を用いた胴装備。{j}誇り高き青炎を破りし者の証。",
+      "previous": "Body equipment made from Lunastra materials.{j}Proof of one who overcame the proud blue flame.",
+      "target": "Lunastra body equipment.{j}Proof of victory over her blue flame.",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 14921,
+      "source": "炎妃龍の素材を用いた胴装備。{j}誇り高き青炎を破りし者の証。",
+      "previous": "Body equipment made from Lunastra materials.{j}Proof of one who overcame the proud blue flame.",
+      "target": "Lunastra body equipment.{j}Proof of victory over her blue flame.",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16254,
+      "source": "万雷を纏いし蒼白の衣。天を{j}切り裂く雷神があらゆる衝撃{j}から主を護る。{c02}≪剛種防具≫{/c}",
+      "previous": "Pale robes clad in a myriad of lightning. The thunder god that{j}cleaves the heavens shields its master{j}from all impacts.{c02}≪Gou Armor≫{/c}",
+      "target": "Pale robes wrapped in lightning.{j}The thunder god shields its master{j}from every impact.{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16255,
+      "source": "万雷を纏いし蒼白の衣。天を{j}切り裂く雷神があらゆる衝撃{j}から主を護る。{c02}≪剛種防具≫{/c}",
+      "previous": "Pale robes clad in a myriad of lightning. The thunder god that{j}cleaves the heavens shields its master{j}from all impacts.{c02}≪Gou Armor≫{/c}",
+      "target": "Pale robes wrapped in lightning.{j}The thunder god shields its master{j}from every impact.{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16866,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16867,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16868,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16869,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16870,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16871,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16872,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 16873,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17185,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪剛種防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Gou Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17188,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪剛種防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Gou Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17186,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪天嵐防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Tenran Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17189,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪天嵐防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Tenran Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17187,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪覇種防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17190,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪覇種防具≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c28}≪Zenith Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-21"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}

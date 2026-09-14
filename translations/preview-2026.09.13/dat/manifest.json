@@ -4,62 +4,62 @@
     {
       "file": "dat-armors-arms.csv",
       "rows": 13452,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-armors-body.csv",
       "rows": 13462,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-armors-head.csv",
       "rows": 14594,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-armors-legs.csv",
       "rows": 13514,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-armors-waist.csv",
       "rows": 13708,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-equipment-description.csv",
       "rows": 68730,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-items-description.csv",
       "rows": 16725,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-items-name.csv",
       "rows": 16701,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-weapons-melee-description.csv",
       "rows": 17568,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-weapons-melee-name.csv",
       "rows": 17568,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-weapons-ranged-description.csv",
       "rows": 4223,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     },
     {
       "file": "dat-weapons-ranged-name.csv",
       "rows": 4223,
-      "sha256": "a0f1eac32ea82b091cccc59adf10dc07ceca3524d52039fc856e0430263d3714"
+      "sha256": "d26926cff6f71f0019781bf1ee61d9703f7dcd8b358c3807f39d4aebee4da83b"
     }
   ]
 }
