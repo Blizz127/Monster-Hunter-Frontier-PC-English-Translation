@@ -1,0 +1,776 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18368,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18369,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る胴防具。猛々しい{j}風格が漂う。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body armor imbued with the immense power of the Boulder Wyvern{j}, feared as a scarlet mountain. It gives off a ferocious{j}air.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Boulder Wyvern body armor.{j}Scarlet mountain power; a fierce aura.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18370,
+      "source": "万雷を纏いし蒼白の衣。天を{j}切り裂く雷神があらゆる衝撃{j}から主を護る。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Pale robes clad in a myriad of lightning. The thunder god that{j}cleaves the heavens shields its master{j}from all impacts.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Pale robes wrapped in lightning.{j}The thunder god shields its master{j}from every impact.{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18371,
+      "source": "万雷を纏いし蒼白の衣。天を{j}切り裂く雷神があらゆる衝撃{j}から主を護る。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Pale robes clad in a myriad of lightning. The thunder god that{j}cleaves the heavens shields its master{j}from all impacts.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Pale robes wrapped in lightning.{j}The thunder god shields its master{j}from every impact.{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18376,
+      "source": "巨龍の力強さと、堅牢さを{j}兼ね備えた胴防具。揺れぬ心を{j}装備者に与える。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body armor that combines the might{j}and toughness of a giant dragon. Grants{j}its wearer an unshakable spirit.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Giant dragon body armor, mighty and tough.{j}It grants the wearer an unshakable spirit.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18377,
+      "source": "巨龍の力強さと、堅牢さを{j}兼ね備えた胴防具。揺れぬ心を{j}装備者に与える。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body armor that combines the might{j}and toughness of a giant dragon. Grants{j}its wearer an unshakable spirit.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Giant dragon body armor, mighty and tough.{j}It grants the wearer an unshakable spirit.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18381,
+      "source": "様々な飛竜の素材を複雑な技法{j}で組み合わせた胴防具。動きの{j}邪魔をしない。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body armor combining various flying wyvern materials with{j}intricate techniques. It does not{j}hinder movement.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Armor of many flying wyvern materials.{j}Fine craft preserves movement.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18384,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18385,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18386,
+      "source": "獲物を貪る呑竜を表現した{j}胴防具。時には、餓えた者が{j}一番強いのだ。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "{j}Body Armor that represents the gluttonous Pariapuria devouring prey. Sometimes, the hungry are{j}the strongest.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "{j}Armor showing Pariapuria devouring prey.{j}Hungry is strongest.{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18387,
+      "source": "獲物を貪る呑竜を表現した{j}胴防具。時には、餓えた者が{j}一番強いのだ。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "{j}Body Armor that represents the gluttonous Pariapuria devouring prey. Sometimes, the hungry are{j}the strongest.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "{j}Armor showing Pariapuria devouring prey.{j}Hungry is strongest.{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18390,
+      "source": "採集を極めたハンターのみに{j}着用が許される胴防具。{j}その腕前は神技。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that only Hunters who have mastered gathering are{j}permitted to wear.{j}Their skill is godlike.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Gathering master body armor.{j}Only skilled hunters may wear it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18392,
+      "source": "採集を極めたハンターのみに{j}着用が許される胴防具。{j}その腕前は神技。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that only Hunters who have mastered gathering are{j}permitted to wear.{j}Their skill is godlike.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Gathering master body armor.{j}Only skilled hunters may wear it.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18488,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18492,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18560,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18563,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18581,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18585,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18589,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18593,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18597,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18601,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18489,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18493,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18561,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18564,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18582,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18586,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18590,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18594,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18598,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18602,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19949,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19950,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19951,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19952,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19953,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19954,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19955,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19956,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21470,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21471,
+      "source": "高貴な雰囲気を放つ胴防具。{j}一般的な狩猟用防具とは異な{j}る趣向の逸品。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that gives off a noble air.{j}A superb piece that differs{j}in taste from ordinary hunting armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Noble body armor.{j}A superb style unlike common hunting gear.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18496,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18500,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18566,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18569,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18605,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18609,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18613,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18617,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18621,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18625,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪狩護防具≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18497,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18501,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18567,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18570,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18606,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18610,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18614,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18618,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18622,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18626,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20747,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20748,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20749,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20750,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20751,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20752,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20753,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20754,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21969,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21970,
+      "source": "薄手だが丈夫な新素材で作ら{j}れた胴用装備。狩猟を助ける{j}工夫が多載。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The latest body armor, made from{j}a thin yet sturdy new material. Loaded with{j}features that aid the hunt.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Latest thin, sturdy body armor.{j}Loaded with hunting features.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18526,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18699,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18705,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18711,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪HC Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18527,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18700,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18706,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18712,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18528,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18701,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18707,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18713,
+      "source": "信義と忠節の証たる胴防具。{j}攻・守・回復全ての力を秘め{j}災いを退ける。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor that is proof of faith and loyalty.{j}Holding the full power of attack, defense, and recovery,{j}it wards off calamity.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor proving faith and loyalty.{j}All three powers ward off calamity.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-25"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
