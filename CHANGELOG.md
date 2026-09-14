@@ -413,3 +413,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 30 source-reviewed concise reflows for hero Hunter and Knight King armor descriptions.
 - Reduce the visible over-width census to 4278 records.
+
+## 2026.09.13-preview.80 (experimental)
+
+- Add 121 source-reviewed concise reflows for hero Hunter, traveler, and Zenith armor descriptions.
+- Reduce the visible over-width census to 4157 records.
