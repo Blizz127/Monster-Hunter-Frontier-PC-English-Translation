@@ -1,0 +1,263 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9942,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪剛種防具≫{/c}",
+      "previous": "Crafted{j}by techniques handed down from the Eastern lands, this Head armor{j}exudes the stately presence of the Floating Peak Dragon.{c02}≪Gou Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; stately presence.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9948,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪剛種防具≫{/c}",
+      "previous": "Crafted{j}by techniques handed down from the Eastern lands, this Head armor{j}exudes the stately presence of the Floating Peak Dragon.{c02}≪Gou Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; stately presence.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9943,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪天嵐防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Tenran Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9949,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪天嵐防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Tenran Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9944,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪覇種防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9950,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪覇種防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9945,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9951,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9946,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪烈種防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Burst Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9952,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪烈種防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Burst Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9947,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Origin Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9953,
+      "source": "東の国伝来の手法により造ら{j}れた浮峰龍の堂々たる風格の{j}漂う頭防具。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor forged{j}by techniques handed down in the Eastern lands,{j}imbued with the majestic air of the Floating Peak Dragon.{c02}≪Origin Armor≫{/c}",
+      "target": "Floating Peak Dragon helm.{j}Eastern craft; majestic air.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9968,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Origin Armor≫{/c}",
+      "target": "Dyuragaua helm.{j}Feared as the Scarlet Mountain.{j}Ferocious aura.{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9969,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Origin Armor≫{/c}",
+      "target": "Dyuragaua helm.{j}Feared as the Scarlet Mountain.{j}Ferocious aura.{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9970,
+      "source": "随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪始種防具≫{/c}",
+      "previous": "Head Armor scattered here and there, with{j}the black scales of the Elegant Elder Dragon giving off an oppressive presence{j}.{c02}≪Origin Armor≫{/c}",
+      "target": "Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9971,
+      "source": "随所に散りばめられた、{j}雅翁龍の黒鱗が重圧感を{j}漂わす頭防具。{c02}≪始種防具≫{/c}",
+      "previous": "Head Armor scattered here and there, with{j}the black scales of the Elegant Elder Dragon giving off an oppressive presence{j}.{c02}≪Origin Armor≫{/c}",
+      "target": "Elegant Elder Dragon helm.{j}Black scales exude oppression.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9976,
+      "source": "異様な外観が特徴の頭用装備。{j}{c04}≪遷悠防具：餓狼+2≫{/c}",
+      "previous": "Head armor distinguished by its bizarre appearance.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "target": "Bizarre head armor.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9977,
+      "source": "異様な外観が特徴の頭用装備。{j}{c04}≪遷悠防具：餓狼+2≫{/c}",
+      "previous": "Head armor distinguished by its bizarre appearance.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "target": "Bizarre head armor.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9978,
+      "source": "異様な外観が特徴の頭用装備。{j}{c04}≪遷悠防具：餓狼+2≫{/c}",
+      "previous": "Head armor distinguished by its bizarre appearance.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "target": "Bizarre head armor.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 9979,
+      "source": "異様な外観が特徴の頭用装備。{j}{c04}≪遷悠防具：餓狼+2≫{/c}",
+      "previous": "Head armor distinguished by its bizarre appearance.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "target": "Bizarre head armor.{j}{c04}≪Exotic Armor: Starving Wolf+2≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10337,
+      "source": "黒穿竜素材の頭防具。威風堂{j}々たるその姿は、太古の昔の{j}竜を思わせる。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor made from Black Piercing Dragon materials. Its awe-{j}inspiring bearing is reminiscent of{j}dragons of ancient times.{c02}≪Origin Armor≫{/c}",
+      "target": "Black Piercing Dragon helm.{j}Ancient dragons inspire its awe.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10338,
+      "source": "黒穿竜素材の頭防具。威風堂{j}々たるその姿は、太古の昔の{j}竜を思わせる。{c02}≪始種防具≫{/c}",
+      "previous": "Head armor made from Black Piercing Dragon materials. Its awe-{j}inspiring bearing is reminiscent of{j}dragons of ancient times.{c02}≪Origin Armor≫{/c}",
+      "target": "Black Piercing Dragon helm.{j}Ancient dragons inspire its awe.{j}{c02}≪Origin Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10624,
+      "source": "異世界の青年を模した頭防具。{j}命を懸けた大勝負をいくつも{j}乗り越えた。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled after a young man from another world. He has overcome{j}many life-risking gambles{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Otherworldly young man's helm.{j}Survived many deadly gambles.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10630,
+      "source": "異世界の青年を模した頭防具。{j}命を懸けた大勝負をいくつも{j}乗り越えた。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor modeled after a young man from another world. He has overcome{j}many life-risking gambles{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Otherworldly young man's helm.{j}Survived many deadly gambles.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10625,
+      "source": "異世界の青年を模した頭防具。{j}命を懸けた大勝負をいくつも{j}乗り越えた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after a young man from another world. He has overcome{j}many life-risking gambles{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly young man's helm.{j}Survived many deadly gambles.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10626,
+      "source": "異世界の青年を模した頭防具。{j}命を懸けた大勝負をいくつも{j}乗り越えた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after a young man from another world. He has overcome{j}many life-risking gambles{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly young man's helm.{j}Survived many deadly gambles.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10631,
+      "source": "異世界の青年を模した頭防具。{j}命を懸けた大勝負をいくつも{j}乗り越えた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after a young man from another world. He has overcome{j}many life-risking gambles{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly young man's helm.{j}Survived many deadly gambles.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 10632,
+      "source": "異世界の青年を模した頭防具。{j}命を懸けた大勝負をいくつも{j}乗り越えた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor modeled after a young man from another world. He has overcome{j}many life-risking gambles{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly young man's helm.{j}Survived many deadly gambles.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-13"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}

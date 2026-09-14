@@ -393,3 +393,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 62 source-reviewed concise reflows for Elder Dragon, workshop, and ceremonial armor descriptions.
 - Reduce the visible over-width census to 4415 records.
+
+## 2026.09.13-preview.76 (experimental)
+
+- Add 28 source-reviewed concise reflows for Floating Peak Dragon and otherworldly armor descriptions.
+- Reduce the visible over-width census to 4387 records.
