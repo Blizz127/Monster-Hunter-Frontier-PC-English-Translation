@@ -1,0 +1,227 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1537,
+      "source": "堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：緑{/c}",
+      "previous": "Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Green{/c}",
+      "target": "Blademaster armor threatening prey.{j}Its hard shell poses a threat.{j}{c07}SP Armor: Green{/c}",
+      "width": 42,
+      "family": 0
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1538,
+      "source": "堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：白{/c}",
+      "previous": "Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: White{/c}",
+      "target": "Blademaster armor threatening prey.{j}Its hard shell poses a threat.{j}{c07}SP Armor: White{/c}",
+      "width": 42,
+      "family": 1
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1575,
+      "source": "エスピナスの頭を模した{j}マスク。火属性攻撃に強い。",
+      "previous": "A{j}mask modeled after the Espinas's head. Strong against Fire-element attacks.",
+      "target": "An Espinas head mask.{j}Strong against Fire attacks.",
+      "width": 42,
+      "family": 2
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1577,
+      "source": "エスピナス亜種の頭を模した{j}マスク。氷属性攻撃に強い。",
+      "previous": "A{j}mask modeled after the head of an Espinas Subspecies. Strong against Ice element attacks.",
+      "target": "An Espinas Subspecies mask.{j}Strong against Ice attacks.",
+      "width": 42,
+      "family": 3
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1579,
+      "source": "エスピナス希少種の頭を模し{j}たマスク。雷属性攻撃に強い。",
+      "previous": "A mask modeled after{j}the head of the Espinas Rare Species. Resistant to Thunder-element attacks.",
+      "target": "Espinas Rare Species mask.{j}Resistant to Thunder attacks.",
+      "width": 42,
+      "family": 4
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1679,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1680,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1681,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1682,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1683,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1684,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1685,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1686,
+      "source": "衝撃に強い頑丈な複合素材{j}で作られた頭防具。",
+      "previous": "Head armor made from a sturdy composite material{j}that resists impact.",
+      "target": "Head armor of sturdy composite material.{j}Resists impact.",
+      "width": 42,
+      "family": 5
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1687,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1688,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1689,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1690,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1691,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1692,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1693,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1694,
+      "source": "信頼性の高い断熱素材で{j}作られた頭防具。",
+      "previous": "Head armor{j}made from a highly reliable insulating material.",
+      "target": "Reliable insulated head armor.{j}Highly dependable insulation.",
+      "width": 42,
+      "family": 6
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1721,
+      "source": "ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor made from Gypceros materials.{j}The more it is used, the more character it gains.{j}{c07}SP Armor: Red{/c}",
+      "target": "Gypceros head armor.{j}It gains character with use.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 7
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1722,
+      "source": "ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：黄{/c}",
+      "previous": "Head armor made from Gypceros materials.{j}The more it is used, the more character it gains.{j}{c07}SP Armor: Yellow{/c}",
+      "target": "Gypceros head armor.{j}It gains character with use.{j}{c07}SP Armor: Yellow{/c}",
+      "width": 42,
+      "family": 8
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 1970,
+      "source": "しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：赤{/c}",
+      "previous": "Head armor that expresses the supple Hyujikiki aura{j}just as it is.{j}{c07}SP Armor: Red{/c}",
+      "target": "Head armor of supple Hyujikiki aura.{j}As supple as the aura itself.{j}{c07}SP Armor: Red{/c}",
+      "width": 42,
+      "family": 9
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Ten exact-source over-width equipment patterns rewritten for 42-cell wrapping."
+}

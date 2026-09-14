@@ -298,3 +298,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 35 exact-source equipment-description records across Akantor, Gravios, and regional head-armor families.
 - Reduce the current over-width census to 23802 records.
+
+## 2026.09.13-preview.57 (experimental)
+
+- Reflow 24 exact-source equipment-description records across Espinas, Gypceros, and insulation families.
+- Reduce the current over-width census to 23778 records.

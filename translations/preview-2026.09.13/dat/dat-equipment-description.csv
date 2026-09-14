@@ -1536,8 +1536,8 @@ index,source,target
 1534,轟竜の俊敏さを強調した動き{j}やすい頭防具。{j}{c07}ＳＰ防具：白{/c},"Head armor that emphasizes the Tigrex's{j}agility, making movement easy.{j}{c07}SP Armor: White{/c}"
 1535,轟竜の俊敏さを強調した動き{j}やすい頭防具。{j}{c07}ＳＰ防具：紫{/c},"Head armor that emphasizes the Tigrex's{j}agility, making movement easy.{j}{c07}SP Armor: Purple{/c}"
 1536,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：黄{/c},Blademaster armor threatening prey.{j}Its hard shell threatens prey.{j}{c07}SP Armor: Yellow{/c}
-1537,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：緑{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: Green{/c}
-1538,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：白{/c},Head armor for Blademasters that uses its hard exterior to pose a threat{j}to prey.{j}{c07}SP Armor: White{/c}
+1537,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：緑{/c},Blademaster armor threatening prey.{j}Its hard shell poses a threat.{j}{c07}SP Armor: Green{/c}
+1538,堅硬な外見で獲物に脅威を{j}与える剣士用の頭防具。{j}{c07}ＳＰ防具：白{/c},Blademaster armor threatening prey.{j}Its hard shell poses a threat.{j}{c07}SP Armor: White{/c}
 1539,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Black{/c}
 1540,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：緑{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Green{/c}
 1541,どこか異様さの漂う頭用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：青{/c},Eerie head armor.{j}Flexible materials make it easy to move.{j}{c07}SP Armor: Blue{/c}
@@ -1574,11 +1574,11 @@ index,source,target
 1572,ある人の要望を受けて{j}開発された教官風の防具。{j}サイズが微妙である。,Instructor-style Armor developed at the{j}request of a certain person. The size is a{j}delicate matter.
 1573,ある人の要望を受けて{j}開発された教官風の防具。{j}威厳が高まり自信が増す。,Instructor-style Armor developed at the{j}request of a certain person. Its dignity{j}rises and confidence grows.
 1574,エスピナスの頭を模した{j}マスク。頭部をしっかり{j}守り、気絶しにくくなる。,A mask modeled after the Espinas's head.{j}It firmly protects the head and makes you{j}less likely to be stunned.
-1575,エスピナスの頭を模した{j}マスク。火属性攻撃に強い。,A{j}mask modeled after the Espinas's head. Strong against Fire-element attacks.
+1575,エスピナスの頭を模した{j}マスク。火属性攻撃に強い。,An Espinas head mask.{j}Strong against Fire attacks.
 1576,エスピナス亜種の頭を模した{j}マスク。環境に馴染み、毒に{j}強くなる。,A{j}Espinas Subspecies mask.{j}Blends in and resists poison.
-1577,エスピナス亜種の頭を模した{j}マスク。氷属性攻撃に強い。,A{j}mask modeled after the head of an Espinas Subspecies. Strong against Ice element attacks.
+1577,エスピナス亜種の頭を模した{j}マスク。氷属性攻撃に強い。,An Espinas Subspecies mask.{j}Strong against Ice attacks.
 1578,エスピナス希少種の頭を模し{j}たマスク。これをかぶると、{j}なぜか目がさえる。,A mask modeled after the head of the{j}Espinas Rare Species. Wearing it somehow{j}makes your eyes feel refreshed.
-1579,エスピナス希少種の頭を模し{j}たマスク。雷属性攻撃に強い。,A mask modeled after{j}the head of the Espinas Rare Species. Resistant to Thunder-element attacks.
+1579,エスピナス希少種の頭を模し{j}たマスク。雷属性攻撃に強い。,Espinas Rare Species mask.{j}Resistant to Thunder attacks.
 1580,氷狐竜の尾に特殊な加工を施す{j}ことで独特の弾力性を実現。{j}クールでスカした頭防具。,Applying special processing to an Ice Fox{j}Wyvern's tail achieves unique elasticity.{j}A cool and stylish head armor.
 1581,氷狐竜の尾に特殊な加工を施す{j}ことで独特の弾力性を実現。{j}クールでスカした頭防具。,Applying special processing to an Ice Fox{j}Wyvern's tail achieves unique elasticity.{j}A cool and stylish head armor.
 1582,蛮竜素材の頭防具。装備する{j}者の闘志を奮い立たせ、対峙{j}する者に鋭い威圧感を与える。,Head armor made from Berserk Dragon parts.{j}Rouses the wearer's fighting spirit and{j}sharply intimidates foes.
@@ -1678,22 +1678,22 @@ index,source,target
 1676,次世代狩猟用装備として開発{j}が行われ、一部のハンターに{j}先行支給された頭防具。,Development as next-generation hunting{j}gear led to this Head armor issued in{j}advance to select Hunters.
 1677,次世代狩猟用装備として開発{j}が行われ、一部のハンターに{j}先行支給された頭防具。,Development as next-generation hunting{j}gear led to this Head armor issued in{j}advance to select Hunters.
 1678,次世代狩猟用装備として開発{j}が行われ、一部のハンターに{j}先行支給された頭防具。,Development as next-generation hunting{j}gear led to this Head armor issued in{j}advance to select Hunters.
-1679,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1680,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1681,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1682,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1683,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1684,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1685,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1686,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor made from a sturdy composite material{j}that resists impact.
-1687,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1688,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1689,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1690,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1691,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1692,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1693,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
-1694,信頼性の高い断熱素材で{j}作られた頭防具。,Head armor{j}made from a highly reliable insulating material.
+1679,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1680,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1681,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1682,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1683,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1684,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1685,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1686,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Head armor of sturdy composite material.{j}Resists impact.
+1687,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1688,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1689,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1690,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1691,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1692,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1693,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
+1694,信頼性の高い断熱素材で{j}作られた頭防具。,Reliable insulated head armor.{j}Highly dependable insulation.
 1695,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Head armor developed with{j}a focus on the wearer's ease of movement.
 1696,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Head armor developed with{j}a focus on the wearer's ease of movement.
 1697,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Head armor developed with{j}a focus on the wearer's ease of movement.
@@ -1720,8 +1720,8 @@ index,source,target
 1718,ガノトトスの素材を使った{j}一体感抜群の頭防具。{j}{c07}ＳＰ防具：黒{/c},Head armor made from Plesioth materials.{j}An outstanding sense of unity.{j}{c07}SP Armor: Black{/c}
 1719,ガノトトスの素材を使った{j}一体感抜群の頭防具。{j}{c07}ＳＰ防具：黄{/c},Head armor made from Plesioth materials.{j}An outstanding sense of unity.{j}{c07}SP Armor: Yellow{/c}
 1720,ガノトトスの素材を使った{j}一体感抜群の頭防具。{j}{c07}ＳＰ防具：紫{/c},Head armor made from Plesioth materials.{j}An outstanding sense of unity.{j}{c07}SP Armor: Purple{/c}
-1721,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：赤{/c},"Head armor made from Gypceros materials.{j}The more it is used, the more character it gains.{j}{c07}SP Armor: Red{/c}"
-1722,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：黄{/c},"Head armor made from Gypceros materials.{j}The more it is used, the more character it gains.{j}{c07}SP Armor: Yellow{/c}"
+1721,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：赤{/c},Gypceros head armor.{j}It gains character with use.{j}{c07}SP Armor: Red{/c}
+1722,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：黄{/c},Gypceros head armor.{j}It gains character with use.{j}{c07}SP Armor: Yellow{/c}
 1723,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：緑{/c},Head armor made from Gypceros materials.{j}Gains character the more it is used.{j}{c07}SP Armor: Green{/c}
 1724,狩人祭≪勝ち組≫の褒賞装備。{j}≪褒賞祭≫の期間が過ぎると{j}性能が悲しくなるほど劣化。,"Hunter Festival winners' reward gear.{j}After the Reward Festival ends,{j}its performance drops pitifully."
 1725,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,"Ruined Hunter's Festival reward gear, its{j}power degraded. Now worthless. Win it{j}again at the festival!"
@@ -1969,7 +1969,7 @@ index,source,target
 1967,食事もせずに鍛錬を続け{j}己の腕に絶対の自信をつけた{j}剣の達人愛用の防具。,"Armor favored by a master swordsman who{j}trained without even eating, gaining{j}absolute confidence in their skill."
 1968,一撃で射抜くことをひたすら{j}追い求めた歴戦のガンナーが{j}愛用したという防具。,Armor said to have been favored by a{j}veteran Gunner who single-mindedly sought{j}the one-shot kill.
 1969,一撃で射抜くことをひたすら{j}追い求めた歴戦のガンナーが{j}愛用したという防具。,Armor said to have been favored by a{j}veteran Gunner who single-mindedly sought{j}the one-shot kill.
-1970,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：赤{/c},Head armor that expresses the supple Hyujikiki aura{j}just as it is.{j}{c07}SP Armor: Red{/c}
+1970,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：赤{/c},Head armor of supple Hyujikiki aura.{j}As supple as the aura itself.{j}{c07}SP Armor: Red{/c}
 1971,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：黒{/c},Head armor that expresses the supple Hyujikiki aura{j}just as it is.{j}{c07}SP Armor: Black{/c}
 1972,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}ＳＰ防具：紫{/c},Head armor that expresses the supple Hyujikiki aura{j}just as it is.{j}{c07}SP Armor: Purple{/c}
 1973,不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}ＳＰ防具：赤{/c},"Head armor made using{j}Howling Wolf materials, said to grant mysterious power.{j}{c07}SP Armor: Red{/c}"
