@@ -368,3 +368,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 76 source-reviewed concise reflows for repeated fighting-spirit, ceremonial, Bird Wyvern, and Fanged Beast descriptions.
 - Reduce the visible over-width census to 4943 records.
+
+## 2026.09.13-preview.71 (experimental)
+
+- Add 96 source-reviewed concise reflows for Felyne, ceremonial, Black Piercing Dragon, and smith armor descriptions.
+- Reduce the visible over-width census to 4847 records.
