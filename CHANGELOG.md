@@ -333,3 +333,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Reflow 4917 additional equipment-description records using visible text width while retaining wording and color controls.
 - 5506 records remain pending because they exceed the available three slots or need malformed-control/source review.
+
+## 2026.09.13-preview.64 (experimental)
+
+- Add 30 source-reviewed concise reflows for repeated head-armor description patterns.
+- Reduce the visible over-width census to 5476 records.
