@@ -378,3 +378,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 218 source-reviewed concise reflows for state-of-the-art, dancer, Felyne, and Hunter-training armor descriptions.
 - Reduce the visible over-width census to 4629 records.
+
+## 2026.09.13-preview.73 (experimental)
+
+- Add 76 source-reviewed concise reflows for ceremonial, workshop, and arena armor descriptions.
+- Reduce the visible over-width census to 4553 records.

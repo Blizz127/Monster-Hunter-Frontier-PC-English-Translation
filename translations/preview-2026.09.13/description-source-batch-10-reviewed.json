@@ -1,0 +1,695 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6748,
+      "source": "メゼポルタで流行の頭用礼服。{j}さまざまな儀式等で使用され{j}る。{c11}≪狩護防具≫{/c}",
+      "previous": "A formal dress for the head, popular in Mezepolta.{j}It is used{j}in various ceremonies and other such events.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Ceremonial head dress.{j}Popular in Mezepolta.{j}For formal events.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6749,
+      "source": "メゼポルタで流行の頭用礼服。{j}さまざまな儀式等で使用され{j}る。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A formal dress for the head, popular in Mezepolta.{j}It is used{j}in various ceremonies and other such events.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Ceremonial head dress.{j}Popular in Mezepolta.{j}For formal events.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6750,
+      "source": "メゼポルタで流行の頭用礼服。{j}さまざまな儀式等で使用され{j}る。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A formal dress for the head, popular in Mezepolta.{j}It is used{j}in various ceremonies and other such events.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Ceremonial head dress.{j}Popular in Mezepolta.{j}For formal events.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6772,
+      "source": "素材を活かしつつ新技術に{j}挑戦した野心作の頭装備。{j}{c11}≪狩護防具≫{/c}",
+      "previous": "A head piece born of an ambitious attempt to{j}challenge new techniques while making full use of its materials.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Ambitious headpiece.{j}New techniques showcase its materials.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6775,
+      "source": "素材を活かしつつ新技術に{j}挑戦した野心作の頭装備。{j}{c11}≪狩護防具≫{/c}",
+      "previous": "A head piece born of an ambitious attempt to{j}challenge new techniques while making full use of its materials.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Ambitious headpiece.{j}New techniques showcase its materials.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6773,
+      "source": "素材を活かしつつ新技術に{j}挑戦した野心作の頭装備。{j}{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A head piece born of an ambitious attempt to{j}challenge new techniques while making full use of its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Ambitious headpiece.{j}New techniques showcase its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6774,
+      "source": "素材を活かしつつ新技術に{j}挑戦した野心作の頭装備。{j}{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A head piece born of an ambitious attempt to{j}challenge new techniques while making full use of its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Ambitious headpiece.{j}New techniques showcase its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6776,
+      "source": "素材を活かしつつ新技術に{j}挑戦した野心作の頭装備。{j}{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A head piece born of an ambitious attempt to{j}challenge new techniques while making full use of its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Ambitious headpiece.{j}New techniques showcase its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6777,
+      "source": "素材を活かしつつ新技術に{j}挑戦した野心作の頭装備。{j}{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A head piece born of an ambitious attempt to{j}challenge new techniques while making full use of its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Ambitious headpiece.{j}New techniques showcase its materials.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6885,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6891,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20788,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20794,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34243,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34249,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47849,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47855,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61403,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61409,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6886,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6887,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6892,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6893,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20789,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20790,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20795,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20796,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34244,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34245,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34250,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 34251,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47850,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47851,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47856,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 47857,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61404,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61405,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61410,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 61411,
+      "source": "百年の悲しみに包まれた大陸{j}より伝わる防具。天才騎士が{j}愛用していた。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor passed down from a continent{j}veiled in a hundred years of sorrow. A genius knight{j}was fond of wearing it.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Sorrow-veiled continent armor.{j}Worn by a genius knight.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6913,
+      "source": "暴れ狂う雷轟竜を素材とした{j}頭防具。蒼く輝く、その姿は{j}勇敢な戦士の証。{c02}≪Ｇ級覇種≫{/c}",
+      "previous": "{j}head armor crafted from the rampaging Thunderclap Wyvern. Glowing blue, it is{j}proof of a brave warrior.{c02}≪G-Rank Supremacy≫{/c}",
+      "target": "Thunderclap Wyvern helm.{j}Glowing blue; proof of a brave warrior.{j}{c02}≪G-Rank Supremacy≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6946,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪烈種防具≫{/c}",
+      "previous": "Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Burst Armor≫{/c}",
+      "target": "Dyuragaua helm.{j}Feared as the Scarlet Mountain.{j}Ferocious aura.{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 6947,
+      "source": "緋色の山と恐れられた、弩岩竜{j}の巨力が宿る頭防具。猛々しい{j}風格が漂う。{c02}≪烈種防具≫{/c}",
+      "previous": "Head armor imbued with the mighty power of the Dyuragaua{j}, feared as the Scarlet Mountain. It gives off a ferocious{j}aura.{c02}≪Burst Armor≫{/c}",
+      "target": "Dyuragaua helm.{j}Feared as the Scarlet Mountain.{j}Ferocious aura.{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7109,
+      "source": "非常に丈夫な材質で作られた{j}壮麗な頭防具。軽い上に、{j}衝撃にも強い。{c11}≪狩護防具≫{/c}",
+      "previous": "Made from extremely durable material,{j}this magnificent Head Armor. Besides being light,{j}it is also impact-resistant.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Durable head armor.{j}Magnificent, light, impact-resistant.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7115,
+      "source": "非常に丈夫な材質で作られた{j}壮麗な頭防具。軽い上に、{j}衝撃にも強い。{c11}≪狩護防具≫{/c}",
+      "previous": "Made from extremely durable material,{j}this magnificent Head Armor. Besides being light,{j}it is also impact-resistant.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Durable head armor.{j}Magnificent, light, impact-resistant.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7110,
+      "source": "非常に丈夫な材質で作られた{j}壮麗な頭防具。軽い上に、{j}衝撃にも強い。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Made from extremely durable material,{j}this magnificent Head Armor. Besides being light,{j}it is also impact-resistant.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Durable head armor.{j}Magnificent, light, impact-resistant.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7111,
+      "source": "非常に丈夫な材質で作られた{j}壮麗な頭防具。軽い上に、{j}衝撃にも強い。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Made from extremely durable material,{j}this magnificent Head Armor. Besides being light,{j}it is also impact-resistant.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Durable head armor.{j}Magnificent, light, impact-resistant.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7116,
+      "source": "非常に丈夫な材質で作られた{j}壮麗な頭防具。軽い上に、{j}衝撃にも強い。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Made from extremely durable material,{j}this magnificent Head Armor. Besides being light,{j}it is also impact-resistant.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Durable head armor.{j}Magnificent, light, impact-resistant.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7117,
+      "source": "非常に丈夫な材質で作られた{j}壮麗な頭防具。軽い上に、{j}衝撃にも強い。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Made from extremely durable material,{j}this magnificent Head Armor. Besides being light,{j}it is also impact-resistant.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Durable head armor.{j}Magnificent, light, impact-resistant.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7260,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7261,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7264,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7265,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7268,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7269,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7272,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7273,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7276,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7277,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7280,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7281,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7284,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7285,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7288,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7289,
+      "source": "闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}頭防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Monster released into the arena{j}For competitive matches where slay times are compared.{j}Head Armor.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Arena head armor.{j}For competitive matches.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7290,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7293,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7296,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7299,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪狩護防具≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7291,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7292,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7294,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7295,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7297,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7298,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7300,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 7301,
+      "source": "異質な素材を組合わせて制作{j}した頭防具。製法を工夫し、性{j}能が向上した。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Head armor{j}crafted by combining unusual materials. Improved crafting methods raised its{j}performance.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Unusual-material head armor.{j}Improved methods boost performance.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-10"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
