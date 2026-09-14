@@ -373,3 +373,8 @@ checked in-game; other dialogue branches and all server quests were not.
 
 - Add 96 source-reviewed concise reflows for Felyne, ceremonial, Black Piercing Dragon, and smith armor descriptions.
 - Reduce the visible over-width census to 4847 records.
+
+## 2026.09.13-preview.72 (experimental)
+
+- Add 218 source-reviewed concise reflows for state-of-the-art, dancer, Felyne, and Hunter-training armor descriptions.
+- Reduce the visible over-width census to 4629 records.
