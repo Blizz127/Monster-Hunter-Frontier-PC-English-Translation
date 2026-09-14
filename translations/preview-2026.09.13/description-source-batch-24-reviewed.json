@@ -1,0 +1,506 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17477,
+      "source": "晶竜の素材が多く使用された{j}強固な胴防具。その意外な軽さ{j}に驚くだろう。{c11}≪狩護防具≫{/c}",
+      "previous": "Made with many Crystal Dragon materials,{j}this sturdy Body Armor. You will be surprised by its unexpected lightness{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Crystal Dragon body armor.{j}Sturdy yet surprisingly light.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17478,
+      "source": "晶竜の素材が多く使用された{j}強固な胴防具。その意外な軽さ{j}に驚くだろう。{c11}≪狩護防具≫{/c}",
+      "previous": "Made with many Crystal Dragon materials,{j}this sturdy Body Armor. You will be surprised by its unexpected lightness{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Crystal Dragon body armor.{j}Sturdy yet surprisingly light.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17543,
+      "source": "異世界の武者が使用していた{j}胴防具。鋭い斬撃を繰り出す{j}技が身につく。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. Lets you learn the{j}art of unleashing sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17553,
+      "source": "異世界の武者が使用していた{j}胴防具。鋭い斬撃を繰り出す{j}技が身につく。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. Lets you learn the{j}art of unleashing sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17563,
+      "source": "異世界の武者が使用していた{j}胴防具。鋭い斬撃を繰り出す{j}技が身につく。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. Lets you learn the{j}art of unleashing sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17573,
+      "source": "異世界の武者が使用していた{j}胴防具。鋭い斬撃を繰り出す{j}技が身につく。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. Lets you learn the{j}art of unleashing sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17626,
+      "source": "異世界の武者が使用していた{j}胴防具。鋭い斬撃を繰り出す{j}技が身につく。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. Lets you learn the{j}art of unleashing sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Sharp slashes.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17583,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17593,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17603,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17613,
+      "source": "異世界の娘が使用していた{j}胴防具。身軽で、俊敏な行動{j}がとれる。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor once worn by a girl from another world. Lightweight and agile, allowing nimble{j}movement.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly girl body armor.{j}Light and agile.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17630,
+      "source": "異世界の武者が使用していた{j}胴防具。特殊な構えから射撃{j}を行ったという。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. He is said to have fired accurate shots{j}from a special stance.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Precise shots.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17646,
+      "source": "異世界の武者が使用していた{j}胴防具。特殊な構えから射撃{j}を行ったという。{c11}≪ＨＣ防具≫{/c}",
+      "previous": "{j}Body Armor once worn by a warrior from another world. He is said to have fired accurate shots{j}from a special stance.{c11}≪HC Armor≫{/c}",
+      "target": "{j}Otherworldly warrior body armor.{j}Precise shots.{c11}≪HC Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17832,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪剛種防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Gou Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17835,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪剛種防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Gou Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Gou Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17833,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪天嵐防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Tenran Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17836,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪天嵐防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Tenran Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Tenran Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17834,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪覇種防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17837,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪覇種防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Supremacy Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Supremacy Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17956,
+      "source": "質感や光沢にまで拘りぬいた{j}親方の趣味の極み。勇気が{j}湧いてくる。{c11}≪狩護防具≫{/c}",
+      "previous": "The ultimate hobby of Master{j}, who was particular about even texture and luster. Courage{j}wells up within me.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Master’s ultimate texture hobby.{j}It fills me with courage.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17958,
+      "source": "質感や光沢にまで拘りぬいた{j}親方の趣味の極み。勇気が{j}湧いてくる。{c11}≪狩護防具≫{/c}",
+      "previous": "The ultimate hobby of Master{j}, who was particular about even texture and luster. Courage{j}wells up within me.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Master’s ultimate texture hobby.{j}It fills me with courage.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17957,
+      "source": "質感や光沢にまで拘りぬいた{j}親方の趣味の極み。勇気が{j}湧いてくる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The ultimate hobby of Master{j}, who was particular about even texture and luster. Courage{j}wells up within me.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Master’s ultimate texture hobby.{j}It fills me with courage.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 17959,
+      "source": "質感や光沢にまで拘りぬいた{j}親方の趣味の極み。勇気が{j}湧いてくる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The ultimate hobby of Master{j}, who was particular about even texture and luster. Courage{j}wells up within me.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Master’s ultimate texture hobby.{j}It fills me with courage.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21977,
+      "source": "質感や光沢にまで拘りぬいた{j}親方の趣味の極み。勇気が{j}湧いてくる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The ultimate hobby of Master{j}, who was particular about even texture and luster. Courage{j}wells up within me.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Master’s ultimate texture hobby.{j}It fills me with courage.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 21978,
+      "source": "質感や光沢にまで拘りぬいた{j}親方の趣味の極み。勇気が{j}湧いてくる。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "The ultimate hobby of Master{j}, who was particular about even texture and luster. Courage{j}wells up within me.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Master’s ultimate texture hobby.{j}It fills me with courage.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18018,
+      "source": "異世界の、赤き若武者が使用{j}していたといわれる胴装備。{j}熱血！大噴火！！{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to have been{j}used by a young crimson warrior from another world.{j}Hot-blooded! Great eruption!!{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Otherworldly crimson warrior armor.{j}Hot-blooded! Great eruption!{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18024,
+      "source": "異世界の、赤き若武者が使用{j}していたといわれる胴装備。{j}熱血！大噴火！！{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor said to have been{j}used by a young crimson warrior from another world.{j}Hot-blooded! Great eruption!!{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Otherworldly crimson warrior armor.{j}Hot-blooded! Great eruption!{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18019,
+      "source": "異世界の、赤き若武者が使用{j}していたといわれる胴装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}used by a young crimson warrior from another world.{j}Hot-blooded! Great eruption!!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly crimson warrior armor.{j}Hot-blooded! Great eruption!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18025,
+      "source": "異世界の、赤き若武者が使用{j}していたといわれる胴装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}used by a young crimson warrior from another world.{j}Hot-blooded! Great eruption!!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly crimson warrior armor.{j}Hot-blooded! Great eruption!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19947,
+      "source": "異世界の、赤き若武者が使用{j}していたといわれる胴装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}used by a young crimson warrior from another world.{j}Hot-blooded! Great eruption!!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly crimson warrior armor.{j}Hot-blooded! Great eruption!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19948,
+      "source": "異世界の、赤き若武者が使用{j}していたといわれる胴装備。{j}熱血！大噴火！！{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body armor said to have been{j}used by a young crimson warrior from another world.{j}Hot-blooded! Great eruption!!{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Otherworldly crimson warrior armor.{j}Hot-blooded! Great eruption!{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18090,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18096,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18102,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18108,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18114,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18120,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18126,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18132,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18091,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18097,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18103,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18109,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18115,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18121,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18127,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 18133,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19937,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19938,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19939,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19940,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19941,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19942,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19943,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 19944,
+      "source": "別世界の騎士王が、自らの魔力{j}で編んで纏う鎧の胴鎧を{j}模した防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Armor{j}modeled after the torso armor that a knight king from another world weaves and wears with his own magic{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Knight king magical torso armor.{j}Woven by the king himself.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-24"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
