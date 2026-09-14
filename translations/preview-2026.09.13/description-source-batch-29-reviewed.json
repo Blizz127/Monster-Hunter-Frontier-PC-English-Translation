@@ -1,0 +1,1019 @@
+{
+  "records": [
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20223,
+      "source": "喰血竜の素材を使った胴防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪烈種防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}Only those with a strong will to resist the craving{j}can wear it.{c02}≪Burst Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}Only strong wills resist its craving.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20224,
+      "source": "喰血竜の素材を使った胴防具。{j}渇望に耐える強い意志を持つ{j}者のみ着用可能。{c02}≪烈種防具≫{/c}",
+      "previous": "Body armor made using materials from the Blood-devouring Dragon.{j}Only those with a strong will to resist the craving{j}can wear it.{c02}≪Burst Armor≫{/c}",
+      "target": "Blood-Devouring Dragon body armor.{j}Only strong wills resist its craving.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20225,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪烈種防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Burst Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20226,
+      "source": "冥雷竜の力を宿した胴防具。{j}その装備者も、強大な力が{j}放てるという。{c02}≪烈種防具≫{/c}",
+      "previous": "Body Armor imbued with the power of Stygian Zinogre.{j}It is said that its wearer can also unleash{j}great power.{c02}≪Burst Armor≫{/c}",
+      "target": "Stygian Zinogre body armor.{j}Its wearer can unleash great power.{j}{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20227,
+      "source": "万雷を纏いし蒼白の衣。天を{j}切り裂く雷神があらゆる衝撃{j}から主を護る。{c02}≪烈種防具≫{/c}",
+      "previous": "Pale robes clad in a myriad of lightning. The thunder god that{j}cleaves the heavens shields its master{j}from all impacts.{c02}≪Burst Armor≫{/c}",
+      "target": "Pale robes wrapped in lightning.{j}The thunder god shields its master{j}from every impact.{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20228,
+      "source": "万雷を纏いし蒼白の衣。天を{j}切り裂く雷神があらゆる衝撃{j}から主を護る。{c02}≪烈種防具≫{/c}",
+      "previous": "Pale robes clad in a myriad of lightning. The thunder god that{j}cleaves the heavens shields its master{j}from all impacts.{c02}≪Burst Armor≫{/c}",
+      "target": "Pale robes wrapped in lightning.{j}The thunder god shields its master{j}from every impact.{c02}≪Burst Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20236,
+      "source": "口数が減り、やつれ果てた職{j}人が工房の一室に籠もって強{j}化した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}A craftsman of few words, worn to the bone, shut himself in a room{j}of the workshop to strengthen this body armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Silent craftsman in workshop.{j}He strengthened it.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20243,
+      "source": "口数が減り、やつれ果てた職{j}人が工房の一室に籠もって強{j}化した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}A craftsman of few words, worn to the bone, shut himself in a room{j}of the workshop to strengthen this body armor.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Silent craftsman in workshop.{j}He strengthened it.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20250,
+      "source": "理不尽な要求をこなし続けて{j}心に壁を作った職人が生み出{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}created by a craftsman who, worn down by endless unreasonable demands,{j}built a wall around his heart.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Craftsman-hardened armor.{j}Heart became a wall.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20257,
+      "source": "理不尽な要求をこなし続けて{j}心に壁を作った職人が生み出{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}created by a craftsman who, worn down by endless unreasonable demands,{j}built a wall around his heart.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Craftsman-hardened armor.{j}Heart became a wall.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25019,
+      "source": "理不尽な要求をこなし続けて{j}心に壁を作った職人が生み出{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}created by a craftsman who, worn down by endless unreasonable demands,{j}built a wall around his heart.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Craftsman-hardened armor.{j}Heart became a wall.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 25026,
+      "source": "理不尽な要求をこなし続けて{j}心に壁を作った職人が生み出{j}した胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "Body armor{j}created by a craftsman who, worn down by endless unreasonable demands,{j}built a wall around his heart.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor{j}Craftsman-hardened armor.{j}Heart became a wall.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20322,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20328,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20334,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20340,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20346,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20352,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20358,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20364,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪狩護防具≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20323,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20324,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20329,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20330,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20335,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20336,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20341,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20342,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20347,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20348,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20353,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20354,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20359,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20360,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20365,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20366,
+      "source": "渡来した旅人が着用していた{j}服装を参考に、更なる改良を{j}加えた胴防具。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "New-standard Body armor, modeled after the{j}clothing worn by a visiting traveler and further improved with{j}.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "New-standard traveler body armor.{j}Further improved with care.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20419,
+      "source": "大猟を祈願して舞う踊り子の{j}衣装を加工した優雅な胴防具。{j}軽くて暖かい。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Elegant body armor made from the{j}costume of a dancer who dances to pray for a great hunt.{j}Light and warm.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant dancer costume armor.{j}Made for prayers of a great hunt.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20420,
+      "source": "大猟を祈願して舞う踊り子の{j}衣装を加工した優雅な胴防具。{j}軽くて暖かい。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Elegant body armor made from the{j}costume of a dancer who dances to pray for a great hunt.{j}Light and warm.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant dancer costume armor.{j}Made for prayers of a great hunt.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20425,
+      "source": "大猟を祈願して舞う踊り子の{j}衣装を加工した優雅な胴防具。{j}軽くて暖かい。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Elegant body armor made from the{j}costume of a dancer who dances to pray for a great hunt.{j}Light and warm.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant dancer costume armor.{j}Made for prayers of a great hunt.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20426,
+      "source": "大猟を祈願して舞う踊り子の{j}衣装を加工した優雅な胴防具。{j}軽くて暖かい。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Elegant body armor made from the{j}costume of a dancer who dances to pray for a great hunt.{j}Light and warm.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Elegant dancer costume armor.{j}Made for prayers of a great hunt.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20428,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20432,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20436,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20440,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20444,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20448,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20452,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20456,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪狩護防具≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20429,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20430,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20433,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20434,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20437,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20438,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20441,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20442,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20445,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20446,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20449,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20450,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20453,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20454,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20457,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20458,
+      "source": "古来より伝わる製法を用いた{j}胴防具。素材や装飾等を忠実{j}に再現。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "A{j}Body Armor made using a crafting method handed down from ancient times. It faithfully{j}reproduces materials, decorations, and other details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "A{j}Body armor made with ancient methods.{j}All details.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20531,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20534,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20537,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20540,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20543,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20546,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20549,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20552,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪狩護防具≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20532,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20533,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20535,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20536,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20538,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20539,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20541,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20542,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20544,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20545,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20547,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20548,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20550,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20551,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20553,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20554,
+      "source": "狩人になるための特別訓練を{j}受けた者の胴防具。連携を重{j}要視している。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "Body Armor for those who have{j}undergone the special training to become a Hunter. Places great{j}importance on cooperation.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Body armor for specially trained hunters.{j}Built for teamwork and cooperation.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20557,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20558,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20561,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20562,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20565,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20566,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20569,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20570,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20573,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20574,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20577,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20578,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20581,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20582,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20585,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20586,
+      "source": "異国の組織で採用されている{j}胴防具にハンター向けの改造{j}を施した物。{c11}≪Ｇ級狩護≫{/c}",
+      "previous": "An item made by applying Hunter-oriented modifications{j}to{j}body armor used by a foreign organization.{c11}≪G-Rank Hunting Guard≫{/c}",
+      "target": "Hunter-modified body armor{j}from a foreign organization.{j}{c11}≪G-Rank Hunting Guard≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20628,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20632,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20636,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20640,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20644,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20648,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20652,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    },
+    {
+      "file": "dat-equipment-description.csv",
+      "index": 20656,
+      "source": "武具工房の作業着を改良した{j}胴防具。親方の愛と魂で火傷{j}しそう。{c11}≪狩護防具≫{/c}",
+      "previous": "{j}Body armor improved from the Weapon/Armor Workshop's work clothes. It looks like it could burn{j}you with the master's love and soul.{c11}≪Hunting Guard Armor≫{/c}",
+      "target": "{j}Body armor improved from workshop clothes.{j}Master’s soul burns.{c11}≪Hunting Guard Armor≫{/c}",
+      "width": 42,
+      "family": "source-batch-29"
+    }
+  ],
+  "configs": {
+    "dat-equipment-description.csv": {
+      "offset": 120,
+      "stride": 4
+    }
+  },
+  "scope": "Source-reviewed concise rephrasing for repeated armor description patterns."
+}
